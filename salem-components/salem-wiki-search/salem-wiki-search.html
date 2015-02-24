@@ -1,0 +1,104 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+
+<polymer-element name="salem-wiki-search" attributes="class" >
+  <template>
+    
+     <style>
+        :host {
+          display: block;
+          position: relative;
+          background-color: white;
+          padding-left: 5px;
+          padding-right: 5px;
+        }
+        .salem-wiki-results {
+          list-style: none;
+          margin: 0;
+          padding: 0;
+          border: none;
+          cursor: pointer;
+        }
+        .salem-wiki-results li {
+          padding-top: 2px;
+          padding-bottom: 2px;
+          cursor: hand;
+        }
+        
+        .salem-wiki-results li:hover {
+          background-color: #E8E8E8;
+        }
+        
+        #salem-wiki-search-query {
+          width: 100%
+        }
+        
+        
+    </style>
+    
+    <div class="salem-wiki-search">
+      <paper-input id="salem-wiki-search-query" label="Search salem-wiki" value="{{ sValue }}" on-keyup="{{ keypress }}" on-keydown="{{ keydown }}" class="{{ class }}" on-blur="{{ blur }}"></paper-input>
+      <template if="{{ open }}">
+        <ul class="salem-wiki-results" style="background-color: white;">
+          <template repeat="{{s in suggestions }}">
+            <li on-tap="{{ toInput }}">
+              {{ s }}
+            </li>
+          </template>
+        </ul>
+      </template>
+    </div>
+  </template>
+
+  <script>
+    Polymer('salem-wiki-search',{
+      open: false,
+      searchSuggestions: function(wordSearch) {
+        var url = 'http://www.salem-wiki.com/mediawiki/api.php?format=json&action=opensearch&search=',
+            wordList = [],
+            dataUrl,
+            that = this;
+  
+        dataUrl = url + wordSearch;
+      
+        if (wordSearch === '') {
+          this.suggestions = [];
+          return;
+        }
+
+        $.ajax({
+          type: 'GET',
+          crossDomain: true,
+          dataType: "jsonp",
+          url: dataUrl,
+          async: false,
+          success: function (responseData, textStatus, jqXHR) {
+            that.suggestions = responseData[1];
+          }
+        });
+      },
+      keypress: function(){
+        this.open = true;
+        this.searchSuggestions(this.sValue);
+      },
+      keydown: function(e, d, s) {
+        if (e.key == "Enter") {
+          this.blur();
+        }
+      },
+      toInput: function(event,detail,sender){
+        this.sValue = sender.innerHTML.trim();
+        this.open = false;
+      },
+      blur: function(){
+        var h = this;
+        window.setTimeout(function(){
+          h.open = false;
+          h.suggestions = [];
+          h.fire('titleSelected', {msg: h.sValue});
+        }, 100);
+      }
+    });
+
+  </script>
+</polymer-element>

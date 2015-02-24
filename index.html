@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+    <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
+   
+   <link rel="import" href="bower_components/font-roboto/roboto.html">
+   <link rel="import" href="bower_components/core-ajax/core-ajax.html">
+   <link rel="import" href="bower_components/paper-input/paper-input.html">
+   <link rel="import" href="salem-components/salem-wiki-search/salem-wiki-search.html">
+   <link rel="import" href="salem-components/salem-wiki-skill/salem-wiki-skill.html">
+  
+   <style>
+    html,body {
+     height: 100%;
+     margin: 0;
+     font-family: 'RobotoDraft', sans-serif;
+    }
+  </style>
+  
+  </head>
+  <body>
+    <salem-wiki-search></salem-wiki-search>
+    <salem-wiki-skill id="skill"></salem-wiki-skill>
+    
+    <script>
+     window.onload = function() {
+      document.querySelector('salem-wiki-search').addEventListener('titleSelected', function(e) {
+       document.getElementById('skill').wiki = e.detail.msg; 
+     })};
+    </script>
+  </body>
+</html>
