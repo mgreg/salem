@@ -1,0 +1,7 @@
+Foraged
+| Where found=Clay Pit
+| Weight=1.00 kg
+
+Crafted
+| Objects required=Dirt;1, Milk of Lime;1, Clay Trough;1
+| Weight=1.00 kg

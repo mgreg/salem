@@ -1,0 +1,21 @@
+Skill
+| Description=By learning and adopting the use of the three-field system you can increase the effectiveness of any influence increasing fertilizer.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=1800
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=1800
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=4700
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=

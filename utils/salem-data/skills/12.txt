@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Agriculture</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>10227</id>
+      <parentid>9923</parentid>
+      <timestamp>2014-11-23T01:19:50Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="4225">{{Skill
+| Description=Agriculture allows you to till fields and plant cereals.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=200
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=640
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Cabbage Growing, Cotton Planting, Maize Planting, Three-field System, Windmill Theory
+| Crafts unlocked=Wicker Man, John Barleycorn, Farmer's Hat, Concordat of Worms, The Wicked Wicker Man, Thresh Cereals, Cotton Planter's Pouch, Leather Planter's Pouch
+| Builds unlocked=Farmer's House, Till Field, Compost Bin, Haystack
+| Others unlocked=Ear of Cereal, Ear of Oats, Ear of Rye, Ear of Barley, Ear of Wheat, Wild Oats
+}}
+
+
+==In-Game Text==
+
+''&quot;The first farmer was the first man, and all historic nobility rests on possession and use of land.&quot;''
+
+''-Ralph Waldo Emerson, Society and Solitude''
+
+While many may undertake the journey to the New World in search of plunder and gold, many more come seeking simply that humbler gold which every summer stands tall in the fields in promise of a rich harvest.  Agriculture allows you to till fields and plant Cereals
+
+==About==
+[[Agriculture]] allows one to use the {{i|Till Field}} action under the {{i|Build}}.
+
+A [[Tilled Field]] is required to plant any [[#Seeds|seeds]].
+
+Agriculture also unlocks the ability to plant Cereal Seeds and Rip Up fields.  'Rip Up' removes the immature plants from a field and yields no return of seeds and no effect on the Influence bars; good for fixing mistakes of accidentally planting the wrong seed in a field.
+
+{{:Tilled Field|transcludesection=tilling}}
+
+{{top}}
+
+==Farming==
+Farming is accomplished by [[Tilled Field|tilling a field]], preparing it with [[Humus]], and then planting seeds. Once seeds are planted, you can then [[#fertilizer|fertilize]] the fields using various items. After a period of time, your crops grow and you can then harvest them. 
+
+Preparing the field for planting requires a base of 5 [[Humus]]. After the first planting, a field's upkeep can be improved (see Fertilizers below). Setting up the very first fields for a new character takes some forethought. Humus is slow to produce in a single [[Compost]] Bin, so it is recommended two or more are built to start. (Humus is a good fertilizer and a player will go through a lot of it once farming gets underway.)
+
+After the fields are prepared, the seeds can be planted. Each field requires an amount of seed depending on the crop planted; having improved upkeep on the field lowers the number of seeds needed. Cotton, Corn, and Cereal fields require 50 seeds; Cabbage requires 15 seeds.
+*[[Cabbage]], [[Ear of Cereal]]s, and [[Cotton]] seeds are available for sale in Boston. 
+*[[Pumpkin]] seeds can be obtained through [[Gardening]]. 
+*[[Corn]] Seeds were available from the Thanksgiving package (and can be gotten from other players).
+
+Once the seeds are planted, the fields can be fertilized at any time until the crops can be harvested. 
+* Note: avoid using +speed fertilizers late in the cycle. There is almost no return for getting a few extra percentage to the speed when there might only be a few hours left for the field to grow.
+
+Finally, when the crops are grown, they can be harvested; the harvest entry is added to the right-click menu for the field. Be careful, since some crops can be harvested at several stages:
+*[[pumpkin]]s  can be harvested at any time once they reach the first stage and return different products in each of three stages;
+* also, corn has two harvesting stages: baby corn first, then full ears of corn.
+* Cereal Fields yield one [[Ear of Cereal]] per 50 points of Plenty, rounded up. The Ears of Cereal yield one seed per point of Plenty when threshed, or 0.01kg of [[Flour]] when milled.
+* Cotton Fields yield one [[Raw Cotton]] per 20 points of Plenty, rounded up. Each Raw Cotton can be cleaned to produce [[Cotton]]. Each Raw Cotton will yield one seed per two points of Plenty.
+
+
+
+{{top}}
+{{:Agriculture/Crop Growth and Rotation}}
+
+&lt;div id=&quot;fertilizer&quot;&gt;&lt;/div&gt;
+{{:Agriculture/Fertilizers &amp; Field Values}}
+
+{{:Agriculture/Seeds}}</text>
+      <sha1>qoyh5u9dsjlyz7u6r2d3u3v8zar69jq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

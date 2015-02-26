@@ -1,0 +1,3 @@
+Crafted | Objects required=Deer;1, Raw Venison Steak;1 
+Crafted
+| Objects required=Deer;1, Raw Venison Steak;1

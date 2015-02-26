@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Ear of Oats;1, Ear of Barley;1, Ear of Rye;1, Ear of Wheat;1
+
+Inspirational
+| Arts &amp; Crafts=853
+| Cloak &amp; Dagger=1104
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=903
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1204
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1706
+| Stocks &amp; Cultivars=2008
+| Sugar &amp; Spice=
+| Thread &amp; Needle=1605
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1

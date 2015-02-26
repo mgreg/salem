@@ -1,0 +1,3 @@
+Crafted | Objects required=Bucket of Water;1, Brain;1 
+Crafted
+| Objects required=Bucket of Water;1, Brain;1

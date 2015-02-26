@@ -1,0 +1,30 @@
+Skill
+| Description=Agriculture allows you to till fields and plant cereals.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=200
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=640
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Cabbage Growing, Cotton Planting, Maize Planting, Three-field System, Windmill Theory
+| Crafts unlocked=Wicker Man, John Barleycorn, Farmer's Hat, Concordat of Worms, The Wicked Wicker Man, Thresh Cereals, Cotton Planter's Pouch, Leather Planter's Pouch
+| Builds unlocked=Farmer's House, Till Field, Compost Bin, Haystack
+| Others unlocked=Ear of Cereal, Ear of Oats, Ear of Rye, Ear of Barley, Ear of Wheat, Wild Oats
+
+i|Till Field
+i|Build
+:Tilled Field|transcludesection=tilling
+top
+top
+:Agriculture/Crop Growth and Rotation
+:Agriculture/Fertilizers &amp; Field Values
+:Agriculture/Seeds

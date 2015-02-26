@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Leather;2, Yellow-Stained Cotton Cloth;1
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=2

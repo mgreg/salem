@@ -1,0 +1,21 @@
+Skill
+| Description=Carpentry allows you to construct sawbucks and to use them to make boards.
+| Arts &amp; Crafts=600
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1375
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Pulleys &amp; Levers, Joinery &amp; Finish, Humble Abodes, Rustic Furniture, Simple Fences
+| Crafts unlocked=Bucket, Crown of Thorns, Stone Saw
+| Builds unlocked=Barrel, Pilgrim's Hovel, Sturdy Sled, Sawbuck, Torchpost, Wooden Box, Wooden Sign,
+| Others unlocked=Coffin Plank, Board, Fresh Board

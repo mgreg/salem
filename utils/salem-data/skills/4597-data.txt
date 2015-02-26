@@ -1,0 +1,22 @@
+Skill | Description=The gift of glass, a luxury for those who can afford it and a skill unsurpassed for those artisans who have learned to warp the substance to fit any numb...&quot;</comment>
+      <text xml:space="preserve" bytes="855">{{Skill
+| Description=The gift of glass, a luxury for those who can afford it and a skill unsurpassed for those artisans who have learned to warp the substance to fit any number of necessities. Glass Blowing teaches the basics of melting silicate into glass and then manipulating it into more functional shapes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1925
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=1800
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Glass Pane, Silicate Compound
+| Builds unlocked=
+| Others unlocked=

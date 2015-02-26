@@ -1,0 +1,21 @@
+Skill
+| Description=Fencing allows you to wield Swords and Rapiers.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=4500
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=2500
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1500
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Firearms
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=Thrust, En Garde!, Parry

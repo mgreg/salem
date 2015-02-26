@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ceramics &amp; Crucibles</title>
+    <ns>0</ns>
+    <id>3187</id>
+    <revision>
+      <id>11045</id>
+      <parentid>10206</parentid>
+      <timestamp>2015-01-22T04:10:58Z</timestamp>
+      <contributor>
+        <username>Falcon</username>
+        <id>12</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1213">{{Skill
+| Description=Ceramics &amp; Crucibles allows you to create crucibles, from which glass bottles can be blown from panes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1475
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=1300
+| Perennial Philosophy=
+| Skills unlocked=Alchemy
+| Crafts unlocked=Glass Bottle, Gold Bar, Glass Jar, Glass Buttons
+| Builds unlocked=Crucible
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;The clay holds the blow-pipe when it is put into the furnace, whereas the shield preserves the eyes of the glass-maker from the fire.  All this having been carried out in order, the glass-makers bring the work to completion.&quot;''
+
+''- Georgius Agricola, de Re Metallica
+
+Having mastered the most primature arts of clay and iron, the intrepid student and aspiring alchemis may then proceed further on, in developing a more expanded understanding of the solidified juices, by mastering the arts of Ceramics &amp; Crucibles. Ceramics &amp; Crucibles allows you to create crucibles, by which glass bottles can be blown from panes.
+
+==About==</text>
+      <sha1>f1mezwmq82au09w476ai3hfcdz0wc79</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

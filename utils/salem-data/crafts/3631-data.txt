@@ -1,0 +1,19 @@
+Crafted
+| Objects required=Turkey Neck;1, Drying Frame;1
+| Weight=.1 kg 
+
+Food
+| Heals=12,24,12,24
+| Uses=7
+| Min Blood=3 | Max Blood=6
+| Min Phlegm=3 | Max Phlegm=6
+| Min Yellow Bile=3 | Max Yellow Bile=6
+| Min Black Bile=3 | Max Black Bile=6
+| Gluttony Time=0:02
+| Food Groups=Poultry 
+| FoodReduce1=Poultry | %Reduce1=5 | %ChanceReduce1=5
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

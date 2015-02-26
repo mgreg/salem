@@ -1,0 +1,20 @@
+Crafted |Objects required=Candy Basket;1 
+SpecialFood | Heals=7,7,7,7 | Uses=1 | Min Blood=5 | Max Blood=5 | Min Phlegm=5 | Max Phlegm=5 | Min Yellow Bile=5 | Max Yellow...&quot;</comment>
+      <text xml:space="preserve" bytes="818">{{Crafted
+|Objects required=Candy Basket;1
+
+SpecialFood
+| Heals=7,7,7,7
+| Uses=1
+| Min Blood=5 | Max Blood=5
+| Min Phlegm=5 | Max Phlegm=5
+| Min Yellow Bile=5 | Max Yellow Bile=5
+| Min Black Bile=5 | Max Black Bile=5
+| Gluttony Time=1:00
+| Food Groups=Vegetables and Greens
+| FoodReduce1= | %Reduce1= | %ChanceReduce1=
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1=Vegetables and Greens |%Restore1=50 |%ChanceRestore1=50
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

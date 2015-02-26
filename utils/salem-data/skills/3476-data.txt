@@ -1,0 +1,21 @@
+Skill
+| Description=Fried foods allows for the use of a frying pan and teaches several new recipes.
+| Arts &amp; Crafts=400
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1300
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=1400
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Pemmican, French Toast, Crusted Crawdad, Fried Blewit, Johnnycake, Fried Frog Legs, Popcorn, Fried Oysters
+| Builds unlocked=
+| Others unlocked=

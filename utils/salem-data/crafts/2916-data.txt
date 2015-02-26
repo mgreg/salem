@@ -1,0 +1,23 @@
+Crafted
+| Objects required=Bone;2, Wooden Plugs;1
+
+Artifact
+| Difficulty=20 to 5
+| Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=3
+| Blunt Defense=
+| Impact Power=7
+| Impact Defense=
+| Piercing Power=3
+| Piercing Defense=
+| Feral Defense=3
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=
+| Slots=

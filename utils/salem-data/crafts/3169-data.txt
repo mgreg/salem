@@ -1,0 +1,6 @@
+Crafted
+| Objects required=
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=3

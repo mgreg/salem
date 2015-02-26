@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Glass Pane;3, Oiled Board;2

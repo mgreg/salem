@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Quarrying</title>
+    <ns>0</ns>
+    <id>1666</id>
+    <revision>
+      <id>8198</id>
+      <parentid>7794</parentid>
+      <timestamp>2014-09-24T00:39:14Z</timestamp>
+      <contributor>
+        <username>Tylan</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1191">{{Skill
+| Description=Quarrying allows you to hew boulders from the mountainous regions of the world for use in many building projects.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=675
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=1275
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=300
+| Perennial Philosophy=
+| Skills unlocked=Granite Excavation
+| Crafts unlocked=Cliffside
+| Builds unlocked=Stone Hedge, Plank Fence
+| Others unlocked=Stone Boulder, Lime Boulder
+}}
+
+==In-Game Text==
+
+''&quot;All the performances of human art, at which we look with praise or wonder, are instances of the resistless force of perseverance: it is by this that the quarry becomes a pyramid...&quot;
+
+''-Samuel Johnson, The Rambler
+
+No more a solid foundation for a church or a manor is in the New World to be found than that of stone.  Quarrying allows you to hew boulders from the mountainous regions of the world for us in many building projects.
+
+==About==
+
+Grants the ability to dig on mountain tiles. Digging on mountain terrain produces boulders.
+Can also be used to dig up lime boulders.</text>
+      <sha1>1jbjic419wy0wiw0iorie5idlmnunz9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

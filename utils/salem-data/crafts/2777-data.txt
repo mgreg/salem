@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Bear Paw;2
+
+Clothing
+| Equipment Slot=Feet
+| Artificer Slots=4

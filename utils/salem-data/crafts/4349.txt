@@ -1,0 +1,59 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Yellow Tea</title>
+    <ns>0</ns>
+    <id>4349</id>
+    <revision>
+      <id>10581</id>
+      <parentid>10432</parentid>
+      <timestamp>2015-01-03T07:56:30Z</timestamp>
+      <contributor>
+        <username>Falcon</username>
+        <id>12</id>
+      </contributor>
+      <text xml:space="preserve" bytes="884">{{Crafted 
+| Objects required=Yellow Tea Leaves;1, Bucket of Water;1, Copper Pot;1, Clay Pot;1, Fire;1
+}}
+|}
+
+==About==
+
+Making Yellow Tea is a bit tricky.  Buy Tea Leaves in [[Providence]] and place them on a Drying Frame to dry.  After a short time, they will become [[Yellow Tea Leaves]], but their timer will restart, and they will still look 'wet' from the world view.  If left on the drying frame too long, they become [[Black Tea Leaves]], so they must be watched.  Remove them from the drying frame and place them in an otherwise empty pot full of water.  The 10L of water will become 9.5L of Yellow Tea.  
+
+When poured into a [[Bark Cup]] or [[Flask]] and equipped in the left hand, the tea can be sipped to acquire a Yellow Bile regen buff that lasts for several minutes.  The buff can be increased with more sips.  Each sip will add 10 to the [[Quaffed &amp; Quenched]] debuff.</text>
+      <sha1>pfencbtjgt4bywlm3gnbtkeb9rhn2dc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

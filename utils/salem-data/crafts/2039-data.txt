@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Dried Beaver Pelt;3, Plant Fibre;2
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=2

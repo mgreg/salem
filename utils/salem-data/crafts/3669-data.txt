@@ -1,0 +1,3 @@
+Crafted | Objects required=Pie Dough;1, Any Raw Meat Cut;2, Baking Table;1 
+Crafted
+| Objects required=Pie Dough;1, Any Raw Meat Cut;2, Baking Table;1

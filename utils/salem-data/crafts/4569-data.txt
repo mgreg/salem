@@ -1,0 +1,7 @@
+Crafted
+| Objects required=Nice Child Present;1,
+| Weight=2.8 kg
+
+Clothing
+| Equipment Slot=Coat
+| Artificer Slots=4

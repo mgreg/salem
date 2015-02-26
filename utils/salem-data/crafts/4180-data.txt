@@ -1,0 +1,22 @@
+Crafted
+| Objects required=Bloated Cocoon;1
+| Weight=.03 kg
+
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=1775
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=2635
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=2100
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1

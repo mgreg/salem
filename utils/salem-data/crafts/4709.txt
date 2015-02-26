@@ -1,0 +1,69 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>New England Dinner</title>
+    <ns>0</ns>
+    <id>4709</id>
+    <revision>
+      <id>11384</id>
+      <timestamp>2015-02-13T19:36:14Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <comment>Created page with &quot;{{Crafted | Objects required=Any Potato;2, Curious Potato;1, Raw Venison Steak;1, Leaf of Green Cabbage;2, Onion;.1L }} {{VariableFoodPotatoFoods | Heals=36,46,26,26 | Uses=1 ...&quot;</comment>
+      <text xml:space="preserve" bytes="651">{{Crafted
+| Objects required=Any Potato;2, Curious Potato;1, Raw Venison Steak;1, Leaf of Green Cabbage;2, Onion;.1L
+}}
+{{VariableFoodPotatoFoods
+| Heals=36,46,26,26
+| Uses=1
+| Min Blood= | Max Blood=
+| Min Phlegm= | Max Phlegm=
+| Min Yellow Bile= | Max Yellow Bile=
+| Min Black Bile= | Max Black Bile=
+| Gluttony Time=1:00
+| Food Groups=Potato Foods
+| FoodReduce1=Potato Foods| %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=
+}}
+==About==</text>
+      <sha1>lqlbk8m07vs48qe50zou8ufidvdd9t2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

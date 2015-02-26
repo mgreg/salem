@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Filet of any Fish;3, Tiger Trout;1, Leaf of White Cabbage;3, Fire;1
+
+VariableFoodFish
+| Heals=12.5,17,5,22.5,0
+| Uses=1
+| Min Blood=20 | Max Blood=30
+| Min Phlegm=20 | Max Phlegm=30
+| Min Yellow Bile=20 | Max Yellow Bile=30
+| Min Black Bile=20 | Max Black Bile=30
+| Gluttony Time=0:30
+| Food Groups=Fishes
+| FoodReduce1=Fishes | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

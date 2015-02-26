@@ -1,0 +1,21 @@
+Skill
+| Description=Smoked Meats allows for the smoking of various meats and items.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=4200
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=7700
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=8750
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Advanced Cooking
+| Crafts unlocked=Smoked Oyster, Smoked Rabbit Cut, Smoked Beaver Cut, Smoked Rattler Cut, Smoked Deer Cut, Smoked Bear Cut
+| Builds unlocked=Meatsmoker
+| Others unlocked=

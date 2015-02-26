@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Fine Leather;1, Cranberry;2, March Hare Tail;1
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=5

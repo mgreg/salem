@@ -1,0 +1,21 @@
+Skill
+| Description=Beaver Skinning allows you to skin Beavers.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=1750
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=3150
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=1200
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=Dried Beaver Pelt, Raw Beaver Pelt

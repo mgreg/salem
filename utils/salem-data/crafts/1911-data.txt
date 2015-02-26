@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Any Dried Hide;10
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=1

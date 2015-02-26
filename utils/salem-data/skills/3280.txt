@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cobbling</title>
+    <ns>0</ns>
+    <id>3280</id>
+    <revision>
+      <id>8139</id>
+      <parentid>7652</parentid>
+      <timestamp>2014-09-24T00:11:40Z</timestamp>
+      <contributor>
+        <username>Tylan</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1243">{{Skill
+| Description=Cobbling unlocks the ability to craft the finer footwear.
+| Arts &amp; Crafts=300
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=150
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=925
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Haberdashery
+| Crafts unlocked=Adventurer's Boots, Priestly Shoes, Redcoat's Boots, Snakeskin Boots, Pioneer's Shoes, Prospector's Boots, Shoes of Good Cheer, Adventurer's Shoes, Trapper Boots, Highlander's Shoes, Fisherman's Boots, Founding Father's Shoes
+| Builds unlocked=
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;I see thou hast good boots on, which are well blacked. &quot;said [the soldier] to the huntsmans; &quot;but if thou hadst to travel about as I have, they would not last long.  Look at mine, they are of buffalo-leather, and have been worn for a long time, but in them I can go through thick and thin.&quot;
+
+''-The Boots of Buffalo Leather, Traditional German Folk Tale
+
+If shoes tell a tale of where a man has been.  Then a Cobbler crafts the future of where a man may go.  Cobbling unlocks the ability to craft the finer footwear.
+
+==About==</text>
+      <sha1>g259h7d9yd7x869gi7yaqenjtkigd99</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

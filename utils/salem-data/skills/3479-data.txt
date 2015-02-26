@@ -1,0 +1,21 @@
+Skill
+| Description=Rustic Furniture allows the making of simple tables and chairs.
+| Arts &amp; Crafts=1200
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1550
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=700
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Sophisticated Furniture
+| Crafts unlocked=
+| Builds unlocked=Simple Chair, Simple Table
+| Others unlocked=

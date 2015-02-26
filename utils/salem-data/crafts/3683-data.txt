@@ -1,0 +1,3 @@
+Crafted | Objects required=Fire;1, Filet of any Fish;1 
+Crafted
+| Objects required=Fire;1, Filet of any Fish;1

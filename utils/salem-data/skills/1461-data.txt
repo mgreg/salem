@@ -1,0 +1,21 @@
+Skill
+| Description=Joinery &amp; Finish allows you to build a Carpenter's Bench and an Oiling Trough, to lay down timber Piles for drying, and to properly plane and level boards.
+| Arts &amp; Crafts=1600
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=2650
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Coffer Making, Sophisticated Furniture
+| Crafts unlocked=Planed Board, Dry Board, Warped Board, Oiled Board, Wood Knot, Game Board, Polished Buttons
+| Builds unlocked= Timber Pile, Oiling Trough, Carpenter's Bench, Plank Fence
+| Others unlocked=Plane Board, High Notes of Amber Resin

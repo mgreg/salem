@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Filet of any Fish;4, Raging Bullhead;1, Long-Whiskered Catfish;1, Virginia Snail;1
+
+VariableFoodFish
+| Heals=35,35,35,35
+| Uses=1
+| Min Blood=45 | Max Blood=75
+| Min Phlegm=45 | Max Phlegm=75
+| Min Yellow Bile=45 | Max Yellow Bile=75
+| Min Black Bile=45 | Max Black Bile=75
+| Gluttony Time=1:00
+| Food Groups= Fishes
+| FoodReduce1= Fishes | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

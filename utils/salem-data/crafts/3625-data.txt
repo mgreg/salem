@@ -1,0 +1,20 @@
+Crafted | Objects required=Wild Stuffed Turkey;1 
+SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 |...&quot;</comment>
+      <text xml:space="preserve" bytes="660">{{Crafted
+| Objects required=Wild Stuffed Turkey;1
+
+SpecialFood
+| Heals=7,17.5,7,7
+| Uses=1
+| Min Blood=0 | Max Blood=0
+| Min Phlegm=0 | Max Phlegm=0
+| Min Yellow Bile=0 | Max Yellow Bile=0
+| Min Black Bile=10 | Max Black Bile=15
+| Gluttony Time=0:06 
+| Food Groups= Poultry
+| FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

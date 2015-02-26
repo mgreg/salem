@@ -1,0 +1,24 @@
+Crafted
+| Objects required=Jackalope Antlers;1, Plant Fibre;1
+
+Artifact
+| Difficulty=25 to 10
+| Proficiency Type=Arts &amp; Crafts, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=10
+| Impact Power=
+| Impact Defense=5
+| Piercing Power=
+| Piercing Defense=5
+| Feral Defense=9
+| Criminality=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=
+| Slots=

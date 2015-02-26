@@ -1,0 +1,54 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+
+<polymer-element name="salem-search">
+  <template>
+    
+     <style>
+        :host {
+          display: block;
+          position: relative;
+          background-color: white;
+          padding-left: 5px;
+          padding-right: 5px;
+          width: 100%;
+        }
+        
+        .salem-search-query {
+          width: 100%
+        }
+        
+        
+    </style>
+    
+    <div class="salem-search">
+      <paper-input id="salem-search-query" label="Enter search query" value="{{ sValue }}" on-keyup="{{ keypress }}" on-keydown="{{ keydown }}" class="{{ class }}" on-blur="{{ blur }}"></paper-input>
+    </div>
+  </template>
+
+  <script>
+    Polymer('salem-search',{
+      index: null,
+      ready: function() {
+        this.index = lunr(function () {
+          this.field('title', {boost: 10})
+          this.field('data')
+          this.ref('id')
+        });
+        
+        for (var i = 0; i < crafts.length; i++) {
+          this.index.add(crafts[i]);
+        }
+      },
+      keypress: function() {
+        var res = []
+        if (this.sValue.length > 2) {
+          res = this.index.search(this.sValue);
+        }
+        
+        this.fire("search", {msg: res});
+      }
+    });
+
+  </script>
+</polymer-element>

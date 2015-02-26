@@ -1,0 +1,22 @@
+Skill | Description=Collector allows you an additional 5 kg of carry weight before becoming hindered by encumberance. | Arts &amp; Crafts=500 | Cloak &amp; Dagger= | Faith &amp; Wisdom=...&quot;</comment>
+      <text xml:space="preserve" bytes="854">{{Skill
+| Description=Collector allows you an additional 5 kg of carry weight before becoming hindered by encumberance.
+| Arts &amp; Crafts=500
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=500
+| Hammer &amp; Nail=500
+| Herbs &amp; Sprouts=500
+| Hunting &amp; Hideworking=500
+| Law &amp; Lore=500
+| Mines &amp; Mountains=500
+| Sparks &amp; Embers=500
+| Stocks &amp; Cultivars=500
+| Sugar &amp; Spice=500
+| Thread &amp; Needle=500
+| Natural Philosophy=500
+| Perennial Philosophy=
+| Skills unlocked=Packrat
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=

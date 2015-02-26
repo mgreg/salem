@@ -1,0 +1,23 @@
+Crafted
+| Objects required=Any Dried Hide;1, Plant Fibre;2
+
+Artifact
+| Difficulty=0 to 10
+| Proficiency Type=Herbs &amp; Sprouts, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=2
+| Impact Power=
+| Impact Defense=4
+| Piercing Power=
+| Piercing Defense=2
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=
+| Slots=

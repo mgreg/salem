@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Beaver;1, Raw Beaver Slab;1, Wishpoosh;1

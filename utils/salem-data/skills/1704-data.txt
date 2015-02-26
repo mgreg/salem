@@ -1,0 +1,21 @@
+Skill
+| Description=Fast moves allows you new combat moves.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=1500
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1500
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1500
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=Bullrun, Leap At, Leg Sweep

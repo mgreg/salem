@@ -1,0 +1,8 @@
+Crafted | Objects required=Yellow-Stained Cotton Cloth;1, Indian Cotton Cloth;1, Egyptian Cotton Cloth;1, Sea Island Cotton Cloth;1, Golden Lace;6 
+Clothing | Equipment ...&quot;</comment>
+      <text xml:space="preserve" bytes="219">{{Crafted
+| Objects required=Yellow-Stained Cotton Cloth;1, Indian Cotton Cloth;1, Egyptian Cotton Cloth;1, Sea Island Cotton Cloth;1, Golden Lace;6
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=4

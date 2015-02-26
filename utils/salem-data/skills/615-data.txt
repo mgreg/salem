@@ -1,0 +1,21 @@
+Skill
+| Description=Pottery allows you to dig for clay, and to make things from it.
+| Arts &amp; Crafts=700
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=500
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=400
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Kiln Construction, Masonry, Cauldronmaking
+| Crafts unlocked=Gardening Pot, Colored Marbles, Large Urn
+| Builds unlocked=Clay Trough
+| Others unlocked=

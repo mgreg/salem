@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Leather;6, Iron Buckle;2
+| Weight=0.50 kg

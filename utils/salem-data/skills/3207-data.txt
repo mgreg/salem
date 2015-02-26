@@ -1,0 +1,21 @@
+Skill
+| Description=Potions &amp; Poultices allow you to craft several new and exciting medicinal recipes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=1200
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=1800
+| Thread &amp; Needle=
+| Natural Philosophy=4000
+| Perennial Philosophy=900
+| Skills unlocked=Pharmacology Formal
+| Crafts unlocked=Rubbery Mescaline Refresher
+| Builds unlocked=
+| Others unlocked=

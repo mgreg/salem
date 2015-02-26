@@ -1,0 +1,20 @@
+Crafted | Objects required=Any Cabbage Leaf;9, Ostrich Fiddlehead;2, Walnut;1, Dehydrated Cranberry;1, Dehydrated Blackberry;1, Carrot;1, Baby Corn;1 
+VariableFoodGreens...&quot;</comment>
+      <text xml:space="preserve" bytes="719">{{Crafted
+| Objects required=Any Cabbage Leaf;9, Ostrich Fiddlehead;2, Walnut;1, Dehydrated Cranberry;1, Dehydrated Blackberry;1, Carrot;1, Baby Corn;1
+
+VariableFoodGreens
+| Heals=42,51,47,39
+| Uses=1
+| Min Blood=58 | Max Blood=60
+| Min Phlegm=58 | Max Phlegm=60
+| Min Yellow Bile=58 | Max Yellow Bile=60
+| Min Black Bile=58 | Max Black Bile=60
+| Gluttony Time=1:00
+| Food Groups= Vegetables and Greens
+| FoodReduce1= Vegetables and Greens | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

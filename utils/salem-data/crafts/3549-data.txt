@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Walnut Shell;1
+
+SpecialFood
+| Heals=8,8,8,13
+| Uses=1
+| Min Blood=4 | Max Blood=8
+| Min Phlegm=4 | Max Phlegm=8
+| Min Yellow Bile=4 | Max Yellow Bile=8
+| Min Black Bile=10 | Max Black Bile=15
+| Gluttony Time=0:05 
+| Food Groups=Nuts and Seeds 
+| FoodReduce1=Nuts and Seeds | %Reduce1=20 | %ChanceReduce1=20
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

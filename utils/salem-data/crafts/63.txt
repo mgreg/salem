@@ -1,0 +1,84 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Crafted</title>
+    <ns>10</ns>
+    <id>63</id>
+    <revision>
+      <id>11173</id>
+      <parentid>109</parentid>
+      <timestamp>2015-02-03T20:31:08Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2007">&lt;includeonly&gt;{{#IFEQ: {{PAGENAME}} | Contributing | | [[Category:Crafted]] [[Category:Objects]] }}
+{| style=&quot;float:left; width:320px; padding:0.2em; border:black 2px solid; border-radius:0.4em; background:#71583b; box-shadow: 2px 2px 5px #999,0px 1px 3px #C4894C inset; font-family:Calibri; margin-right:25px; margin-bottom:25px&quot;
+! style=&quot;color:white; font-size:1.4em&quot;|{{i|{{PAGENAME}}}}
+|-
+|
+{| style=&quot;width:100%; border:black 2px solid; box-shadow:0px 0px 5px #C4894C,0px 0px 5px #999 inset;border-radius: 4px; background:#efebe5&quot;
+| style=&quot;width:100px&quot; |'''Skill(s) required:'''
+| colspan=2 | {{#ask: [[Category:Skills]] [[Unlocks::{{PAGENAME}}]] | ?Skills | format = ul | link=none | template=i | default=None }}
+|-
+| style=&quot;vertical-align:top&quot; | '''Object(s) required:''' || colspan=2 | {{#switch: {{{Objects required|}}} | =None | {{T4|{{{Objects required}}} }} }}
+|-
+| style=&quot;vertical-align:top; width:100px; text-align:left&quot; |'''Weight:'''
+ | {{#switch: {{{Weight|}}}
+ | = ''unknown''
+ | {{{Weight}}}
+}}
+|-
+| style=&quot;vertical-align:top&quot; | '''Required by:'''
+| style=&quot;vertical-align:top&quot; | '''Objects'''    {{#ask: [[Category:Objects]] [[Requires::{{PAGENAME}}]] | ?Objects | format = ul | default=None }} 
+| style=&quot;vertical-align:top&quot; | '''Structures'''    {{#ask: [[Category:Structures]] [[Requires::{{PAGENAME}}]] | ?Objects | format = ul | default=None }}  
+|}&lt;/includeonly&gt; 
+
+
+
+&lt;noinclude&gt;'''NOTE:''' This is a MODULAR template. It MUST be used before one the the following templates:
+*[[Template:Food]] if the item is a crafted food.
+*[[Template:Inspirational]] if the item is a crafted inspirational.
+*[[Template:Inspirational Food]] if the item is crafted and both an inspirational and a food.
+*[[Template:Artifact]] if the item is a crafted artifact.
+*[[Template:Inspirational Artifact]] if the item is crafted and both an inspirational and an artifact.
+
+See [[Help:Contributing]] for instructions and examples for adding a new page to the wiki.
+
+{{Crafted | Objects required=}}
+|}&lt;/noinclude&gt;</text>
+      <sha1>kcxrreqozib8wup40l2iom3trj9nn57</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

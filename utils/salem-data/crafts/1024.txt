@@ -1,0 +1,74 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Torch</title>
+    <ns>0</ns>
+    <id>1024</id>
+    <revision>
+      <id>7490</id>
+      <parentid>1097</parentid>
+      <timestamp>2014-08-27T23:08:35Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2039">{{Crafted
+| Objects required=Sharpened Stick;2, Any Tinder;6
+}}
+|}
+
+[[Category:Light Sources]]
+
+==About==
+
+Torches can be held in the hand and are primarily used as a fire source.
+
+While equipped, a torch can be lit by using it on a burning [[Fireplace]], [[Pile of Wood]], or [[Stove]] or by using a [[Tinder Drill]] or [[Flint &amp; Steel]] on it.  It can then be used to lit any object that require fire, and does so even faster than flint &amp; steel.  A torch will only remain lit while being held by your cursor, or while in an equipment slot; Placing it into your inventory, a container slot, or dropping it will extinguish the torch.  
+
+A torch can be refueled by using tinder on it, and is '''not''' destroyed when it burns to 0 fuel. (it simply goes out)  
+
+When wandering into [[Darkness]], a torch may be used to mitigate the effects of [[Darkness#Humour drain|Humor Drain]], however it will never completely eliminate humor drain, only reduce the how quickly a players humors are drained.
+
+====Notes====
+
+*Lighting a torch consumes 7% of it's max fuel instantly, and a torch with less than 8% fuel remaining cannot be lit.
+*Using tinder on the torch supplies it with 16.7% fuel.
+*It takes 6 pieces of tinder to fill a torch from 0%.
+*A full torch burns for about 30 minutes before going out.
+*If players keep a [[fireplace]] or [[stove]] lit through their play sessions, the torch is one of the quickest, cheapest ways to light ovens, smelters, kilns, etc. (this is particularly easy to do with a [[stove]], as a full stove will burn for 24 hours)
+*A useful trick for hermits fed up with the inconsistency and Phlegm costs of starting fires with tinder drills may consider lighting his or her torch and equipping it before logging off, and reigniting all fires as soon as he or she logs back on. Bear in mind that you must keep a fire burning throughout your play session to light your torch again at before you log out, unless you can get an alt to specifically designate as a &quot;torch alt,&quot; who can keep the torch constantly equipped.</text>
+      <sha1>791moesxq1veuoks2ctik9u4e88rder</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

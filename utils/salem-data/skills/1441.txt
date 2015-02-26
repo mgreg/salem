@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Colonial Tradesmanship</title>
+    <ns>0</ns>
+    <id>1441</id>
+    <revision>
+      <id>11143</id>
+      <parentid>10626</parentid>
+      <timestamp>2015-01-31T18:54:57Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1407">{{Skill
+| Description=Colonial Tradesmanship allows you to craft some simple tools and is the first step on your way to becoming a useful and productive tradesman in the New World.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=400
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=300
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=200
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Literacy, Settling, Pottery, Folk Medicine, Bug Hunting, Patchwork &amp; Rags, Essential Mineralogy, Whittling, Exploration, Simple Cooking, Coaling, Agriculture, Gardening
+| Crafts unlocked= Strawman, Autumn Delight, Nine Men's Morris, Clay Pot, Froghetti, Birchbark Butterfly, Razzle-Tazzle Lure
+| Builds unlocked=Woven Basket
+| Others unlocked=Pave, Wave
+}}
+
+==In-Game Text==
+
+''&quot;For all the rest were poore Gentlemen, Tradsmen, Serving-men, libertines, and such like, ten times more fit to spoyle a Common-weath, then either begin one, or but helpe to maintain one.&quot;
+
+''-John Smith, The Generall Historie of Virginia, New-England and The Summer Isles
+
+The beginning colony requires a full plethora of tradesmen to help it grow and develop.  Colonial Tradesmanship allows you to craft some simple tools and is the first step on your way to becoming a useful and productive tradesman in the New World.
+
+==About==</text>
+      <sha1>kprltetu8z5jbf99jh1y8trry2l3aae</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

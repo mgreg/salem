@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Board;2,Whittler's Bench;1
+
+Inspirational
+| Arts &amp; Crafts=620
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=240
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1280
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=350
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=500
+| Sugar &amp; Spice=500
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=2

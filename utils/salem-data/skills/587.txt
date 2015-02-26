@@ -1,0 +1,122 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gardening</title>
+    <ns>0</ns>
+    <id>587</id>
+    <revision>
+      <id>11178</id>
+      <parentid>10558</parentid>
+      <timestamp>2015-02-04T18:47:00Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2896">{{Skill
+| Description=Gardening allows you to plant wild plants acquired through foraging in Gardening Pots.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=675
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=200
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Floriculture, Vegetable Potting, Fungiculture
+| Crafts unlocked=Columbine Paste, Garlic Braid
+| Builds unlocked=
+| Others unlocked=Gardening Pot, Any Bellpeppers, Green Bell Peppers, Red Bell Peppers, Garlic, Beaming-Proud Sunflower, Sunny Sunflower, Baby Bear, Sprouted Garlic Clove, Clove of Garlic
+}}
+
+==In-Game Text==
+
+''&quot;All that is very well.' answered Candide, but let us cultivate our garden.&quot;
+
+-Voltaire, Candide
+
+What a more humble joy to the well-off pilgrim than a well-kept garden to soothe the mind and relax the muscles.  Gardening allows you to plant wild plants acquired through foraging in Gardening pots.  The pots need to be prepared with humus and water before anything can be planted in them.
+
+==About==
+
+Gardening allows the use of [[Gardening Pot]]s to grow some forageables.
+
+The [[Gardening Pot]] only requires [[Pottery]] to craft, though.
+
+To start Gardening:
+
+* Prepare a [[Gardening Pot]] with 1 [[Humus]] and 1L of water.  Purity of the pot, the humus, and a small random factor, will affect plant purity.
+
+* Once prepared, certain plants can be planted in the Gardening Pot. (see [[Potable]] for a plant list)
+
+* After three days (or less with the right skills) the plant can be harvested.
+
+* Harvesting most plants will provide 2 of the plant type that was planted by default, with a rare chance that a single [[Beaming-Proud Sunflower]] will grow instead.  Your Herbs &amp; Sprouts proficiency will give you a chance to get more than 2 plants from one pot.
+
+
+A [[Garden Shovel]] will give you 1 extra plant per pot.
+
+[[Horticulture]] and [[Green Thumb]] will reduce the time for plants to ripen.
+
+Currently, [[Wild Garlic]], [[New World Gourd]], and the [[Beaming-Proud Sunflower]] itself are exceptions to the normal growth.
+
+[[Wild Garlic]] will either grow normally, or convert into domesticated [[Garlic]].
+
+[[New World Gourd]] will never grow additional New World Gourds, instead it will convert into a [[Baby Bear]], [[Green Bell Peppers]] or [[Red Bell Peppers]].
+
+[[Beaming-Proud Sunflower]] will convert into [[Sunny Sunflower]]s.
+
+{{-}}
+&lt;onlyinclude&gt;{{#ifeq:{{{transcludesection|stagesofgardenpot}}}|stagesofgardenpot|
+
+==Stages of a Garden Pot==
+
+[[File:Empty Pot.png|frame|left|Empty Pot]]
+
+[[File:Filled Pot.png|frame|left|Pot after you have added [[Humus]] to it]]
+
+[[File:Watered Pot.png|frame|left|Pot after being watered (requires 1.0 L of water)]]
+
+[[File:Peppers Pot.png|frame|left|Pot planted with peppers]]
+}}&lt;/onlyinclude&gt;</text>
+      <sha1>grijpwfr3hu43k8ezmtkvw26zt2j0dx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

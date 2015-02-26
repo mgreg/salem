@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Sawbuck;1, Log;1, Stone Saw;1, Hand Saw;1

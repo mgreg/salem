@@ -1,0 +1,21 @@
+Crafted
+| Objects required=Raw Long Ear;1, Drying Frame;1
+| Weight=.10
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=250
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=950
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=970
+| Hunting &amp; Hideworking=750
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=800
+| Natural Philosophy=200
+| Perennial Philosophy=
+| Uses=1

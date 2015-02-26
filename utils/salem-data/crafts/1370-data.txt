@@ -1,0 +1,4 @@
+Crafted | Skills required=Hideworking | Objects required=Dried Beaver Pelt;1, Dried Deer Hide;1, Rabbit Skin;1, Bear Skin;1, Dried Timber Rattler Skin;1 
+Crafted
+| Skills required=Hideworking
+| Objects required=Dried Beaver Pelt;1, Dried Deer Hide;1, Rabbit Skin;1, Bear Skin;1, Dried Timber Rattler Skin;1

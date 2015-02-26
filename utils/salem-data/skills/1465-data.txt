@@ -1,0 +1,21 @@
+Skill
+| Description=Coffer Making allows you to build storage chests.
+| Arts &amp; Crafts=1750
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=2500
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=1250
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=Chest, Metal Chest, Shed
+| Others unlocked=

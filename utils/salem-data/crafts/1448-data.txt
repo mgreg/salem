@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Autumn Grass;5
+
+Inspirational
+| Arts &amp; Crafts=550
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=250
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=100
+| Law &amp; Lore=180
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=350
+| Sugar &amp; Spice=
+| Thread &amp; Needle=400
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=3

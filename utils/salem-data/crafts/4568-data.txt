@@ -1,0 +1,3 @@
+Crafted | Objects required=Hay;16, Willow Switch;8, Knotted Wood Block;8 
+Crafted
+| Objects required=Hay;16, Willow Switch;8, Knotted Wood Block;8

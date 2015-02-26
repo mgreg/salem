@@ -1,0 +1,8 @@
+Crafted
+| Objects required=Hunter's Pack;1
+
+Clothing
+| Equipment Slot=Neck
+| Difficulty=
+| Proficiency Type=
+| Artificer Slots=

@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pumpkin Head Masque</title>
+    <ns>0</ns>
+    <id>2077</id>
+    <revision>
+      <id>8321</id>
+      <parentid>6385</parentid>
+      <timestamp>2014-09-24T16:01:14Z</timestamp>
+      <contributor>
+        <username>Tylan</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1087">{{Crafted
+| Objects required=Any Large Pumpkin;1, Hay;2, Sharpened Stick;2
+}}
+{{Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1
+}}
+
+
+==About==
+
+Proficencies are based on type of pumpkin used.
+
+[[Image:Pumpkin_Head_Masque_Front.png|thumb|right|120px|An aspen Pumpkin Head Masque when worn. With &quot;special effects&quot; on the bottom, for pure evilness
+( This fire is not included in Salem)]]
+[[Ghost Rider]] gives [[Ghost rider masque]]
+
+[[Big Autumn]] gives [[Big Autumn Masque]]
+
+[[Connecticut Field]] gives [[Connecticut Field Masque]]
+
+[[Aspen]] gives [[Aspen Masque]]
+
+
+The in-game text of the masques forms a continuous sentence.
+
+
+A pleasing land of drowsy-head it was. ...
+
+... Of dreams that wave before the half-shut eye, ...
+
+... And of gay castles in the clouds that lays, ...
+
+... Forever flushing round a summer sky.</text>
+      <sha1>qyb2gj0e4uitrcs2a8krpzpj73p10ar</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

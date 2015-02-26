@@ -1,0 +1,21 @@
+Skill
+| Description=Embroidery &amp; Silk allows you access to a wider range of more advanced clothing.
+| Arts &amp; Crafts=2750
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=3100
+| Sugar &amp; Spice=
+| Thread &amp; Needle=6100
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Admiral's Uniform, Bishop's Mitre, Chantilly Lace, English Battleflag, Gold Cape, Nobleman's Cape, Nobleman's Jacket,  Nobleman's Pants, Fyne Pantaloons, Fyne Frock, Priestly Stole, Plymouth Frock, Monogrammed Pillow, Malevolent Pillow, Musketeer's Hat, Inner Pocket, Embroidery, Silk Cloth, Adventurer's Jacket, Wool Quilting, Glass Buttons
+| Builds unlocked=
+| Others unlocked=

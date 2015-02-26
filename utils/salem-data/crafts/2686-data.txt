@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Silk Cloth;6, Golden Lace;4
+
+Clothing
+| Equipment Slot=Waist
+| Artificer Slots=3

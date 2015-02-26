@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Filet of any Fish;2, Seaweed;1
+
+VariableFoodFish
+| Heals=5,10,15,4
+| Uses=1
+| Min Blood=13 | Max Blood=15
+| Min Phlegm=13 | Max Phlegm=15
+| Min Yellow Bile=13 | Max Yellow Bile=15
+| Min Black Bile=13 | Max Black Bile=15
+| Gluttony Time=0:15
+| Food Groups= Fishes
+| FoodReduce1= Fishes | %Reduce1=20 | %ChanceReduce1=20
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

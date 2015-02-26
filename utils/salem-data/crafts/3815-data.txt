@@ -1,0 +1,3 @@
+Crafted | Objects required=Swift Shellback;1 
+Crafted
+| Objects required=Swift Shellback;1

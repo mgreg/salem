@@ -1,0 +1,21 @@
+Skill
+| Description=Cobbling unlocks the ability to craft the finer footwear.
+| Arts &amp; Crafts=300
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=150
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=925
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Haberdashery
+| Crafts unlocked=Adventurer's Boots, Priestly Shoes, Redcoat's Boots, Snakeskin Boots, Pioneer's Shoes, Prospector's Boots, Shoes of Good Cheer, Adventurer's Shoes, Trapper Boots, Highlander's Shoes, Fisherman's Boots, Founding Father's Shoes
+| Builds unlocked=
+| Others unlocked=

@@ -1,0 +1,8 @@
+Crafted | Objects required=Dried Beaver Pelt;6 
+Clothing | Equipment Slot=Cloak | Artificer Slots=2 
+Crafted
+| Objects required=Dried Beaver Pelt;6
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=2

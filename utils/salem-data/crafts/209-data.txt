@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Log;1, Axe;1, Metal Axe;1
+| Weight=.45 kg

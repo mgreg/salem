@@ -1,0 +1,3 @@
+Crafted | Objects required= Charcoal;10, Bone;2, Leather;2 
+Crafted
+| Objects required= Charcoal;10, Bone;2, Leather;2

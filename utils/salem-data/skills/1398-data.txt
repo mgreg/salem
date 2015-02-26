@@ -1,0 +1,21 @@
+Skill
+| Description=Locksmithing gives you the ability to craft a simple bolt-lock, which can be installed on gates, doors, chests and the like to prevent it from being opened by outsiders, and also allows you to make new copies of keys for kith and kin.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1000
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1000
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1000
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Mechanics
+| Crafts unlocked=Key, Keyring, Lock, Master Copy of Key, Slave Copy of Key
+| Builds unlocked=
+| Others unlocked=

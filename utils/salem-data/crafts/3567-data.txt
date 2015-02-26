@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Stuffed Argopelter;1
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=1350
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=3250
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=2150
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=3

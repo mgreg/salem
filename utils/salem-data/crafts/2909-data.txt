@@ -1,0 +1,3 @@
+Crafted
+| Objects required= Dead Silk Runner;1, Fireplace;1, Clay Pot;1, Copper Pot;1
+| Weight=0.02 kg

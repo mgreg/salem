@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Leather;2, Indian Feather;1
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=2

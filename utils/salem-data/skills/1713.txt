@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Larceny</title>
+    <ns>0</ns>
+    <id>1713</id>
+    <revision>
+      <id>11805</id>
+      <parentid>11119</parentid>
+      <timestamp>2015-02-20T06:47:39Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1430">{{Skill
+| Description=Unto those who will not be growing old Larceny grants the ability to steal items from Homesteaded property.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=4000
+| Faith &amp; Wisdom=2500
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=3500
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Grave Robbing, Waste
+| Crafts unlocked=Badge of Plunder
+| Builds unlocked=
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;Whereupon the judge telling him that the tongs could not be lost there, because that was the proper place they should be in, and finding the fellow to be simple, he directed the jury to bring him in guilty only of petty Larceny.&quot;
+
+''-Captain Alexander Smith, A Complete History of the Lives and Robberies of the Most Notorious Highwaymen, Footpads, Shoplifts and Cheats of Both Sexes
+
+Have things gone missing around the homestead lately?  Perchance were they misplaced? Mayhaps you are growing old, with little pieces of memory daily slipping ever away from within the hitherto safe &amp; sacred confines of your mind?  Unto those who will not be growing old Larceny grants the ability to steal items from Homesteaded property.
+
+==About==
+
+Allows you to steal items placed upon a claim.
+
+Theft leaves a Larceny scent that allows a player to be tracked and summoned.</text>
+      <sha1>f83tzatien8inhzqmbqmixavdeeuw29</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

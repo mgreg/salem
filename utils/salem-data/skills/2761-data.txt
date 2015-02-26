@@ -1,0 +1,21 @@
+Skill
+| Description=Turkey Farming allows you to construct Turkey Coops, which can be used to breed Turkeys.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=4250
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=1900
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=1350
+| Sugar &amp; Spice=1600
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Farmer's Omelette, Stuffed Turkey, Turkey Sandwich, Turkish Delight, Things with Wings, Cornmash Gobbler
+| Builds unlocked=Turkey Coop
+| Others unlocked=Turkey Egg, Turkey Poult, Turkey Hen, Turkey Gobbler, Turkey Droppings

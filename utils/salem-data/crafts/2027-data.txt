@@ -1,0 +1,9 @@
+Crafted
+| Objects required=Yellow-Stained Cotton Cloth;2, Antler Buttons;2
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=2
+
+PAGENAME
+PAGENAME

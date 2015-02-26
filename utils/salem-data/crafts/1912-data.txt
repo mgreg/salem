@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Dried Timber Rattler Skin;10
+
+Clothing
+| Equipment Slot=Coat
+| Artificer Slots=1

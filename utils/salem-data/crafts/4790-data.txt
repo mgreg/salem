@@ -1,0 +1,20 @@
+Crafted
+| Objects required= Blistersteel Bar;1, Anvil;1
+
+Inspirational
+| Arts &amp; Crafts=2450
+| Cloak &amp; Dagger=2050
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=1850
+| Sparks &amp; Embers=3900
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=800
+| Uses=4

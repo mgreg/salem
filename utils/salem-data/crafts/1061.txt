@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cricket Team</title>
+    <ns>0</ns>
+    <id>1061</id>
+    <revision>
+      <id>10508</id>
+      <parentid>9843</parentid>
+      <timestamp>2014-12-30T15:05:27Z</timestamp>
+      <contributor>
+        <username>Kandarim</username>
+        <id>6</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1013">{{Crafted
+| Objects required=Dead Wartbite Cricket;11
+}}
+{{Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=750
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=2700
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=1750
+| Hunting &amp; Hideworking=1700
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=200
+| Perennial Philosophy=
+| Uses=3
+}}
+==About==
+
+Can be sold to the stalls in [[Providence]] for 22 [[Silver]].  This is one of the more reliable ways to make early game money.  The other way being searching for [[Indian Feathers]] to make [[Savage Charms]].
+
+When leveling [[Flora &amp; Fauna]] or [[Hunting &amp; Hideworking]], it is more efficient to just study the dead [[Dead Wartbite Cricket|crickets]].
+
+==Flavor Text==
+
+In lieu of its ongoing campaign to improve living conditions in the New World, the Hudson Bay Company offers a standing bounty on any team of crickets presented before it.
+
+''Culled from the field of play, before the last inning was out.''</text>
+      <sha1>cvptntfs10rf1py29ytjacv8gcg78pi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

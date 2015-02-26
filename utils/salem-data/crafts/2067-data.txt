@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Indian Cotton Cloth;4, Isinglass;1
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=3

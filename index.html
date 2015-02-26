@@ -1,32 +1,86 @@
-<!DOCTYPE html>
- <html>
+<html>
   <head>
-    <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
-   
-   <link rel="import" href="bower_components/font-roboto/roboto.html">
-   <link rel="import" href="bower_components/core-ajax/core-ajax.html">
-   <link rel="import" href="bower_components/paper-input/paper-input.html">
-   <link rel="import" href="salem-components/salem-wiki-search/salem-wiki-search.html">
-   <link rel="import" href="salem-components/salem-wiki-skill/salem-wiki-skill.html">
-  
-   <style>
-    html,body {
-     height: 100%;
-     margin: 0;
-     font-family: 'RobotoDraft', sans-serif;
-    }
-  </style>
-  
+       <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+       <script type="text/javascript" src="js/d3.min.js"></script>
+       <script type="text/javascript" src="js/lunr.min.js"></script>
+       <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
+       <link rel="import" href="bower_components/font-roboto/roboto.html">
+       <link rel="import" href="bower_components/core-ajax/core-ajax.html">
+       <link rel="import" href="bower_components/core-selector/core-selector.html">
+       <link rel="import" href="bower_components/paper-input/paper-input.html">
+       <link rel="import" href="bower_components/paper-item/paper-item.html">
+       <link rel="import" href="salem-components/salem-search/salem-search.html">
+       <link rel="import" href="salem-components/salem-search-results/salem-search-results.html">
+        
+          <style type="text/css">
+            
+            body {
+              font-family: "RobotoDraft",Helvetica,Arial,sans-serif;
+            }
+
+            .node {
+              cursor: pointer;
+            }
+
+            .overlay{
+                background-color:#EEE;
+            }
+
+            .node circle {
+              fill: #fff;
+              stroke: steelblue;
+              stroke-width: 1.5px;
+            }
+
+            .node text {
+              font-size:10px;
+              font-family:sans-serif;
+            }
+
+            .link {
+              fill: none;
+              stroke: #ccc;
+              stroke-width: 1.5px;
+            }
+
+            .templink {
+              fill: none;
+              stroke: red;
+              stroke-width: 3px;
+            }
+
+            .ghostCircle.show{
+                display:block;
+            }
+            
+            .ghostCircle, .activeDrag .ghostCircle{
+                 display: none;
+            }
+
+          </style>
   </head>
   <body>
-    <salem-wiki-search></salem-wiki-search>
-    <salem-wiki-skill id="skill"></salem-wiki-skill>
-    
-    <script>
-     window.onload = function() {
-      document.querySelector('salem-wiki-search').addEventListener('titleSelected', function(e) {
-       document.getElementById('skill').wiki = e.detail.msg; 
-     })};
-    </script>
+        <!--<div id="tree-container"></div>-->
+        <script type="text/javascript" src="js/skills.js"></script>
+        <script type="text/javascript" src="js/crafts.js"></script>
+        <!--<script type="text/javascript" src="js/salem.js"></script>-->
+        <salem-search name="search"></salem-search>
+        <salem-search-result id="result"></salem-search-result>
+        <script>
+        window.addEventListener('polymer-ready', function(e) {
+          var search = document.querySelector('salem-search'),
+              result = document.querySelector('salem-search-result');
+          
+          search.addEventListener('search', function(e) {
+            var r = [], idxs = e.detail.msg;
+            
+            for (var i = 0; i < Math.min(idxs.length, 10); i++) {
+              r.push(crafts[idxs[i].ref].title);
+            }
+            
+            result.results = r
+          });
+        });
+        </script>
   </body>
 </html>

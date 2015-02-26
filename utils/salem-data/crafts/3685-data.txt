@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Pumpkin Seeds;60
+
+Food
+| Heals=6,4,4,4
+| Uses=10
+| Min Blood=1 | Max Blood=4
+| Min Phlegm=1 | Max Phlegm=4
+| Min Yellow Bile=1 | Max Yellow Bile=4
+| Min Black Bile=1 | Max Black Bile=4
+| Gluttony Time=0:10
+| Food Groups=Pumpkins and Gourds 
+| FoodReduce1=Pumpkins and Gourds | %Reduce1=10 | %ChanceReduce1=20
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

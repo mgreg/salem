@@ -1,0 +1,22 @@
+Crafted | Objects required=Xmas Present;1 
+Inspirational | Arts &amp; Crafts=200 | Cloak &amp; Dagger=500 | Faith &amp; Wisdom= | Flora &amp; Fauna= | Hammer &amp; Nail= | Herbs &amp; Sprouts= ...&quot;</comment>
+      <text xml:space="preserve" bytes="459">{{Crafted
+| Objects required=Xmas Present;1
+
+Inspirational
+| Arts &amp; Crafts=200
+| Cloak &amp; Dagger=500
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=200
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=15

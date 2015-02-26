@@ -1,0 +1,17 @@
+Crafted
+| Objects required=
+
+i|Adventurer's Rapier
+i|Candy Gang Candy Cane
+i|Cane
+i|Caveman Club
+i|Claymore
+i|Executioner's Whip
+i|Founding Father's Arquebus
+i|Gavel of Justice
+i|Nobleman's Rapier
+i|Pirate Captain's Sword
+i|Priest Staff
+i|Redcoat's Musket
+i|Spiked Board
+i|Trapper's Rifle

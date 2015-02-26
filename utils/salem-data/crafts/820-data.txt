@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Gardening Pot;1, New World Gourd;1
+
+SpecialFood
+| Heals=2,2,3,3
+| Uses=1
+| Min Blood=0 | Max Blood=0
+| Min Phlegm=11 | Max Phlegm=14
+| Min Yellow Bile=11 | Max Yellow Bile=14
+| Min Black Bile=0 | Max Black Bile=0
+| Gluttony Time=0:04
+| Food Groups=Vegetables and Greens
+| FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50
+| FoodReduce2=Mushrooms | %Reduce2=60 | %ChanceReduce2=100
+| FoodReduce3=Berries | %Reduce3=60 | %ChanceReduce3=100
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

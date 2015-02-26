@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dross</title>
+    <ns>0</ns>
+    <id>62</id>
+    <revision>
+      <id>3344</id>
+      <parentid>108</parentid>
+      <timestamp>2013-10-21T23:31:51Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* About */</comment>
+      <text xml:space="preserve" bytes="1516">{{Crafted
+
+| Objects required=Ore Smelter;1
+
+}}
+
+|}
+==About==
+Can be used to replace a [[Stone]], whenever a [[Stone]] is needed.&lt;br/&gt;
+Also acts as a poor [[Agriculture/Fertilizers &amp; Field Values|Fertilizer]].
+
+
+'''Fertilizer Uses:'''
+
+-- Without Three-Field System, Fertilizer 1 = First fertilizer to be used on field since seeds were planted; for each fertilizer you used on the field (regardless of which kind) add that to determine which fertilizer # your adding; Example: If you put (1) wood chip on the field, then used this fertilizer, you would get fertilizer 2 as the 2nd fertilizer used on the field.
+
+The formula follows 10/sqrt(x) (for speed and plenty), so:
+
+Fertilizer 1: +10% Speed, -10% Plenty
+
+Fertilizer 2: +7% Speed, -7% Plenty
+
+Fertilizer 3: +5% Speed, -5% Plenty
+
+Fertilizer 4: +5% Speed, -5% Plenty
+
+Fertilizer 5: +4% Speed, -4% Plenty
+
+Fertilizer 6: +4% Speed, -4% Plenty
+
+Fertilizer 7: +3% Speed, -3% Plenty
+
+Fertilizer 8: +3% Speed, -3% Plenty
+
+Fertilizer 9: +3% Speed, -3% Plenty
+
+Fertilizer 10: +3% Speed, -3% Plenty
+
+
+
+NOTE: No stats can fall bellow 50%, once your plenty hits 50% you will not be able to use any more dross until you raise your plenty.
+
+TOTAL GAIN IN 10 USES: +49% Speed, -49% Plenty 
+
+
+
+''Recommended Use: Typically if you're starting out new farms, you use cabbage seeds to plant the 100% upkeep fields then pile dross on to decrease unwanted colewort and increase speed; then drop the upkeep to replant with desired product! Mildly Effective''
+
+
+[[Category:Any Stone]]</text>
+      <sha1>4fgawjlh3xhfi8rykbmz77w88newobi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

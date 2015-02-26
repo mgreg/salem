@@ -1,0 +1,21 @@
+Skill
+| Description= Allows the distillation of fluids.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=3750
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=5250
+| Perennial Philosophy=2100
+| Skills unlocked=
+| Crafts unlocked=Steam Distiller, Dehydrated Cranberry, Dehydrated Crowberry, Dehydrated Huckleberry, Dehydrated Blackberry, Dehydrated Rose, Otto of Rose
+| Builds unlocked=
+| Others unlocked=

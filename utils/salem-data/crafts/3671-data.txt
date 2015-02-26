@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Fruit Jelly;2, Wheat Flour;.2kg
+
+VariableFoodBerries
+| Heals=35,45,25,25
+| Uses=1
+| Min Blood=50 | Max Blood=55
+| Min Phlegm=50 | Max Phlegm=55
+| Min Yellow Bile=50 | Max Yellow Bile=55
+| Min Black Bile=50 | Max Black Bile=55
+| Gluttony Time=1:30
+| Food Groups=Berries
+| FoodReduce1=Berries | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Rubble Boulder;1
+| Weight=0.5 Kg

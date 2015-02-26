@@ -1,0 +1,21 @@
+Skill
+| Description=But Hunting allows combat with both crickets and spiders, and the knowledge to craft a slingshot.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=200
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=525
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Small Game Hunting
+| Crafts unlocked= Wortbaked Wartbite, Crickebab, Cricket Team, Crispy Cricket, Cricket Moth, Slingshot, Wee Menagerie, Cricket Team, Silk Cloth
+| Builds unlocked=
+| Others unlocked=Shoot, Stomp

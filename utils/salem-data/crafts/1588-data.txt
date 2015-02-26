@@ -1,0 +1,16 @@
+Crafted | Objects required=Raw Rabbit Steak;1, Any Cabbage Leaf;3, Cooked Carrot;1, Fire;1
+VariableFoodGreens
+| Heals=10,30,15,22
+| Uses=1
+| Min Blood=26 | Max Blood=30
+| Min Phlegm=26 | Max Phlegm=30
+| Min Yellow Bile=26 | Max Yellow Bile=30
+| Min Black Bile=26 | Max Black Bile=30
+| Gluttony Time=0:30 
+| Food Groups= Vegetables and Greens
+| FoodReduce1= Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

@@ -1,0 +1,3 @@
+Crafted | Objects required=Unbaked Stuffed Argopelter;1, Stove;1 
+Crafted
+| Objects required=Unbaked Stuffed Argopelter;1, Stove;1

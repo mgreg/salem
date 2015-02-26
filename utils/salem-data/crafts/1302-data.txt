@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Wrought Iron Bar;1, Nails;2, Wooden Handle;1, Anvil;1

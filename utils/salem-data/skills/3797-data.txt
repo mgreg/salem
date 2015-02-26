@@ -1,0 +1,21 @@
+Skill
+| Description=Mercantilism allows for the owning &amp; maintaining of a public stall.
+| Arts &amp; Crafts=2200
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=2100
+| Law &amp; Lore=7500
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=2600
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=Player Stalls

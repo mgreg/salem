@@ -1,0 +1,9 @@
+Crafted
+| Objects required=
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=3
+
+PAGENAME
+PAGENAME

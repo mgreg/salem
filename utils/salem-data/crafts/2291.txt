@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aspen Masque</title>
+    <ns>0</ns>
+    <id>2291</id>
+    <revision>
+      <id>11735</id>
+      <parentid>7842</parentid>
+      <timestamp>2015-02-19T19:36:18Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1217">{{Crafted
+| Objects required=Aspen;1, Hay;2, Sharpened Stick;2
+| Weight=3.00 kg
+}}
+{| style=&quot;width:100%; border:black 2px solid; background:#efebe5; padding=20px; vertical-align:bottom; text-align:left;&quot;
+ | style=&quot;vertical-align:top; width:100px&quot; |'''Equipment Slot:'''
+ | [[Equipment Slot::Face]]
+ |}
+|-
+{{Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=1000
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=1250
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=750
+| Sugar &amp; Spice=
+| Thread &amp; Needle=1250
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1
+}}
+
+
+==About==
+Values are for 0% purity and 1.00 multiplier
+
+The menu button for crafting this item is the same as [[Pumpkin Head Masque]].  If you have multiple pumpkins in your inventory then make sure the right one is selected as there are several different masks depending on which pumpkin you use.
+
+[[Image:Pumpkin_Head_Masque_Front.png|thumb|right|120px|An aspen Pumpkin Head Masque when worn. With &quot;special effects&quot; on the bottom, for pure evilness
+( This fire is not included in Salem)]]
+
+==Flavor Text==
+''A pleasing land of drowsy-head it was. ...''
+
+
+[[Category:Clothing]]</text>
+      <sha1>7hm9g7ixynv58bjsjfhx0zvuk0pdtkx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

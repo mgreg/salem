@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pumpkin</title>
+    <ns>0</ns>
+    <id>811</id>
+    <revision>
+      <id>882</id>
+      <timestamp>2013-10-15T20:49:31Z</timestamp>
+      <contributor>
+        <username>Binks</username>
+        <id>5</id>
+      </contributor>
+      <comment>Created page with &quot;{{Crafted | Objects required=Tilled Field;1, Seeds of Pumpkin;1 }} |}    To start Pumpkin fields, you need to plant and grow a [[New World Gourd]] in [[Gardening Pot]].  You h...&quot;</comment>
+      <text xml:space="preserve" bytes="1682">{{Crafted
+| Objects required=Tilled Field;1, Seeds of Pumpkin;1
+}}
+|} 
+
+
+To start Pumpkin fields, you need to plant and grow a [[New World Gourd]] in [[Gardening Pot]].  You have a random 1 in 3 chance to obtain [[Baby Bear]], which can be sliced for seeds to be planted in a field.
+
+Pumpkins can be harvested in any one of the last three growth stages. The tier of the output is determined by the normal influence mechanics, but are also dependent on the growth stage.
+
+Growth stage one: [[Baby Bear]], [[Small Sugar]], [[Sugar Treat]] and [[Spooktacular]]&lt;br&gt;
+[[File:Pumpkin_Phase_1.png]]
+
+Growth stage two: [[Autumn Gold]], [[Bushkin]], [[Harvest Moon]] and [[Jack-o-Lantern]]&lt;br&gt;
+[[File:Pumpkin_Phase_2.png]]
+
+Growth stage three: [[Aspen]], [[Big Autumn]], [[Connecticut Field]] and [[Ghost Rider]]&lt;br&gt;
+[[File:Pumpkin_Phase_3.png]]
+
+Table of pumpkins at various growth stages:
+
+{| border=&quot;1&quot; style=&quot;width: 770px;&quot;
+! Growth Stage !! Tier 1 !! Tier 2 !! Tier 3
+|-
+| One: || [[Baby Bear]] || [[Small Sugar]] &lt;br/&gt; [[Sugar Treat]] || [[Spooktacular]]
+|-
+| Two: || [[Autumn Gold]] || [[Bushkin]]  &lt;br/&gt;  [[Harvest Moon]] || [[Jack-o-Lantern]] 
+|-
+| Three: || [[Aspen]] || [[Big Autumn]]  &lt;br/&gt;  [[Connecticut Field]] || [[Ghost Rider]] 
+|-
+|}
+
+[[Spooktacular]], [[Jack-o-Lantern]] and [[Ghost Rider]] are Inspirationals. All pumpkins can be sliced for generic [[Pumpkin Flesh]] and [[Seeds of Pumpkin|seeds]].
+
+
+{| border=&quot;1&quot; style=&quot;width: 770px;&quot;
+! Growth Stage !! [[Pumpkin Flesh]] !! [[Seeds of Pumpkin]]
+|-
+| One || 2 Flesh || 6 Seeds
+|-
+| Two || 4 Flesh || 10 Seeds 
+|-
+| Three || 6 Flesh || 15 Seeds 
+|-
+|} 
+
+All pumpkins in growth stage one can be replanted in gardening pots.</text>
+      <sha1>1044rruus3ho7zrkapzepw7echpyicg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

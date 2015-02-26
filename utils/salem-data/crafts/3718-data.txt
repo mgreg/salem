@@ -1,0 +1,21 @@
+Crafted
+| Objects required=Bear;1
+| Weight=1.00 kg
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=1250
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=2625
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=1650
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=575
+| Uses=3

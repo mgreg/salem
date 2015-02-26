@@ -1,0 +1,8 @@
+Crafted | Objects required=Bar of Pig Iron;2, Leather;1, Any Tinder;12 
+Clothing | Equipment Slot=Head | Artificer Slots=3 
+Crafted
+| Objects required=Bar of Pig Iron;2, Leather;1, Any Tinder;12
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=3

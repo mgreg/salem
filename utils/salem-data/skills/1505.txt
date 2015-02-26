@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tasty Pastries</title>
+    <ns>0</ns>
+    <id>1505</id>
+    <revision>
+      <id>10284</id>
+      <parentid>8215</parentid>
+      <timestamp>2014-12-11T23:56:34Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1229">{{Skill
+| Description=Tasty Pastries allows you to bake a few sugary sweets for those special occasions.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=2700
+| Stocks &amp; Cultivars=1350
+| Sugar &amp; Spice=4100
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Advanced Cooking
+| Crafts unlocked=Fruit Jelly, Crescent Croissant, Candied Oakworth Tart, Berrysauce Boat, Berry Jam, Cranberry Sauce, Berry Bar
+| Builds unlocked=
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;That from and after the twenty ninth day of September, one thousand seven hundred and sixty four, there shall be raised, levied, collected, and paid, unto his Magesty, his heirs and successors, for an upon all white or clayed sugars of the produce or manufacture of any colony or plantation in America ... the several rates and duties following ...&quot;
+
+''-Customs Duties, &amp;c. Act 1763
+
+With the importation of cane sugar from the Summer Isles and Barbados, new culinary opportunities present themselves.  Tasty Pastries allows you to bake a few sugary sweets for those special occasions.
+
+==About==</text>
+      <sha1>lkra0dejc0mx6i2e6kimn33qxzp9d42</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

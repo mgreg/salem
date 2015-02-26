@@ -1,0 +1,8 @@
+Crafted
+| Objects required=
+
+Clothing
+| Equipment Slot=Face
+| Difficulty=
+| Proficiency Type=
+| Artificer Slots=

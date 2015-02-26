@@ -1,0 +1,3 @@
+Crafted | Objects required=Iron Ore Boulder;1 
+Crafted
+| Objects required=Iron Ore Boulder;1

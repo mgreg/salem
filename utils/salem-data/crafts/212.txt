@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Log</title>
+    <ns>0</ns>
+    <id>212</id>
+    <revision>
+      <id>2901</id>
+      <parentid>262</parentid>
+      <timestamp>2013-10-18T23:23:14Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* About */</comment>
+      <text xml:space="preserve" bytes="824">{{Crafted
+
+| Objects required=Tree;1, Axe;1, Metal Axe;1
+
+}}
+
+|}
+
+
+
+==About==
+One log will give 60 [[Woodblocks]] or 30 [[Fresh Board]]s, if placed in a [[Sawbuck]].  [[Coffin Plank]]s will also count towards the amount of Boards given.  Chopping Woodblocks can only occur at one point on the side of the log, whereas making boards can be done from any side of the Sawbuck.
+
+Logs can be relatively tricky to place, as they are put down extending outward from the character, in the direction the character is facing.  The end with the point will be furthest from the player, and the chopping point for wood blocks will fall to the left side of the log, from the player character's point of view.
+
+An immature tree will produce a smaller log containing fewer woodblocks and boards, or no log at all, if the tree is very young.</text>
+      <sha1>anzc9qye9z55qdpz5yjb3u5grwtlum5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

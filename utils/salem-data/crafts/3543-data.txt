@@ -1,0 +1,7 @@
+Crafted
+| Objects required=Leaf of Colewort;1, Leaf of Green Cabbage;1, Leaf of White Cabbage;1, Leaf of Red Cabbage;1
+
+i|Leaf of Colewort
+i|Leaf of Green Cabbage
+i|Leaf of White Cabbage
+i|Leaf of Red Cabbage

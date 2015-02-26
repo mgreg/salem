@@ -1,0 +1,21 @@
+Skill
+| Description=Hiking allows you to cross swamps, and to ascend steeper slopes than before.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=200
+| Hammer &amp; Nail=400
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=300
+| Law &amp; Lore=
+| Mines &amp; Mountains=200
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Hill Climbing, Swimming, Labouring
+| Crafts unlocked=Rope
+| Builds unlocked=
+| Others unlocked=Wander, Heroic

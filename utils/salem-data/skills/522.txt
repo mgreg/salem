@@ -1,0 +1,440 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fishing</title>
+    <ns>0</ns>
+    <id>522</id>
+    <revision>
+      <id>11573</id>
+      <parentid>9725</parentid>
+      <timestamp>2015-02-17T22:55:40Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="17101">{{Skill
+| Description=Fishing allows you to fish, and to craft a primitive fishing pole.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=300
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=400
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=200
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Waterways
+| Crafts unlocked=A Fish in the Reeds, Birchbark Butterfly, Buddies on a Branch, Cricket Moth, Filet on the Rocks, Makeshift Fishing Rod, Seaweed Masque, Razzle-Tazzle Lure, Tasty Sink-knot,
+| Builds unlocked=Fish Trap
+| Others unlocked=Any Fish, Fish, Filet of Angel-Winged Seabass, Filet of Blueback Tuna, Filet of Cape Codfish, Filet of Darkwater Bluegill, Filet of Ghostly Whitefish, Filet of Gold Pickerel, Filet of Hellish Halibut, Filet of Long-Whiskered Catfish, Filet of Raging Bullhead, Filet of Red-Finned Mullet, Filet of Red Herring, Filet of Sargasso Eel, Filet of Silt-Dwelling Mudsnapper, Filet of Tiger Trout, Filet of Trunk-Nosed Lake Perch
+}}
+
+[[File:Fisherman.png|frame|A fisherman and his catch]]
+
+==In-Game Text==
+
+''&quot;These shall you eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, an in the rivers, them shall ye eat.&quot;
+
+''-Leviticus 11:9, King James' Bible
+
+The far flung oceans across which you came hold, parallel to the rivers and lakes of this strange and wondrous land, a teeming multitude of life. Fishing allows you to fish, and to craft a primitive fishing pole.
+
+== Instructions ==
+
+# Construct a [[Fishing#Equipment|fishing rod]] and lure.
+# Equip the fishing rod (requires both hands free) and lure (left-click to pick it up then right-click the fishing rod).
+# Click the {{i|Fish}} action under the {{i|Adventure}} menu, the cursor will change to a crucifix.
+# Click on a body of water.
+
+After a short while a fish may bite. After this, a window will pop up every few seconds presenting you with three random options. One option will cause the fish to be reeled in, one will do nothing, and one will let the fish pull away. The options themselves can be quite random, but their effect will be consistent for each type of fish.
+
+Your character's stance indicates your advantage over the fish. The further back you are leaning the closer you are to successfully catching the fish. If you are in danger of losing your fish - when you're leaning forward - walk away, so you save your worm.
+
+If you understand card-counting it is similar; you will get a list of options in which any of the options can be +1, +0, -1.
+
+The +1 choices are persistent so for example &quot;Resist&quot;, &quot;Reel in&quot;, and &quot;Pull high&quot; are +1 when the fish is a Angel-Winged Seabass.
+
+
+'''Also:'''
+
+* Lures can be removed from rods by right-clicking the rod.
+* As of the latest update, baits have a 99% chance of hooking a fish.
+
+=== Fishing Chart ===
+
+{| class=&quot;wikitable&quot; border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+! '''Fish'''
+! '''Found in'''
+! '''Bait Required'''
+! Want it Badly
+! Think of England
+! Make it Happen
+! Reel in
+! Reel Back
+! Reel Out
+! Pull High
+! Pull Low
+! Pull Down
+! Pull Hard
+! Pull West
+! Resist
+! Insist
+! High Five
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Angel-Winged Seabass}}'''
+| Sea
+| [[Common Earthworm]], [[Stick Spinner]],[[Razzle-Tazzle_Lure]], [[Seaweed Wobbler]], [[Cricket Moth]]
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Think of England --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel in --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel back --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel out --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull High --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull West --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Resist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Insist --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- High Five --&gt;
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Cape Codfish}}'''
+| Sea
+| [[Common Earthworm]],[[Razzle-Tazzle_Lure]]
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Think of England --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel in --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel back --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel out --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull High --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull West --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Resist --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Insist --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- High Five --&gt;
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Red-Finned Mullet}}'''
+| Sea
+| [[Common Earthworm]],[[Cricket Moth]]
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Think of England --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel in --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel back --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel out --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull High --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull West --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Resist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Insist --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- High Five --&gt;
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Red Herring}}'''
+| Sea, Fresh
+| [[Common Earthworm]],[[Razzle-Tazzle_Lure]],[[Stick Spinner]]
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Think of England --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel in --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel back --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel out --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull High --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull West --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Resist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Insist --&gt;
+| bgcolor=&quot;grey&quot; | &lt;!-- High Five --&gt;
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Blueback Tuna}}'''
+| Sea
+| [[Shark Bait]],[[Seaweed Wobbler]], [[Stick Spinner]],[[Razzle-Tazzle_Lure]]
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Think of England --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel in --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel back --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel out --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull High --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull West --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Resist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Insist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- High Five --&gt;
+
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Ghostly Whitefish}}'''
+| Fresh
+| [[Seaweed Wobbler]], [[Shark Bait]]
+| bgcolor=&quot;red&quot; | Negative &lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel in --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel back --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel out --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull High --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull West --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Resist --&gt;
+| bgcolor=&quot;red&quot; | Negative &lt;!-- Insist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- High Five --&gt;
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Gold Pickerel}}'''
+| Fresh
+| [[Shark Bait]],[[Cricket Moth]]
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Think of England --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel in --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel back --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel out --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull High --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull West --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Resist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Insist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- High Five --&gt;
+
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Hellish Halibut}}'''
+| Sea
+| [[Razzle-Tazzle_Lure]],[[Stick Spinner]]
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Think of England --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel in --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel back --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel out --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull High --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull West --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Resist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Insist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- High Five --&gt;
+
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Medusa Head Jellyfish}}'''
+| Sea
+| [[Seaweed Wobbler]],[[Shark Bait]]
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Think of England --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel in --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel back --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel out --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull High --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull West --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Resist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Insist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- High Five --&gt;
+
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Long-Whiskered Catfish}}'''
+| Fresh
+| [[Cricket Moth]]
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Think of England --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel in --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel back --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel out --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull High --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull West --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Resist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Insist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- High Five --&gt;
+
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Raging Bullhead}}'''
+| Fresh 
+| [[Shark Bait]]
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Think of England --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel in --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel back --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel out --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull High --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull West --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Resist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Insist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- High Five --&gt;
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Silt-Dwelling Mudsnapper}}'''
+| Fresh
+| [[Common Earthworm]], [[Cricket Moth]],[[Razzle-Tazzle_Lure]]
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Think of England --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel in --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel back --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel out --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull High --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull West --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Resist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Insist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- High Five --&gt;
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Tiger Trout}}'''
+| Fresh
+| [[Common Earthworm]], [[Cricket Moth]],[[Razzle-Tazzle_Lure]]
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Think of England --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel in --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel back --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel out --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull High --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull West --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Resist --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Insist --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- High Five --&gt;
+
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Trunk-Nosed Lake Perch}}'''
+| Fresh
+| [[Common Earthworm]], [[Cricket Moth]], [[Stick Spinner]],[[Razzle-Tazzle_Lure]]
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Think of England --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel in --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Reel back --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Reel out --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull High --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;red&quot; | Negative&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull West --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Resist --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Insist --&gt;
+| bgcolor=&quot;Red&quot; | Negative&lt;!-- High Five --&gt;
+
+
+|- border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| '''{{i|Shin Spinner}}'''
+| Fresh
+| [[Common Earthworm]],[[ Razzle-Tazzle Lure]],[[Shark Bait]]
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Want it Badly --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Think of England --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Make it Happen --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel in --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel back --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Reel out --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull High --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Low --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Down --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Pull Hard --&gt;
+| bgcolor=&quot;limegreen&quot; | Positive&lt;!-- Pull West --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Resist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- Insist --&gt;
+| bgcolor=&quot;grey&quot; | ?&lt;!-- High Five --&gt;
+|}
+
+=== Equipment Wear ===
+
+Fishing rods and lures are damaged with use, and this is represented as 'wear' when hovering over their icons. Equipment is damaged over time, whether a fish is hooked or not. When struggling with a fish, wear seems to tick but the effect of the wear seems to wait until you catch/lose the fish.  This is apparent as your equipment will not break during the process, but often immediately after.
+
+The amount of wear per tick is determined by the type of equipment and your [[Frontier &amp; Wilderness]] proficiency.
+
+'''Also note that your fishing rod will not be damaged when using bait (like earthworms), contrary to the use of lures where both the rod and the lure degrade.'''
+
+== Equipment ==
+
+{| width=100% cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; border=&quot;0&quot;
+|-bgcolor = &quot;#3366CC&quot; 
+| width = &quot;40&quot;  | 
+| width = &quot;150&quot; | &lt;font color=&quot;white&quot;&gt;&amp;nbsp; '''Fishing Rods'''&lt;/font&gt;
+| width = &quot;150&quot; | &lt;font color=&quot;white&quot;&gt;'''Materials'''   &lt;/font&gt;
+|                 &lt;font color=&quot;white&quot;&gt;'''Note'''        &lt;/font&gt;
+|}
+{| width=100% cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; rules=&quot;all&quot; border=&quot;1&quot; style=&quot;border: silver;&quot;
+| height = &quot;40&quot; width = &quot;40&quot; style=&quot;background-color: #3E3D3D;&quot; | &lt;center&gt;[[File:Makeshift Fishing Rod icon.png]]&lt;/center&gt; 
+| width = &quot;150&quot; | &amp;nbsp; [[Makeshift Fishing Rod]]
+| width = &quot;150&quot; | &lt;small&gt;[[Branch]] x4, [[Hay]] x2, [[Flint]] x1&lt;/small&gt;
+| The easiest rod to make. Less durable than the [[Fishing Pole]].
+|-
+| style=&quot;background-color: #3E3D3D;&quot; | &lt;center&gt;[[File:Fishing Pole icon.png]]&lt;/center&gt; 
+| &amp;nbsp; [[Fishing Pole]]
+| &lt;small&gt;[[Sharpened Stick]] x4, [[Cotton Cloth]] x1, [[Nails]] x2, [[Leather]] x3&lt;/small&gt;
+| About 2x stronger than the [[Makeshift Fishing Rod]] with half the decay. &lt;small&gt;[http://salemwiki.info/index.php/Fishing#Footnotes [1]].&lt;/small&gt;
+|-
+| style=&quot;background-color: #3E3D3D;&quot; | &lt;center&gt;[[File:Fishmaster 1600 icon.png]]&lt;/center&gt; 
+| &amp;nbsp; [[Fishmaster 1600]]
+| &lt;small&gt;[[Fisherman's Pack]]&lt;/small&gt;
+| About 4x stronger than the [[Makeshift Fishing Rod]]
+|}
+&lt;br&gt;
+{{:Lures}}
+
+&lt;nowiki&gt;*&lt;/nowiki&gt;&lt;small&gt; Research is still being conducted as to how lures affect fish caught.&lt;/small&gt;</text>
+      <sha1>cu7c3fdmqzkgts0b53wl0a5fbknvqsb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

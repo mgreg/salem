@@ -1,0 +1,27 @@
+Crafted
+
+| Objects required=Smooth Stone;1, Hydrukey Feather;4
+
+
+Artifact
+| Difficulty=25 to 10
+| Proficiency Type=Perennial Philosophy
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=7
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Criminality=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Spellpower=10
+| Pockets=
+| Slots=

@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Dravite;1, Phosphophyllite;1, Rubellite;1, Uvarovite;1
+| Weight=0.05 Kg

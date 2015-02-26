@@ -1,0 +1,21 @@
+Skill
+| Description=Venison Cuisine allows you to extract more meat when butchering deer, and also gives you access to some fine recipes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=5200
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=2250
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=6200
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Advanced Cooking, Smoked Meats
+| Crafts unlocked=A Side of Venison, Sweet Bambi
+| Builds unlocked=
+| Others unlocked=

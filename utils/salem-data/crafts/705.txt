@@ -1,0 +1,68 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Maple Leaf</title>
+    <ns>0</ns>
+    <id>705</id>
+    <revision>
+      <id>11567</id>
+      <parentid>11496</parentid>
+      <timestamp>2015-02-17T22:12:15Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="814">{{Crafted
+| Objects required=Maple Tree;1
+| Weight=.02 kg
+}}
+
+|}
+
+==About==
+Maples leaves are items which are harvested from [[Maple Tree]]s, which are dotted across the wilderness. 
+
+To harvest, you simply right-click a maple tree and from the context menu choose 'Pick Leaves'. If you do not see such an option, you either clicked the wrong type of tree, or someone has already harvested all the leaves before you. 
+
+Each tree can only yield 2 Maple Leaves before being depleted and needs to wait to respawn. As of the recent world wipe, maple leaves respawn on trees, based on decay ticks. This means that respawn is very much random.
+
+Maple Leaves can be can be composted.
+
+[[File:Pick_Leaves.png|frame|right|Game menu showing the Pick Leaves option when right clicking a maple tree]]
+
+[[Category:Forageables]]</text>
+      <sha1>lghwl9wi6tme1cjg639ggpo9udrxxu4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Oyster;1, Meatsmoker;1
+| Weight=0.10 kg

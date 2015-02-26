@@ -1,0 +1,23 @@
+Crafted
+| Objects required=Oiled Board;1, Leather;1, Golden Corn Oil;.1L,, Plant Fibre;1, Carpenter's Bench;1
+
+Artifact
+| Difficulty=35 to 55
+| Proficiency Type=Arts &amp; Crafts, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=12
+| Impact Power=
+| Impact Defense=6
+| Piercing Power=
+| Piercing Defense=6
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=
+| Slots=

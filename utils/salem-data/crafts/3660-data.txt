@@ -1,0 +1,20 @@
+Crafted | Objects required=Pumpkin Flesh;1, Jack-o-Lantern;1, Connecticut Field;1, Autumn Gold;1, Bushkin;1, Harvest Moon;1, Small Sugar;1, New World Gourd;1 
+Food | Hea...&quot;</comment>
+      <text xml:space="preserve" bytes="749">{{Crafted
+| Objects required=Pumpkin Flesh;1, Jack-o-Lantern;1, Connecticut Field;1, Autumn Gold;1, Bushkin;1, Harvest Moon;1, Small Sugar;1, New World Gourd;1
+
+Food
+| Heals=70,40,40,40
+| Uses=8
+| Min Blood=80 | Max Blood=100
+| Min Phlegm=80 | Max Phlegm=100
+| Min Yellow Bile=80 | Max Yellow Bile=100
+| Min Black Bile=80 | Max Black Bile=100
+| Gluttony Time=4:00
+| Food Groups= Pumpkins and Gourds
+| FoodReduce1= Pumpkins and Gourds | %Reduce1=95 | %ChanceReduce1=95
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

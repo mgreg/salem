@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Filet of any Fish;1, Stone;4
+
+VariableFoodFish
+| Heals=4.5,2.5,8,5
+| Uses=1
+| Min Blood=10 | Max Blood=12
+| Min Phlegm=10 | Max Phlegm=12
+| Min Yellow Bile=10 | Max Yellow Bile=12
+| Min Black Bile=10 | Max Black Bile=12
+| Gluttony Time=0:15
+| Food Groups= Fishes
+| FoodReduce1= Fishes | %Reduce1=20 | %ChanceReduce1=20
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

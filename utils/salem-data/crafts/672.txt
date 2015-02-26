@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dry Board</title>
+    <ns>0</ns>
+    <id>672</id>
+    <revision>
+      <id>11989</id>
+      <parentid>11812</parentid>
+      <timestamp>2015-02-26T00:19:49Z</timestamp>
+      <contributor>
+        <username>Yes</username>
+        <id>14</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1127">{{Crafted 
+| Objects required=Timber Pile;1
+| Weight=3.50 kg
+}} 
+|}
+
+==About==
+
+A Dry Board is created by building a [[Timber Pile]] and letting it dry for 133 hours(5 Days, 13 Hours).  Dry boards can then be taken from the Timber Pile.  If not placed properly (At east 5 tiles away from any other object, except [[Tilled Field]]s), Timber Piles will give [[Moldy Board]]s rather than Dry Boards.
+
+Each pile produces 40 Boards.
+
+There seems to be a random roll every so often while a Timber Pile is drying for it to be infected with Mold.  Once infected, the number of moldy boards will continue to increase until the drying finishes.  The better the pile's situation, the less likely the infection is to occur, but if you get unlucky, even a well placed pile can end up full of mold.
+
+Dry Boards can be used to create [[Planed Board]]s, or [[Wood Choppings]], at a [[Carpenter's Bench]].  Planed Boards are given if the action is successful, and 2 Wood Choppings are given otherwise.  The success rate is based on the character's [[Hammer &amp; Nail]] Proficiency.
+
+'''Any Recipe that uses a [[Board]] can also use a Dry Board.'''</text>
+      <sha1>dy7pviv4niwuqzsl5di6s3gz7axrweu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

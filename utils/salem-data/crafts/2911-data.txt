@@ -1,0 +1,23 @@
+Crafted
+| Objects required=Clay Pot;1,Fireplace;1
+
+Artifact
+| Difficulty=10 to 0
+| Proficiency Type=Sugar &amp; Spice, Thread &amp; Needle
+| Common Combat Power=
+| Common Combat Defense=1
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=5
+| Production=2
+| Pockets=
+| Slots=

@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Blister Steel Bar;3, Wooden Handle;1, Anvil;1

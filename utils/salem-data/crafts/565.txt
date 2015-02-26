@@ -1,0 +1,67 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Seeds of Cotton</title>
+    <ns>0</ns>
+    <id>565</id>
+    <revision>
+      <id>9840</id>
+      <parentid>8973</parentid>
+      <timestamp>2014-11-02T04:12:23Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="653">{{Crafted
+| Objects required=Raw Cotton;1
+}}
+|}
+
+==About==
+
+These seeds allow you to grow cotton which are used to produce various tiers of [[Cotton Cloth]].
+
+A [[Tilled Field]] prepared with humus requires 50 seeds of cotton in order to plant the field.
+
+A vendor in [[Providence]] sells 50 seeds of Cotton for 175 [[Silver Pieces]].
+
+You can also obtain seeds of Cotton after harvesting [[Raw Cotton]] by using the [[Clean Cotton]] crafting option, which you need to do anyway in order to process the cotton.
+
+Cotton Seeds give the best yield for Oil when using a [[Press]].
+
+Seed [[Purity]] is one of the three factors that influences Harvest Purity.</text>
+      <sha1>3do58037h3ns5bp23ayx3qcgmqev95o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

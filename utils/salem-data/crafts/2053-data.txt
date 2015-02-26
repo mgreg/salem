@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Leather;3
+
+Clothing
+| Equipment Slot=Feet
+| Artificer Slots=2

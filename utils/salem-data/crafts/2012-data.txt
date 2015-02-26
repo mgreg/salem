@@ -1,0 +1,22 @@
+Crafted
+| Objects required=Serrated Grimthorn;2, Thorn;8, Plant Fibre;2
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=1750
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1200
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=800
+| Sugar &amp; Spice=
+| Thread &amp; Needle=2000
+| Natural Philosophy=
+| Perennial Philosophy=350
+| Uses=1
+
+#IFEQ: {{PAGENAME

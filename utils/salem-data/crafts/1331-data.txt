@@ -1,0 +1,4 @@
+Crafted  | Objects required=Tilled Field;1, Seeds of Cereal;50  
+Crafted
+
+| Objects required=Tilled Field;1, Seeds of Cereal;50

@@ -1,0 +1,3 @@
+Crafted 
+| Objects required=Any Silk;10, Loom;1
+| Weight=0.20 kg

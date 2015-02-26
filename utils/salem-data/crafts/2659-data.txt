@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Bear Claw; 3, Animal Glue;3, Bone;4, Bone Beadwork;2
+
+Clothing
+| Equipment Slot=Waist
+| Artificer Slots=3

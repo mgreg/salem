@@ -1,0 +1,24 @@
+Skill
+| Description=Gardening allows you to plant wild plants acquired through foraging in Gardening Pots.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=675
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=200
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Floriculture, Vegetable Potting, Fungiculture
+| Crafts unlocked=Columbine Paste, Garlic Braid
+| Builds unlocked=
+| Others unlocked=Gardening Pot, Any Bellpeppers, Green Bell Peppers, Red Bell Peppers, Garlic, Beaming-Proud Sunflower, Sunny Sunflower, Baby Bear, Sprouted Garlic Clove, Clove of Garlic
+
+-
+#ifeq:{{{transcludesection|stagesofgardenpot

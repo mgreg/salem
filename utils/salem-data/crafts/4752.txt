@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Curious Potato</title>
+    <ns>0</ns>
+    <id>4752</id>
+    <revision>
+      <id>11537</id>
+      <parentid>11535</parentid>
+      <timestamp>2015-02-17T07:46:05Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1097">{{Crafted
+| Objects required=Tilled Field;1
+}}
+{{Inspirational Food 
+| Heals=10,10,10,10
+| Min Blood=0 | Max Blood=0
+| Min Phlegm=13 | Max Phlegm=19
+| Min Yellow Bile=0 | Max Yellow Bile=0
+| Min Black Bile=0 | Max Black Bile=0
+| Gluttony Time=0:45
+| Food Groups=Potato Foods
+| FoodReduce1=Potato Foods | %Reduce1=30 | %ChanceReduce1=70
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=650
+| Law &amp; Lore=
+| Mines &amp; Mountains=950
+| Pots &amp; Pans=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=2200
+| Sugar &amp; Spice=1150
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1
+}}
+
+==About==
+Acquired rarely when harvesting [[Any Potato|Potatoes]].
+
+==Flavor Text==
+''An old face grown weary in consternation, bemoaning days of mispent youth and the newfound aches of life's twilight.</text>
+      <sha1>9qqauar8s8dzhbouxagth7stcq4vjmw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

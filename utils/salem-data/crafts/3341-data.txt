@@ -1,0 +1,3 @@
+Crafted | Objects required=Otto of Rose;.1L, Vegetable Oil;10L 
+Crafted
+| Objects required=Otto of Rose;.1L, Vegetable Oil;10L

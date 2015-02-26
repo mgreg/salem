@@ -1,0 +1,9 @@
+Crafted
+| Objects required=Wool;3
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=3
+
+PAGENAME
+PAGENAME

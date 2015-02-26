@@ -1,0 +1,12 @@
+Crafted
+| Objects required=
+
+i|Farmer's Hoe
+i|Garden Shovel
+i|Hand Saw
+i|Hellfire Tongs
+i|Hunting Knife
+i|King's Purse
+i|Pitchfork
+i|Prospector's Pan
+i|Rolling Pin

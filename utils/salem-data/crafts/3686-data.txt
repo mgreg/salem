@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Radish;2, Coarse Salt;1
+
+SpecialFood
+| Heals=7,7,16,7.5
+| Uses=1
+| Min Blood=0 | Max Blood=0
+| Min Phlegm=0 | Max Phlegm=0
+| Min Yellow Bile=10 | Max Yellow Bile=14
+| Min Black Bile=0 | Max Black Bile=0
+| Gluttony Time=0:15
+| Food Groups=Vegetables and Greens
+| FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10
+| FoodReduce2= | %Reduce2=10 | %ChanceReduce2=10
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

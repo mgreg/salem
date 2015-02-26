@@ -1,0 +1,3 @@
+Crafted | Objects required=Spruce Tree;1 
+Crafted
+| Objects required=Spruce Tree;1

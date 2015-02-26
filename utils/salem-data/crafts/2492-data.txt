@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Cotton Cloth;1

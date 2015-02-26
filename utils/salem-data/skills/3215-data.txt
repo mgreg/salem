@@ -1,0 +1,21 @@
+Skill
+| Description=Potions &amp; Poultices allow you to craft several new and exciting medicinal recipes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=2600
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=3200
+| Thread &amp; Needle=
+| Natural Philosophy=7500
+| Perennial Philosophy=1400
+| Skills unlocked=
+| Crafts unlocked=Sweet'n'Thorny Refresher
+| Builds unlocked=
+| Others unlocked=

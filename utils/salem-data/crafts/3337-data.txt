@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Glass Pane;1

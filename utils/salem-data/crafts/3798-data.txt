@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Salem Crappy Meal;1
+
+SpecialFood
+| Heals=20,15,20,15
+| Uses=4
+| Min Blood=35 | Max Blood=50
+| Min Phlegm=35 | Max Phlegm=50
+| Min Yellow Bile=35 | Max Yellow Bile=50
+| Min Black Bile=35 | Max Black Bile=50
+| Gluttony Time=2:00
+| Food Groups=Domesticated Meat
+| FoodReduce1=Domesticated Meat | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

@@ -1,0 +1,65 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Whetstone</title>
+    <ns>0</ns>
+    <id>4176</id>
+    <revision>
+      <id>11551</id>
+      <parentid>11459</parentid>
+      <timestamp>2015-02-17T16:05:18Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="913">{{Crafted
+| Objects required=Copper Ore Boulder;1, Granite Boulder;1, Iron Ore Boulder;1, Lime Boulder;1, Rubble Boulder;1, Silver Ore Boulder, Stone Boulder;1,
+}}
+|}
+
+==About==
+
+Whetsones are obtained rarely when mining boulders or stones. 
+
+The Whetstone, when mined from a boulder, will have the same purity as that boulder.  With it, you can sharpen a store bought Sword type weapon and the sword will take on the purity of the Whetstone. In this way, swords can have [[Purity]] which increase the amount of damage done when doing [[Thrust]].
+
+A whetstone can only be used on store bought swords, such as [[Adventurer's Rapier]], [[Claymore]], [[Nobleman's Rapier]], [[Nobleman's Rapier]], or [[Pirate Captain's Sword]], as the [[Spanish Sabre]] takes on the purity on the [[Bar of Pig Iron]] it was crafted with.
+
+Beware, this counts as [[Any Stone]] in recipes and can also be paved.
+
+[[Category:Any Stone]]</text>
+      <sha1>8kxq1smaymp597vqcr5xrxy7l72ipx6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

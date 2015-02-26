@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Bar of Pig Iron;1, Bar of Copper;1

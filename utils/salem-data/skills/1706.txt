@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Rights of Englishmen</title>
+    <ns>0</ns>
+    <id>1706</id>
+    <revision>
+      <id>11759</id>
+      <parentid>11115</parentid>
+      <timestamp>2015-02-20T00:26:22Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1318">{{Skill
+| Description=The Rights of Englishmen allow you to attack other Pilgrims.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=1750
+| Faith &amp; Wisdom=1200
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1600
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Brazier Forging, Compacts &amp; Constitutions, Firearms, Revenge, Sanctioned Mortification, The Story of Cain &amp; Abel, Trespassing
+| Crafts unlocked=English Battleflag, Badge of Battery
+| Builds unlocked=
+| Others unlocked=Rage!
+}}
+
+==In-Game Text==
+
+''&quot;No freeman shall be taken or imprisoned or disseised or exiled or in any way destroyed, nor will we go upon him not send upon him, except by the lawful judgement of his peers or by the law of the land.&quot;
+
+''-The Magna Carta
+
+Divine Providence has seen fit to grant all English freemen the sacred Right of self-defense, and the best defense can at times be offense.  The Rights of Englishmen allow you to attack other Pilgrims.
+
+==About==
+
+Allows you to attack other players.  Before learning this skill, attacks on other players won't land.
+
+Also removes the free teleport option from the Wilderness Guides in Boston and allows you to instead purchase wares from them.</text>
+      <sha1>otb5duxorw1xwpix3m9ih5s16mfarmo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

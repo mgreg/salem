@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Carpentry</title>
+    <ns>0</ns>
+    <id>977</id>
+    <revision>
+      <id>11576</id>
+      <parentid>8133</parentid>
+      <timestamp>2015-02-18T00:18:58Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1240">{{Skill
+| Description=Carpentry allows you to construct sawbucks and to use them to make boards.
+| Arts &amp; Crafts=600
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1375
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Pulleys &amp; Levers, Joinery &amp; Finish, Humble Abodes, Rustic Furniture, Simple Fences
+| Crafts unlocked=Bucket, Crown of Thorns, Stone Saw
+| Builds unlocked=Barrel, Pilgrim's Hovel, Sturdy Sled, Sawbuck, Torchpost, Wooden Box, Wooden Sign,
+| Others unlocked=Coffin Plank, Board, Fresh Board
+}}
+
+==In-Game Text==
+
+''&quot;Sure if they cannot cut, it may be said His saws are toothless, and his hatchets lead.&quot;
+
+''-Alexander Pope, Epilogue to Satires
+
+Few skills are as important in the early days of a colony as that of carpentry.  The noble art of molding, shaping and forging the prime timber of the New World into objects and items useful for the further advancement of faith and civilization is an essential skill for almost any would-be colonist.  Carpentry allows you to construct sawbucks and to use them to make boards.
+
+==About==</text>
+      <sha1>kl53l1i9rbi28kwvhgowuyqexm3l7fn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

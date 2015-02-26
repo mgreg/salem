@@ -1,0 +1,24 @@
+Crafted
+| Objects required=Bone;1, Plant Fibre;1
+
+Artifact
+| Difficulty=15 to 5
+| Proficiency Type=Arts &amp; Crafts, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=6
+| Impact Power=
+| Impact Defense=3
+| Piercing Power=
+| Piercing Defense=3
+| Feral Defense=3
+| Criminality=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=
+| Slots=

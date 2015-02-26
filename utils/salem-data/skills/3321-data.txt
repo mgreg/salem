@@ -1,0 +1,21 @@
+Skill
+| Description=Pockets not only increase inventory space but also still allow fast-travel while full.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=6900
+| Natural Philosophy=3300
+| Perennial Philosophy=1200
+| Skills unlocked=
+| Crafts unlocked=Side Pocket, Inner Pocket, Hidden Holdout Pocket
+| Builds unlocked=
+| Others unlocked=

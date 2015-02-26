@@ -1,0 +1,21 @@
+Skill
+| Description=Patchwork &amp; Rags allows the making of primitive clothing.
+| Arts &amp; Crafts=200
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=660
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Sewing, Weaving, Cobbling
+| Crafts unlocked=Rags, Snakeskin Belt, Haybales, Hide Cape, Brown Pants, Jute Cap, Bone Beadwork, Raggy Hem, Puritan's Hat, Frontiersman's Duster, Jute Pants, Patchwork Pocket, Seashell Buttons, Jute Shirt, Bone Buttons
+| Builds unlocked=Fish Trap
+| Others unlocked=

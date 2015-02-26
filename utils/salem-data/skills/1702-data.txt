@@ -1,0 +1,21 @@
+Skill
+| Description=Backalley Pugilism gives you new attacks for use in unarmed combat.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=1000
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1000
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=600
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Fast Moves, Fencing, Clubbing, Polearms
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=Uppercut, Roundhouse Kick

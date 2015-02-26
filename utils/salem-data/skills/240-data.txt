@@ -1,0 +1,21 @@
+Skill
+| Description=Settling allows you to Homestead land and construct a small but functional dwelling.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=320
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=700
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=600
+| Stocks &amp; Cultivars=300
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=200
+| Perennial Philosophy=45
+| Skills unlocked=Locksmithing, Simple Fences, Compacts &amp; Constitutions, Humble Abodes, Seamanship, Pulleys &amp; Levers
+| Crafts unlocked=
+| Builds unlocked=Stake Claim
+| Others unlocked=

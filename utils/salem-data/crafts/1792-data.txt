@@ -1,0 +1,26 @@
+Crafted
+
+| Objects required=Sea Island Cotton Cloth;4, Amber Coarse-Grain Thread;1
+
+
+Artifact
+| Difficulty=80 to 40
+| Proficiency Type=Perennial Philosophy
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Criminality=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=1
+| Slots=

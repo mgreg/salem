@@ -1,0 +1,21 @@
+Skill
+| Description=Culminates the teachings of cutting and shaping of Gemstones.
+| Arts &amp; Crafts=8300
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=16700
+| Mines &amp; Mountains=21500
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Starburst-Cut Dravite, Starburst-Cut Phosphophyllite, Starburst-Cut Rubellite
+| Builds unlocked=
+| Others unlocked=Starburst Cut

@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Sea Island Cotton Cloth;5, Silk Cloth;5, Glass Buttons;1, March Hare Tail;1
+
+Clothing
+| Equipment Slot=Coat
+| Artificer Slots=5

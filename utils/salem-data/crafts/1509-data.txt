@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Swim Bladder;1, Drying Frame;1
+| Weight=0.09 kg

@@ -1,0 +1,21 @@
+Skill
+| Description= Forestry allows you to plant trees.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=3650
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=8000
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=4500
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Shrub Orchards
+| Crafts unlocked=Lumberwood Bonsai
+| Builds unlocked=
+| Others unlocked=Red Maple Cutting, Grand Maple Cutting, Spruce Cutting, Oak Cutting, Elm Cutting, Birch Cutting, Hickory Cutting, Willow Cutting, Cutting

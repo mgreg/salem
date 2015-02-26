@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Stuffed Turkey;1, Wild Stuffed Turkey;1
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=1500
+| Faith &amp; Wisdom=2500
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=3000
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=2000
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1

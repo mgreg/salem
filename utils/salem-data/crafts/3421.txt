@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Spring</title>
+    <ns>0</ns>
+    <id>3421</id>
+    <revision>
+      <id>7380</id>
+      <parentid>7377</parentid>
+      <timestamp>2014-08-19T19:50:05Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* About */</comment>
+      <text xml:space="preserve" bytes="826">{{Crafted
+| Objects required=Spring Pack;1
+}}
+|}
+
+==About==
+
+The Spring can be bought from Salem Store for 2.99 USD for a single Spring, 12.99 USD for a pack of 9 Springs, or 19.99 USD for a pack of 20, the best value. Upon opening its box, you will find your Springs inside.  They can be attached to a Gate on any type of fence.  The spring will cause your gates to automatically close after 15 seconds.  
+
+Good for extra security in highly valuable inner base areas, or applying to all your gates if you buy the larger packs.
+
+Be warned that Salem is open PvP and open loot, so if you are carrying your springs around with you, and you get KOed, they may be stolen.  Salem also allows for the destruction of property; if your gate with spring installed is destroyed, you won't get the spring back.
+
+[[Category:Store Bought]]</text>
+      <sha1>8o0gfjrcgp3gawrh7fc3bi6ovl892tf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

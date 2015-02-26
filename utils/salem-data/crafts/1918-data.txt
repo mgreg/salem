@@ -1,0 +1,18 @@
+Crafted
+|Objects required=Raw Bear Cut;3, Any Berries;3, Stove;1
+
+VariableFoodBerries
+| Heals=32,17,20,25
+| Uses=1
+| Min Blood=24 | Max Blood=26
+| Min Phlegm=24 | Max Phlegm=26
+| Min Yellow Bile=24 | Max Yellow Bile=26
+| Min Black Bile=24 | Max Black Bile=26
+| Gluttony Time=0:30
+| Food Groups=Berries
+| FoodReduce1=Berries | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

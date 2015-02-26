@@ -1,0 +1,2 @@
+Crafted 
+| Objects required=Tea Leaves;1, Chest;1, Wooden Box;1

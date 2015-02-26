@@ -1,0 +1,22 @@
+Crafted | Objects required=Dead Rat;11 
+Inspirational | Arts &amp; Crafts= | Cloak &amp; Dagger=750 | Faith &amp; Wisdom= | Flora &amp; Fauna= | Hammer &amp; Nail= | Herbs &amp; Sprouts= | Hunt...&quot;</comment>
+      <text xml:space="preserve" bytes="378">{{Crafted
+| Objects required=Dead Rat;11
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=750
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=1700
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1750
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=200
+| Perennial Philosophy=2700
+| Uses=3

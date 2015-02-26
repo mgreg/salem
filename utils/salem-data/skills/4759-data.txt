@@ -1,0 +1,21 @@
+Skill
+| Description=Provides the knowledge of sifting through and spotting the treasures it hides.
+| Arts &amp; Crafts=1600
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=2400
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=1300
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Sifting Pan, Vial of Gold Flakes
+| Builds unlocked=
+| Others unlocked=Any Gem, Black Sand, Dravite, Goldflakes,Phosphophyllite, Rubellite, Uvarovite

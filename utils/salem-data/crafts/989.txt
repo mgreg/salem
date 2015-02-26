@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Any Corn</title>
+    <ns>0</ns>
+    <id>989</id>
+    <revision>
+      <id>9758</id>
+      <parentid>8483</parentid>
+      <timestamp>2014-10-29T22:10:48Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1879">{{Crafted
+| Objects required=Tilled Field;1
+}}
+|}
+==About==
+[[Corn]] can be harvested at two growth stages, yielding either [[Baby Corn]] or [[Seeds of Corn]] if you allow it to mature.  Only the second mature phase will allow you to replant a field, so don't be too eager to harvest your crop unless you want [[Baby Corn]] (and have seeds in reserve).
+
+When Corn is mature, it is larger and lusher than it was in the baby corn stage, and the ears of corn will be visible on the stalk.
+
+Unlike Cereals, harvested corn yields the seeds themselves rather than an intermediate item.  Milling the Seeds of Corn is what gives you Corn Meal.
+
+Milling Corn provides [[Cornmeal]] of the same purity as the seeds.
+
+Corn uses the #1 and #3 influences (which come from Cabbage and Cotton, respectively) and adds to the Green influence just like Cereals do.
+
+==Yield==
+If you have a field with 100% plenty, you will get 50 [[Seeds of Corn]].  Divide Plenty by 2 (rounding down) to get your yield.
+
+==Varieties==
+There are 4 different varieties of Corn that can be produced from a field.  The variety you get depends on the total accumulated influence of [[Cabbage]] (red bar) and [[Cotton]] (blue bar).
+
+*[[Yellow Corn]]: Total accumulated influence is less than 100
+*[[White Corn]]: 100 to 150 Total, but with more Red than blue.
+*[[Blue Corn]]: 100 to 150 Total, but with more Blue then red.
+*[[Golden Corn]]: 150+ Total, balance does not matter.
+
+
+==Notes==
+*Corn was introduced in Thanksgiving of 2012 as a part of the [[Colonial Relief Package]] which was given to the players then. Unlike any other crop, its seeds cannot be produced on your own (like [[Pumpkin]]s) or purchased from an NPC stall.  '''The only way to acquire [[Seeds of Corn]] is from another player'''.  This means, interestingly enough, that ALL Corn is descended from the original seeds distributed on Thanksgiving.</text>
+      <sha1>frzg89dtvtqzuuxgbdhr9h904bi65ln</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

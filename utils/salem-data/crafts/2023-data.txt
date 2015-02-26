@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Silk Cloth;4, Polished Buttons;1
+
+Clothing
+| Equipment Slot=Legs
+| Artificer Slots=3

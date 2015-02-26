@@ -1,0 +1,23 @@
+Crafted
+| Objects required=Leather;3, Any Silk;2, White Corn Oil;.1L
+
+Artifact
+| Difficulty=30 to 15
+| Proficiency Type=Mines &amp; Mountains, Thread &amp; Needle
+| Common Combat Power=
+| Common Combat Defense=5
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=20
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=4
+| Pockets=
+| Slots=

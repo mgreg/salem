@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Flour</title>
+    <ns>0</ns>
+    <id>891</id>
+    <revision>
+      <id>9244</id>
+      <parentid>9243</parentid>
+      <timestamp>2014-10-10T21:57:46Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1235">{{Crafted
+| Objects required=Ear of Cereal;1, Grindstone;1, Copper Grinder;1, Windmill;1
+}}
+|}  
+
+
+&quot;Flour&quot; is a generic term which represents four different types of flour available in the game and which is crafted by grinding the [[Ear of Cereal]]s produced from Cereal fields in a [[Windmill]] or in a slower [[Copper Grinder]] or much slower [[Grindstone]]. 
+
+Any recipe which states &quot;Flour&quot; as ingredient allows you to use any tier of flour, and each type will create a food with different properties.
+
+The different tiers of flour available are:
+
+{| border=&quot;2&quot; style=&quot;width: 770px;&quot;
+! Tier 1 !! Tier 2 !! Tier 4
+|-
+| style=&quot;vertical-align: top; text-align: center;&quot;| [[Oatmeal]]
+| style=&quot;vertical-align: top; text-align: center;&quot;| [[Rye Flour]]&lt;br/&gt;[[Barley Flour]]
+| style=&quot;vertical-align: top; text-align: center;&quot;| [[Wheat Flour]] 
+|-
+|}
+
+One [[inventory]] slot can hold up to 0.50 kg of Flour.
+One [[Ear of Cereal]] can produce up to 2.0 kg of Flour.
+
+ 
+Flour inherits the purity of the [[Ear of Cereal]] it is created from, combining different batches of flour in a [[Barrel]] or [[Dry Goods Bag]] averages the purity and cannot be reversed. Mixing different types of flour results in generic &quot;Flour&quot; and cannot be separated.</text>
+      <sha1>om1y8mcknu1tj6lzbz9tzrii3tb7v9l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

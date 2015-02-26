@@ -1,0 +1,3 @@
+Crafted | Objects required=Horribly Rotten Walnut;1, Seaweed;2, Bark Fibres;2, Charred Milkweed Fibre;3 
+Crafted
+| Objects required=Horribly Rotten Walnut;1, Seaweed;2, Bark Fibres;2, Charred Milkweed Fibre;3

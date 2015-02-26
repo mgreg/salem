@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Darkenbone;1, Grindstone;1, Copper Grinder;1

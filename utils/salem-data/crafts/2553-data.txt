@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Raggy Hem;2, Indian Cotton Cloth;5, Egyptian Cotton Cloth;1, Antler Buttons;1
+
+Clothing
+| Equipment Slot=Legs
+| Artificer Slots=3

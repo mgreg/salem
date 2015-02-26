@@ -1,0 +1,19 @@
+Crafted
+| Objects required=Dehydrated Cranberry;1, Roasted Chestnut;1, Roasted Pine Nuts;1, Dehydrated Blackberry;1, Dehydrated Crowberry;1, Dehydrated Huckleberry;1, Roasted Hickory Nut;1, Walnut;1
+| Weight=0.10 kg
+
+Food
+| Heals=13,20,13,9
+| Uses=20
+| Min Blood=2 | Max Blood=4
+| Min Phlegm=2 | Max Phlegm=4
+| Min Yellow Bile=2 | Max Yellow Bile=4
+| Min Black Bile=2 | Max Black Bile=4
+| Gluttony Time=0:01 
+| Food Groups=Nuts and Seeds 
+| FoodReduce1=Nuts and Seeds | %Reduce1=5 | %ChanceReduce1=5
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

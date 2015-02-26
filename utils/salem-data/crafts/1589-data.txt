@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Pumpkin Flesh;5, Any Bellpeppers;1, Raw Venison Steak;1, Tomato;1, Stove;1
+
+VariableFoodPumpkins
+| Heals=17.5,17.5,17.5,17.5
+| Uses=1
+| Min Blood=23 | Max Blood=26
+| Min Phlegm=23 | Max Phlegm=26
+| Min Yellow Bile=23 | Max Yellow Bile=26
+| Min Black Bile=23 | Max Black Bile=26
+| Gluttony Time=0:30 
+| Food Groups= Pumpkins and Gourds
+| FoodReduce1= Pumpkins and Gourds | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

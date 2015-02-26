@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locksmithing</title>
+    <ns>0</ns>
+    <id>1398</id>
+    <revision>
+      <id>11637</id>
+      <parentid>8176</parentid>
+      <timestamp>2015-02-18T06:07:24Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2787">{{Skill
+| Description=Locksmithing gives you the ability to craft a simple bolt-lock, which can be installed on gates, doors, chests and the like to prevent it from being opened by outsiders, and also allows you to make new copies of keys for kith and kin.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1000
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1000
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1000
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Mechanics
+| Crafts unlocked=Key, Keyring, Lock, Master Copy of Key, Slave Copy of Key
+| Builds unlocked=
+| Others unlocked=}}
+
+==In-Game Text==
+
+''&quot;And I will give unto thee the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven.&quot;
+
+''-Matthew 16:19, King James' Bible
+
+The gift of a key to one's Homestead, Chest or House is one of most solemn trusts that can be bestowed upon a friend.  Locksmithing gives you the ability to craft a simple bolt-lock, which can be installed on gates, doors, chests and the like to prevent it from being opened by outsiders, and also allows you to make new copies of keys for kith and kin.
+
+==About==
+
+*Craft a [[Key]] and a [[Lock]].
+
+*Use the [[Key]] on the [[Lock]] (in your inventory) with right-click to associate it.
+
+*Add the [[Lock]] to a [[Chest]], or Gate by right-clicking the lock on it.
+
+*In order to use any key, it must be attuned to the character.  Keys are automatically attuned to their creator when they are made.  To attune a key to a different character, right-click the key on the character.  Keys may only be attuned to one character at a time, so attuning them to another character will make them unusable for you.  Key name color: green = attuned to you; red = not attuned to you.
+
+*Any of the keys may be held in a [[Keyring]], the Keyring can be equipped and will not be lost if you are knocked out.
+
+*Right clicking on any key allows you to rename it.
+
+*Tip: Always make a spare master key to keep on an alt (and attuned to that alt) in case your character is killed and its keyring stolen.  If your keys are stolen, you will not be able to enter your own base or open your own locked containers.  Everything will have to be broken and rebuilt.
+
+==Types of Keys==
+
+There are three types of key that can be created by a locksmith.
+
+*[[Key]] is the original master key.  Copies may be made from it.
+
+*[[Master Copy of Key]] is a copy of the [[Key]] that acts as a master key and '''can''' be used to make additional copies.
+
+*[[Slave Copy of Key]] is a copy of the [[Key]] that only operates locks, and '''cannot''' be used to make copies.</text>
+      <sha1>2dlyiotskjgivk51rnf0f5ub00oyo8n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

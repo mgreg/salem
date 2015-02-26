@@ -1,0 +1,3 @@
+Crafted | Objects required=Knife Blade;1, Knife Hilt;1 
+Crafted
+| Objects required=Knife Blade;1, Knife Hilt;1

@@ -1,0 +1,8 @@
+Crafted | Objects required=Dried Wishpoosh Hide;6 
+Clothing | Equipment Slot=Cloak | Artificer Slots=4 
+Crafted
+| Objects required=Dried Wishpoosh Hide;6
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=4

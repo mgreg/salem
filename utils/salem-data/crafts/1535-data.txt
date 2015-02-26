@@ -1,0 +1,21 @@
+Crafted
+| Objects required=Dead Rabbit;1
+| Weight=0.13 kg
+
+Inspirational
+| Arts &amp; Crafts=1500
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=900
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1350
+| Mines &amp; Mountains=1750
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=1750
+| Uses=1

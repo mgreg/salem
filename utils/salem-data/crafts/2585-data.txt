@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Leather;4, Copper Buttons;2
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=3

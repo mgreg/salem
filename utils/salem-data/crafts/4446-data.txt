@@ -1,0 +1,11 @@
+Crafted
+| Objects required=Rusty Coin;1, Bucket of Water;1
+
+i|American Plantations Token
+i|Elephant Token
+i|Hibernia Copper
+i|Lord Baltimore Coin
+i|New Yorke Token
+i|Rosa Americana Token
+i|Sommer Islands Coin
+i|St. Patrick Copper

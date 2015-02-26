@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Indian Cotton Cloth;1, Egyptian Cotton Cloth;1, Sharpened Stick;3
+
+Inspirational
+| Arts &amp; Crafts=750
+| Cloak &amp; Dagger=2000
+| Faith &amp; Wisdom=1250
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1000
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=2500
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=4

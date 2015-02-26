@@ -1,0 +1,3 @@
+Crafted | Objects required=Any Berries;7, Sugar;.15kg, Oatmeal;.25kg 
+Crafted
+| Objects required=Any Berries;7, Sugar;.15kg, Oatmeal;.25kg

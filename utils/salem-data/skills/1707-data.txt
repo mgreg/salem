@@ -1,0 +1,21 @@
+Skill
+| Description=The Story of Cain &amp; Abel grants the ability to murder other Pilgrims.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=37500
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=2000
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=11200
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Pirate Captain's Coat,Pirate Captain's Sash,Pirate Captain's Shirt,Pirate Captain's Pants
+| Builds unlocked=
+| Others unlocked=Killing Blow

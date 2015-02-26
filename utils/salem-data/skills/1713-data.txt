@@ -1,0 +1,21 @@
+Skill
+| Description=Unto those who will not be growing old Larceny grants the ability to steal items from Homesteaded property.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=4000
+| Faith &amp; Wisdom=2500
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=3500
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Grave Robbing, Waste
+| Crafts unlocked=Badge of Plunder
+| Builds unlocked=
+| Others unlocked=

@@ -1,0 +1,21 @@
+Skill
+| Description=Rudimentary Triage represents the beginnings of medical knowledge and teaches settlers how to bandage wounds and tend broken bones.
+| Arts &amp; Crafts=960
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=890
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=1400
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Crude Splint, Tourniquet
+| Builds unlocked=
+| Others unlocked=

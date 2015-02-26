@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Flour;0.45,Leaf of White Cabbage;2, Leaf of Green Cabbage;1, Bucket of Water;0.75, Baking Table;1

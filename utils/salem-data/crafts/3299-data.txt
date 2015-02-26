@@ -1,0 +1,24 @@
+Crafted
+| Objects required=Glass Pane;5, Any Silk;2
+
+Artifact
+| Difficulty=40 to 20
+| Proficiency Type=Mines &amp; Mountains, Thread &amp; Needle
+| Common Combat Power=
+| Common Combat Defense=7
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Criminality=
+| Soil Digging=
+| Mining=35
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=8
+| Pockets=
+| Slots=

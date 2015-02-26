@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Cotton Shirt;1, Needle;1, Sea Island Cotton Cloth;5
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=4

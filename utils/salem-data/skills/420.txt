@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tanning</title>
+    <ns>0</ns>
+    <id>420</id>
+    <revision>
+      <id>8213</id>
+      <parentid>7751</parentid>
+      <timestamp>2014-09-24T00:45:07Z</timestamp>
+      <contributor>
+        <username>Tylan</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="3504">{{Skill
+| Description=Tanning allows you to scrap hides in preparation for tanning, prepare tanning fluid and construct tanning tubs.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=850
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=2650
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=1275
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Fine Leathercraft
+| Crafts unlocked=Limed Hide, Storm Hat, Stuffed Leather Ball, Leather Planter's Pouch, Trapper Jacket, Seaweed Wobbler, Farmer's Jacket, Backpack, Canoe, Studded Leather, Leather-Knot Detail, Taxidermist's
+| Builds unlocked=Tanning Tub
+| Others unlocked=Leather, Foetid Ooze, Brain
+}}
+
+==In-Game Text==
+
+''&quot;Every animal has enough brains to preserve its skin.  Dead or alive.&quot;
+
+''-Old trapper wisdom
+
+While the old folksy wisdom of the backwoods may not apply to Rumtifusels or Gumberoos, the saying nevertheless has a distinct essence truth to it. By mixing the mashed brain substance of an animal with water a tanning fluid can be created which is rich in natural tannings and which more often than not should suffice to transform the skin of that same animal into the finest leather for use in bookbindings, clothes or other purposes. Beware, though that the dried hides must first be scraped with Water of Lime to remove hair, fat and flesh before the tanning can commence. Tanning allows you to scrape hides in preparation for tanning, prepare tanning fluid and construct tanning tubs.
+
+==About==
+
+Also allows the player to get brains from butchering a large animal.
+
+&lt;onlyinclude&gt;{{#ifeq:{{{transcludesection|howtotan}}}|howtotan|
+
+== How to Tan Hides == 
+
+# Place a raw hide on a [[Drying Frame]]. It'll become a [[Dried Hide]] after 8 hours.
+# Use [[Lime]] on a [[Bucket]] of Water to make [[Milk of Lime]]
+# Craft [[Limed Hide]] from the craft menu
+# Use a [[Brain]] on a 10L [[Bucket]] of Water to make a bucket of 10L [[Tanning Fluid]] (concentration is 5%).
+# Place up to four [[Limed Hide]]s into the tub
+# Pour the [[Tanning Fluid]] into [[Tanning Tub|tanning tub]] and wait. Make sure to add 10L of [[Tanning Fluid]] per hide you wish to tan.
+# Every time a hide tans 100% it consumes 10L of [[Tanning Fluid]] and is converted into [[Leather]]. There's a chance of getting [[Foetid Ooze]] instead, if that happens the [[Tanning Fluid]] will not be consumed.
+
+
+'''Note:''' 
+* Whilst on the [[Drying Frame]] or [[Tanning Tub]] a faint white dial appears over the hide icon in the Default Client to indicate its progress.  Ender's Client uses a colored bar.
+* Solution concentration doesn't affect tanning time. High concentration raises resulting leather quality a little bit.
+* Plain water can be added to the [[Tanning Tub|tanning tub]] if it's not empty.
+* Adding plain water dilutes the solution requiring a [[brain]] to be added. If the solution falls under 5%, the hides will not tan.
+* A [[Brain]] can be added directly to the [[Tanning Tub|tub]] if the solution falls under this concentration to bring it back up. Maximum concentration is 10%.
+* [[Brain|Brains]] are only acquired with [[Butchery|butchering]] a dead [[deer]], [[beaver]] or [[March Hare]], and only after [[Tanning]] is learned.
+*If there is not enough fluid to tan the hides, they will still tan, but the progress meter will stop at the very end.  Adding the required tanning fluid will instantly complete the tanning process.
+
+}}&lt;/onlyinclude&gt;</text>
+      <sha1>mtviya64e1jql3gswos83psz2qum77l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

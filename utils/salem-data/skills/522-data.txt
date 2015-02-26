@@ -1,0 +1,40 @@
+Skill
+| Description=Fishing allows you to fish, and to craft a primitive fishing pole.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=300
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=400
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=200
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Waterways
+| Crafts unlocked=A Fish in the Reeds, Birchbark Butterfly, Buddies on a Branch, Cricket Moth, Filet on the Rocks, Makeshift Fishing Rod, Seaweed Masque, Razzle-Tazzle Lure, Tasty Sink-knot,
+| Builds unlocked=Fish Trap
+| Others unlocked=Any Fish, Fish, Filet of Angel-Winged Seabass, Filet of Blueback Tuna, Filet of Cape Codfish, Filet of Darkwater Bluegill, Filet of Ghostly Whitefish, Filet of Gold Pickerel, Filet of Hellish Halibut, Filet of Long-Whiskered Catfish, Filet of Raging Bullhead, Filet of Red-Finned Mullet, Filet of Red Herring, Filet of Sargasso Eel, Filet of Silt-Dwelling Mudsnapper, Filet of Tiger Trout, Filet of Trunk-Nosed Lake Perch
+
+i|Fish
+i|Adventure
+i|Angel-Winged Seabass
+i|Cape Codfish
+i|Red-Finned Mullet
+i|Red Herring
+i|Blueback Tuna
+i|Ghostly Whitefish
+i|Gold Pickerel
+i|Hellish Halibut
+i|Medusa Head Jellyfish
+i|Long-Whiskered Catfish
+i|Raging Bullhead
+i|Silt-Dwelling Mudsnapper
+i|Tiger Trout
+i|Trunk-Nosed Lake Perch
+i|Shin Spinner
+:Lures

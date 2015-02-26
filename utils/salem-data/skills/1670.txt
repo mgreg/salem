@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Venison Cuisine</title>
+    <ns>0</ns>
+    <id>1670</id>
+    <revision>
+      <id>9664</id>
+      <parentid>8223</parentid>
+      <timestamp>2014-10-22T18:41:57Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1200">{{Skill
+| Description=Venison Cuisine allows you to extract more meat when butchering deer, and also gives you access to some fine recipes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=5200
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=2250
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=6200
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Advanced Cooking, Smoked Meats
+| Crafts unlocked=A Side of Venison, Sweet Bambi
+| Builds unlocked=
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;Do thy Venison in the water and let it be therein three days and three nights&quot;
+
+''-The Forme of Cury, 14th Century Cookbook
+
+While an otherwise long established prerogative of Kings and Noblemen, Pilgrims in the new world find themselves with an unusually abundant supply of fine venison.  Venison Cuisine allows you to extract more mat when butchering deer, and also gives you access to some fine recipes.
+
+==About==
+
+This is one of several skills that allow the player to increase the amount of meat obtained from a carcass. Venison Cuisine increases the amount of all meats obtained from a deer.</text>
+      <sha1>d46e8y4jk4ufueohjtilpzdxs8cphc6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

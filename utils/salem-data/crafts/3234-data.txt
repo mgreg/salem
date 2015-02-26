@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Scalp;1
+
+Clothing
+| Equipment Slot= Face, Head
+| Artificer Slots=1

@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Water;1, Fish Trap;1

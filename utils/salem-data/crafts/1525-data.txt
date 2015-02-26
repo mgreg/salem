@@ -1,0 +1,3 @@
+Crafted | Objects required=Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1,Raw Rabbit Steak;1, Raw Beaver Steak;1, Raw Venison Steak;1, Raw Bear Steak;1, Any Raw Steak...&quot;</comment>
+      <text xml:space="preserve" bytes="233">{{Crafted
+| Objects required=Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1,Raw Rabbit Steak;1, Raw Beaver Steak;1, Raw Venison Steak;1, Raw Bear Steak;1, Any Raw Steak;1

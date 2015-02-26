@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Woodblock;1, Branch;3, Maple Leaf;2
+
+Inspirational
+| Arts &amp; Crafts=340
+| Cloak &amp; Dagger=190
+| Faith &amp; Wisdom=340
+| Flora &amp; Fauna=275
+| Hammer &amp; Nail=640
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=350
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=2

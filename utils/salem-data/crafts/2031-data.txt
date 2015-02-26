@@ -1,0 +1,12 @@
+Crafted
+| Objects required=Cotton Cloth;2, Egyptian Cotton Cloth;2, Polished Buttons;2
+
+Clothing
+| Equipment Slot=Coat
+| Difficulty=25 to 15
+| Proficiency Type=Arts &amp; Crafts, Law &amp; Lore, Mines &amp; Mountains, Stocks &amp; Cultivars
+| Artificer Slots=4
+
+PAGENAME
+PAGENAME
+PAGENAME

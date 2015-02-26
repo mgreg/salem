@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Stone Boulder;1
+| Weight=.50 kg

@@ -1,0 +1,7 @@
+Crafted
+
+| Objects required=Limed Hide;1, Tanning Tub;1
+|Weight=1.75 kg 
+
+
+:Tanning|transcludesection=howtotan

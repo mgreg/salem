@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Any Corn;30, Coarse Salt;1, Pumpkinseed Oil;.1L, Frying Pan;1, Stove;1
+
+VariableFoodCorn
+| Heals=6,6,6,6
+| Uses=1
+| Min Blood=1 | Max Blood=2
+| Min Phlegm=1 | Max Phlegm=2
+| Min Yellow Bile=1 | Max Yellow Bile=2
+| Min Black Bile=1 | Max Black Bile=2
+| Gluttony Time=0:01 
+| Food Groups=Maize
+| FoodReduce1=Maize | %Reduce1=5 | %ChanceReduce1=5
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

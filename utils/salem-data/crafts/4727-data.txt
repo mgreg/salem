@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Rubble;1, Sifting Pan;1, Prospector's Pan;1, Water;1
+| Weight=0.05 Kg

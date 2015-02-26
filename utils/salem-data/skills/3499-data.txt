@@ -1,0 +1,21 @@
+Skill
+| Description=Advanced Recipes opens up recipes for the finest foods.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=6500
+| Hunting &amp; Hideworking=6700
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=6500
+| Sugar &amp; Spice=14500
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Berry Bajgiel, Jam Sandwich, Jelly Roll, Brown Bread, Goldtilla, Tamale, Jonah and the Whales, Pisces Iscariot, Sauce Chasseur, Tenderboiled Terrine, Windy Pooh, Venison with Pickled Nuts, Jellypoultry, Lilypoultry, Argomoon, Bushbaby, Funky Pumpkins, Bottomfeeder Bajgiel, Surf &amp; Turf, Wortbaked Wartbite, Dragon's Breath Salad, Fyne Salad
+| Builds unlocked=
+| Others unlocked=

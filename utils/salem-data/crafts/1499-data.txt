@@ -1,0 +1,8 @@
+Crafted | Objects required=Raw Cotton;1 
+Crafted
+| Objects required=Raw Cotton;1
+
+i|Yellow-Stained Cotton
+i|Indian Cotton
+i|Egyptian Cotton
+i|Sea Island Cotton

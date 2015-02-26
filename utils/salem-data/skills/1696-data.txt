@@ -1,0 +1,21 @@
+Skill
+| Description=Mountaineering allows you to ascend steeper slopes than before.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=1500
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=2500
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=800
+| Perennial Philosophy=
+| Skills unlocked=Ascent to the Summit
+| Crafts unlocked=Adventurer's Jacket
+| Builds unlocked=
+| Others unlocked=Rough and Tumble

@@ -1,0 +1,8 @@
+Crafted
+| Objects required=Silver;10000
+
+Clothing
+| Equipment Slot=Neck
+| Difficulty=
+| Proficiency Type=
+| Artificer Slots=

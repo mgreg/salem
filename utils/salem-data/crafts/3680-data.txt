@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Pumpkin Flesh;2, Barley Flour;.15kg, Turkey Egg;1
+
+VariableFoodPumpkins
+| Heals=16,14,14,14
+| Uses=1
+| Min Blood=32 | Max Blood=38
+| Min Phlegm=32 | Max Phlegm=38
+| Min Yellow Bile=32 | Max Yellow Bile=38
+| Min Black Bile=32 | Max Black Bile=38
+| Gluttony Time=3:00
+| Food Groups=Pumpkins and Gourds
+| FoodReduce1=Pumpkins and Gourds | %Reduce1=25 | %ChanceReduce1=15
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

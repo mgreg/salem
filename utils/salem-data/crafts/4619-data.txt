@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Glass Vial;1, Goldflakes;.05
+
+Inspirational
+| Arts &amp; Crafts=425
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=600
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=400
+| Mines &amp; Mountains=2275
+| Sparks &amp; Embers=1100
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=785
+| Perennial Philosophy=
+| Uses=1

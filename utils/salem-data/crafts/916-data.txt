@@ -1,0 +1,3 @@
+Crafted | Objects required=Windmill;1, Yellow Corn;1 
+Crafted
+| Objects required=Windmill;1, Yellow Corn;1

@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Advanced Cooking</title>
+    <ns>0</ns>
+    <id>3499</id>
+    <revision>
+      <id>8105</id>
+      <parentid>7619</parentid>
+      <timestamp>2014-09-23T23:44:39Z</timestamp>
+      <contributor>
+        <username>Tylan</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1508">{{Skill
+| Description=Advanced Recipes opens up recipes for the finest foods.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=6500
+| Hunting &amp; Hideworking=6700
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=6500
+| Sugar &amp; Spice=14500
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Berry Bajgiel, Jam Sandwich, Jelly Roll, Brown Bread, Goldtilla, Tamale, Jonah and the Whales, Pisces Iscariot, Sauce Chasseur, Tenderboiled Terrine, Windy Pooh, Venison with Pickled Nuts, Jellypoultry, Lilypoultry, Argomoon, Bushbaby, Funky Pumpkins, Bottomfeeder Bajgiel, Surf &amp; Turf, Wortbaked Wartbite, Dragon's Breath Salad, Fyne Salad
+| Builds unlocked=
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;Take a Hare, cut it out in quarters, chine it, and lit in in Claret, mixed with three parts of water, and parboyl it, then slice the flesh in pieces, and lay it on your stew pan, let this be off the Body, but the legs wings, and head whole, almost cover it with some of the liquor it was boyled in, and some Butter, sliced Nutmeg, and juice of Lemon, and a little beaten Ginger, serve it upon sipets, Garnish it with Lemon and slice Onion.&quot;
+
+''-The Whole Duty of a Woman: Or a Guide to the Female Sex, 1696
+
+Texture &amp; Presentation are just the beginning when mastering the finer culinary facets.  Advanced Cooking opens up recipes for the finest foods ready to be gobbled.
+
+==About==</text>
+      <sha1>suc8dhzm9k7unumjfn28vn8zsjsblod</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

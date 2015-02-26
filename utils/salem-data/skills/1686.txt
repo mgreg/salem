@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hiking</title>
+    <ns>0</ns>
+    <id>1686</id>
+    <revision>
+      <id>9625</id>
+      <parentid>9621</parentid>
+      <timestamp>2014-10-14T02:33:38Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1049">{{Skill
+| Description=Hiking allows you to cross swamps, and to ascend steeper slopes than before.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=200
+| Hammer &amp; Nail=400
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=300
+| Law &amp; Lore=
+| Mines &amp; Mountains=200
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Hill Climbing, Swimming, Labouring
+| Crafts unlocked=Rope
+| Builds unlocked=
+| Others unlocked=Wander, Heroic
+}}
+
+==In-Game Text==
+
+''&quot;Men go forth to marvel at the heights of mountains and the huge waves of the sea, the broad flow of the rivers, the vastness of the ocean, the orbits of the stars, and yet they neglect to marvel at themselves.&quot;
+
+''-St Augustine of Hippo, Confessions, Book X, Chapter VIII
+
+Providence has blessed the manifold landscapes of the New World with more than an abundant crop of tough terrain and imposing heights.  Hiking allows you to cross swamps, and to ascend steeper slopes than before.
+
+==About==</text>
+      <sha1>lt62m56gc8etd0wkddn6b2ku04zbov2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

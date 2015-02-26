@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Gold Pickerel;1, Axe;1, Metal Axe;1

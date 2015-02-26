@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Stalls;1, Silver Pieces;15, Baking Table;1, Unleavened Crescent Croissant Dough;1, Unleavened Oakworth Tart Dough;1, Unleavened Ryebread Dough;1, Unleavened Baguettes Dough;1

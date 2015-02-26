@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Story of Cain &amp; Abel</title>
+    <ns>0</ns>
+    <id>1707</id>
+    <revision>
+      <id>10408</id>
+      <parentid>8217</parentid>
+      <timestamp>2014-12-17T21:24:53Z</timestamp>
+      <contributor>
+        <username>Sipo</username>
+        <id>11</id>
+      </contributor>
+      <comment>Adjusted requirements</comment>
+      <text xml:space="preserve" bytes="1248">{{Skill
+| Description=The Story of Cain &amp; Abel grants the ability to murder other Pilgrims.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=37500
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=2000
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=11200
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Pirate Captain's Coat,Pirate Captain's Sash,Pirate Captain's Shirt,Pirate Captain's Pants
+| Builds unlocked=
+| Others unlocked=Killing Blow
+}}
+
+==In-Game Text==
+
+''&quot;And the LORD said unto Cain, Where is Abel they brother?  And he said, I know not:  Am I my brother's keeper?&quot;
+
+''-Genesis 4:9, King James' Bible
+
+The Good Lord has seen fit to record in the annals of his Good Book many a sin committed by man for his flock to read and heed, and for the betterment of their immortal souls. Unto those whose concems lie in the present rather than in the hereafter.  The Story of Cain &amp; Abel grants the ability to murder other Pilgrims. 
+
+==About==
+
+To murder a player, it needs to be KOed first, then use the Killing Blow on it.
+
+Murdering a player leaves a Murder scent that allows a player to be tracked and summoned.</text>
+      <sha1>qji9m9r2oa6yhlylq7t6ses4p9fywfl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

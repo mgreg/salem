@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Silk Cloth;4, Glass Buttons;1
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=4

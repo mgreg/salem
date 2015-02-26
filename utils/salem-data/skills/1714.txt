@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Waste</title>
+    <ns>0</ns>
+    <id>1714</id>
+    <revision>
+      <id>11760</id>
+      <parentid>11120</parentid>
+      <timestamp>2015-02-20T00:27:08Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1306">{{Skill
+| Description=Waste allows you to destroy homesteaded property.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=5000
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=3500
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=4000
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Arson
+| Crafts unlocked=Badge of Ruin
+| Builds unlocked=Trial by Fire
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;I shall, therefore, here only beg leave to remind the student, that waste is a spoil and destruction of the estate, either in houses, woods, or lands; by demolishing not the temporary profits only, but the very substance of the thing; thereby rendering it wild and desolate [...]&quot;
+
+''-Sire William Blackstone, Commentaries on The Laws of England
+
+Among the many crimes against life and property forbidden by the English law the crime of Waste stands out as a particularly egregious assault upon the good moral character and fiber of His Majesties colonies.  Unto those unconcerned with His Magesty Waste grants the ability to destroy Homesteaded property.
+
+==About==
+
+Needed to destroy the buildings on your enemy's land.
+
+Waste leaves a Waste scent which allows the player to be tracked and summoned.</text>
+      <sha1>7u087y0koelan812jtu1lzsgf965ls5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

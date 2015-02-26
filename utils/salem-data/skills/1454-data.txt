@@ -1,0 +1,21 @@
+Skill
+| Description=A Formal Education increases your inspiration rate.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=1500
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Aristotelian Logic, Compacts &amp; Constitutions, Alchemy
+| Crafts unlocked=Wood Knot
+| Builds unlocked=
+| Others unlocked=

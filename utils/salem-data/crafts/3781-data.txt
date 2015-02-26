@@ -1,0 +1,16 @@
+Crafted
+| Objects required=
+
+i|Alchemist Cape
+i|Carpenter Cape
+i|Chef Cape
+i|Farmer Cape
+i|Gardener's Cape
+i|Gnome's Cape
+i|Hunter's Cape
+i|Mossy Cape
+i|Royal's Cape
+i|Silk Cape
+i|Sun Cape
+i|Politician Cape
+i|Tailor Cape

@@ -1,0 +1,3 @@
+Crafted | Objects required=Unfired Jar of Tar;1, Kiln;1 
+Crafted
+| Objects required=Unfired Jar of Tar;1, Kiln;1

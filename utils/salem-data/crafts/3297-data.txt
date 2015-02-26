@@ -1,0 +1,23 @@
+Crafted
+| Objects required=Dried Timber Rattler Skin;1, Cottonseed Oil;.1L, Thorn;1
+
+Artifact
+| Difficulty=
+| Proficiency Type=
+| Common Combat Power=
+| Common Combat Defense=3
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=12
+| Feasting=
+| Production=4
+| Pockets=
+| Slots=

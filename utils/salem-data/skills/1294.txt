@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mining</title>
+    <ns>0</ns>
+    <id>1294</id>
+    <revision>
+      <id>11552</id>
+      <parentid>11304</parentid>
+      <timestamp>2015-02-17T16:09:40Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="4200">{{Skill
+| Description=Mining allows you to construct Mine Shafts and to mine.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=2200
+| Sparks &amp; Embers=1600
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=950
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=Mine Support
+| Others unlocked=Copper Ore Boulder, Iron Ore Boulder, Rubble Boulder, Silver Ore Boulder, Mine
+}}
+
+==In-Game Text==
+
+''&quot;Now when a miner discovers a vena profunda he begins sinking a shaft and above it sets up a windlass, and builds a shed over the shaft to prevent the rain from falling in, lest the men who turn the windlass be numbed by the cold or troubled by the rain.&quot;
+
+''-Georgius Agricola, de Re Metallica
+
+In order for ores to be smelted into metal, they must first be extracted from within the womb of the earth.  Mining allows you to construct Mine Shafts and to mine from softened rock surfaces within the mine.  Soften rock surfaces by lighting a fire by them and letting it burn.
+
+==About==
+
+You need to build a [[Mine Entrance]] before you can enter a mine.&lt;br/&gt;
+Allows you to get [[Ore Boulder]]s and [[Rubble Boulder]]s from walls in a mine.&lt;br/&gt;
+There are 3 kinds of walls/tiles in mines.
+
+*Simple light grey wall which can be simply mined with a pickaxe or a shovel. Yields one [[Rubble Boulder]];
+*Dark walls which need a [[Pile of Wood]] to be placed beside it and burnt for about 2 hours. When the time has passed all the surrounding walls/tiles can be mined. Yields one rubble boulder;
+*Different ore tiles. There are tiles for Copper, Iron and Silver. They don't need any preparation and can be mined right away. The yield is one ore boulder.
+
+[[File:InsideMine.png]]
+
+The image above shows a character inside a mine lighting a fire against a wall. Once the fire burns out, any wall tile which touches the fire becomes cracked, as shown on the other wall on the right side. Cracked wall tiles can then be mined by using the Adventure -&gt; Mine menu option. Once you finish mining the cracked wall tile, your character carries a large [[Ore Boulder]] which you can drop somewhere and then chip ore from it, or dump into a [[Stamp Mill]] for automated processing (you won't get [[Whetstone]]s or [[Sterling Geode]]s this way).
+
+'''There is no crime system in the mines.'''
+
+==Purity==
+
+The purity of a ore is now based on the level you are on and the distance from the ladder.
+
+The [[Purity]] of the Ore Boulder transfers directly to the [[Bar of Pig Iron]] produced in the smelter.  Purity also transfers to [[Bar of Copper]], but has no effect in the game right now.  The further from the Ladder you get your Ore Boulder, the better chance that it will have higher purity ore in it.  If you wear clothing with a bonus to the Mining Artifice, you can get better chances for higher purity ore.
+
+==Cave-ins==
+A cave in randomly collapses some mined out tiles around itself, replacing them with mineable tiles. They yield rubble boulders like normal grey tiles.
+When you mine you run the risk of triggering an impending cave-in, illustrated by dust falling from the mine ceiling. You can prevent the cave-in by building a [[Mine Support]] under it. You have in the ballpark of '''five to ten minutes''' to build a support before a cave in occurs.
+
+The chance of triggering a cave-in is affected by:
+
+* Proximity to unmined tiles.
+* Proximity to already existing mine supports.
+* Your Proficiency in Mines &amp; Mountains.
+
+==Mine Levels==
+
+There are 8 safe mine levels. Going further down increases the chance to dig out higher AEther boulders. 
+To go down a level a Cave Down is needed. Cave down works like a normal Mine Entrance on the surface. But it cannot be built, it has to be mined from a dark tile which need to prepared with a pile of wood before mining. 
+When a cave down is mined, a hexagonal 13x13 space is created around the tile. A tip would be to mine out surrounding tiles if you feel they are valuable (like silver ore tiles). Also beware of a cave-in. To be safe place a [[Mine Support]].
+[[File:Cave_Down_Image.png]]</text>
+      <sha1>opyr1ladlhlro8aezephsiqxpao3318</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

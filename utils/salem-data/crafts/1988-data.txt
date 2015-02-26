@@ -1,0 +1,18 @@
+Crafted
+| Objects required= Virginia Snail;1, Fire;1
+
+Food 
+| Heals=2,5,1,3
+| Uses=3
+| Min Blood=0 | Max Blood=0
+| Min Phlegm=8 | Max Phlegm=11
+| Min Yellow Bile=0 | Max Yellow Bile=0
+| Min Black Bile=0 | Max Black Bile=0
+| Gluttony Time=0:05
+| Food Groups=Slugs Bugs and Kritters
+| FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

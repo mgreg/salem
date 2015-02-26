@@ -1,0 +1,97 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pottery</title>
+    <ns>0</ns>
+    <id>615</id>
+    <revision>
+      <id>9413</id>
+      <parentid>9412</parentid>
+      <timestamp>2014-10-12T04:38:39Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1650">{{Skill
+| Description=Pottery allows you to dig for clay, and to make things from it.
+| Arts &amp; Crafts=700
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=500
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=400
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Kiln Construction, Masonry, Cauldronmaking
+| Crafts unlocked=Gardening Pot, Colored Marbles, Large Urn
+| Builds unlocked=Clay Trough
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;Thou spring'st a leak already in thy crown.
+
+''A flaw is in thy ill-bak'd vessel found;
+
+''&quot;Tis hollow, and returns a jarring sound.
+
+''Yet thy moist clay is pliant to command.
+
+''Unwrought, and easy to the potter's hand:
+
+''Now take the mould; now bend thy mind to feel
+
+''The first sharp motions of the forming wheel.&quot;
+
+''-John Dryden, Third Satire of Persius
+
+As the at times harsh nature of the New World transforms and transmutes the young Pilgrim into a man of honor and standing, so the potter shapes and molds the amorphous clay into vases, cups and bowls.  Pottery allows you to dig for clay, and to make things from it.
+
+==About==
+
+The Pottery skill allows [[Milk of Lime]] to be made using a [[Bucket of Water]] and adding [[Lime]] to the water. This in turn allows clay to be made in the [[Clay Trough]].
+
+To make clay, first add [[Milk of Lime]] to the [[Clay Trough]]. Next, dig up a ball of dirt from the ground. While carrying the dirt, right click the filled trough. The production counter will begin and one clay will appear in inventory for each cycle.</text>
+      <sha1>8jwgljammyftf6zvqmjd3pjpteu552z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

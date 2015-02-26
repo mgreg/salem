@@ -1,0 +1,21 @@
+Skill
+| Description=Waste allows you to destroy homesteaded property.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=5000
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=3500
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=4000
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Arson
+| Crafts unlocked=Badge of Ruin
+| Builds unlocked=Trial by Fire
+| Others unlocked=

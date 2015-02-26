@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Golden Goose;1, March Hare;1, Goldflakes;.48kg, Crucible;1
+| Weight=0.48 kg

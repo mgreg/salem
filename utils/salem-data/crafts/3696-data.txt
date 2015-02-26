@@ -1,0 +1,20 @@
+Crafted | Objects required=Any Shellfish;2, Raw Bear Steak;1, Coarse Salt;1, Any Garlic;1, Onion;2 
+VariableFoodShellfish | Heals=32.5,15.5,33.5,22.5 | Uses=1 | Min Bloo...&quot;</comment>
+      <text xml:space="preserve" bytes="773">{{Crafted
+| Objects required=Any Shellfish;2, Raw Bear Steak;1, Coarse Salt;1, Any Garlic;1, Onion;2
+
+VariableFoodShellfish
+| Heals=32.5,15.5,33.5,22.5
+| Uses=1
+| Min Blood=40 | Max Blood=50
+| Min Phlegm=40 | Max Phlegm=50
+| Min Yellow Bile=40 | Max Yellow Bile=50
+| Min Black Bile=40 | Max Black Bile=50
+| Gluttony Time=1:00
+| Food Groups= Crustacea and Shellfish
+| FoodReduce1= Crustacea and Shellfish | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

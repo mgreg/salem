@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Woodblock;1, Whittler's Bench;1

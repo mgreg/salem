@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Dead Wartbite Cricket;11
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=750
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=2700
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=1750
+| Hunting &amp; Hideworking=1700
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=200
+| Perennial Philosophy=
+| Uses=3

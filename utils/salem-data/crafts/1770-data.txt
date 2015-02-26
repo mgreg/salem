@@ -1,0 +1,23 @@
+Crafted
+| Objects required=Sea Island Cotton Cloth;5
+
+Artifact
+| Difficulty=35 to 15
+| Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=6
+| Blunt Defense=
+| Impact Power=13
+| Impact Defense=
+| Piercing Power=6
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=
+| Slots=

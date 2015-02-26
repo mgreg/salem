@@ -1,0 +1,21 @@
+Crafted 
+| Objects required=Dry Board;2, Carpenter's Bench;1 
+
+
+Inspirational 
+| Arts &amp; Crafts=1300 
+| Cloak &amp; Dagger= 
+| Faith &amp; Wisdom= 
+| Flora &amp; Fauna= 
+| Hammer &amp; Nail=2500 
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking= 
+| Law &amp; Lore=1050 
+| Mines &amp; Mountains=1100  
+| Sparks &amp; Embers= 
+| Stocks &amp; Cultivars= 
+| Sugar &amp; Spice= 
+| Thread &amp; Needle= 
+| Natural Philosophy=800 
+| Perennial Philosophy=
+| Uses=1

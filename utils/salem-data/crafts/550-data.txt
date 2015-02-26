@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Compost Bin;1, Hollow Stump;1, Hollow Log;1, Dig;1
+| Weight=.03 kg

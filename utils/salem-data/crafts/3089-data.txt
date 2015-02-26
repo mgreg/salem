@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Plant Fibre;4
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=1

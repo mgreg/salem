@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Sea Island Cotton Cloth;2,Indian Cotton Cloth;1
+
+Clothing
+| Equipment Slot=Waist
+| Artificer Slots=2

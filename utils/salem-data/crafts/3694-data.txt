@@ -1,0 +1,20 @@
+Crafted | Objects required=Any Mushroom;2, Leaf of Colewort;3, Roasted Hickory Nut;1 
+VariableFoodMushrooms | Heals=23,11,14,27 | Uses=1 | Min Blood=22 | Max Blood=25 | ...&quot;</comment>
+      <text xml:space="preserve" bytes="633">{{Crafted
+| Objects required=Any Mushroom;2, Leaf of Colewort;3, Roasted Hickory Nut;1
+
+VariableFoodMushrooms
+| Heals=23,11,14,27
+| Uses=1
+| Min Blood=22 | Max Blood=25
+| Min Phlegm=22 | Max Phlegm=25
+| Min Yellow Bile=22 | Max Yellow Bile=25
+| Min Black Bile=22 | Max Black Bile=25
+| Gluttony Time=0:20 
+| Food Groups= Mushrooms
+| FoodReduce1=Mushrooms | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

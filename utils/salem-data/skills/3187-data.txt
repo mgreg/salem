@@ -1,0 +1,21 @@
+Skill
+| Description=Ceramics &amp; Crucibles allows you to create crucibles, from which glass bottles can be blown from panes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1475
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=1300
+| Perennial Philosophy=
+| Skills unlocked=Alchemy
+| Crafts unlocked=Glass Bottle, Gold Bar, Glass Jar, Glass Buttons
+| Builds unlocked=Crucible
+| Others unlocked=

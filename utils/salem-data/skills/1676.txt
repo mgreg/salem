@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lace &amp; Fancywork</title>
+    <ns>0</ns>
+    <id>1676</id>
+    <revision>
+      <id>11421</id>
+      <parentid>8173</parentid>
+      <timestamp>2015-02-14T18:15:39Z</timestamp>
+      <contributor>
+        <username>Yes</username>
+        <id>14</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1455">{{Skill
+| Description=Lace &amp; Fancywork allows you access to a wider range of more advanced clothing.
+| Arts &amp; Crafts=1100
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=2300
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=4100
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Embroidery &amp; Silk, Pockets
+| Crafts unlocked=Bunny Masque, Bunny Darko, Opera Masque, Plymouth Frock, The Latest From Paris, Fluffy Stuffing, Side Pocket, Hidden Holdout Pocket, Highlander's Sporran, Highlander's Kilt, Highlander's Jacket, Priestly Pants, Fisherman's Shirt, Fisherman's Pants, Nobleman's Pants, Pioneer's Pants, Wool Sweater, Redcoat Shirt, Prospector's Shirt, Prospector's Pants, Fyne Pantaloons, Breeches of Good Cheer, Alchemist's Pants, Amber Coarse-Grain Thread, Glass Beadwork, Gold Buttons, Fluffy Stuffing, Lacy Edging, Egyptian Cotton Planter's Pouch
+| Builds unlocked=
+| Others unlocked= Weak Wrists
+}}
+
+==In-Game Text==
+
+''&quot;O what a sight were Man, if his attires
+
+''Did alter with his minde;
+
+''And like a dolphins skinne, his clothes combin'd
+
+''With his desires!&quot;
+
+''-George Herbert, The Temple
+
+Time turns new to old, worn clothes to shreds and ashes to ashes, and men set their sights on yet newer horizons still. Lace &amp; Fancywork allow you access to a wider range of more advanced clothing.
+
+==About==</text>
+      <sha1>4vy8a3zg0a88o7mapl1vu0xz2u1t485</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

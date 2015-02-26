@@ -1,0 +1,20 @@
+Crafted | Objects required=Any Shellfish;1, Turkey Egg;2 
+VariableFoodShellfish | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=20 | Max Blood=23 | Min Phlegm=20 | Max ...&quot;</comment>
+      <text xml:space="preserve" bytes="641">{{Crafted
+| Objects required=Any Shellfish;1, Turkey Egg;2
+
+VariableFoodShellfish
+| Heals=17.5,17.5,17.5,17.5
+| Uses=1
+| Min Blood=20 | Max Blood=23
+| Min Phlegm=20 | Max Phlegm=23
+| Min Yellow Bile=20 | Max Yellow Bile=23
+| Min Black Bile=20 | Max Black Bile=23
+| Gluttony Time=0:30
+| Food Groups= Crustacea and Shellfish
+| FoodReduce1= Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

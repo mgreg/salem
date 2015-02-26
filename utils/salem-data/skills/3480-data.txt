@@ -1,0 +1,21 @@
+Skill
+| Description=Sophisticated Furniture allows for the construction of additional furniture, including cupboards.
+| Arts &amp; Crafts=3600
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=4500
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=1700
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Cabinet Maker
+| Crafts unlocked=
+| Builds unlocked=Cupboard, Old Style Chair, Old Style Table
+| Others unlocked=

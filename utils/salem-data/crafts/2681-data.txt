@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Raggy Hem;2, Sea Island Cotton Cloth;3, Yellow-Stained Cotton Cloth;2
+
+Clothing
+| Equipment Slot=Legs
+| Artificer Slots=3

@@ -1,0 +1,4 @@
+Crafted  | Objects required=Seeds of Cabbage;1, Tilled Field;1  
+Crafted
+
+| Objects required=Seeds of Cabbage;1, Tilled Field;1

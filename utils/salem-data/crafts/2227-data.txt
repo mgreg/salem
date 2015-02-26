@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Any Fish;1,Leather;1,Aged Driftwood;1
+
+Inspirational
+| Arts &amp; Crafts=1250
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=1000
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=1850
+| Hunting &amp; Hideworking=1000
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=1700
+| Thread &amp; Needle=
+| Natural Philosophy=1000
+| Perennial Philosophy=
+| Uses=6

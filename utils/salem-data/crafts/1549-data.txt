@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Baking Table;1, Bucket of Water;0.75 L, Wheat Flour;0.35 Kg
+|Weight=.3 kg 

@@ -1,0 +1,67 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vegetable Oil</title>
+    <ns>0</ns>
+    <id>959</id>
+    <revision>
+      <id>9703</id>
+      <parentid>1032</parentid>
+      <timestamp>2014-10-26T05:10:04Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* About */</comment>
+      <text xml:space="preserve" bytes="956">{{Crafted
+| Objects required=Press;1,Seeds of Corn;100,Seeds of Cotton;100, Seeds of Pumpkin;100
+}}
+|}
+==About==
+[[Vegetable Oil]] is a generic term for [[Oil]] made from vegetable sources, and the name given to oils which have been mixed together. Mixing seed types in the [[Press]] will produce a non-specific &quot;Vegetable Oil&quot;, as will mixing Oils in a [[Barrel]] or [[Bucket]], or [[Oiling Trough]].
+
+If you need a specific kind of oil, like [[Corn Oil]], be careful not to accidentally mix it with other kinds.
+
+==Types==
+There are currently 4 kinds of Oil in the game:
+*[[Vegetable Oil]] (mixed oils)
+*[[Corn Oil]]: 100 seeds = 5L
+*[[Cottonseed Oil]]: 100 seeds = 10L
+*[[Pumpkinseed Oil]]: 100 seeds = 7.5L
+
+Using less than a full stack of seeds will simply result in that fraction of oil being produced. 20 [[Seeds of Corn]] will give you 1 Liter of [[Corn Oil]] when pressed, and 80 [[Seeds of Pumpkin]] will give you 6 Liters of [[Pumpkinseed Oil]].</text>
+      <sha1>emo7x4ogcqh4gn2d1d3r69popaao27w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

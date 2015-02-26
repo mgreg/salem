@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Leavened Ryebread Dough;1, Bread Oven;1
+
+SpecialFood
+| Heals=21,11,7,11
+| Uses=1
+| Min Blood=20 | Max Blood=20
+| Min Phlegm=20 | Max Phlegm=20
+| Min Yellow Bile=20 | Max Yellow Bile=20
+| Min Black Bile=20 | Max Black Bile=20
+| Gluttony Time=0:30
+| Food Groups=Bread
+| FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

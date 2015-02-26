@@ -1,0 +1,21 @@
+Skill
+| Description=Waterways allows for the construction of canoes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1700
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=2150
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1200
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Seamanship, Mineral Sifting
+| Crafts unlocked=Oakum, Unfired Jar of Tar, Wooden Paddle
+| Builds unlocked=Canoe
+| Others unlocked=

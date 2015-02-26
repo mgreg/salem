@@ -1,0 +1,21 @@
+Skill
+| Description=Cabbage Growing allows you to plant and harvest cabbages.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=500
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=1200
+| Sugar &amp; Spice=350
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Pumpkin Planting
+| Crafts unlocked=Cabbage Crumbs
+| Builds unlocked=
+| Others unlocked=Cabbage Seedstalk, Seeds of Cabbage, Cabbage, Leaf of Cabbage, Leaf of Colewort, Leaf of Green Cabbage, Leaf of White Cabbage, Leaf of Red Cabbage, Curious Cabbage, Any Cabbage Leaf

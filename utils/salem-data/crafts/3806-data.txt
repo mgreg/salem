@@ -1,0 +1,3 @@
+Crafted | Objects required=Golden Goose;1 
+Crafted
+| Objects required=Golden Goose;1

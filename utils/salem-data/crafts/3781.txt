@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mystery Cape Hanger</title>
+    <ns>0</ns>
+    <id>3781</id>
+    <revision>
+      <id>11061</id>
+      <parentid>9981</parentid>
+      <timestamp>2015-01-24T17:59:53Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="916">{{Crafted
+| Objects required=
+}}
+|}
+
+==About==
+''What do you get for the pilgrim who has everything? Exotic backwear, of course! These high fashion strips of cloth establish the line between the haves and the have-nots, showing clearly who's who of the New World! Remember, nothing says &quot;I'm better than you&quot; than a cape. 
+
+The Mystery Cape Hanger can be bought from Salem Store for 3.99 USD. Upon opening it, you have a chance of receiving '''one''' of the items below.
+
+: '''Package may contain:'''
+
+* {{i|Alchemist Cape}}
+* {{i|Carpenter Cape}}
+* {{i|Chef Cape}}
+* {{i|Farmer Cape}}
+* {{i|Gardener's Cape}}
+* {{i|Gnome's Cape}}
+* {{i|Hunter's Cape}}
+* {{i|Mossy Cape}}
+* {{i|Royal's Cape}}
+* {{i|Silk Cape}}
+* {{i|Sun Cape}}
+* {{i|Politician Cape}}
+* {{i|Tailor Cape}}
+
+Store bought capes are mostly for looks as you can craft capes that are just as good as far as number of slots goes.
+
+[[Category:Store Bought]]</text>
+      <sha1>7dlam63b4ilkxkaqbxc18f5fylby4m3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

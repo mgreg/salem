@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Blistersteel Bar;6
+
+Clothing
+| Equipment Slot=Armour
+| Artificer Slots=3

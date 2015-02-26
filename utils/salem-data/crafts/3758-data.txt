@@ -1,0 +1,8 @@
+Crafted | Objects required=March Hare Hide;7 
+Clothing | Equipment Slot=Cloak | Artificer Slots=3 
+Crafted
+| Objects required=March Hare Hide;7
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=3

@@ -1,0 +1,4 @@
+Crafted | Skills requred=Monster Hunting | Objects required=Wishpoosh;1 
+Crafted
+| Skills requred=Monster Hunting
+| Objects required=Wishpoosh;1

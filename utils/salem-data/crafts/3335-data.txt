@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Indian Feather;15, Cranberry;1
+
+Inspirational
+| Arts &amp; Crafts=1250
+| Cloak &amp; Dagger=2200
+| Faith &amp; Wisdom=800
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=1200
+| Uses=4

@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Water;1, Fishing Pole;1, Makeshift Fishing Rod;1, Fish Trap;1

@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Loaf of Ryebread;1, Any Poultry Breast;1, Any Plant;2
+
+VariableFoodPoultryM
+| Heals=17.5,17.5,20,15
+| Uses=3
+| Min Blood=32 | Max Blood=42
+| Min Phlegm=32 | Max Phlegm=42
+| Min Yellow Bile=32 | Max Yellow Bile=42
+| Min Black Bile=32 | Max Black Bile=42
+| Gluttony Time=0:45
+| Food Groups=Poultry
+| FoodReduce1=Poultry | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1=Bread |%Restore1=15 |%ChanceRestore1=85
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

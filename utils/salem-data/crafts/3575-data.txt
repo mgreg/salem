@@ -1,0 +1,20 @@
+Crafted | Objects required=Baguettes;1 
+Food | Heals=11,8,8,22 | Uses=4 | Min Blood=3 | Max Blood=6 | Min Phlegm=3 | Max Phlegm=6 | Min Yellow Bile=3 | Max Yellow Bile=6...&quot;</comment>
+      <text xml:space="preserve" bytes="641">{{Crafted
+| Objects required=Baguettes;1
+
+Food
+| Heals=11,8,8,22
+| Uses=4
+| Min Blood=3 | Max Blood=6
+| Min Phlegm=3 | Max Phlegm=6
+| Min Yellow Bile=3 | Max Yellow Bile=6
+| Min Black Bile=3 | Max Black Bile=6
+| Gluttony Time=0:30 
+| Food Groups=Bread 
+| FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=50
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

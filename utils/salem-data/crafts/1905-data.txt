@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Any Raw Meat Cut;1, Raw Rabbit Steak;1, Wild Garlic;1, Garlic;1, Fire;1
+
+VariableFoodGame
+| Heals=12,37,15,18
+| Uses=1
+| Min Blood=23 | Max Blood=25
+| Min Phlegm=23 | Max Phlegm=25
+| Min Yellow Bile=23 | Max Yellow Bile=25
+| Min Black Bile=23 | Max Black Bile=25
+| Gluttony Time=0:30
+| Food Groups= Game Meat
+| FoodReduce1= Game Meat | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

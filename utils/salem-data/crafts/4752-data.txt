@@ -1,0 +1,34 @@
+Crafted
+| Objects required=Tilled Field;1
+
+Inspirational Food 
+| Heals=10,10,10,10
+| Min Blood=0 | Max Blood=0
+| Min Phlegm=13 | Max Phlegm=19
+| Min Yellow Bile=0 | Max Yellow Bile=0
+| Min Black Bile=0 | Max Black Bile=0
+| Gluttony Time=0:45
+| Food Groups=Potato Foods
+| FoodReduce1=Potato Foods | %Reduce1=30 | %ChanceReduce1=70
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=650
+| Law &amp; Lore=
+| Mines &amp; Mountains=950
+| Pots &amp; Pans=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=2200
+| Sugar &amp; Spice=1150
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1

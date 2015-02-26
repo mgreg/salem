@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Humus</title>
+    <ns>0</ns>
+    <id>583</id>
+    <revision>
+      <id>11514</id>
+      <parentid>8991</parentid>
+      <timestamp>2015-02-16T20:14:22Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1506">{{Crafted
+| Objects required=Compost;1
+| Weight=.50 kg
+}}
+|} 
+
+==About==
+Used to prepare fields and [[Gardening Pot]]s for growing plants. (see [[Agriculture]] and [[Gardening]])&lt;br&gt;
+
+Humus has no effect on the [[Purity]] of the field, but is one of the three influences on the Purity of Gardening.
+
+Also can be used as a mediocre fertilizer.
+
+For those seeking Plenty and Influence, alternating Lime and Hay will grant more of both than using humus.  However, humus takes less work overall to produce, so it may be beneficial for farmers on a tight budget/schedule.
+
+Ferilizer Uses:
+
+-- Without Three-Field System, Fertilizer 1 = First fertilizer to be used on field since seeds were planted; for each fertilizer you used on the field (regardless of which kind) add that to determine which fertilizer # your adding; Example: If you put (1) wood chip on the field, then used this fertilizer, you would get fertilizer 2 as the 2nd fertilizer used on the field.
+
+The formula follows 15/sqrt(x) for plenty and 20/sqrt(x) for influence, so:
+
+Fertilizer 1: +15% Plenty, +20% Influence
+
+Fertilizer 2: +10% Plenty, +14% Influence
+
+Fertilizer 3: +8% Plenty, +11% Influence
+
+Fertilizer 4: +7% Plenty, +10% Influence
+
+Fertilizer 5: +6% Plenty, +8% Influence
+
+Fertilizer 6: +6% Plenty, +8% Influence
+
+Fertilizer 7: +5% Plenty, +7% Influence
+
+Fertilizer 8: +5% Plenty, +7% Influence
+
+Fertilizer 9: +5% Plenty, +6% Influence
+
+Fertilizer 10: +4% Plenty, +6% Influence
+
+TOTAL GAIN IN 10 USES: +75% Plenty, +100% Influence</text>
+      <sha1>dld0k2y3094nd6aa3xq0nlc26arltk8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,70 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bucket</title>
+    <ns>0</ns>
+    <id>625</id>
+    <revision>
+      <id>11648</id>
+      <parentid>9706</parentid>
+      <timestamp>2015-02-18T06:38:02Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1217">{{Crafted
+| Objects required=Board;1,Nails;1
+| Weight=.50 kg
+}}
+|}
+
+==About==
+
+A Bucket holds 10L of liquid. 
+
+To fill a Bucket with Water, click it to pick it up from the inventory and Right Click a shallow body of water while holding it with the mouse. (do not left click otherwise you will lose the bucket)
+
+Once the Bucket is full of water a [[Lime]] stone can be added to it (Left Click on Lime, Right Click on full Bucket) to make [[Milk of Lime]]. Alternatively a [[Brain]] can be added to make [[Tanning Fluid]].  Alternatively, a Brain can be added to the Bucket to get [[Tanning Fluid]], or [[Rose Otto]] can be added to a Bucket of [[Vegetable Oil]] to get [[Rose-Tinted Tanning Fluid]].
+
+[[Vegetable Oil]] can be obtained from a [[Press]].  Pick up the Bucket and Right Click on the Press which has oil in it.
+
+A Bucket will also hold Blood drained from an animal heart.
+
+You can empty a bucket by Right Clicking on it and choosing 'Empty', or by picking up the bucket and Right Clicking it on an empty [[Barrel]] (or a [[Barrel]] containing the same fluid that has room for the amount in the bucket).
+
+An empty bucket can be filled from a Barrel by picking up the bucket and Right Clicking on the barrel.</text>
+      <sha1>g40qy6tbmi4rpi2rd9j18elvr3w8e88</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

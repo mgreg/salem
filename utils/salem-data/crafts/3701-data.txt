@@ -1,0 +1,20 @@
+Crafted | Objects required=Any Cornmeal;.15kg, Bucket of Water;.35L 
+VariableFoodCorn | Heals=18,14,26,14 | Uses=1 | Min Blood=10 | Max Blood=11 | Min Phlegm=10 | Max Ph...&quot;</comment>
+      <text xml:space="preserve" bytes="602">{{Crafted
+| Objects required=Any Cornmeal;.15kg, Bucket of Water;.35L
+
+VariableFoodCorn
+| Heals=18,14,26,14
+| Uses=1
+| Min Blood=10 | Max Blood=11
+| Min Phlegm=10 | Max Phlegm=11
+| Min Yellow Bile=10 | Max Yellow Bile=11
+| Min Black Bile=10 | Max Black Bile=11
+| Gluttony Time=0:15
+| Food Groups=Maize
+| FoodReduce1=Maize | %Reduce1=20 | %ChanceReduce1=20
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Clay;8, Granite;1, Lime;1, Fireplace;1

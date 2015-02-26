@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Cotton Cloth;6
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=2

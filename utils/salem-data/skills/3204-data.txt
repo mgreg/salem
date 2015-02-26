@@ -1,0 +1,21 @@
+Skill
+| Description=With the help of a little Folk Medicine well applied, you will ease the effects of both indigestion and sluggishness of mind.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=600
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=600
+| Thread &amp; Needle=
+| Natural Philosophy=700
+| Perennial Philosophy=
+| Skills unlocked=Potions &amp; Poultices, Rudimentary Triage 
+| Crafts unlocked=Berrymash Laxative, Rattler Serum, Fishguts &amp; Rot Refresher, Berrymash Purgative
+| Builds unlocked=
+| Others unlocked=

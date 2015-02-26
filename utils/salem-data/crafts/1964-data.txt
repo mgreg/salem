@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Cotton Cloth;1, Sharpened Stick;3
+
+Inspirational
+| Arts &amp; Crafts=1250
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=1550
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=1550
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=1700
+| Natural Philosophy=550
+| Perennial Philosophy=
+| Uses=5

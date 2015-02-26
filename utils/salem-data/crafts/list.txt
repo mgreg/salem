@@ -1,0 +1,166 @@
+Any Poultry Breast
+Crafted
+| Objects required=Wild Turkey Breast;1, Domesticated Turkey Breast;1, Argopelter Breast;1
+
+-------------
+Any Nuts
+Crafted
+| Objects required=Stray Chestnut;1, Pine Nuts;1, Myrtle Oak Acorn;1, Hickory Nut;1, Walnut;1
+
+-------------
+Any Corn
+Crafted
+| Objects required=Tilled Field;1
+
+-------------
+Any Poultry Wing
+Crafted
+| Objects required=Wild Turkey Wing;1, Domesticated Turkey Wing;1, Argopelter Wing;1
+
+-------------
+Any Mushroom
+Crafted
+
+| Where found=Autumnal, Grassland, Coniferous, Swamp
+
+| Objects required=Waxing Toadstool;1, Waning Toadstool;1, Sugar Caps;1, Lobster Mushroom;1, Lavender Blewit;1, Witch's Hat;1, Yellow Morel;1
+
+-------------
+Any Bugs
+Crafted | Objects required=Grub;1, Beetle;1, Caterpillar;1, Virginia Snail;1 
+Crafted
+| Objects required=Grub;1, Beetle;1, Caterpillar;1, Virginia Snail;1
+
+-------------
+Any Poultry Thigh
+Crafted | Objects required=Wild Turkey Thigh;1, Domesticated Turkey Thigh;1, Argopelter Thigh;1 
+Crafted
+| Objects required=Wild Turkey Thigh;1, Domesticated Turkey Thigh;1, Argopelter Thigh;1
+
+-------------
+Any Cornmeal
+Crafted | Objects required=Windmill;1, Any Corn;1, Yellow Corn;1, White Corn;1, Blue Corn;1, Golden Corn;1 
+Crafted
+| Objects required=Windmill;1, Any Corn;1, Yellow Corn;1, White Corn;1, Blue Corn;1, Golden Corn;1
+
+-------------
+Any Antler
+Crafted | Objects required=Deer Antlers;1, Jackalope Antlers;1 
+Crafted
+| Objects required=Deer Antlers;1, Jackalope Antlers;1
+
+-------------
+Any Tinder
+Crafted
+| Skills required=Gardening
+| Objects required=Autumn Grass;1, Wood Choppings;1, Maple Leaf;1, Perfect Autumn Leaf;1, Myrtle Oak Leaves;1, Oak Duff;1
+
+-------------
+Any Dried Hide
+Crafted | Skills required=Hideworking | Objects required=Dried Beaver Pelt;1, Dried Deer Hide;1, Rabbit Skin;1, Bear Skin;1, Dried Timber Rattler Skin;1 
+Crafted
+| Skills required=Hideworking
+| Objects required=Dried Beaver Pelt;1, Dried Deer Hide;1, Rabbit Skin;1, Bear Skin;1, Dried Timber Rattler Skin;1
+
+-------------
+Any Gem
+Crafted
+| Objects required=Dravite;1, Phosphophyllite;1, Rubellite;1, Uvarovite;1
+| Weight=0.05 Kg
+
+-------------
+Any Garlic
+Crafted
+| Objects required= Wild Garlic;1, Garlic;1, Clove of Garlic;1
+
+-------------
+Any Berries
+Crafted
+| Objects required=Blackberries;1, Huckleberries;1, Crowberry Stalk;1, Cranberry;1
+
+-------------
+Any Flower
+Crafted
+| Objects required= Wild Garlic;1, Devil's Wort;1, Lilypad Bulb;1, Milkweed Roots;1, Sunny Sunflower;1, Beaming-Proud Sunflower;1, Oakworth;1, Peyote Cactus;1, Honeysuckle Kudzu;1, Red Rose;1, Wild Columbine;1, Lady's Slipper;1, Red Trillium;1, Spring Beauty;1, Turks Cap;1, Flame Azalea;1, Trout Lily;1, Iris Prismatica;1, Shooting Star;1, Dehydrated Rose;1
+
+-------------
+Any Bellpeppers
+Crafted
+| Objects required=Green Bell Peppers;1, Red Bell Peppers;1
+
+-------------
+Any Raw Meat Cut
+Crafted | Objects required=Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1,Raw Rabbit Steak;1, Raw Beaver Steak;1, Raw Venison Steak;1, Raw Bear Steak;1, Any Raw Steak...&quot;</comment>
+      <text xml:space="preserve" bytes="233">{{Crafted
+| Objects required=Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1,Raw Rabbit Steak;1, Raw Beaver Steak;1, Raw Venison Steak;1, Raw Bear Steak;1, Any Raw Steak;1
+
+-------------
+Any Plant
+Crafted
+| Objects required=Any Mushroom;1, Any Berries;1, Any Garlic;1, Any Bellpeppers;1, Any Flower;1, Cabbage;1, Autumn Grass;1, Myrtle Oak Leaves;1, Any Nuts;1, Seaweed;1, Corn Husk;1, Oak Duff;1, Tomato;1, Radish;1, Carrot;1, Onion;1
+
+-------------
+Any Poultry Egg
+Crafted
+| Objects required=Argopelter Egg;1, Sparrow Eggs;1, Turkey Egg;1
+
+-------------
+Any Cabbage Leaf
+Crafted
+| Objects required=Leaf of Colewort;1, Leaf of Green Cabbage;1, Leaf of White Cabbage;1, Leaf of Red Cabbage;1
+
+i|Leaf of Colewort
+i|Leaf of Green Cabbage
+i|Leaf of White Cabbage
+i|Leaf of Red Cabbage
+
+-------------
+Any Silk
+Crafted  | Objects required=Tuft of Spider Silk;1, Abandoned Cobweb;1 
+Crafted 
+| Objects required=Tuft of Spider Silk;1, Abandoned Cobweb;1
+
+-------------
+Any Pectin
+Crafted
+| Objects required=Cranberry Pectin;1, Crowberry Pectin;1, Huckleberry Pectin;1, Blackberry Pectin;1
+
+-------------
+Any Poultry Drumstick
+Crafted
+| Objects required=Wild Turkey Drumstick;1, Domesticated Turkey Drumstick;1, Argopelter Drumstick;1
+
+-------------
+Any Shellfish
+Crafted
+| Objects required=Crab Meat;1, Raw Oyster Meat;1, Crawdad;1, Lobster Tail;1
+
+-------------
+Any Raw Steak
+Crafted  | Objects required= Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1 
+Crafted 
+| Objects required= Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1
+
+-------------
+Any Bones
+Crafted
+| Objects required= Fish Skeleton;1, Bone;1, Darkenbone;1 
+
+-------------
+Any Fish
+Crafted
+|Objects required=Angel-Winged Seabass;1, Blueback Tuna;1, Cape Codfish;1, Darkwater Bluegill;1, Ghostly Whitefish;1, Gold Pickerel;1, Hellish Halibut;1, Long-Whiskered Catfish;1, Raging Bullhead;1, Red-Finned Mullet;1, Red Herring;1, Sargasso Eel;1, Silt-Dwelling Mudsnapper;1, Shin Spinner;1, Tiger Trout;1, Trunk-Nosed Lake Perch;1
+
+-------------
+Any Shell
+Crafted | Objects required=Beautiful Seashell;1, Oyster Shell;1 
+Crafted
+| Objects required=Beautiful Seashell;1, Oyster Shell;1
+
+-------------
+Any Potato
+Crafted | Objects required=Tilled Field;1 
+Crafted
+| Objects required=Tilled Field;1
+
+-------------

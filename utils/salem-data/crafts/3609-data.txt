@@ -1,0 +1,3 @@
+Crafted | Objects required=White Corn;20, Press;1 
+Crafted
+| Objects required=White Corn;20, Press;1

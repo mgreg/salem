@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Unbaked Three Virginians;1, Fireplace;1
+
+Food
+| Heals=5,15,5,15
+| Uses=9
+| Min Blood=6 | Max Blood=8
+| Min Phlegm=6 | Max Phlegm=8
+| Min Yellow Bile=6 | Max Yellow Bile=8
+| Min Black Bile=6 | Max Black Bile=8
+| Gluttony Time=2:00
+| Food Groups=Slugs Bugs and Kritters
+| FoodReduce1=Slugs Bugs and Kritters | %Reduce1=50 | %ChanceReduce1=20
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

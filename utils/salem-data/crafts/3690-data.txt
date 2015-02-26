@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Any Poultry Egg;1, Onion;1
+
+VariableFoodPoultryE
+| Heals=12,16,14,16
+| Uses=1
+| Min Blood=20 | Max Blood=25
+| Min Phlegm=20 | Max Phlegm=25
+| Min Yellow Bile=20 | Max Yellow Bile=25
+| Min Black Bile=20 | Max Black Bile=25
+| Gluttony Time=0:30
+| Food Groups= Poultry
+| FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

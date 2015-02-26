@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Silk Cloth;3, Sea Island Cotton Cloth;1, Lacy Edging;2
+
+Clothing
+| Equipment Slot=Coat
+| Artificer Slots=4

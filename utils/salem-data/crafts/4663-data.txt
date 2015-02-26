@@ -1,0 +1,8 @@
+Crafted | Objects required=Metallurgist's Pack;1, Mystery Cape Hanger;1 
+Clothing | Equipment Slot=Cloak | Artificer Slots=4 
+Crafted
+| Objects required=Metallurgist's Pack;1, Mystery Cape Hanger;1
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=4

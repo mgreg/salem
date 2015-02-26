@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Prospecting</title>
+    <ns>0</ns>
+    <id>1570</id>
+    <revision>
+      <id>8195</id>
+      <parentid>7793</parentid>
+      <timestamp>2014-09-24T00:38:39Z</timestamp>
+      <contributor>
+        <username>Tylan</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="2691">{{Skill
+| Description=Prospecting allows you to search for suitable locations for conducting a mining operation.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=700
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=625
+| Law &amp; Lore=
+| Mines &amp; Mountains=1675
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Mining
+| Crafts unlocked=Woo-Woo-Wand
+| Builds unlocked=Mine Entrance
+| Others unlocked=Prospect
+}}
+
+==In-Game Text==
+
+''&quot;Now a miner, before he begins to mine the veins, must consider seven things, namely: the situation, the conditions, the water, the roads, the climate, the right of ownership, and the neighbors.&quot;
+
+''-Georgius Agricola, de Re Metallica
+
+... but first of all the vein must be located.  Prospecting allows you to search for suitable locations for conducting a mining operation.
+
+==About==
+
+Prospecting allows one to find the location of ore hidden underground.
+
+== How to Prospect == 
+
+To use, equip either a [[Woo-Woo-Wand]] or [[Dowsing Rods]] and toggle the skill in the Adventure Menu (V), Prospect (P). While active, a floating arrow appears above the characters head and will bounce around much like a compass needle trying to point north. It can go from bouncing randomly around to more stabilized direction. Direction is merely orientational, and once you walk close to an ore spot it will be marked as brown circular patch of ground with grey or brown lines covering it.
+
+== Tips ==
+
+The easiest way to find an Iron node is to use the regular [[Woo-Woo-Wand]] and zoom your camera out far and just wander around in a sort of large expanding circular pattern around the location you desire the Iron node.  The prospecting arrow will lock on to a node only when the node is within render range in the world.  As of the &quot;Nickels and Dimes&quot; update (25-4-2013) , a second mine node type has been added, the Copper node, differentiated only by the color of the node on the ground when prospecting and the result of the [[Ore]] when smelted.  Copper nodes can only be found with [[Dowsing Rods]].  Well points can only be found with [[Woo-Woo-Wand]]s.
+
+The whole map is filled with mine nodes, the purity of the ores is what makes it hard to find a node in a specific location, it is much more difficult to find high purity nodes than lower purity ones.  High purity nodes can only be found with high purity dowsing rods.  The mine elements will vary by about 5 points from each of the elements of the rod used to find the node.
+
+Copper node:  [[File:Coppernode.jpg]]     Iron node:  [[File:Ironnode.jpg]]  Well Point:  [[File:Wellspot.jpg]]</text>
+      <sha1>hn0o9w6qs27lhrhf62p3ftjb690qsbs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

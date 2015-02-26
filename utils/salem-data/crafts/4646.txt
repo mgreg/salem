@@ -1,0 +1,73 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Metallurgist's Pack</title>
+    <ns>0</ns>
+    <id>4646</id>
+    <revision>
+      <id>11310</id>
+      <parentid>11298</parentid>
+      <timestamp>2015-02-12T06:34:18Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <comment>/* About */</comment>
+      <text xml:space="preserve" bytes="807">{{Crafted
+| Objects required=
+}}
+|}
+
+==About==
+
+The melody of iron, the song of steel, a choir of industry guiding us into prosperity! No longer must the pilgram wade unassisted into these difficult waters with the inclusion of the exclusive Metallurgist pack. Use the metal samples within to create new, more efficient tools that will have your fires burning and your bellows blowing at a rate that would offend even the great Hephaestus himself! 
+
+
+''Metallurgist's Pack provides helpful tools for those who aspire to make the finest grades of metal. 
+
+: '''Includes:'''
+
+* [[Eternal Flame]] --A Never Ending Fire--
+* [[Hellfire Tongs]]
+* [[Metallurgist's Cape]]
+* [[Ingot Mold]]
+* [[Brick of Fallen Sodom &amp; Gomorrah]]
+* [[Waxen Candle]]
+* [[Bar of Pig Iron]]
+* [[Wrought Iron Bar]]
+* [[Blistersteel Bar]]</text>
+      <sha1>8rhv5bzah1g6j2a61js55cob410yb1t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

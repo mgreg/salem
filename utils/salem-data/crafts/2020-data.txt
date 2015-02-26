@@ -1,0 +1,9 @@
+Crafted
+| Objects required=Silk Cloth;3, Lacy Edging;1
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=3
+
+PAGENAME
+PAGENAME

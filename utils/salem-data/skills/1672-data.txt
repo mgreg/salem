@@ -1,0 +1,21 @@
+Skill
+| Description=Kiln Construction allows you to build them sturdier than most.
+| Arts &amp; Crafts=1200
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=900
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=1100
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=Kiln
+| Others unlocked=Brick, Brick of Fallen Babel, Brick of Fallen Jericho, Brick of Fallen Sodom &amp; Gomorrah, The Golem of Prague

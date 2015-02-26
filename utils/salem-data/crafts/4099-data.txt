@@ -1,0 +1,3 @@
+Crafted | Objects required=Mystery Weapon Chest;1 
+Crafted
+| Objects required=Mystery Weapon Chest;1

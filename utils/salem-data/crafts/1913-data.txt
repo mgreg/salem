@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Dried Timber Rattler Skin;2
+| Weight=.20 kg

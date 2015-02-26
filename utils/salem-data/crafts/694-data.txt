@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Tree;1
+| Weight=.60 kg

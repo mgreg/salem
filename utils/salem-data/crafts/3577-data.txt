@@ -1,0 +1,3 @@
+Crafted | Objects required=Unboiled Bajgiel Dough;1, Copper Pot;1, Clay Pot;1, Fire;1 
+Crafted
+| Objects required=Unboiled Bajgiel Dough;1, Copper Pot;1, Clay Pot;1, Fire;1

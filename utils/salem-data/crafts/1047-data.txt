@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Unbaked Wortbaked Wartbite;1, Fireplace;1
+
+VariableFoodBugs
+| Heals=48,46,45,49
+| Uses=1
+| Min Blood=52 | Max Blood=57
+| Min Phlegm=52 | Max Phlegm=57
+| Min Yellow Bile=52 | Max Yellow Bile=57
+| Min Black Bile=52 | Max Black Bile=57
+| Gluttony Time=1:00
+| Food Groups=Slugs Bugs and Kritters 
+| FoodReduce1=Slugs Bugs and Kritters | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

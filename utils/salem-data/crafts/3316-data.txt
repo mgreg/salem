@@ -1,0 +1,8 @@
+Crafted | Objects required=Any Dried Hide;1 
+Clothing | Equipment Slot=Legs | Artificer Slots=1 
+Crafted
+| Objects required=Any Dried Hide;1
+
+Clothing
+| Equipment Slot=Legs
+| Artificer Slots=1

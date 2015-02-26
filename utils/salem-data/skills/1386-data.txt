@@ -1,0 +1,21 @@
+Skill
+| Description=Blacksmithing allows you to forge the crude and simple tools that are the foundation for all further progress in the metallurgical industries.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1150
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=1400
+| Sparks &amp; Embers=2950
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Cauldronmaking, Brazier Forging
+| Crafts unlocked=Conquistador's Helmet, Dowsing Rods, Pickaxe, Fishing Pole, Metal Axe, Metal shovel, Nails, Stick Spinner, Copper Buttons, Studded Leather, Copper Pot, Frying Pan, Iron Buckle, Knife Blade, Fish Hook, Iron Hoe
+| Builds unlocked=Anvil, Cauldron, Copper Grinder,Sturdy Sled
+| Others unlocked=

@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sewing</title>
+    <ns>0</ns>
+    <id>1674</id>
+    <revision>
+      <id>8820</id>
+      <parentid>8204</parentid>
+      <timestamp>2014-10-01T16:29:22Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1184">{{Skill
+| Description=Sewing allows you access to a small range of clothes.
+| Arts &amp; Crafts=725
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=400
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=1425
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Lace &amp; Fancywork
+| Crafts unlocked=Farmer's Pants, Farmer's Shirt, Farmer's Hat, Pilgrim's Coat, Pilgrim's Pants, Pilgrim's Cape, Wool Sweater, Windborne Kite, Enforced Seam, Jutland Jute, Pilgrim's Hat, Tricorne, Muslin Shirt, Gentleman's Jacket, Priestly Shirt, Priestly Tunic
+| Builds unlocked=
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;Methinks it is a token of healthy and gentle characteristics, when women of high thoughts and accomplishments love to sew; especially as they are never more at home with their own hearts then while to occupied.&quot;
+
+''-Nathaniel Hawthorne, The Marble Faun
+
+Needle and thread can help both mend worn-out clothes, as well as, in the hands of the accomplished practitioner, create new ones. Sewing allows you access to a small range of clothes.
+
+==About==</text>
+      <sha1>d4ot911sz5mc0kera8nv50cb8m6893a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

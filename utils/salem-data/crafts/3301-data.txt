@@ -1,0 +1,25 @@
+Crafted
+| Objects required=Indian Feather;3, Majestic Tail-Feather of Turkey; 2
+
+Artifact
+| Difficulty=30 to 15
+| Proficiency Type=Herbs &amp; Sprouts, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=6
+| Impact Power=
+| Impact Defense=12
+| Piercing Power=
+| Piercing Defense=6
+| Feral Defense=
+| Criminality=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Spellpower=
+| Pockets=
+| Slots=

@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Yellow-Stained Cotton;5
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=1

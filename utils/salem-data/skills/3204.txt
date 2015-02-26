@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Folk Medicine</title>
+    <ns>0</ns>
+    <id>3204</id>
+    <revision>
+      <id>11919</id>
+      <parentid>8154</parentid>
+      <timestamp>2015-02-22T20:33:36Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1391">{{Skill
+| Description=With the help of a little Folk Medicine well applied, you will ease the effects of both indigestion and sluggishness of mind.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=600
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=600
+| Thread &amp; Needle=
+| Natural Philosophy=700
+| Perennial Philosophy=
+| Skills unlocked=Potions &amp; Poultices, Rudimentary Triage 
+| Crafts unlocked=Berrymash Laxative, Rattler Serum, Fishguts &amp; Rot Refresher, Berrymash Purgative
+| Builds unlocked=
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;Medicine is of all the Arts the most noble; but, owing to the ignorance of those who practice it, and of those who, inconsiderately, form a judgement of them, it is at present far behind all the other arts.&quot;
+
+''-Hippocrates, The Law
+
+In any colony of significant size, and especially given the harsh and at times unwelcoming conditions of the New World, injury and malady are, all in their due times, bound to make their appearances.  With the help of a little Folk Medicine well applied, you will have several efficient but simple recipes at your disposal, to east and offset the effects of both indigestion and sluggishness of mind.
+
+==About==
+
+Some of the potions created with this skill don't require a [[Glass Bottle]].</text>
+      <sha1>0i1y0xqt8wbiycw7j9rk7fy5nyq0xo5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

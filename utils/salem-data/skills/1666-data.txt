@@ -1,0 +1,21 @@
+Skill
+| Description=Quarrying allows you to hew boulders from the mountainous regions of the world for use in many building projects.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=675
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=1275
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=300
+| Perennial Philosophy=
+| Skills unlocked=Granite Excavation
+| Crafts unlocked=Cliffside
+| Builds unlocked=Stone Hedge, Plank Fence
+| Others unlocked=Stone Boulder, Lime Boulder

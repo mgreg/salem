@@ -1,0 +1,651 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Category:Variable Food</title>
+    <ns>14</ns>
+    <id>2798</id>
+    <revision>
+      <id>8848</id>
+      <parentid>8420</parentid>
+      <timestamp>2014-10-02T03:00:14Z</timestamp>
+      <contributor>
+        <username>Falcon</username>
+        <id>12</id>
+      </contributor>
+      <text xml:space="preserve" bytes="12710">This category shows all recipes in the game which include a Variable ingredient.
+
+==Info==
+*[[#Variable Values|Variable Values]]
+*[[#Bonus Values|Bonus Values]]
+
+Please see [[Food]] for more info on generic foodstuffs.  Each food page also includes variable information when appropriate.
+
+Each variable food ingredient has an effect on the variable food you put it in, so long as the ingredient is pure.  For example, a [[Humble Meat Pie]] requires 2 [[Any Raw Meat Cut]]s.  If both are [[Deer]], the Deer effect will be added to the food, if a mix of deer and beaver is used, the food will be generic.
+
+For each variable ingredient, the effect will be a combination of Restoration of a Food Group's effectiveness, and/or a multiplier being applied to one or more Humors.  
+
+The following table details the Reduction or Restoration effect and the Humor multiplier each ingredient adds to the food in it's category.
+
+Each Variable ingredient only has an effect in the foodgroup it is in.  For example, foods in the Game Meats group only receive ingredient bonuses from the Game Meat variable ingredients and from the Bonus ingredients (Garlics and Bell Peppers) if any.  They do not receive ingredient bonuses from the Berry variable ingredients, even if a berry is included in the recipe.
+
+*Regarding Corn: Corn is variable when it is [[Corn Oil]], [[Corn Meal]], or [[Any Corn]].
+
+==Variable Values==
+
+:{| class=&quot;wikitable sortable&quot;
+! Category !! Ingredient !! [[Food Group]] Effect !! Blood !! Phlegm !! Yellow !! Black
+|-
+| rowspan=&quot;4&quot;|Berries
+| [[Blackberries]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.15
+|-
+| [[Huckleberries]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.3
+| align=center |.5
+|-
+| [[Crowberry Stalk]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.35
+| align=center |.5
+| align=center |.5
+|-
+| [[Cranberry]]
+| align=center |No Restore
+| align=center |1.15
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| rowspan=&quot;6&quot;|Fungus
+| [[Sugar Caps]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.25
+| align=center |.5
+| align=center |.5
+|-
+| [[Lavender Blewit]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.3
+| align=center |.5
+| align=center |.5
+|-
+| [[Lobster Mushroom]]
+| align=center |No Restore
+| align=center |1.25
+| align=center |.5
+| align=center |1.25
+| align=center |.5
+|-
+| [[Boiled Waxing Toadstool|Boiled Toadstool]]
+| align=center |No Restore
+| align=center |1.35
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Boiled Witch's Hat]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.35
+|-
+| [[Boiled Yellow Morel]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.35
+| align=center |.5
+|-
+| rowspan = &quot;5&quot;|Nuts
+| [[Myrtle Oak Acorn]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.15
+| align=center |.5
+| align=center |.5
+|-
+| [[Stray Chestnut]]
+| align=center |No Restore
+| align=center |1.2
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Hickory Nut]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.15
+|-
+| [[Pine Nuts]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.3
+| align=center |.5
+|-
+| [[Walnut]]
+| align=center |No Restore
+| align=center |1.2
+| align=center |1.15
+| align=center |1.3
+| align=center |1.6
+|-
+| rowspan=&quot;4&quot; | Slugs, Bugs &amp; Kritters
+| [[Grub]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.15
+| align=center |.5
+|-
+| [[Beetle]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.25
+|-
+| [[Caterpillar]]
+| align=center |No Restore
+| align=center |1.35
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Virginia Snail]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.35
+| align=center |.5
+| align=center |.5
+|-
+| rowspan = &quot;4&quot;|Shellfish
+| [[Crab Meat|Crab]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.25
+| align=center |.5
+| align=center |.5
+|-
+| [[Raw Oyster Meat|Oyster]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.25
+|-
+| [[Crawdad]]
+| align=center |No Restore
+| align=center |1.35
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Lobster Tail|Lobster]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.7
+| align=center |.5
+|-
+|rowspan=&quot;5&quot;| Game Meats
+| [[Rabbit]]
+| align=center |Restores [[Vegetables and Greens]] by 5% with 90% Chance
+| align=center |.5
+| align=center |1.25
+| align=center |.5
+| align=center |.5
+|-
+| [[Timber Rattler]]
+| align=center |Restores [[Slugs Bugs and Kritters]] by 15% with 90% Chance
+| align=center |1.1
+| align=center |1.1
+| align=center |1.1
+| align=center |1.1
+|-
+| [[Beaver]]
+| align=center |Restores [[Crustacea and Shellfish]] by 5% with 90% Chance
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.35
+|-
+| [[Deer]]
+| align=center |Restores [[Maize]] by 5% with 90% Chance
+| align=center |.5
+| align=center |.5
+| align=center |1.45
+| align=center |.5
+|-
+| [[Bear]]
+| align=center |Restores [[Fishes]] by 5% with 90% Chance
+| align=center |1.55
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| rowspan=&quot;5&quot;|Poultry &amp; Fowl
+| [[Turkey Egg]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.1
+| align=center |.5
+| align=center |1.1
+|-
+| [[Argopelter Egg]]
+| align=center |No Restore
+| align=center |1.45
+| align=center |.5
+| align=center |1.45
+| align=center |.5
+|-
+| Wild [[Turkey]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.05
+| align=center |.5
+| align=center |1.05
+|-
+| Domestic [[Turkey Coop|Turkey]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.2
+| align=center |.5
+| align=center |1.2
+|-
+| [[Argopelter]]
+| align=center |No Restore
+| align=center |1.45
+| align=center |.5
+| align=center |1.45
+| align=center |.5
+|-
+|rowspan=&quot;4&quot;|Flour
+| [[Oatmeal]]
+| align=center |No Restore
+| align=center |1.1
+| align=center |.9
+| align=center |.9
+| align=center |.9
+|-
+| [[Barley Flour]]
+| align=center |No Restore
+| align=center |.9
+| align=center |1.2
+| align=center |.9
+| align=center |.9
+|-
+| [[Rye Flour]]
+| align=center |No Restore
+| align=center |.9
+| align=center |.9
+| align=center |1.2
+| align=center |.9
+|-
+| [[Wheat Flour]]
+| align=center |No Restore
+| align=center |.9
+| align=center |.9
+| align=center |.9
+| align=center |1.3
+|-
+|rowspan=&quot;4&quot;|Corn
+| [[Yellow Corn]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.1
+|-
+| [[Blue Corn]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.2
+| align=center |.5
+| align=center |.5
+|-
+| [[White Corn]]
+| align=center |No Restore
+| align=center |1.2
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Golden Corn]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.3
+| align=center |.5
+|-
+|rowspan=&quot;4&quot;|Cabbage
+| [[Leaf of Colewort]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.1
+|-
+| [[Leaf of Green Cabbage]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.2
+| align=center |.5
+|-
+| [[Leaf of White Cabbage]]
+| align=center |No Restore
+| align=center |1.2
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Leaf of Red Cabbage]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.3
+| align=center |.5
+| align=center |.5
+|-
+|rowspan=&quot;12&quot;| Pumpkins
+| [[Baby Bear]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.05
+|-
+| [[Autumn Gold]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.15
+|-
+| [[Aspen]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.1
+|-
+| [[Sugar Treat]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.15
+| align=center |.5
+|-
+| [[Harvest Moon]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.25
+| align=center |.5
+|-
+| [[Connecticut Field]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.2
+| align=center |.5
+|-
+| [[Small Sugar]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.15
+| align=center |.5
+| align=center |.5
+|-
+| [[Bushkin]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.25
+| align=center |.5
+| align=center |.5
+|-
+| [[Big Autumn]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.2
+| align=center |.5
+| align=center |.5
+|-
+| [[Spooktacular]]
+| align=center |No Restore
+| align=center |1.3
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Jack-o-Lantern]]
+| align=center |No Restore
+| align=center |1.4
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Ghost Rider]]
+| align=center |No Restore
+| align=center |1.35
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| rowspan=&quot;16&quot;|Fish
+| [[Ghostly Whitefish]]
+| align=center |No Restore
+| align=center |1.2
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Tiger Trout]]
+| align=center |No Restore
+| align=center |1.1
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Angel-Winged Seabass]]
+| align=center |No Restore
+| align=center |1.05
+| align=center |.5
+| align=center |.5
+| align=center |.5
+|-
+| [[Blueback Tuna]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.15
+| align=center |.5
+| align=center |1.15
+|-
+| [[Darkwater Bluegill]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.15
+| align=center |.5
+| align=center |.5
+|-
+| [[Red-Finned Mullet]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.05
+| align=center |.5
+| align=center |.5
+|-
+| [[Silt-Dwelling Mudsnapper]]
+| align=center |No Restore
+| align=center |.5
+| align=center |1.05
+| align=center |.5
+| align=center |.5
+|-
+| [[Gold Pickerel]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.15
+| align=center |.5
+|-
+| [[Shin Spinner]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.1
+| align=center |.5
+|-
+| [[Cape Codfish]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |1.05
+| align=center |.5
+|-
+| [[Raging Bullhead]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.25
+|-
+| [[Sargasso Eel]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.05
+|-
+| [[Trunk-Nosed Lake Perch]]
+| align=center |No Restore
+| align=center |.5
+| align=center |.5
+| align=center |.5
+| align=center |1.05
+|-
+| [[Red Herring]]
+| align=center |No Restore
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+|-
+| [[Long-Whiskered Catfish]]
+| align=center |No Restore
+| align=center |1.2
+| align=center |1.2
+| align=center |1.2
+| align=center |1.2
+|-
+| [[Hellish Halibut]]
+| align=center |No Restore
+| align=center |1.2
+| align=center |1.2
+| align=center |1.2
+| align=center |1.2
+|}
+
+{{top}}
+
+==Bonus Values==
+
+:{| class=wikitable
+! Ingredient !! Food Bonus Effect !! Blood !! Phlegm !! Yellow !! Black
+|-
+| [[Wild Garlic]]
+| align=center |Restores [[Crustacea and Shellfish]] by 15% with 80% Chance.
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+|-
+| [[Clove of Garlic]]
+| align=center |Restores [[Poultry]] by 10% with 80% Chance.
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+|-
+| [[Garlic]] Bulb
+| align=center |Restores [[Poultry]] by 15% with 80% Chance.
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+|-
+| [[Red Bell Peppers]]
+| align=center |Restores [[Game Meat]] by 15% with 80% Chance.
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+|-
+| [[Green Bell Peppers]]
+| align=center |Restores [[Slugs Bugs and Kritters]] by 15% with 80% Chance.
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+| align=center |1.05
+|-
+| [[Jalapeno]]
+| align=center |Restores All [[Food Groups]] by 30% with 100% Chance.
+| align=center |1.1
+| align=center |1.1
+| align=center |1.1
+| align=center |1.1
+|}
+
+{{top}}
+
+There are currently no effects added by [[Any Flower]], or [[Any Plant]].
+
+[[Category:Content]][[Category:Objects]][[Category:Crafted]][[Category:Food]]</text>
+      <sha1>tsvoghwcxec5c64hes5baiuth9znd97</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

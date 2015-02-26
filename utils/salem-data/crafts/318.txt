@@ -1,0 +1,69 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Spanish Sabre</title>
+    <ns>0</ns>
+    <id>318</id>
+    <revision>
+      <id>9835</id>
+      <parentid>9020</parentid>
+      <timestamp>2014-11-02T04:09:58Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="922">{{Crafted
+|Objects required= Sword Blade;1, Sword Hilt;1, Anvil;1
+}}
+|}
+
+
+
+==About==
+
+[[File:Spanish Sabre Image.png‎|frame|right|Great for children and parties!]]
+
+The Spanish Sabre is a melee weapon unlocked by [[Fencing]]. Though it is possible to equip the sabre at any time it is only effective in combat after [[Fencing]] is learned.  To attack with a sword in combat, you must use [[Thrust]].  [[En Garde]] and [[Parry]] are also moves which require the use of a sword.
+
+To craft a Sabre, [[Blacksmithing]], [[Fencing]], and the use of an [[Anvil]] are required.  The [[Purity]] of a Sabre comes directly from the Sword Blade used to make it.  Purity increases the amount of damage done by the Sabre by up to 10% for 100% Purity.
+
+It can also be bought in [[Providence]] for 300 [[Silver Pieces]] from the NPC vendor. Many people sell the sabre for a lower price.
+
+Can also be hung on a wall.
+
+[[Category:Weapon]]</text>
+      <sha1>dw5vqh9cveqqeww9dt2l50v7h3lbe6s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,3 @@
+Crafted
+
+| Objects required=Birch Bark;1, Willow Bark;1, Copper Pot;1, Clay Pot;1

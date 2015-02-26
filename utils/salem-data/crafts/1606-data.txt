@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Turkey;1, Dead Turkey;1

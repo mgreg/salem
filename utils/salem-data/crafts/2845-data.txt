@@ -1,0 +1,10 @@
+Crafted | Objects required=Closed Beta Reward Box;1 
+Clothing | Equipment Slot=Legs | Difficulty=25 to 10 | Proficiency Type=Cloak &amp; Dagger, Faith &amp; Wisdom, Law &amp; Lore |...&quot;</comment>
+      <text xml:space="preserve" bytes="330">{{Crafted
+| Objects required=Closed Beta Reward Box;1
+
+Clothing
+| Equipment Slot=Legs
+| Difficulty=25 to 10
+| Proficiency Type=Cloak &amp; Dagger, Faith &amp; Wisdom, Law &amp; Lore
+| Artificer Slots=3

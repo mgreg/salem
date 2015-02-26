@@ -1,0 +1,1 @@
+Crafted | Objects required=Turkey;1, Turkey Coop;1, Turkey Poult;1 

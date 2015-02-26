@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Filet of Blueback Tuna;1, Any Bellpeppers;1, Clove of Garlic;1, Pepper;.05kg
+
+VariableFoodFish
+| Heals=30,0,15,0
+| Uses=1
+| Min Blood=10 | Max Blood=10
+| Min Phlegm=10 | Max Phlegm=10
+| Min Yellow Bile=10 | Max Yellow Bile=10
+| Min Black Bile=10 | Max Black Bile=10
+| Gluttony Time=2:00
+| Food Groups=Fishes
+| FoodReduce1= | %Reduce1= | %ChanceReduce1=
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1=Fishes |%Restore1=100 |%ChanceRestore1=100
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

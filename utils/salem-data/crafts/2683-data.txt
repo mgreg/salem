@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Fine Leather;2, Chantilly Lace;2, Sea Island Cotton Cloth;1
+
+Clothing
+| Equipment Slot=Feet
+| Artificer Slots=3

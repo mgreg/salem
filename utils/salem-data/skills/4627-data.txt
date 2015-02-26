@@ -1,0 +1,21 @@
+Skill
+| Description=Allows Pilgrims to grow and harvest Potatoes.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=3840
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=8620
+| Sugar &amp; Spice=5770
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Garlic Mashed Potatos, Hash Browns, New England Dinner, Potato Salad, Uncooked Shepherds Pie
+| Builds unlocked=
+| Others unlocked=Any Potato, Blue Potato, Brown Potato, Curious Potato, Red Potato, Yellow Potato, 

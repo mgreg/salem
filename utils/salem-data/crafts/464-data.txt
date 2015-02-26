@@ -1,0 +1,24 @@
+Crafted
+| Objects required=Bar of Any Metal;1, Anvil;1
+| Weight=0.25 kg
+
+Artifact
+| Difficulty=25 to 10
+| Proficiency Type=Sparks &amp; Embers, Cloak &amp; Dagger
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=4
+| Blunt Defense=
+| Impact Power=4
+| Impact Defense=
+| Piercing Power=10
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Pockets=
+| Slots=

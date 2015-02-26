@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Turkey Farming</title>
+    <ns>0</ns>
+    <id>2761</id>
+    <revision>
+      <id>8222</id>
+      <parentid>7759</parentid>
+      <timestamp>2014-09-24T00:53:33Z</timestamp>
+      <contributor>
+        <username>Tylan</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1698">{{Skill
+| Description=Turkey Farming allows you to construct Turkey Coops, which can be used to breed Turkeys.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=4250
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=1900
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=1350
+| Sugar &amp; Spice=1600
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Farmer's Omelette, Stuffed Turkey, Turkey Sandwich, Turkish Delight, Things with Wings, Cornmash Gobbler
+| Builds unlocked=Turkey Coop
+| Others unlocked=Turkey Egg, Turkey Poult, Turkey Hen, Turkey Gobbler, Turkey Droppings
+}}
+
+==In-Game Text==
+
+''&quot;It has black and white plumage, wrinkled skin on its neck, and on the top of its head a fleshy crest which, when the cock gets angry, swells up and covers its whole snout; on some of them that crest is a russet colour mixed with bluish purple.&quot;
+
+''-Bartolomeo Scappi, Opera dell'arte del cucinare, 1570
+
+Many are the peculiar lifeforms which in the time of the great flood left Noah's ark to find terra firma in this New World, and few among them are more peculiar than the Turkey.  Turkey Farming allows you to construct Turkey Coops, which can be used to breed Turkeys.
+
+==About==
+
+Turkey Farming allows characters to build [[Turkey Coop]]s, which when populated with a few wild [[Turkey]]s will allow characters to breed Domestic Turkeys and thus acquire large sums of [[Turkey Feathers]], [[Turkey Egg]]s, and other useful items.
+
+Remember to stock the Coop with food ''before'' adding the initial Turkeys, as they will die very quickly if left in the inventory or in a Coop without any food.</text>
+      <sha1>hr4e4lwc5ylz223rdzjxv5zm6ukpkai</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Witch's Hat;1, Copper Pot;1, Clay Pot;1, Fireplace;1
+
+SpecialFood
+| Heals=9,9,9,9
+| Uses=1
+| Min Blood=10 | Max Blood=10
+| Min Phlegm=10 | Max Phlegm=10
+| Min Yellow Bile=10 | Max Yellow Bile=10
+| Min Black Bile=10 | Max Black Bile=10
+| Gluttony Time=0:10 
+| Food Groups= Mushrooms
+| FoodReduce1=Mushrooms | %Reduce1=50 | %ChanceReduce1=50
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

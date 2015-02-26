@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Coal Clamp;1
+| Weight=0.15

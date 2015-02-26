@@ -1,0 +1,97 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Butchery</title>
+    <ns>0</ns>
+    <id>634</id>
+    <revision>
+      <id>11593</id>
+      <parentid>8128</parentid>
+      <timestamp>2015-02-18T00:55:04Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1265">{{Skill
+| Description=Butchery allows you to cut steaks.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=950
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=2600
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=1250
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Butcher's Thrift
+| Crafts unlocked=Skullpin, Les Fleurs du Mal
+| Builds unlocked=
+| Others unlocked=Bone, Majestic Tail-Feather of Turkey, Plucked Turkey, Turkey Feathers, Raw Bear Steak, Raw Venison Steak, Raw Rabbit Steak, Any Raw Steak, Raw Beaver Steak
+}}
+
+==In-Game Text==
+
+''Whoe'er has gone thro' London street,
+
+''Has seen a butcher gazing at his meat.
+
+''And how he keeps
+
+''Gloating upon a sheep's
+
+''Or bullock's personals, as if his own;
+
+''How he admires his halves
+
+''And quarters-and his calves,
+
+''As if in truth upon his own legs grown.
+
+''-Thomas Hold, A Butcher
+
+A Pilgrim versed in the ways of the butcher is able to extract more useful meat from animal carcasses. Butchery allows you to cut steaks.
+
+==About==
+
+This is one of several skills that allow the player to increase the amount of meat obtained from a carcass.  Butchery increases the number of steaks obtained.</text>
+      <sha1>9n0vxo91p1yrfll8qaopokqsg5opwmh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

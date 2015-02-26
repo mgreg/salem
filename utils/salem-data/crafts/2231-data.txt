@@ -1,0 +1,22 @@
+Crafted
+| Objects required=Lilypad Bulb;1, Autumn Grass;2, Medusa Head Jellyfish;1,
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=2525
+| Faith &amp; Wisdom=2525
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=2525
+| Perennial Philosophy=1755
+| Uses=1
+
+PAGENAME

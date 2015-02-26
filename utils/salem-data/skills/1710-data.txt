@@ -1,0 +1,21 @@
+Skill
+| Description=Trespassing grants the ability to enter, open or otherwise examine items and objects of Homesteaded property.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=2000
+| Faith &amp; Wisdom=1400
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=2000
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Larceny
+| Crafts unlocked=Badge of Intrusion
+| Builds unlocked=
+| Others unlocked=

@@ -1,0 +1,4 @@
+Crafted  | Objects required=Ore Smelter;1, Iron Ore;1 Lime;1  
+Crafted
+
+| Objects required=Ore Smelter;1, Iron Ore;1 Lime;1

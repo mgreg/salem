@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Garlic Bread;1
+
+SpecialFood
+| Heals=12,14,11,14
+| Uses=1
+| Min Blood=5.2 | Max Blood=15.7
+| Min Phlegm=6.3 | Max Phlegm=16.8
+| Min Yellow Bile=2.1 | Max Yellow Bile=12.6
+| Min Black Bile=9.4 | Max Black Bile=19.9
+| Gluttony Time=0:12
+| Food Groups=Bread
+| FoodReduce1=Bread | %Reduce1=15 | %ChanceReduce1=30
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1=Poultry |%Restore1=15 |%ChanceRestore1=80
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

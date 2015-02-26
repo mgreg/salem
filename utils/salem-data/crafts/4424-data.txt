@@ -1,0 +1,8 @@
+Crafted | Objects required= 
+Clothing | Equipment Slot=Cloak | Artificer Slots=4 
+Crafted
+| Objects required=
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=4

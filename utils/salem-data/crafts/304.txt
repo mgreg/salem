@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cotton Cloth</title>
+    <ns>0</ns>
+    <id>304</id>
+    <revision>
+      <id>11839</id>
+      <parentid>7340</parentid>
+      <timestamp>2015-02-20T18:42:07Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1822">{{Crafted
+| Objects required=Cotton;10, Loom;1
+| Weight=1.00 kg
+}}
+|}
+
+==About==
+&quot;Cotton Cloth&quot; is a generic term which represents all the different tiers of cotton cloth available in the game. Any recipe which states only &quot;Cotton Cloth&quot; as ingredient allows you to use any tier cloth, although obviously the most cost effective is to use your lowest tier cloth for such recipes, saving your higher tier cloth for recipes which explicitly require them.
+
+;Note: When you combine different tiers of Cotton when creating Cotton Cloth, you end up with just a generic Cotton Cloth, which cannot be used for any tier-specific clothing!
+:You need a [[Loom]] to make Cotton Cloth.
+
+==Tiers==
+
+The different tiers of cotton cloth available are:
+{| cellpadding=&quot;5&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; border=&quot;1px solid gray&quot;
+|- bgcolor = &quot;#3366CC&quot; 
+! style=&quot;color:white&quot; | Tier
+! style=&quot;color:white&quot; | Cloth
+! style=&quot;color:white&quot; | Tier-Specific Products
+|-
+| &amp;nbsp; 1
+| {{PropVals/Print Entry |showamount=no |Yellow-Stained Cotton Cloth}}
+| 
+
+{{#ask: [[:+]] [[RequiresObj::~*Yellow-Stained Cotton Cloth;*]]
+|link=none 
+|format=list 
+|userparam=no 
+|template=PropVals/Print Entry 
+}}
+
+|-
+| &amp;nbsp; 2
+| {{PropVals/Print Entry |showamount=no |Indian Cotton Cloth}}
+|
+
+{{#ask: [[:+]] [[RequiresObj::~*Indian Cotton Cloth;*]]
+|link=none 
+|format=list 
+|userparam=no 
+|template=PropVals/Print Entry 
+}}
+
+|-
+| &amp;nbsp; 2
+| {{PropVals/Print Entry |showamount=no |Egyptian Cotton Cloth}}
+|
+
+{{#ask: [[:+]] [[RequiresObj::~*Egyptian Cotton Cloth;*]]
+|link=none 
+|format=list 
+|userparam=no 
+|template=PropVals/Print Entry 
+}}
+
+|-
+| &amp;nbsp; 3
+| {{PropVals/Print Entry |showamount=no |Sea Island Cotton Cloth}}
+|
+
+{{#ask: [[:+]] [[RequiresObj::~*Sea Island Cotton Cloth;*]]
+|link=none 
+|format=list 
+|userparam=no 
+|template=PropVals/Print Entry 
+}}
+|}</text>
+      <sha1>8ofesxeku2qkphime01uvyfimyfvgxn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

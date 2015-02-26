@@ -1,0 +1,3 @@
+Crafted | Objects required=Press;1, Pumpkin Seeds;100 
+Crafted
+| Objects required=Press;1, Pumpkin Seeds;100

@@ -1,0 +1,21 @@
+Skill
+| Description=Essential Mineralogy is the first step toward a greater knowledge of the mineral Kingdom, and allows you greater success when searching for minerals.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=675
+| Sparks &amp; Embers=200
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Prospecting, Quarrying
+| Crafts unlocked=Mineralogical Survey
+| Builds unlocked=
+| Others unlocked=

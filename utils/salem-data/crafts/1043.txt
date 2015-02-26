@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tinder Drill</title>
+    <ns>0</ns>
+    <id>1043</id>
+    <revision>
+      <id>11725</id>
+      <parentid>10275</parentid>
+      <timestamp>2015-02-19T19:25:08Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1220">{{Crafted
+| Objects required=Branch;2, Any Tinder;3
+| Weight=0.50
+}}
+|}
+
+==About==
+[[File:Lighting_Fire.png|thumb|right|Shows a character after using the Tinder Drill in an attempt to light a [[Pile of Wood]].]]
+A Tinder Drill is used to start fires in any lightable object, such as: [[Torch|Torches]], a [[Pile of Wood]], [[Fireplace]]s, [[Meat Smoker]]s, and others.
+
+Tinder Drills are consumed when they start a fire, and also have a chance to break before a fire is successfully lit. That chance decreases as your [[Sparks &amp; Embers]] proficiency increases
+
+Using a Tinder Drill drains [[Phlegm]], and, if it breaks during use, it damages the users [[Blood]].
+
+To use a Tinder Drill, merely pick it up and right click the item to light.
+
+It's suggested to keep two or three of these on hand just in case of one breaking.
+
+Tinder drills are very slow and unreliable at starting fires. Most players use tinder drills to light a [[fireplace]] or [[stove]] and keep that fed through their play sessions.  For additional fires, a [[Torch]] can be used.
+
+Very rarely, you may get a [[Precious Soot-Flake]] when lighting a fire with a Tinder Drill
+
+Players who can make shop purchases may want to consider [[Flint &amp; Steel]].</text>
+      <sha1>mgz2qo1xdb4zae7sqqwu2swkrnkxyfi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

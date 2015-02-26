@@ -1,0 +1,20 @@
+Crafted
+| Objects required=
+
+i|Admiral's Hat
+i|Chief's Headdress
+i|Condottieri's Cap
+i|Lady's Hat
+i|Libertine's Hat
+i|Mercenary's Helmet
+i|Merchant's Hat
+i|Peacock Masque
+i|Pirate Captain's Hat
+i|Chef's Hat
+i|Simple Bonnet
+i|Cow Hat
+i|Donkey Hat
+i|Frog Hat
+i|Pig Hat
+i|Rooster Hat
+i|Wolf Hat

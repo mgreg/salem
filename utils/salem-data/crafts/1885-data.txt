@@ -1,0 +1,5 @@
+Crafted
+| Objects required=Any Fish;1, Axe;1, Metal Axe;1
+
+Crafted
+| Objects required=Filet of Angel-Winged Seabass;1,Filet of Blueback Tuna;1,Filet of Cape Codfish;1,Filet of Red Herring;1,Filet of Red-Finned Mullet;1,Filet of Silt-Dwelling Mudsnapper;1,Filet of Trunk-Nosed Lake Perch;1,Filet of Tiger Trout;1,Filet of Ghostly Whitefish;1,Filet of Shin Spinner;1, Filet of Sargasso Eel;1, Filet of Darkwater Bluegill;1

@@ -1,0 +1,3 @@
+Crafted
+|Objects required= Any Fish;1
+| Weight=0.18 kg

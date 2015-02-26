@@ -1,0 +1,3 @@
+Crafted | Objects required=Skinned Argopelter;1, Grub;1, Salamander Tail;1 
+Crafted
+| Objects required=Skinned Argopelter;1, Grub;1, Salamander Tail;1

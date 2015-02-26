@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Mystery Cape Hanger;1, Chef's Pack;1
+
+Clothing
+| Equipment Slot=Cloak
+| Artificer Slots=4

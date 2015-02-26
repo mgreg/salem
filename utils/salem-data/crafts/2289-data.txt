@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Big Autumn;1, Hay;2, Sharpened Stick;2
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=1500
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=1250
+| Sugar &amp; Spice=1500
+| Thread &amp; Needle=1250
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1

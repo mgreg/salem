@@ -1,0 +1,73 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Any Cabbage Leaf</title>
+    <ns>0</ns>
+    <id>3543</id>
+    <revision>
+      <id>8477</id>
+      <parentid>8032</parentid>
+      <timestamp>2014-09-25T23:53:46Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1215">{{Crafted
+| Objects required=Leaf of Colewort;1, Leaf of Green Cabbage;1, Leaf of White Cabbage;1, Leaf of Red Cabbage;1
+}}
+|}   
+
+
+==About==
+
+&quot;Any Cabbage Leaf&quot; is a generic term which represents all the different tiers of cabbage available in the game. Any recipe which states &quot;Leaf of Cabbage&quot; as an ingredient allows you to use any tier of cabbage, although obviously the most cost effective is to use your lowest tier cabbage for such recipes, saving your higher tier cabbage for recipes which explicitly require them.
+
+Leaves of Cabbage are created by splitting up a [[Cabbage|Cabbage Head]]; each cabbage head will produce 6 leaves of the same type as the head.
+
+== Leaves  ==
+
+The specific type of leaf is dependent on the tier of cabbage head it is split from (see [[Agriculture]] for more on field tiers).
+
+{| border=&quot;1&quot; style=&quot;width: 770px; border-collapse: collapse; box-shadow: 2px 2px 5px #ccc;&quot;
+! Tier 1 !! Tier 2 !! Tier 3
+|-
+| style=&quot;vertical-align: top; text-align: center;&quot;| {{i|Leaf of Colewort}}
+| style=&quot;vertical-align: top; text-align: center;&quot;| {{i|Leaf of Green Cabbage}} &lt;br /&gt; {{i|Leaf of White Cabbage}}
+| style=&quot;vertical-align: top; text-align: center;&quot;| {{i|Leaf of Red Cabbage}}
+|-
+|}</text>
+      <sha1>7behflbtsawhgimc3ys6yvsbgq7ego5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

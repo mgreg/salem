@@ -1,0 +1,21 @@
+Skill
+| Description=Mechanics allows you to construct a Stamp Mill usable for easing the task of crushing blocks of ore before smelting.
+| Arts &amp; Crafts=1200
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=2500
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Pulleys &amp; Levers
+| Crafts unlocked=
+| Builds unlocked=Stamp Mill, Brick Townhouse
+| Others unlocked=

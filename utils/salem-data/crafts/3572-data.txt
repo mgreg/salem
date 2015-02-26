@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Unleavened Baguettes Dough;1, Baking Table;1

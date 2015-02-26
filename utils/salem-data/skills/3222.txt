@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shrub Orchards</title>
+    <ns>0</ns>
+    <id>3222</id>
+    <revision>
+      <id>11972</id>
+      <parentid>11971</parentid>
+      <timestamp>2015-02-25T15:48:42Z</timestamp>
+      <contributor>
+        <username>Yes</username>
+        <id>14</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1669">{{Skill
+| Description=Shrub Orchards allows you to grow the fruits and berries of Shrubs in Pots and to in the world plant such Shrubs as might thusly sprout.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=11500
+| Hunting &amp; Hideworking=3750
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=4500
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy= 
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=Cranberry Bush, Blackberry Bush, Thorn Bush, Myrtle Oak Tree
+}}
+
+==In-Game Text==
+
+''&quot;They growe in the borders of fields upon bank sides and hedges, almost every where.  They flourish in all the sommer, especially in May and Iune.&quot;
+
+''-John Gerarde, The Herball or Generall Historie of Plantes, 1597
+
+His fields, pots and plants well pruned &amp; tended, and his efforts rendered and rewarded a bountiful crop, the wise and foresightful Pilgrim should soon thereupon strive to lay down such futures as might but in time come to yield Fruteximal just rewards.  Shrub Orchards allows you to grow the fruits and berries of Shrubs in Pots and to in the world plant such Shrubs as might thusly sprout.
+
+==About==
+
+Allows the planting of [[Blackberries]], [[Cranberry|Cranberries]], [[Those Rarefied Thornbush Flowers]], and [[Myrtle Oak Acorn]]s in pots to grow new shrubs.  They are not plantable until the skill is earned, but anyone can pick up a pot with the new bush in it and plant it.
+
+Same as with [[Forestry]] there is a chance that after planting a blackberry/cranberry/acorn/rarefied flower into a pot it will grow into a branch.</text>
+      <sha1>s1apfq8nwxc5pt5lzxl0x1sojwgd1t0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

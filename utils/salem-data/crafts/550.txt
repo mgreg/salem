@@ -1,0 +1,71 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Common Earthworm</title>
+    <ns>0</ns>
+    <id>550</id>
+    <revision>
+      <id>11504</id>
+      <parentid>11484</parentid>
+      <timestamp>2015-02-16T19:55:09Z</timestamp>
+      <contributor>
+        <username>Yes</username>
+        <id>14</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1077">{{Crafted
+| Objects required=Compost Bin;1, Hollow Stump;1, Hollow Log;1, Dig;1
+| Weight=.03 kg
+}}
+|}  
+
+
+==About==
+*Random chance to obtain through [[Digging]];
+*Random chance to find in [[Compost Bin]];
+*Can be found in Old Stumps;
+*Counts as +1 compost if added to a [[Compost Bin]] and +10 for [[Turkey Coop]];
+*Can be used as a Lure for [[fishing]].
+
+==Purity==
+
+Worms can have their purity adjusted by feeding them plants with the purity you want them to eventually obtain. You must place the worm in a container and then place an item of the [[Any Plant]] category immediately next to the worm. After a few hours the worm will consume that plant and the worm's alchemy levels will make a 10% adjustment towards the plant's alchemy. For example if the plant had 40 AEther value and the worm had 30 AEther value, once the worm feeds on the plant it will gain 10% of the difference which is 1 and end up having 31 AEther value.
+
+Worms pass their Purity directly to the Humus they produce in a bin.  Humus is one of three components for Gardening Purity.
+
+[[Category:Lures]]</text>
+      <sha1>9ajsqr54lc9w8l2zvatxte00savl9et</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

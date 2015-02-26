@@ -1,0 +1,21 @@
+Skill
+| Description=Botany increases your chances of finding useful plants and herbs.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=2500
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=600
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=1100
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=600
+| Perennial Philosophy=
+| Skills unlocked=Forestry, Horticulture
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=

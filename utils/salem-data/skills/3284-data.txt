@@ -1,0 +1,21 @@
+Skill
+| Description= Granite Excavation allows for the unearthing of Granite Boulders from stone quarrys.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=2400
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=1250
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=3150
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Ambitious Excavation
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=

@@ -1,0 +1,3 @@
+Crafted | Objects required=Pumpkin Flesh;4, Big Autumn;1, Green Bell Peppers;1, Red Bell Peppers;1, Pine Nuts;1 
+Crafted
+| Objects required=Pumpkin Flesh;4, Big Autumn;1, Green Bell Peppers;1, Red Bell Peppers;1, Pine Nuts;1

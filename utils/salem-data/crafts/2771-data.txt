@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Indian Cotton Cloth;2, Egyptian Cotton;4, Bone Beadwork;2, Crowberry Stalk;1
+
+Clothing
+| Equipment Slot=Head
+| Artificer Slots=3

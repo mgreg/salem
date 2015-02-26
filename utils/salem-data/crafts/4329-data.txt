@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Sea Island Cotton Cloth;1, Hydrukey Feather;6
+
+Inspirational
+| Arts &amp; Crafts=4000
+| Cloak &amp; Dagger=1500
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=4000
+| Natural Philosophy=
+| Perennial Philosophy=2500
+| Uses=3

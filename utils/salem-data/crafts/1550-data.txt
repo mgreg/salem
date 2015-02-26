@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Rested Pie Dough;1, Pumpkin Flesh;9, Baking Table;1, Bread Oven;1
+
+VariableFoodPumpkins
+| Heals=19.5,15.5,15.5,18
+| Uses=1
+| Min Blood=45 | Max Blood=50
+| Min Phlegm=45 | Max Phlegm=50
+| Min Yellow Bile=45 | Max Yellow Bile=50
+| Min Black Bile=45 | Max Black Bile=50
+| Gluttony Time=5:00
+| Food Groups=Pumpkins and Gourds
+| FoodReduce1=Pumpkins and Gourds | %Reduce1=80 | %ChanceReduce1=70
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

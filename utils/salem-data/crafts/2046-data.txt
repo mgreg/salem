@@ -1,0 +1,12 @@
+Crafted
+| Objects required=Yellow-Stained Cotton Cloth;2, Indian Cotton Cloth;1, Leather;3
+
+Clothing
+| Equipment Slot=Coat
+| Artificer Slots=3
+
+PAGENAME
+PAGENAME
+PAGENAME
+PAGENAME
+PAGENAME

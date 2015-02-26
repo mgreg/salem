@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Clay;1, Kiln;1
+| Weight=1.00 kg

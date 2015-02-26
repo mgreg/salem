@@ -1,0 +1,20 @@
+Crafted | Objects required=Any Pectin;1, Glass Jar;1, Sugar;.25kg 
+VariableFoodBerries | Heals=21,28,18,18 | Uses=1 | Min Blood=40 | Max Blood=45 | Min Phlegm=40 | Max P...&quot;</comment>
+      <text xml:space="preserve" bytes="701">{{Crafted
+| Objects required=Any Pectin;1, Glass Jar;1, Sugar;.25kg
+
+VariableFoodBerries
+| Heals=21,28,18,18
+| Uses=1
+| Min Blood=40 | Max Blood=45
+| Min Phlegm=40 | Max Phlegm=45
+| Min Yellow Bile=40 | Max Yellow Bile=45
+| Min Black Bile=40 | Max Black Bile=45
+| Gluttony Time=2:30 
+| Food Groups=Berries
+| FoodReduce1=Berries | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

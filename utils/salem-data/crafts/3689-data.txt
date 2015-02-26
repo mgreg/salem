@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Any Shellfish;1, Gelatinous Lard;1, Yellow Morel;1, Lavender Blewit;1
+
+VariableFoodShellfish
+| Heals=14,18,16,18
+| Uses=1
+| Min Blood=45 | Max Blood=50
+| Min Phlegm=45 | Max Phlegm=50
+| Min Yellow Bile=45 | Max Yellow Bile=50
+| Min Black Bile=45 | Max Black Bile=50
+| Gluttony Time=3:00
+| Food Groups= Crustacea and Shellfish
+| FoodReduce1= Crustacea and Shellfish | %Reduce1=25 | %ChanceReduce1=15
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

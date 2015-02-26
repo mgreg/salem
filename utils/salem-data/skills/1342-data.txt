@@ -1,0 +1,21 @@
+Skill
+| Description=Big Game Hunting allows you to attack larger creatures, and to carry animal carcasses faster.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=750
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=1600
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=3750
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Game Meats, Monster Hunting
+| Crafts unlocked=Hunting Trophy, A Walk on the Wild Side, Buckskin Inlays, Tenderboiled Terrine, Marrow Dumplings, Highlander's Bonnet
+| Builds unlocked=
+| Others unlocked=

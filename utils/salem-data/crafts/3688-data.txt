@@ -1,0 +1,20 @@
+Crafted | Objects required=Any Mushroom;3, Bone;1, Coarse Salt;1, Bucket of Water;.35L, Raw Rabbit Cut;2, Raw Venison Cut;1, Tomato;3 
+VariableFoodMushrooms | Heals=43,3...&quot;</comment>
+      <text xml:space="preserve" bytes="681">{{Crafted
+| Objects required=Any Mushroom;3, Bone;1, Coarse Salt;1, Bucket of Water;.35L, Raw Rabbit Cut;2, Raw Venison Cut;1, Tomato;3
+
+VariableFoodMushrooms
+| Heals=43,31,44,57
+| Uses=1
+| Min Blood=58 | Max Blood=60
+| Min Phlegm=58 | Max Phlegm=60
+| Min Yellow Bile=58 | Max Yellow Bile=60
+| Min Black Bile=58 | Max Black Bile=60
+| Gluttony Time=1:00
+| Food Groups= Mushrooms
+| FoodReduce1=Mushrooms | %Reduce1=30 | %ChanceReduce1=80
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

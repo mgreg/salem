@@ -1,0 +1,21 @@
+Skill
+| Description=Monster Hunting allows a pilgrim to both engage and harvest the more fearsome of creatures.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=1800
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=4000
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=7500
+| Law &amp; Lore=1300
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Viscera &amp; Bits
+| Crafts unlocked=Argopelter Trophy
+| Builds unlocked=
+| Others unlocked=Argopelter, March Hare, Wishpoosh

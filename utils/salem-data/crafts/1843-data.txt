@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Unbaked Stuffed Turkey;1, Stove;1
+| Items gained=Stuffed Turkey Breast;2, Stuffed Turkey Wing;2, Helping of Stuffed Turkey;4

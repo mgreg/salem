@@ -1,0 +1,20 @@
+Crafted | Objects required=Glass Jar;1, Cranberry;11, Sugar;.5kg 
+SpecialFood | Heals=77,119,35,35 | Uses=1 | Min Blood=10 | Max Blood=10 | Min Phlegm=10 | Max Phlegm=10...&quot;</comment>
+      <text xml:space="preserve" bytes="655">{{Crafted
+| Objects required=Glass Jar;1, Cranberry;11, Sugar;.5kg
+
+SpecialFood
+| Heals=77,119,35,35
+| Uses=1
+| Min Blood=10 | Max Blood=10
+| Min Phlegm=10 | Max Phlegm=10
+| Min Yellow Bile=10 | Max Yellow Bile=10
+| Min Black Bile=10 | Max Black Bile=10
+| Gluttony Time=2:00 
+| Food Groups=Berries
+| FoodReduce1= | %Reduce1= | %ChanceReduce1=
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1=Berries |%Restore1=100 |%ChanceRestore1=100
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

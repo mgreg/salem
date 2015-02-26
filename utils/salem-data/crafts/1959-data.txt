@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Raggy Hem;2, Yellow-Stained Cotton Cloth;4
+
+Clothing
+| Equipment Slot=Legs
+| Artificer Slots=2

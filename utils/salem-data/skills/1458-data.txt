@@ -1,0 +1,21 @@
+Skill
+| Description=Aristotelian Logic reduces the learning time required to acquire new skills.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=3000
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Theology, Pharmacology Formal, Lucky
+| Crafts unlocked=Game Board
+| Builds unlocked=
+| Others unlocked=Facepalm

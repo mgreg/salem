@@ -1,0 +1,3 @@
+Crafted | Objects required=Wishpoosh;1 
+Crafted
+| Objects required=Wishpoosh;1

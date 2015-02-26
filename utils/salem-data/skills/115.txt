@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alchemy</title>
+    <ns>0</ns>
+    <id>115</id>
+    <revision>
+      <id>10205</id>
+      <parentid>9139</parentid>
+      <timestamp>2014-11-13T03:24:06Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1696">{{Skill
+| Description= Learning the secrets of the Alchemy allows you to construct several Alchemical implements.
+| Arts &amp; Crafts=1750
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=2500
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=2500
+| Perennial Philosophy=1000
+| Skills unlocked=Pharmacology Formal, Steam Distillation
+| Crafts unlocked=Glass Vial
+| Builds unlocked=Alchemy table
+| Others unlocked=
+}}
+
+==In-Game Text==
+
+''&quot;We finish the brief hieroglyphic consideration of out Monad, which we would sum up in one only hieroglyphic context: The Sun and the Moon of this Monad desire that the Elements in which the tenth proportion will flower, shall be separated, and this is done by the application of Fire.&quot;
+
+''- John Dee, Monas Hieroglyphica,Theorem X, 1564
+
+Alchemy is the hermetic study of the elements of the natural order in their correspondance to the grand harmony of the heavens and the perennial melody of an ordered universe. Learning the secrets of the Alchemy allows you to construct several Alchemical implements with which to modify the Chymicall makeup of items along the cardinal impurity dimensions of Mercury, Sulphur and Lead, so as to promote their higher Alchemical purity, which in turn, in the grand harmony of the cosmos, always corresponds to better net effect.
+
+==About==
+
+Alchemy is being reworked and is currently on hold so that the Colliquative Pressure Cooker, Conjunctive Retort, Rectificative Test Tubes, and Coagulative Alembic do not currently work.  However, the [[Steam Distiller]] has several uses.</text>
+      <sha1>sm8kli1zg8rpo8vi1ryezl7ites5013</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

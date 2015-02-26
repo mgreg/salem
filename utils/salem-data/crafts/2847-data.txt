@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Closed Beta Reward Box;1
+
+Clothing
+| Equipment Slot=Feet
+| Artificer Slots=2

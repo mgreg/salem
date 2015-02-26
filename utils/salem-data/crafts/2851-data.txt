@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Indian Cotton Cloth;1, Egyptian Cotton Cloth;1, Silk Cloth;2
+
+Clothing
+| Equipment Slot=Torso
+| Artificer Slots=3

@@ -1,0 +1,21 @@
+Skill
+| Description=Viscera &amp; Bits allows for more reliable harvesting of animal products.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=6600
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=14200
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=7500
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=3900
+| Skills unlocked=
+| Crafts unlocked=
+| Builds unlocked=
+| Others unlocked=

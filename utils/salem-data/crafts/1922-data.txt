@@ -1,0 +1,21 @@
+Crafted
+| Objects required=Sharpened Stick;1, Woodblock;1, Whittler's Bench;1
+| Weight=.10
+
+Inspirational
+| Arts &amp; Crafts=650
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=850
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=900
+| Natural Philosophy=250
+| Perennial Philosophy=
+| Uses=2

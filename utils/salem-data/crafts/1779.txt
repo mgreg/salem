@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Simple Crucifix</title>
+    <ns>0</ns>
+    <id>1779</id>
+    <revision>
+      <id>10991</id>
+      <parentid>8331</parentid>
+      <timestamp>2015-01-18T20:32:18Z</timestamp>
+      <contributor>
+        <username>Pistolshrimp</username>
+        <id>16</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1076">{{Crafted
+| Objects required=Sharpened Stick;2, Whittler's Bench;1
+}}
+{{Inspirational Artifact
+| Arts &amp; Crafts=350
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=700
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=400
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=350
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=40
+| Uses=2
+
+| Difficulty=10 to 0
+| Proficiency Type=Hammer &amp; Nail, Thread &amp; Needle
+| Common Combat Power=
+| Common Combat Defense=1
+| Criminality=
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=5
+| Culinary=
+| Production=2
+| Pockets=
+| Slots=
+}}
+==About==
+
+Early craftable inspirational.  It is the first and best early source of [[Faith &amp; Wisdom]] due to its readily available materials and relatively high yield. It can also be hung on a wall.
+
+==Flavor Text==
+''A light in dreams of darker valleys, and darker trails unblazed.
+
+[[Category:Decoratives]]</text>
+      <sha1>tg9voy4ekzutnft54y8zf5s03l8p8gf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

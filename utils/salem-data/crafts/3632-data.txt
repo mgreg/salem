@@ -1,0 +1,3 @@
+Crafted | Objects required=Stuffed Turkey;1, Wild Stuffed Turkey;1 
+Crafted
+| Objects required=Stuffed Turkey;1, Wild Stuffed Turkey;1

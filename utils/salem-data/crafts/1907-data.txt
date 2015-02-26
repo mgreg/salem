@@ -1,0 +1,18 @@
+Crafted
+| Objects required=Any Raw Steak;1, Board;1, Pepper;.02kg, Stove;1
+
+VariableFoodGame
+| Heals=15,6,15.5,7.5
+| Uses=1
+| Min Blood=21 | Max Blood=22
+| Min Phlegm=21 | Max Phlegm=22
+| Min Yellow Bile=21 | Max Yellow Bile=22
+| Min Black Bile=21 | Max Black Bile=22
+| Gluttony Time=0:30 
+| Food Groups=Game Meat
+| FoodReduce1=Game Meat | %Reduce1=20 | %ChanceReduce1=40
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

@@ -1,0 +1,3 @@
+Crafted | Objects required=Leavened Baguettes Dough;1, Bread Oven;1 
+Crafted
+| Objects required=Leavened Baguettes Dough;1, Bread Oven;1

@@ -1,0 +1,20 @@
+Crafted
+| Objects required=Caterpillar;1, Glass Jar;1, Myrtle Oak Leaves;2, Oak Duff;2
+
+Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=2325
+| Hammer &amp; Nail=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=885
+| Mines &amp; Mountains=
+| Herbs &amp; Sprouts=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=1450
+| Thread &amp; Needle=
+| Natural Philosophy=1450
+| Perennial Philosophy=
+| Uses=4

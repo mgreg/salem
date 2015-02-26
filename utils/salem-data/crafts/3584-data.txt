@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Glass Pane;1, Crucible;1
+| Weight=.5 kg 

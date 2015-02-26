@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Foraging</title>
+    <ns>0</ns>
+    <id>1683</id>
+    <revision>
+      <id>9409</id>
+      <parentid>8155</parentid>
+      <timestamp>2014-10-12T03:09:28Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1581">{{Skill
+| Description=Foraging allows you your first insights into the wild plant-life of the New World.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=200
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=300
+| Law &amp; Lore=
+| Mines &amp; Mountains=300
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Indian Tracking
+| Crafts unlocked=Berries-on-a-Straw, Virginian Shellroast, A Taste of Autumn,
+| Builds unlocked=
+| Others unlocked=Forage
+}}
+
+==In-Game Text==
+
+''&quot;But perhaps I had better pass over our divines in silence and not stir this pool or touch this fair but unsavory plant.&quot;
+
+''-Erasmus of Potterdam, The Praise of Folly
+
+Foraging for supplies can be a difficult endeavor under the best of circumstances, but in a strange and wild land unfamiliar to the would-be woodsman the difficulty of this most critical art of survival can approach the Herculean.  Foraging allows you your first insights into the wild plant-life of the New World.
+
+==About==
+
+*This skill enables you to [[Forage]] some basic herbs which is essential for your survival in the New World.
+ 
+*You can also use a special [[:Category:Movement|Movement]] called {{i|Forage}} that increases the number of items found in the wilderness.
+
+*:However, leaving this skill on continuously drains [[Yellow Bile]] and costs [[Phlegm]] while moving.
+
+*:This skill is a toggle: use once to start Foraging, use a second time (or activate another [[:Category:Movement|Movement]]) to stop Foraging.</text>
+      <sha1>9tw5wyodvwiswebsrmmcm5lfb2pdfx3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

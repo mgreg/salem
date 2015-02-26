@@ -1,0 +1,37 @@
+Foraged
+|Where found = Grassland, Badlands
+
+SpecialFood
+| Heals=4,4,4,4
+| Uses=1
+| Min Blood=5 | Max Blood=5
+| Min Phlegm=5 | Max Phlegm=5
+| Min Yellow Bile=5 | Max Yellow Bile=5
+| Min Black Bile=5 | Max Black Bile=5
+| Gluttony Time=0:05
+| Food Groups=Mushrooms
+| FoodReduce1=Mushrooms | %Reduce1=50 | %ChanceReduce1=50
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=
+
+Crafted
+| Objects required=Gardening Pot;1, Sugar Caps;1
+
+SpecialFood
+| Heals=4,4,4,4
+| Uses=1
+| Min Blood=5 | Max Blood=5
+| Min Phlegm=5 | Max Phlegm=5
+| Min Yellow Bile=5 | Max Yellow Bile=5
+| Min Black Bile=5 | Max Black Bile=5
+| Gluttony Time=0:05
+| Food Groups=Mushrooms
+| FoodReduce1=Mushrooms | %Reduce1=50 | %ChanceReduce1=50
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

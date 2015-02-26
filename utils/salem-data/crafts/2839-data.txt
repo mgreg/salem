@@ -1,0 +1,8 @@
+Crafted
+| Objects required=Closed Beta Reward Box;1
+
+Clothing
+| Equipment Slot=Waist
+| Difficulty=45 to 5
+| Proficiency Type=Faith &amp; Wisdom, Law &amp; Lore, Thread &amp; Needle
+| Artificer Slots=2

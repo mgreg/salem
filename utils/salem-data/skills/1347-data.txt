@@ -1,0 +1,21 @@
+Skill
+| Description=Game Meats increases the number of cuts obtained.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=5500
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=2200
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=Butcher's Thrift, Venison Cuisine
+| Crafts unlocked=Bluebeary, Windy Pooh
+| Builds unlocked=
+| Others unlocked=

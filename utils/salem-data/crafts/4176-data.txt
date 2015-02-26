@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Copper Ore Boulder;1, Granite Boulder;1, Iron Ore Boulder;1, Lime Boulder;1, Rubble Boulder;1, Silver Ore Boulder, Stone Boulder;1,

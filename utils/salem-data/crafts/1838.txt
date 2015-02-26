@@ -1,0 +1,74 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>SalemWiki</sitename>
+    <base>http://www.salem-wiki.com/mediawiki/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">SalemWiki</namespace>
+      <namespace key="5" case="first-letter">SalemWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Slingshot</title>
+    <ns>0</ns>
+    <id>1838</id>
+    <revision>
+      <id>7050</id>
+      <parentid>7049</parentid>
+      <timestamp>2014-08-14T02:25:53Z</timestamp>
+      <contributor>
+        <username>Mereni</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* About */</comment>
+      <text xml:space="preserve" bytes="2088">{{Crafted
+| Objects required= Sharpened Stick;2 , Plant Fibre;1
+}}
+|}
+
+==About==
+The Slingshot is the first Ranged Weapon available in the game.  Although the [[Plant Fibre]] required in its construction can be troublesome to obtain, it is a useful tool for hunting, since it allows you to initiate combat without the animal running away.
+
+The Slingshot uses [[Any Stone|stones]] as ammunition.  A stone of any kind must be in your inventory in order to fire the Slingshot.
+
+*'''Caution:''' The Slingshot will happily fire [[Smooth Stone]]'s, [[Lime]], and [[Flint]] at your target, so be careful that you don't end up shooting valuable stones.
+
+To Fire a Slingshot, you must first select the [[Shoot]] command from the Combat-&gt;Attack menu.  Clicking with your mouse-cursor will aim the shot at wherever you clicked.  Your character will grasp the slingshot in their Left hand while pulling back with their Right.  The right-hand will shift around a bit while &quot;taking aim&quot;, but this should not be confused with swinging a Sling (as opposed to a Slingshot) around in the air with your Right hand, since Slings are not in the game.
+
+When the shot is fired, a white line will trace it's trajectory to the target, and the fist-sized rock you just hurled will do a trivial amount of damage and serve only to make the creature angry.  Be prepared to engage in combat now, since a homicidal bunny rabbit (Or whatever you attacked) will be barreling down at you, thirsting for blood.  if you fired from maximum range, you should have time to perform a [[Stomp]], but it's safer to be ready with a more direct attack instead, like [[Punch]] or [[Thrust]].
+
+==Notes==
+* A Slingshot MUST be equipped to the Left Hand.
+* Slingshot damage seems to be around 0.5*sqrt(YB/10).
+* Common Combat Power [[Artifact]]s increase the damage done by a Slingshot, but the difference is not enough to matter.
+* Impassable objects (walls, boulders, stumps...) cannot be shot over.
+* The slingshot targets the ground, not the animal you are trying to hit.  Aim for it's feet and you'll hit fine.
+
+[[Category:Weapon]]</text>
+      <sha1>8jr4ny5ondm4b78i4t9zuctp0ymlxdw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,10 @@
+Crafted | Objects required=Apothecary Kit;1 
+Clothing | Equipment Slot=Face | Difficulty= | Proficiency Type= | Artificer Slots= 
+Crafted
+| Objects required=Apothecary Kit;1
+
+Clothing
+| Equipment Slot=Face
+| Difficulty=
+| Proficiency Type=
+| Artificer Slots=

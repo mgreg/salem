@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Stalls;1, Silver Pieces;50

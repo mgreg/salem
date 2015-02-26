@@ -1,0 +1,6 @@
+Crafted
+| Objects required=Leather;6, Dried Deer Hide;2
+
+Clothing
+| Equipment Slot=Feet
+| Artificer Slots=3

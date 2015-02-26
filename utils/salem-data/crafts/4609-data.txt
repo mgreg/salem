@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Black Sand;12, Sand Inspirational;12
+| Weight=5.00 kg

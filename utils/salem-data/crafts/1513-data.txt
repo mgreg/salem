@@ -1,0 +1,1 @@
+PropVals/Print Entry|showamount=no|Food

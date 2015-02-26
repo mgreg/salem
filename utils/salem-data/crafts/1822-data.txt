@@ -1,0 +1,2 @@
+Crafted
+| Objects required=Crab;1, Stone;1, Gnarly Old Crab Shield;1, Crab Claw ;1

@@ -1,0 +1,21 @@
+Skill
+| Description=Weapon Forging allows for the creation of sophisticated weaponry.
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=3100
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=4100
+| Mines &amp; Mountains=2550
+| Sparks &amp; Embers=10500
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Skills unlocked=
+| Crafts unlocked=Spanish Sabre, Halberd, Sword Hilt, Sword Blade
+| Builds unlocked=
+| Others unlocked=

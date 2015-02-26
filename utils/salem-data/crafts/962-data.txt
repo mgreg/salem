@@ -1,0 +1,3 @@
+Crafted
+| Objects required=Oiling Trough;1, Vegetable Oil;2L, Planed Board;1,
+| Weight=3.50 kg

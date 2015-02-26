@@ -1,0 +1,41 @@
+Foraged
+| Where found=Clay Pit
+
+Inspirational
+| Arts &amp; Crafts=450
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=850
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=750
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=950
+| Sparks &amp; Embers=1200
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1
+
+Crafted
+| Objects required=Dirt;1, Milk of Lime;1, Clay Trough;1
+
+Inspirational
+| Arts &amp; Crafts=450
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=850
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=750
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=950
+| Sparks &amp; Embers=1200
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
+| Uses=1
