@@ -3,7 +3,19 @@ Crafted
 | Weight=0.17 kg
 
 Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
 | Flora &amp; Fauna=3250
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
 | Law &amp; Lore=1350
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=2150
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
 | Uses=3

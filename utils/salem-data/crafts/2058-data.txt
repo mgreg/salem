@@ -5,18 +5,9 @@ Crafted
 
 Inspirational 
 | Arts &amp; Crafts=800 
-| Cloak &amp; Dagger= 
 | Faith &amp; Wisdom=450 
-| Flora &amp; Fauna= 
-| Hammer &amp; Nail= 
 | Herbs &amp; Sprouts=650
-| Hunting &amp; Hideworking= 
-| Law &amp; Lore= 
-| Mines &amp; Mountains= 
-| Sparks &amp; Embers= 
-| Stocks &amp; Cultivars= 
 | Sugar &amp; Spice=450 
 | Thread &amp; Needle=750 
 | Natural Philosophy=750 
-| Perennial Philosophy= 
 | Uses=1

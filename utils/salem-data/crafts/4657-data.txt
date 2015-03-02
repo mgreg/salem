@@ -3,5 +3,24 @@ Crafted
 
 Artifact
 | Difficulty=5 to 0
+| Proficiency Type=
 | Affluence=4
+| Common Combat Power=
+| Common Combat Defense=
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Criminality=
+| Soil Digging=
 | Mining=2
+| Weaving=
+| Woodworking=
+| Feasting=
+| Production=
+| Spellpower=
+| Pockets=
+| Slots=

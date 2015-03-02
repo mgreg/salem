@@ -2,9 +2,19 @@ Crafted
 | Objects required=Jar of Tar;1, Plant Fibre;4
 
 Inspirational
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=1350
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
 | Hammer &amp; Nail=650
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
 | Law &amp; Lore=1600
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
 | Natural Philosophy=800
 | Perennial Philosophy=350
 | Uses=3

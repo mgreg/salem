@@ -2,9 +2,19 @@ Crafted
 | Objects required=March Hare;1, Beaver;1, Deer;1, Bear;1
 
 Inspirational
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=450
 | Faith &amp; Wisdom=200
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=150
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
 | Natural Philosophy=750
 | Perennial Philosophy=175
 | Uses=1

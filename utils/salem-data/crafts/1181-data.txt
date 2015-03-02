@@ -2,9 +2,19 @@ Crafted
 | Objects required=Tanning Tub;1
 
 Inspirational
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=2150
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=4500
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=2000
 | Thread &amp; Needle=2800
 | Natural Philosophy=2050
+| Perennial Philosophy=
 | Uses=1

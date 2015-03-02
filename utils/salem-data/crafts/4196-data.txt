@@ -1,7 +1,7 @@
 Crafted | Objects required=Mystery Box;1 
-Clothing | Equipment Slot=Head | Artificer Slots= 
 Crafted
 | Objects required=Mystery Box;1
 
 Clothing
 | Equipment Slot=Head
+| Artificer Slots=

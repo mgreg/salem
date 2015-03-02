@@ -2,10 +2,19 @@ Crafted
 | Objects required=Clay;1, Flint;1, Lime;1, Coarse Salt;1
 
 Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=800
 | Flora &amp; Fauna=800
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
 | Mines &amp; Mountains=1750
 | Sparks &amp; Embers=1200
+| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=1200
+| Thread &amp; Needle=
 | Natural Philosophy=900
+| Perennial Philosophy=
 | Uses=1

@@ -1,6 +1,6 @@
-Crafted | Objects required= 
 Clothing | Equipment Slot=Head | Artificer Slots=5 
 Crafted
+| Objects required=
 
 Clothing
 | Equipment Slot=Head

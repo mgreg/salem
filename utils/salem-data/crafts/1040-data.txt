@@ -2,13 +2,40 @@ Crafted
 | Objects required=Argopelter;1
 
 Inspirational Artifact
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=1800
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=3200
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
 | Perennial Philosophy=1200
 | Uses=1
 
 | Difficulty=30 to 15
 | Proficiency Type=Sugar &amp; Spice, Thread &amp; Needle
+| Common Combat Power=
 | Common Combat Defense=5
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Criminality=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
 | Culinary=20
 | Production=6
+| Pockets=
+| Slots=

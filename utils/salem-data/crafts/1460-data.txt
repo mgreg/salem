@@ -2,18 +2,10 @@ Crafted | Objects required=Oiled Board;1, Planed Board;1,
 | Weight=1 kg
 
 Inspirational 
-| Arts &amp; Crafts= 
 | Cloak &amp; Dagger=1000 
-| Faith &amp; Wisdom= 
-| Flora &amp; Fauna= 
 | Hammer &amp; Nail=4500 
-| Hunting &amp; Hideworking= 
+| Herbs &amp; Sprouts=
 | Law &amp; Lore=1500 
-| Mines &amp; Mountains= 
-| Sparks &amp; Embers= 
-| Stocks &amp; Cultivars= 
-| Sugar &amp; Spice= 
-| Thread &amp; Needle= 
 | Natural Philosophy=1500 
 | Perennial Philosophy=1000
 | Uses=6

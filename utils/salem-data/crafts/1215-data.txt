@@ -2,15 +2,41 @@ Crafted
 | Objects required=Dead Timber Rattler;1
 
 Inspirational Artifact
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=800
 | Flora &amp; Fauna=1200
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=1200
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=600
+| Sugar &amp; Spice=
 | Thread &amp; Needle=1200
+| Natural Philosophy=
+| Perennial Philosophy=
 | Uses=1
 
 | Difficulty=30 to 15
 | Proficiency Type=Mines &amp; Mountains, Cloak &amp; Dagger
+| Affluence=
+| Common Combat Power=
+| Common Combat Defense=
+| Criminality=
 | Blunt Power=11
+| Blunt Defense=
 | Impact Power=5
+| Impact Defense=
 | Piercing Power=5
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=
+| Weaving=
+| Woodworking=
+| Culinary=
+| Production=
+| Pockets=
+| Slots=

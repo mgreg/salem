@@ -10,4 +10,9 @@ SpecialFood
 | Min Black Bile=10 | Max Black Bile=10
 | Gluttony Time=2:00 
 | Food Groups= Bread
+| FoodReduce1= | %Reduce1= | %ChanceReduce1=
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
 | FoodRestore1=Bread |%Restore1=100 |%ChanceRestore1=100
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

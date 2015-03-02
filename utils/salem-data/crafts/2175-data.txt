@@ -1,3 +1,6 @@
-Crafted | Objects required=Clay;8, Brick;2 | Needs lighting?= | Liftable?= | Hit points= | Soak value= 
 Crafted
 | Objects required=Clay;8, Brick;2
+| Needs lighting?=
+| Liftable?=
+| Hit points=
+| Soak value=

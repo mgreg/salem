@@ -12,4 +12,9 @@ SpecialFood
 | Min Black Bile=5 | Max Black Bile=5
 | Gluttony Time=1:00
 | Food Groups=Fishes
+| FoodReduce1= | %Reduce1= | %ChanceReduce1=
+| FoodReduce2= | %Reduce2= | %ChanceReduce2=
+| FoodReduce3= | %Reduce3= | %ChanceReduce3=
 | FoodRestore1=Fishes |%Restore1=50 |%ChanceRestore1=50
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

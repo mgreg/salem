@@ -1,4 +1,5 @@
 Crafted
+| Objects required=
 | Weight=1.00 kg
 
 Clothing

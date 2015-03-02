@@ -1,4 +1,5 @@
 Crafted
+| Objects required=
 
 i|Admiral's Hat
 i|Chief's Headdress

@@ -2,8 +2,19 @@ Crafted
 | Objects required=Humble Meat Pie;1, Pumpkin Pie;1, Wildberry Pie;1
 
 Inspirational
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=2425
+| Faith &amp; Wisdom=
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=3250
+| Thread &amp; Needle=
 | Natural Philosophy=750
 | Perennial Philosophy=1475
 | Uses=1

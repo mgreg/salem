@@ -5,9 +5,18 @@ Inspirational | Arts &amp; Crafts=160 | Cloak &amp; Dagger= | Faith &amp; Wisdom
 
 Inspirational
 | Arts &amp; Crafts=160
+| Cloak &amp; Dagger=
+| Faith &amp; Wisdom=
 | Flora &amp; Fauna=650
+| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=310
+| Hunting &amp; Hideworking=
 | Law &amp; Lore=300
+| Mines &amp; Mountains=
 | Sparks &amp; Embers=270
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
 | Thread &amp; Needle=230
+| Natural Philosophy=
+| Perennial Philosophy=
 | Uses=3

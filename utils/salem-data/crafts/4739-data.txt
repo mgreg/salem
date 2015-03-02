@@ -1,10 +1,19 @@
 Crafted
 | Objects required=Dried Bark;1, Gunpowder;.45kg, Plant Fibre;1
 Inspirational
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=125
 | Faith &amp; Wisdom=220
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
 | Sparks &amp; Embers=480
 | Stocks &amp; Cultivars=190
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
 | Natural Philosophy=170
 | Perennial Philosophy=45
 | Uses=1

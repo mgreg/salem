@@ -4,6 +4,20 @@ Crafted
 Artifact
 | Difficulty=10 to 0
 | Proficiency Type=Stocks &amp; Cultivars, Thread &amp; Needle
+| Common Combat Power=
 | Common Combat Defense=1
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Soil Digging=
+| Mining=
 | Weaving=5
+| Woodworking=
+| Feasting=
 | Production=2
+| Pockets=
+| Slots=

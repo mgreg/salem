@@ -2,9 +2,19 @@ Crafted
 | Objects required=Indian Feather;1, Indian Arrowhead;1
 
 Inspirational
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=1000
 | Faith &amp; Wisdom=1340
 | Flora &amp; Fauna=1750
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
 | Law &amp; Lore=1900
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
 | Perennial Philosophy=850
 | Uses=1

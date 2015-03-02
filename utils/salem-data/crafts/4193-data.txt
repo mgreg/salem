@@ -1,5 +1,20 @@
 Crafted
+| Objects required=
 
 Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=5000
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
+| Sugar &amp; Spice=
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
 | Uses=25

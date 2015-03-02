@@ -13,3 +13,6 @@ SpecialFood
 | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50
 | FoodReduce2=Mushrooms | %Reduce2=60 | %ChanceReduce2=100
 | FoodReduce3=Berries | %Reduce3=60 | %ChanceReduce3=100
+| FoodRestore1= |%Restore1= |%ChanceRestore1=
+| FoodRestore2= |%Restore2= |%ChanceRestore2=
+| FoodRestore3= |%Restore3= |%ChanceRestore3=

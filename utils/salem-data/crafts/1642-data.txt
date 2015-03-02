@@ -2,9 +2,19 @@ Crafted
 | Objects required=Water;1, Fishing Pole;1, Makeshift Fishing Rod;1, Fish Trap;1
 
 Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=1400
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=2000
+| Hunting &amp; Hideworking=
 | Law &amp; Lore=1300
+| Mines &amp; Mountains=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=1750
+| Thread &amp; Needle=
+| Natural Philosophy=
 | Perennial Philosophy=250
 | Uses=1

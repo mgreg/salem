@@ -1,9 +1,19 @@
 Crafted
 | Objects required=Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1, Dead Timber Rattler;1, Raw Rabbit Cut;1, Raw Timber Rattler Cut;1, Raw Beaver Cut;1, Raw Venison Cut;1, Raw Bear Cut;1, Any Raw Meat Cut;1
 Inspirational
+| Arts &amp; Crafts=
 | Cloak &amp; Dagger=15
+| Faith &amp; Wisdom=
 | Flora &amp; Fauna=150
+| Hammer &amp; Nail=
 | Hunting &amp; Hideworking=250
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Herbs &amp; Sprouts=
 | Sparks &amp; Embers=130
+| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=50
+| Thread &amp; Needle=
+| Natural Philosophy=
+| Perennial Philosophy=
 | Uses=1

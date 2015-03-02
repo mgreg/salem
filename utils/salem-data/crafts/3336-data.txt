@@ -2,7 +2,20 @@ Crafted
 | Objects required=Red Rose;1, Glass Vial;1, Steam Distiller;1, Alchemy Table;1
 
 Inspirational
+| Arts &amp; Crafts=
+| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=150
+| Flora &amp; Fauna=
+| Hammer &amp; Nail=
+| Herbs &amp; Sprouts=
+| Hunting &amp; Hideworking=
+| Law &amp; Lore=
+| Mines &amp; Mountains=
+| Pots &amp; Pans=
+| Sparks &amp; Embers=
+| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=1500
+| Thread &amp; Needle=
+| Natural Philosophy=
 | Perennial Philosophy=1500
 | Uses=1

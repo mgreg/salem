@@ -4,6 +4,21 @@ Crafted
 Artifact
 | Difficulty=20 to 5
 | Proficiency Type=Mines &amp; Mountains, Thread &amp; Needle
+| Common Combat Power=
 | Common Combat Defense=3
+| Blunt Power=
+| Blunt Defense=
+| Impact Power=
+| Impact Defense=
+| Piercing Power=
+| Piercing Defense=
+| Feral Defense=
+| Criminality=
+| Soil Digging=
 | Mining=12
+| Weaving=
+| Woodworking=
+| Feasting=
 | Production=4
+| Pockets=
+| Slots=

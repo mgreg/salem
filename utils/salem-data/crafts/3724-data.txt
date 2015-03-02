@@ -1,4 +1,5 @@
 Crafted
+| Objects required=
 
 i|Farmer's Hoe
 i|Garden Shovel
