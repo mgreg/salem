@@ -64,12 +64,13 @@
         <script type="text/javascript" src="js/skills.js"></script>
         <script type="text/javascript" src="js/crafts.js"></script>
         <!--<script type="text/javascript" src="js/salem.js"></script>-->
-        <span style="display:inline-block;width: 20%;position: relative; top: 0px; left:0px; height: 100%; padding-right:12px; border-right:1px solid #757575;vertical-align: top">
+        <span style="display:inline-block;width: 20%;position: relative; top: 0px; left:0px; height: 100%; padding-right:12px; border-right:1px solid #757575;vertical-align: top;overflow: auto">
           <salem-search name="search"></salem-search>
           <salem-search-result id="result"></salem-search-result>
         </span>
         <span style="display:inline-block;width: 70%;position: relative; top: 0px; left: 0; height: 100%;padding: 20px;vertical-align: top;overflow: auto">
           <h4 id="header"></h4>
+          <h5 id="categories"></h5>
           <div id="content"></div>
         </span>
         <script>
@@ -90,11 +91,12 @@
           result.addEventListener('select', function(e) {
             console.log(e.detail.msg.isSelected);
             if (e.detail.msg.isSelected) {
-              var txt = e.detail.msg.item.innerHTML;
+              var txt = e.detail.msg.item.innerHTML 
               
               for (var i = 0; i < crafts.length; i++) {
                 if (crafts[i].title == txt) {
                   document.getElementById('header').innerHTML = txt;
+                  document.getElementById('categories').innerHTML = crafts[i].categories;
                   document.getElementById('content').innerHTML = crafts[i].data.replace(/\|/g,"<br/>");
                   return;
                 }

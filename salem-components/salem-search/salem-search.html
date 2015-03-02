@@ -31,9 +31,11 @@
       index: null,
       ready: function() {
         this.index = lunr(function () {
-          this.field('title', {boost: 10})
-          this.field('data')
+          this.field('title', {boost: 50});
+          this.field('data');
+          this.field('categories', {boost: 25});
           this.ref('id')
+          
         });
         
         for (var i = 0; i < crafts.length; i++) {

@@ -48,7 +48,7 @@ for i in `cat $idfile`;do
 	content=`cat $datadir/$i.txt`
 	data=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /{{(.*?)}}/gs'`
 	title=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /<title>(.*?)<\/title>/gs'`
-
+    categories=`find salem-data/categories/ -type f | xargs grep "$i" | cut -d":" -f1 | sort | uniq | perl -0777 -ne 'print "$1\n" while /salem-data\/categories\/(.*?).txt/gs' | tr "\n" " " | sed 's/[ \t]*$//' | sed s/\ /,/g`
     if [ -z "$title" ]; then
         continue
     fi
@@ -59,7 +59,8 @@ for i in `cat $idfile`;do
 	
 	echo -en "{\n\ttitle: \"$title\",\n\tid: $id,\n\tpageid: $i,\n\tdata: \"" >> $output
 	echo -n $data  | sed s/\"/\\\\\"/g >> $output
-	echo -en "\"\n}" >> $output
+	echo -en "\",\n\tcategories:\"$categories\"" >> $output
+	echo -en "\n}" >> $output
 	echo -e "$data" > $datadir/$i-data.txt
 
     d=""
