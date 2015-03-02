@@ -64,7 +64,7 @@
         <script type="text/javascript" src="js/skills.js"></script>
         <script type="text/javascript" src="js/crafts.js"></script>
         <!--<script type="text/javascript" src="js/salem.js"></script>-->
-        <span style="display:inline-block;width: 20%;position: relative; top: 0px; left:0px; height: 100%; padding-right:12px; border-right:1px solid #757575;vertical-align: top;overflow: auto">
+        <div style="height: 100px; position: relative; top: 0px; left:0px; width: 100%">
           <salem-search name="search"></salem-search>
           <salem-search-result id="result"></salem-search-result>
         </span>
@@ -82,7 +82,7 @@
             var r = [], idxs = e.detail.msg;
             
             for (var i = 0; i < idxs.length; i++) {
-              r.push(crafts[idxs[i].ref].title);
+              r.push(crafts[idxs[i].ref]);
             }
             
             result.results = r
@@ -90,6 +90,7 @@
           
           result.addEventListener('select', function(e) {
             console.log(e.detail.msg.isSelected);
+            console.log(e.detail.msg.item);
             if (e.detail.msg.isSelected) {
               var txt = e.detail.msg.item.innerHTML 
               
@@ -103,13 +104,6 @@
               }
               
             }
-          });
-          
-          
-          
-          document.querySelector('core-selector').addEventListener('core-select', function (event) {
-            console.log(event.detail.item.textContent);
-            console.log(event.detail.isSelected);
           });
           
         });

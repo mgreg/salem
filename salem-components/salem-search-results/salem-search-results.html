@@ -5,21 +5,60 @@
   <template>
     
      <style>
-        :host {
-          display: block;
-          position: relative;
-          padding-left: 5px;
-          padding-right: 5px;
-          width: 100%;
-        }
+       h5, h6 {
+         margin: 0px;
+         padding: 0px;
+         margin: 10px;
+         margin-bottom: 5px;
+       }
+       paper-item {
+         font-size: small;
+       }
+       .results, .sub-category {
+         padding-left: 5px;
+       }
+       .sub-category {
+         display: inline-block;
+         width: 30%;
+         vertical-align: top;
+       }
+       .hidden {
+         display: none;
+       }
         
     </style>
     
     <div class="salem-search-result">
         <core-selector on-core-select="{{ onSelection }}">
-            <template repeat="{{ result in results }}">
-                <paper-item>{{ result }}</paper-item>
-            </template>
+          <div>
+            <h5>Top results</h5>
+            <div class="results">
+              <template repeat="{{ top in topItems }}">
+                  <paper-item>{{ top }}</paper-item>
+              </template>
+            </div>
+            <div>
+              <span class="{{ foodClass }}">
+                <h5>Foods</h5>
+                <template repeat="{{ food in foods }}">
+                  <paper-item class="sub-cat-element">{{ food }}</paper-item>
+              </template>
+              </span>
+              <span class="{{ inspClass }}">
+                <h5>Inspirational</h5>
+                <template repeat="{{ insp in inspirationals }}">
+                  <paper-item class="sub-cat-element">{{ insp }}</paper-item>
+                </template>
+              </span>
+              <span class="{{ otherClass }}">
+                <h5>Other</h5>
+                <template repeat="{{ other in others }}">
+                  <paper-item class="sub-cat-element">{{ other }}</paper-item>
+                </template>
+              </span>
+            </div>
+          </div>
+              
         </core-selector>
     </div>
   </template>
@@ -27,6 +66,65 @@
   <script>
     Polymer('salem-search-result',{
       results: [],
+      topItems: [],
+      inspirationals: [],
+      foods: [],
+      others: [],
+      foodClass: 'sub-category',
+      otherClass: 'sub-category',
+      inspClass: 'sub-category',
+      resultsChanged: function(oV, nV) {
+        var r = [], cats = [], food = [], insp = [], other = [];
+        for (var i = 0; i < Math.min(nV.length, 3); i++) {
+          r.push(nV[i].title)
+        }
+        this.topItems = r;
+        
+        if (nV.length < 4) {
+          return;
+        }
+        
+        for (i = 3; i < nV.length; i++) {
+          cats = nV[i].categories.split(",");
+          
+          if (cats.indexOf('Food') != -1) {
+            food.push(nV[i].title);
+            continue;
+          }
+          
+          if (cats.indexOf('Inspirationals') != -1) {
+            insp.push(nV[i].title);
+            continue;
+          }
+          
+          other.push(nV[i].title);
+        }
+        
+        this.foods = food;
+        this.inspirationals = insp;
+        this.others = other;
+        
+        if (!this.foods.length) {
+          this.foodClass = "hidden";
+        } else {
+          this.foodClass = "sub-category";
+        }
+        
+        if (!this.inspirationals.length) {
+          this.inspClass = "hidden";
+        } else {
+          this.inspClass = "sub-category";
+        }
+        
+        if (!this.others.length) {
+          this.otherClass = "hidden";
+        } else {
+          this.otherClass = "sub-category";
+        }
+        
+        $( ".sub-cat-element:parent" ).css("display", "inline-block");
+        $( ".sub-category template:empty" ).parent().parent().css("display", "none");
+      },
       onSelection: function(e, detail, sender) {
         this.fire("select", {msg: detail})
       }
