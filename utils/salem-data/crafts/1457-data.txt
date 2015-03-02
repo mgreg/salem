@@ -8,7 +8,6 @@ Inspirational
 | Faith &amp; Wisdom= 
 | Flora &amp; Fauna= 
 | Hammer &amp; Nail=2500 
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking= 
 | Law &amp; Lore=1050 
 | Mines &amp; Mountains=1100  
@@ -17,5 +16,4 @@ Inspirational
 | Sugar &amp; Spice= 
 | Thread &amp; Needle= 
 | Natural Philosophy=800 
-| Perennial Philosophy=
 | Uses=1

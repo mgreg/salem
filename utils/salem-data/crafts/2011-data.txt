@@ -7,14 +7,5 @@ Inspirational
 | Faith &amp; Wisdom=340
 | Flora &amp; Fauna=275
 | Hammer &amp; Nail=640
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=350
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Uses=2

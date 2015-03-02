@@ -2,19 +2,8 @@ Crafted
 | Objects required=Beetle;1, Plant Fibre;2
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=950
 | Mines &amp; Mountains=1400
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=450
-| Sugar &amp; Spice=
 | Thread &amp; Needle=1450
-| Natural Philosophy=
-| Perennial Philosophy=
 | Uses=2

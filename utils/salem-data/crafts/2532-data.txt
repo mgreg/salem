@@ -3,6 +3,3 @@ Crafted
 
 Clothing
 | Equipment Slot=Neck
-| Difficulty=
-| Proficiency Type=
-| Artificer Slots=

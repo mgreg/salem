@@ -2,19 +2,7 @@ Crafted
 | Objects required=Tilled Field;1
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=1500
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=1500
 | Sugar &amp; Spice=750
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Uses=1

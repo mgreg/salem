@@ -2,19 +2,9 @@ Crafted
 | Objects required=Virginia Snail;1, Coarse Salt;1
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=1250
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=900
 | Hunting &amp; Hideworking=1750
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=750
 | Stocks &amp; Cultivars=1100
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Uses=1

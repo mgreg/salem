@@ -10,6 +10,4 @@ SpecialFood
 | Uses=2 | Gluttony Time= 0:05
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50 
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
 | FoodReduce3= | %Reduce3= | %ChanceReduce3= 
-| FoodRestore1= |%Restore1= |%ChanceRestore1=

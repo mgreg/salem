@@ -2,19 +2,7 @@ Crafted
 | Objects required=Bar of Bubbly Soap;1, Bucket of Water;1
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=1500
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=2275
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=700
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Uses=1

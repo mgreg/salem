@@ -11,26 +11,12 @@ Inspirational Food
 | Gluttony Time=0:04
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
-| FoodReduce3= | %Reduce3= | %ChanceReduce3=
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
-| FoodRestore2= |%Restore2= |%ChanceRestore2=
-| FoodRestore3= |%Restore3= |%ChanceRestore3=
 | Arts &amp; Crafts=200
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=550
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=400
 | Stocks &amp; Cultivars=390
 | Sugar &amp; Spice=450
-| Thread &amp; Needle=
 | Natural Philosophy=200
-| Perennial Philosophy=
 | Uses=1
 
 Crafted
@@ -46,24 +32,10 @@ Inspirational Food
 | Gluttony Time=0:04
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
-| FoodReduce3= | %Reduce3= | %ChanceReduce3=
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
-| FoodRestore2= |%Restore2= |%ChanceRestore2=
-| FoodRestore3= |%Restore3= |%ChanceRestore3=
 | Arts &amp; Crafts=200
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=550
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=400
 | Stocks &amp; Cultivars=390
 | Sugar &amp; Spice=450
-| Thread &amp; Needle=
 | Natural Philosophy=200
-| Perennial Philosophy=
 | Uses=1

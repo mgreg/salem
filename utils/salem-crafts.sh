@@ -46,9 +46,9 @@ for i in `cat $idfile`;do
 	fi
 	
 	content=`cat $datadir/$i.txt`
-	data=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /{{(.*?)}}/gs'`
+	data=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /{{(.*?)}}/gs' | grep -v "=$"`
 	title=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /<title>(.*?)<\/title>/gs'`
-    categories=`find salem-data/categories/ -type f | xargs grep "$i" | cut -d":" -f1 | sort | uniq | perl -0777 -ne 'print "$1\n" while /salem-data\/categories\/(.*?).txt/gs' | tr "\n" " " | sed 's/[ \t]*$//' | sed s/\ /,/g`
+    categories=`find salem-data/categories/ -type f | xargs grep "^$i$" | cut -d":" -f1 | sort | uniq | perl -0777 -ne 'print "$1\n" while /salem-data\/categories\/(.*?).txt/gs' | tr "\n" " " | sed 's/[ \t]*$//' | sed s/\ /,/g`
     if [ -z "$title" ]; then
         continue
     fi

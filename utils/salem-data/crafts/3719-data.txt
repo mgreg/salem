@@ -2,19 +2,9 @@ Crafted
 | Objects required=Gelatinous Lard;2, Charcoal;2, Coarse Salt;2, Rose Otto;.04L
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=2200
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=2800
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=2600
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=500
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=3200
 | Uses=1

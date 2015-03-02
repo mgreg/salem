@@ -7,4 +7,3 @@ T4|{{{Objects required
 {Weight
 #ask: [[Category:Objects]] [[Requires::{{PAGENAME
 #ask: [[Category:Structures]] [[Requires::{{PAGENAME
-Crafted | Objects required=

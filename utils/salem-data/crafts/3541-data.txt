@@ -10,6 +10,4 @@ SpecialFood
 | Uses=1 | Gluttony Time= 0:15
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
 | FoodReduce3= | %Reduce3= | %ChanceReduce3= 
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
