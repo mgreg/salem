@@ -13,8 +13,3 @@ SpecialFood
 | Gluttony Time=0:45 
 | Food Groups= Potato Foods
 | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
-| FoodReduce3= | %Reduce3= | %ChanceReduce3=
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
-| FoodRestore2= |%Restore2= |%ChanceRestore2=
-| FoodRestore3= |%Restore3= |%ChanceRestore3=

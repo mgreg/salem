@@ -2,19 +2,5 @@ Crafted
 | Objects required=Carpenter's Pack;1
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=5000
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Uses=25

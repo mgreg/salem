@@ -13,8 +13,3 @@ VariableFoodNuts
 | Gluttony Time=0:15
 | Food Groups= Nuts and Seeds
 | FoodReduce1= Nuts and Seeds | %Reduce1=20 | %ChanceReduce1=20
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
-| FoodReduce3= | %Reduce3= | %ChanceReduce3=
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
-| FoodRestore2= |%Restore2= |%ChanceRestore2=
-| FoodRestore3= |%Restore3= |%ChanceRestore3=

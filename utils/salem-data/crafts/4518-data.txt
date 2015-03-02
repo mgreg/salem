@@ -1,9 +1,6 @@
 Clothing | Equipment Slot=Head | Difficulty= | Proficiency Type= | Artificer Slots=5 
 Crafted
-| Objects required=
 
 Clothing
 | Equipment Slot=Head
-| Difficulty=
-| Proficiency Type=
 | Artificer Slots=5

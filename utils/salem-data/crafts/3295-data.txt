@@ -4,21 +4,6 @@ Crafted
 Artifact
 | Difficulty=30 to 15
 | Proficiency Type=Hammer &amp; Nail, Thread &amp; Needle
-| Common Combat Power=
 | Common Combat Defense=5
-| Blunt Power=
-| Blunt Defense=
-| Impact Power=
-| Impact Defense=
-| Piercing Power=
-| Piercing Defense=
-| Feral Defense=
-| Criminality=
-| Soil Digging=
-| Mining=
-| Weaving=
 | Woodworking=20
-| Feasting=
 | Production=6
-| Pockets=
-| Slots=

@@ -4,7 +4,6 @@ Crafted | Objects required=Oiled Board;1, Planed Board;1,
 Inspirational 
 | Cloak &amp; Dagger=1000 
 | Hammer &amp; Nail=4500 
-| Herbs &amp; Sprouts=
 | Law &amp; Lore=1500 
 | Natural Philosophy=1500 
 | Perennial Philosophy=1000

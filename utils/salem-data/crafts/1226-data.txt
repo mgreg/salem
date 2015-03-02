@@ -2,19 +2,9 @@ Crafted
 | Objects required=Earthworm Python;2, Common Earthworm;8
 
 Inspirational
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=900
 | Faith &amp; Wisdom=1550
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=1300
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=2000
-| Sugar &amp; Spice=
 | Thread &amp; Needle=1200
-| Natural Philosophy=
-| Perennial Philosophy=
 | Uses=3

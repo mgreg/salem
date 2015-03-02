@@ -11,8 +11,3 @@ Food
 | Gluttony Time=2:00
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat | %Reduce1=35 | %ChanceReduce1=85
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
-| FoodReduce3= | %Reduce3= | %ChanceReduce3=
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
-| FoodRestore2= |%Restore2= |%ChanceRestore2=
-| FoodRestore3= |%Restore3= |%ChanceRestore3=

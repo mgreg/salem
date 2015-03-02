@@ -13,8 +13,3 @@ VariableFoodShellfish
 | Gluttony Time=0:30
 | Food Groups= Crustacea and Shellfish
 | FoodReduce1= Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=40
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
-| FoodReduce3= | %Reduce3= | %ChanceReduce3=
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
-| FoodRestore2= |%Restore2= |%ChanceRestore2=
-| FoodRestore3= |%Restore3= |%ChanceRestore3=

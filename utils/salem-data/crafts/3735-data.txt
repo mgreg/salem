@@ -2,19 +2,8 @@ Crafted
 | Objects required=Salamander;1
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=450
-| Hammer &amp; Nail=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=350
-| Mines &amp; Mountains=
-| Herbs &amp; Sprouts=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=250
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=75
 | Uses=1

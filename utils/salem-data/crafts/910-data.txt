@@ -2,19 +2,7 @@ Crafted
 | Objects required=Gardening Pot;1, Red Rose;1
 
 Inspirational
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=1375
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=650
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=150
 | Uses=1

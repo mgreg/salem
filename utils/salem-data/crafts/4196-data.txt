@@ -4,4 +4,3 @@ Crafted
 
 Clothing
 | Equipment Slot=Head
-| Artificer Slots=

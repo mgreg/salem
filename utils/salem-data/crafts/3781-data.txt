@@ -1,5 +1,4 @@
 Crafted
-| Objects required=
 
 i|Alchemist Cape
 i|Carpenter Cape

@@ -6,13 +6,3 @@ Food | Heals=10,10,10,10 | Uses=2 | Min Blood= | Max Blood= | Min Phlegm= | Max 
 Food
 | Heals=10,10,10,10
 | Uses=2
-| Min Blood= | Max Blood=
-| Min Phlegm= | Max Phlegm=
-| Min Yellow Bile= | Max Yellow Bile=
-| Min Black Bile= | Max Black Bile=
-| FoodReduce1= | %Reduce1= | %ChanceReduce1=
-| FoodReduce2= | %Reduce2= | %ChanceReduce2=
-| FoodReduce3= | %Reduce3= | %ChanceReduce3=
-| FoodRestore1= |%Restore1= |%ChanceRestore1=
-| FoodRestore2= |%Restore2= |%ChanceRestore2=
-| FoodRestore3= |%Restore3= |%ChanceRestore3=

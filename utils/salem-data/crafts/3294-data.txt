@@ -4,20 +4,6 @@ Crafted
 Artifact
 | Difficulty=10 to 0
 | Proficiency Type=Arts &amp; Crafts, Cloak &amp; Dagger
-| Common Combat Power=
-| Common Combat Defense=
-| Blunt Power=
 | Blunt Defense=4
-| Impact Power=
 | Impact Defense=2
-| Piercing Power=
 | Piercing Defense=2
-| Feral Defense=
-| Soil Digging=
-| Mining=
-| Weaving=
-| Woodworking=
-| Feasting=
-| Production=
-| Pockets=
-| Slots=

@@ -3,4 +3,3 @@ Crafted
 
 Clothing
 | Equipment Slot=Cloak
-| Artificer Slots=

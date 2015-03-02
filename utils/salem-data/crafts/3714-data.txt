@@ -4,20 +4,9 @@ Crafted
 
 Inspirational Artifact
 | Arts &amp; Crafts=1350
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=1650
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=1200
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=2100
-| Perennial Philosophy=
 | Uses=5
 
 | Difficulty=50 to 0
@@ -25,19 +14,3 @@ Inspirational Artifact
 | Affluence=30
 | Common Combat Power=8
 | Common Combat Defense=9
-| Criminality=
-| Blunt Power=
-| Blunt Defense=
-| Impact Power=
-| Impact Defense=
-| Piercing Power=
-| Piercing Defense=
-| Feral Defense=
-| Soil Digging=
-| Mining=
-| Weaving=
-| Woodworking=
-| Culinary=
-| Production=
-| Pockets=
-| Slots=
