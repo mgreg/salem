@@ -81,23 +81,25 @@
         this.topItems = r;
         
         if (nV.length < 4) {
-          return;
-        }
-        
-        for (i = 3; i < nV.length; i++) {
-          cats = nV[i].categories.split(",");
-          
-          if (cats.indexOf('Food') != -1) {
-            food.push(nV[i].title);
-            continue;
+          this.foods = food;
+          this.inspirationals = insp;
+          this.others = other;
+        } else {
+          for (i = 3; i < nV.length; i++) {
+            cats = nV[i].categories.split(",");
+            
+            if (cats.indexOf('Food') != -1) {
+              food.push(nV[i].title);
+              continue;
+            }
+            
+            if (cats.indexOf('Inspirationals') != -1) {
+              insp.push(nV[i].title);
+              continue;
+            }
+            
+            other.push(nV[i].title);
           }
-          
-          if (cats.indexOf('Inspirationals') != -1) {
-            insp.push(nV[i].title);
-            continue;
-          }
-          
-          other.push(nV[i].title);
         }
         
         this.foods = food;
