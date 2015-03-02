@@ -1,21 +1,8 @@
 Skill
 | Description=Further's a Pilgrim's knowledge of cutting and shaping gemstones.
 | Arts &amp; Crafts=5700
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
 | Mines &amp; Mountains=9400
 | Sparks &amp; Embers=7800
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Elaborate Gemcutting
 | Crafts unlocked=Pear-Cut Dravite, Pear-Cut Phosphophyllite, Pear-Cut Rubellite, Square-Cut Dravite, Square-Cut Phosphophyllite, Square-Cut Rubellite
-| Builds unlocked=
 | Others unlocked=Pear-Cut, Square-Cut

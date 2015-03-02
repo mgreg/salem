@@ -2,8 +2,6 @@ Skill | Description=Allows you to carry 20 kg more goods before experiencing enc
       <text xml:space="preserve" bytes="991">{{Skill
 | Description=Allows you to carry 20 kg more goods before experiencing encumbrance.
 | Arts &amp; Crafts=7500
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=7500
 | Hammer &amp; Nail=7500
 | Herbs &amp; Sprouts=7500
@@ -15,8 +13,3 @@ Skill | Description=Allows you to carry 20 kg more goods before experiencing enc
 | Sugar &amp; Spice=7500
 | Thread &amp; Needle=7500
 | Natural Philosophy=7500
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

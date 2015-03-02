@@ -1,21 +1,6 @@
 Skill
 | Description=The crime of Arson allows the ne'erdowell the ability to set certain Homestead structures ablaze.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=13500
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=11000
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=8200
-| Skills unlocked=
 | Crafts unlocked=Greek Fire, Badge of Fyre
-| Builds unlocked=
-| Others unlocked=

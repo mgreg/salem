@@ -1,21 +1,6 @@
 Skill
 | Description=Horticulture decreases the time it takes for a potted plant to reach maturity.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=6000
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars= 3500
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy= 4500
-| Perennial Philosophy=
 | Skills unlocked=Shrub Orchards
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

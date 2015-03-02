@@ -1,79 +1,99 @@
 <html>
   <head>
-       <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
-       <script type="text/javascript" src="js/d3.min.js"></script>
-       <script type="text/javascript" src="js/lunr.min.js"></script>
-       <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
-       <link rel="import" href="bower_components/font-roboto/roboto.html">
-       <link rel="import" href="bower_components/core-ajax/core-ajax.html">
-       <link rel="import" href="bower_components/core-selector/core-selector.html">
-       <link rel="import" href="bower_components/paper-input/paper-input.html">
-       <link rel="import" href="bower_components/paper-item/paper-item.html">
-       <link rel="import" href="salem-components/salem-search/salem-search.html">
-       <link rel="import" href="salem-components/salem-search-results/salem-search-results.html">
-        
-          <style type="text/css">
-            
-            body {
-              font-family: "RobotoDraft",Helvetica,Arial,sans-serif;
-            }
-
-            .node {
-              cursor: pointer;
-            }
-
-            .overlay{
-                background-color:#EEE;
-            }
-
-            .node circle {
-              fill: #fff;
-              stroke: steelblue;
-              stroke-width: 1.5px;
-            }
-
-            .node text {
-              font-size:10px;
-              font-family:sans-serif;
-            }
-
-            .link {
-              fill: none;
-              stroke: #ccc;
-              stroke-width: 1.5px;
-            }
-
-            .templink {
-              fill: none;
-              stroke: red;
-              stroke-width: 3px;
-            }
-
-            .ghostCircle.show{
-                display:block;
-            }
-            
-            .ghostCircle, .activeDrag .ghostCircle{
-                 display: none;
-            }
-
-          </style>
+    <title>Salem Tools</title>
+    <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="js/d3.min.js"></script>
+    <script type="text/javascript" src="js/lunr.min.js"></script>
+    <script type="text/javascript" src="js/skills.js"></script>
+    <script type="text/javascript" src="js/crafts.js"></script>
+    <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
+    <link rel="import" href="bower_components/font-roboto/roboto.html">
+    <link rel="import" href="bower_components/core-header-panel/core-header-panel.html">
+    <link rel="import" href="bower_components/core-toolbar/core-toolbar.html">
+    <link rel="import" href="bower_components/core-dropdown/core-dropdown.html">
+    <link rel="import" href="bower_components/core-selector/core-selector.html">
+    <link rel="import" href="bower_components/paper-input/paper-input.html">
+    <link rel="import" href="bower_components/paper-shadow/paper-shadow.html">
+    <link rel="import" href="bower_components/paper-ripple/paper-ripple.html">
+    <link rel="import" href="bower_components/paper-item/paper-item.html">
+    <link rel="import" href="salem-components/salem-search/salem-search.html">
+    <link rel="import" href="salem-components/salem-search-results/salem-search-results.html">
+    <style type="text/css">
+      body {
+        font-family: "RobotoDraft",Helvetica,Arial,sans-serif;
+        padding: 0px;
+        margin: 0px;
+      }
+      
+      .node {
+        cursor: pointer;
+      }
+      
+      .overlay{
+          background-color:#EEE;
+      }
+      
+      .node circle {
+        fill: #fff;
+        stroke: steelblue;
+        stroke-width: 1.5px;
+      }
+      
+      .node text {
+        font-size:10px;
+        font-family:sans-serif;
+      }
+      
+      .link {
+        fill: none;
+        stroke: #ccc;
+        stroke-width: 1.5px;
+      }
+      
+      .templink {
+        fill: none;
+        stroke: red;
+        stroke-width: 3px;
+      }
+      
+      .ghostCircle.show{
+          display:block;
+      }
+      
+      .ghostCircle, .activeDrag .ghostCircle{
+           display: none;
+      }
+      #result {
+        display: none;
+      }
+      
+      #main-content {
+        padding: 20px;
+      }
+    </style>
   </head>
-  <body>
-        <!--<div id="tree-container"></div>-->
-        <script type="text/javascript" src="js/skills.js"></script>
-        <script type="text/javascript" src="js/crafts.js"></script>
-        <!--<script type="text/javascript" src="js/salem.js"></script>-->
-        <div style="height: 100px; position: relative; top: 0px; left:0px; width: 100%">
-          <salem-search name="search"></salem-search>
-          <salem-search-result id="result"></salem-search-result>
-        </span>
-        <span style="display:inline-block;width: 70%;position: relative; top: 0px; left: 0; height: 100%;padding: 20px;vertical-align: top;overflow: auto">
+  <body fullbleed layout vertical>
+    <core-header-panel flex>
+      <paper-shadow>
+        <core-toolbar>
+          <div relative flex>
+             <salem-search flex name="search" id="search"></salem-search>
+             <salem-search-result id="result"></salem-search-result>
+          </div>
+        </core-toolbar>
+      </paper-shadow>
+      <div id="main-content">
           <h4 id="header"></h4>
           <h5 id="categories"></h5>
           <div id="content"></div>
-        </span>
-        <script>
+      </div>
+    </core-header-panel>
+
+    <script>
+        var data = skills.concat(crafts);
+        for (var i = 0; i < data.length; i++) {
+          data[i].id = i;
+        }
         window.addEventListener('polymer-ready', function(e) {
           var search = document.querySelector('salem-search'),
               result = document.querySelector('salem-search-result');
@@ -82,23 +102,25 @@
             var r = [], idxs = e.detail.msg;
             
             for (var i = 0; i < idxs.length; i++) {
-              r.push(crafts[idxs[i].ref]);
+              r.push(data[idxs[i].ref]);
             }
             
-            result.results = r
+            result.results = r;
+            if (r.length > 0) {
+              document.querySelector('#result').style.display = "block";
+            }
           });
           
           result.addEventListener('select', function(e) {
-            console.log(e.detail.msg.isSelected);
-            console.log(e.detail.msg.item);
             if (e.detail.msg.isSelected) {
               var txt = e.detail.msg.item.innerHTML 
               
-              for (var i = 0; i < crafts.length; i++) {
-                if (crafts[i].title == txt) {
+              for (var i = 0; i < data.length; i++) {
+                if (data[i].title == txt) {
                   document.getElementById('header').innerHTML = txt;
-                  document.getElementById('categories').innerHTML = crafts[i].categories;
-                  document.getElementById('content').innerHTML = crafts[i].data.replace(/\|/g,"<br/>");
+                  document.getElementById('categories').innerHTML = data[i].categories;
+                  document.getElementById('content').innerHTML = data[i].data.replace(/\|/g,"<br/>");
+                  document.querySelector('#result').style.display = "none";
                   return;
                 }
               }

@@ -1,21 +1,7 @@
 Skill
 | Description=Clubbing allows you to wield clubs.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=1500
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=1200
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=1000
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Primitive Club
-| Builds unlocked=
 | Others unlocked=Club

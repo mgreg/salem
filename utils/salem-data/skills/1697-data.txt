@@ -1,21 +1,8 @@
 Skill
 | Description=Swimming grants the ability to move in and through water.
 | Arts &amp; Crafts=400
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=1000
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=900
-| Thread &amp; Needle=
 | Natural Philosophy=800
-| Perennial Philosophy=
 | Skills unlocked=Waterways, Labouring
-| Crafts unlocked=
-| Builds unlocked=
 | Others unlocked=Toggle Swimming

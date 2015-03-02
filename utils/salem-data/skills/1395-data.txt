@@ -1,21 +1,7 @@
 Skill
 | Description=Cauldron Making allows you to build Cauldrons.
 | Arts &amp; Crafts=1750
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=2500
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
 | Mines &amp; Mountains=2500
 | Sparks &amp; Embers=1750
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
 | Builds unlocked=Cauldron, Coagulative Alembic
-| Others unlocked=

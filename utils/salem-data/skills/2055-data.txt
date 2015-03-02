@@ -1,20 +1,9 @@
 Skill
 | Description=Humble Abodes allows you to construct townhouses.
 | Arts &amp; Crafts=2000
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=2500
 | Hammer &amp; Nail=2500
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=1500
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Mercantilism
 | Crafts unlocked=Fyne Emerald
 | Builds unlocked=Town Church, Townhouse, Brick Townhouse, Stove

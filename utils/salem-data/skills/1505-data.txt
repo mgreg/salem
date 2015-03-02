@@ -1,21 +1,7 @@
 Skill
 | Description=Tasty Pastries allows you to bake a few sugary sweets for those special occasions.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=2700
 | Stocks &amp; Cultivars=1350
 | Sugar &amp; Spice=4100
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Advanced Cooking
 | Crafts unlocked=Fruit Jelly, Crescent Croissant, Candied Oakworth Tart, Berrysauce Boat, Berry Jam, Cranberry Sauce, Berry Bar
-| Builds unlocked=
-| Others unlocked=

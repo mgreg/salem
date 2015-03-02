@@ -1,21 +1,6 @@
 Skill
 | Description=Plantation Management allows for further reduction of a field's upkeep beyond the norm.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=6200
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=18200
 | Sugar &amp; Spice=7700
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
-| Builds unlocked=
 | Others unlocked=Tend

@@ -1,21 +1,7 @@
 Skill
 | Description=Sewing allows you access to a small range of clothes.
 | Arts &amp; Crafts=725
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=400
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
 | Thread &amp; Needle=1425
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Lace &amp; Fancywork
 | Crafts unlocked=Farmer's Pants, Farmer's Shirt, Farmer's Hat, Pilgrim's Coat, Pilgrim's Pants, Pilgrim's Cape, Wool Sweater, Windborne Kite, Enforced Seam, Jutland Jute, Pilgrim's Hat, Tricorne, Muslin Shirt, Gentleman's Jacket, Priestly Shirt, Priestly Tunic
-| Builds unlocked=
-| Others unlocked=

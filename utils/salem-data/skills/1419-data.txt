@@ -1,20 +1,7 @@
 Skill
 | Description=A fair mastery of Survival Skills is essential when traveling farther afield from the sheltering bosom and protection of Boston.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=200
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=200
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Collector, Colonial Tradesmanship, Fishing, Lore of The Lumberwoods, Self-Defense
 | Crafts unlocked=A Taste of The New World, Axe, Leafy Leftovers, Roasted Meat, Roasted Chestnut, Roasted Hickory Nut, Roasted Pine Nuts, Roasted Crab Meat, Sizzled Slug, Sizzled Grub, 'Shrooms-on-a-Stick, Captivating Flame, Tinder Drill, Hay, Twig N' Berries
 | Builds unlocked=Fireplace, Leanto, Pile of Wood

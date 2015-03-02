@@ -1,21 +1,10 @@
 Skill
 | Description=Indian Tracking affords you greater success when searching for plants and people.
 | Arts &amp; Crafts=500
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=500
 | Flora &amp; Fauna=500
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=500
-| Law &amp; Lore=
 | Mines &amp; Mountains=500
 | Sparks &amp; Embers=500
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=500
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Acorn Indian, Savage Charm, Feathered Brooch, Painted Feathers, Shellback Rattle, Chief's Headdress
-| Builds unlocked=
-| Others unlocked=

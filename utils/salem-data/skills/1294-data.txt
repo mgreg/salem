@@ -1,21 +1,7 @@
 Skill
 | Description=Mining allows you to construct Mine Shafts and to mine.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
 | Mines &amp; Mountains=2200
 | Sparks &amp; Embers=1600
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=950
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
 | Builds unlocked=Mine Support
 | Others unlocked=Copper Ore Boulder, Iron Ore Boulder, Rubble Boulder, Silver Ore Boulder, Mine

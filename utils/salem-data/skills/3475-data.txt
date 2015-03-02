@@ -1,21 +1,8 @@
 Skill
 | Description=Bark Gathering will allow you to harvest bark from the birch.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=825
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=400
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=200
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Flowers &amp; Berries, Nuts &amp; Seeds, Mushroom Hunting
 | Crafts unlocked=Birchbark Origami
-| Builds unlocked=
 | Others unlocked=Birch Bark, Dried Bark, Soaked Bark, Willow Bark, Willowbark Tonic

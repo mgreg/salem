@@ -1,21 +1,6 @@
 Skill
 | Description=Fungiculture provides the proper instruction for settlers to grow mushrooms in pots.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=850
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=1275
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=600
 | Skills unlocked=Horticulture
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

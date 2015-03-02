@@ -1,21 +1,8 @@
 Skill
 | Description=French Cuisine gives you access to new cooking recipes.
 | Arts &amp; Crafts=1850
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=3600
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=6700
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Advanced Cooking
 | Crafts unlocked=A Rabbit in the Cabbage, Aztec Abattoir, Braised Beaver Brain, Garlic Braid,Garlic Bread, Papricharred Charcuterie, Three Virginians, Tigerkraut
-| Builds unlocked=
 | Others unlocked=Snorky

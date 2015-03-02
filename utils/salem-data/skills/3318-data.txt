@@ -1,21 +1,7 @@
 Skill
 | Description=Fine Leathercraft gives far greater chance to produce higher quality hides and the ability to create rose tanning solutions.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=11100
 | Flora &amp; Fauna=10500
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=17500
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
 | Thread &amp; Needle=13500
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Fine Leather, Founding Father's Hat, Founding Father's Shoes, Fine Leather Backpack, Fyne Dry Goods Bag
-| Builds unlocked=
-| Others unlocked=

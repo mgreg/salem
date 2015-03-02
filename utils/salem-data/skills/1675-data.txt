@@ -1,21 +1,6 @@
 Skill
 | Description=Weaving allows you to weave cloth by a Loom.
 | Arts &amp; Crafts=600
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
 | Thread &amp; Needle=1100
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Cotton Cloth, Silk Cloth, Cotton Planter's Pouch, Cotton Shirt, Sunday Gown, Pilgrim's Cape, Dry Goods Bag, Colored Flagstraps
-| Builds unlocked=
 | Others unlocked=Egyptian Cotton Cloth, Indian Cotton Cloth, Sea Island Cotton Cloth, Yellow-Stained Cotton Cloth

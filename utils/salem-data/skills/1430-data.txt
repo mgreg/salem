@@ -1,21 +1,6 @@
 Skill
 | Description=Learning Childish Things will unlock some new crafts, and will also unlock the Game Hint on Studying.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=300
 | Skills unlocked=Survival Skills
 | Crafts unlocked=Maple Mustache Masque, Grass Whistle, Rock Maracas
-| Builds unlocked=
 | Others unlocked=Branch, Broken Bough, Dig, Laugh, Lift, Repair

@@ -1,21 +1,8 @@
 Skill
 | Description=Mushroom Hunting allows you greater success in finding mushrooms.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=1475
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=700
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=500
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=700
 | Skills unlocked=Slug Hunting
 | Crafts unlocked='Shrooms-on-a-Stick, 'Shroom-Legume Salad
-| Builds unlocked=
-| Others unlocked=

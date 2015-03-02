@@ -1,21 +1,4 @@
 Skill
 | Description=Eye for an Eye allows a pilgrim to bring guilty parties to justice without fear of criminal implication.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=7500
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=7500
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

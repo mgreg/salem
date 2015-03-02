@@ -1,21 +1,6 @@
 Skill
 | Description=Floriculture allows for the planting of flowers in your gardening pots.
 | Arts &amp; Crafts=400
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=1100
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=1750
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Forestry
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

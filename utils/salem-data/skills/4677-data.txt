@@ -2,22 +2,6 @@ Skill | Description= For the wise plunderer, there is no easier target than onew
       <text xml:space="preserve" bytes="799">Grave Robbing
 {{Skill
 | Description= For the wise plunderer, there is no easier target than onewho has been dead and buried. This victemless crime allows for the process of disintering a corpse.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=11500
 | Faith &amp; Wisdom=300
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=6150
-| Skills unlocked=
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

@@ -1,21 +1,8 @@
 Skill
 | Description=Your basic instruction on the process of iron smelting has led to the road of refinement. Prepare the furnace and man the bellows! Iron Amalgamation teaches the more intermediate process of manufacturing wrought iron. 
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
 | Mines &amp; Mountains=2200
 | Sparks &amp; Embers=4150
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=1980
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Loyal Locket
 | Builds unlocked=Finery Forge
 | Others unlocked=Bloom, Wrought Iron Bar

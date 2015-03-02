@@ -1,21 +1,6 @@
 Skill
 | Description=You will be able to interact with criminals in the stocks now to exact the appropriate amount of punishment.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=2000
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=1200
 | Law &amp; Lore=2000
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=1300
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

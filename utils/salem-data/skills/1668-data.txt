@@ -1,21 +1,8 @@
 Skill
 | Description=Pumpkin Planting allows you to grow and harvest pumpkins from fields.
 | Arts &amp; Crafts=1150
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=1800
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=3400
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Pumpkin Head Masque
 | Builds unlocked=Jack-o-Lamp
 | Others unlocked=Pumpkin, Baby Bear, Small Sugar, Sugar Treat,  Spooktacular, Autumn Gold, Bushkin, Harvest Moon, Jack-o-Lantern, Aspen, Big Autumn, Connecticut Field, Ghost Rider, Seeds of Pumpkin, Pumpkin Flesh

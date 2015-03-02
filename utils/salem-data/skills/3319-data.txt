@@ -1,21 +1,6 @@
 Skill
 | Description=Haberdashery allows the crafting of even more hats!
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=3900
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=5650
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
 | Thread &amp; Needle=12500
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Chief's Headdress, Adventurer's Hat, Alchemist's Cap, Condottieri's Hat, Fisherman's Hat, Founding Father's Hat, Highlander's Bonnet, Pioneer's Hat, Redcoat's Tricorne
-| Builds unlocked=
-| Others unlocked=

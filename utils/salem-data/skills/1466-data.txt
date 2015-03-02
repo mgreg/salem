@@ -1,21 +1,6 @@
 Skill
 | Description= Labouring allows you to carry more dug out soil, and reduces the Phlegm cost of digging.
 | Arts &amp; Crafts=1600
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=1600
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
 | Mines &amp; Mountains=1800
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
-| Builds unlocked=
 | Others unlocked= Unconcerned

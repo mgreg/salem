@@ -1,21 +1,8 @@
 Skill
 | Description=Seamanship grants you several nautical recipes.
 | Arts &amp; Crafts=3000
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=4400
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=5200
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=2400
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Admiral's Uniform, Davy Jones' Locker, Shark Bait, Stick Spinner, Spooky Ghosts, Peppersauce Tuna, Cod Rolls in Lobster Sauce, Crab Salad, Tigerkraut, Fishing Trophy
 | Builds unlocked=Boat
-| Others unlocked=

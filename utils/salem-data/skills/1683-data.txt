@@ -1,23 +1,10 @@
 Skill
 | Description=Foraging allows you your first insights into the wild plant-life of the New World.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=200
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=300
-| Law &amp; Lore=
 | Mines &amp; Mountains=300
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Indian Tracking
 | Crafts unlocked=Berries-on-a-Straw, Virginian Shellroast, A Taste of Autumn,
-| Builds unlocked=
 | Others unlocked=Forage
 
 i|Forage

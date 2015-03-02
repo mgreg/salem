@@ -1,21 +1,8 @@
 Skill
 | Description=The Rights of Englishmen allow you to attack other Pilgrims.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=1750
 | Faith &amp; Wisdom=1200
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=1600
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Brazier Forging, Compacts &amp; Constitutions, Firearms, Revenge, Sanctioned Mortification, The Story of Cain &amp; Abel, Trespassing
 | Crafts unlocked=English Battleflag, Badge of Battery
-| Builds unlocked=
 | Others unlocked=Rage!

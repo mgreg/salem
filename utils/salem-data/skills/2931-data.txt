@@ -1,21 +1,8 @@
 Skill
 | Description=Intermediate Cooking opens up new cooking recipes.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=900
 | Stocks &amp; Cultivars=450
 | Sugar &amp; Spice=1600
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=French Cuisine, Venison Cuisine, Baking, Smoked Meats
 | Crafts unlocked=Shroom Rolls, A Rabbit in the Cabbage, Glass Jar, Crunchy Rabbit, Sweet Walnut Crusted Fish, Simple Sunday Steak, 'Shroom-Stuffed Bellpepper, Adventurer's Trailmix, Breaded Filets, Deviled Beaver, Cabbage Rolls, Beaver Dam, Things with Wings, Frog Chowder, Cabbage Cakes, Grub De La Grub, Crickebab, Tendergrass Rump, Wild Wings, Cabbage Crumbs, Plank Steak, Pest-Filled Morel, Green Cabbage Chuck Roast, Marrow Dumplings, Sea Loaf, Cabbage Crush Salad, 'Shroom-Legume Salad
 | Builds unlocked=Stove
-| Others unlocked=

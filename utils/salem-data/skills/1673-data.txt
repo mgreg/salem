@@ -1,21 +1,8 @@
 Skill
 | Description=Masonry allows you to lay bricks, and to build brick ovens.
 | Arts &amp; Crafts=2500
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=1750
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=2000
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Humble Abodes, Mortar Masonry, Windmill Theory
 | Crafts unlocked=Another Brick
 | Builds unlocked=Meatsmoker, Well, Bread Oven
-| Others unlocked=

@@ -1,21 +1,6 @@
 Skill
 | Description=Simple Cooking gives you some delicious recipes.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=200
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=690
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Intermediate Cooking, Fried Foods, Seafood Chef
 | Crafts unlocked=Berry Salad, Salted Radish, Garden Veg, Garlic Spitroast, Cooked Carrot, Bar of Bubbly Soap, Scrambled Eggs, A Snake in the Grass, Fleshcovered Gourd, Roasted Corn on the Cob, Wild Salad, Garlic Stuffed Mushrooms, Garlic Rabbit, Three Virginians, Seaweed Rolls, Salty Nuts, Trailmix, Lean Rabbit
-| Builds unlocked=
-| Others unlocked=

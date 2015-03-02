@@ -1,22 +1,8 @@
 Skill | Description=Handheld Explosives harness the knowledge of blowing things up. | Arts &amp; Crafts= | Cloak &amp; Dagger=900 | Faith &amp; Wisdom= | Flora &amp; Fauna= | Hammer &amp; Nail=...&quot;</comment>
       <text xml:space="preserve" bytes="890">{{Skill
 | Description=Handheld Explosives harness the knowledge of blowing things up.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=900
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=1810
 | Stocks &amp; Cultivars=650
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=700
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Boomstick, Greek Fire
-| Builds unlocked=
-| Others unlocked=

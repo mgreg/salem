@@ -1,21 +1,6 @@
 Skill
 | Description=Burial Rights instructs Pilgrims on the ritual of burying the remains of those no longer with us.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=250
 | Faith &amp; Wisdom=950
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=400
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
 | Builds unlocked=Coffin, Crypt
-| Others unlocked=

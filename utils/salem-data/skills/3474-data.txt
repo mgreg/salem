@@ -1,21 +1,6 @@
 Skill
 | Description=Acute Tree Harvesting increases the quantity and quality of resources obtained from trees.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=1175
-| Hammer &amp; Nail=
 | Herbs &amp; Sprouts=850
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=600
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Tree Trimmings
-| Builds unlocked=
-| Others unlocked=

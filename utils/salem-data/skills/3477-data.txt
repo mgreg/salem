@@ -1,21 +1,6 @@
 Skill
 | Description=A Seafood Chef learns recipes for both fish and shellfish alike.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=320
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=600
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=1100
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Red Seafood Salad, Peppered Seafood Medley, Crab Cakes, Lobster Legs, Shellfish Omelette, Fried Oysters, Green Seafood Salad, Sauteed Shellshrooms, Corn &amp; Crab Chowder
-| Builds unlocked=
-| Others unlocked=

@@ -1,20 +1,9 @@
 Skill
 | Description=Allows for the cutting and shaping of Gemstones.
 | Arts &amp; Crafts=2100
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=3900
 | Mines &amp; Mountains=4750
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=1300
-| Perennial Philosophy=
 | Skills unlocked=Tasteful Gemcutting
 | Crafts unlocked=Cabochon-Cut Dravite, Cabochon-Cut Phosphophyllite, Cabochon-Cut Rubellite
 | Builds unlocked=Gemcutter's Wheel

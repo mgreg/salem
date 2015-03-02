@@ -1,21 +1,7 @@
 Skill
 | Description=Self-Defense gives you the ability to defend yourself using basic unarmed combat.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=100
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=250
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Backalley Pugilism, Big Game Hunting, The Rights of Englishmen
 | Crafts unlocked=Badge of Aggression
-| Builds unlocked=
 | Others unlocked=Punch, Guard, Regain Composure

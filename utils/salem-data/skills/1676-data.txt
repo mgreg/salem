@@ -1,21 +1,8 @@
 Skill
 | Description=Lace &amp; Fancywork allows you access to a wider range of more advanced clothing.
 | Arts &amp; Crafts=1100
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=2300
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
 | Thread &amp; Needle=4100
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Embroidery &amp; Silk, Pockets
 | Crafts unlocked=Bunny Masque, Bunny Darko, Opera Masque, Plymouth Frock, The Latest From Paris, Fluffy Stuffing, Side Pocket, Hidden Holdout Pocket, Highlander's Sporran, Highlander's Kilt, Highlander's Jacket, Priestly Pants, Fisherman's Shirt, Fisherman's Pants, Nobleman's Pants, Pioneer's Pants, Wool Sweater, Redcoat Shirt, Prospector's Shirt, Prospector's Pants, Fyne Pantaloons, Breeches of Good Cheer, Alchemist's Pants, Amber Coarse-Grain Thread, Glass Beadwork, Gold Buttons, Fluffy Stuffing, Lacy Edging, Egyptian Cotton Planter's Pouch
-| Builds unlocked=
 | Others unlocked= Weak Wrists

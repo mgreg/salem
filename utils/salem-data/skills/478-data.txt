@@ -1,20 +1,8 @@
 Skill
 | Description=Baking allows you to construct Baking Tables and to bake simple bread.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=1400
 | Stocks &amp; Cultivars=900
 | Sugar &amp; Spice=2400
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Tasty Pastries
 | Crafts unlocked=Tasty Cakes, Cabbage Crumbs, Candied Oakworth Tart, Humble Meat Pie, Mushroom Pie, Oatmeal Crackers, Pie Dough, Pumpkin Pie, Rye Bread, Anadama Bread, Tortilla, Pumpkin Gnochi, Berry Cobbler, Bajgiel, Wildberry Pie, Baguettes, English Muffins, Roasted Pine Nut Stuffing, Clover Rolls
 | Builds unlocked=Baking Table, Bread Oven

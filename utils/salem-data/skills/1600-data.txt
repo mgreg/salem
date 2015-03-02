@@ -1,21 +1,7 @@
 Skill
 | Description=Butcher's Thrift allows you to extract slabs of meat from larger game.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=2400
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=10700
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=5100
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Viscera &amp; Bits
 | Crafts unlocked=Raw Bear Slab, Raw Deer Slab
-| Builds unlocked=
-| Others unlocked=

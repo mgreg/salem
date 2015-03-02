@@ -14,12 +14,23 @@
        paper-item {
          font-size: small;
        }
+       .salem-search-result {
+         position: absolute;
+         max-height: 350px;
+         width: 100%;
+         margin: 0px 10px;
+         overflow: auto;
+         background-color: white;
+         border: 2px solid #CFD8DC;
+         border-top: 0px;
+         top: 65px;
+       }
        .results, .sub-category {
          padding-left: 5px;
        }
        .sub-category {
          display: inline-block;
-         width: 30%;
+         width: 22%;
          vertical-align: top;
        }
        .hidden {
@@ -29,36 +40,52 @@
     </style>
     
     <div class="salem-search-result">
-        <core-selector on-core-select="{{ onSelection }}">
+        <core-selector id="selectTop" target={{$.a}} itemsSelector="paper-item" on-core-select="{{ onSelection }}">
+          <form id="a">
           <div>
             <div class="{{ resultsClass }}">
               <h5>Top results</h5>
+              
               <template repeat="{{ top in topItems }}">
                   <paper-item>{{ top }}</paper-item>
               </template>
+              
             </div>
             <div>
               <span class="{{ foodClass }}">
                 <h5>Foods</h5>
+              
                 <template repeat="{{ food in foods }}">
                   <paper-item class="sub-cat-element">{{ food }}</paper-item>
-              </template>
+                </template>
+              
               </span>
               <span class="{{ inspClass }}">
                 <h5>Inspirational</h5>
                 <template repeat="{{ insp in inspirationals }}">
                   <paper-item class="sub-cat-element">{{ insp }}</paper-item>
                 </template>
+              
+              </span>
+              <span class="{{ skillsClass }}">
+                <h5>Skills</h5>
+              
+                <template repeat="{{ skill in skills }}">
+                  <paper-item class="sub-cat-element">{{ skill }}</paper-item>
+                </template>
+              
               </span>
               <span class="{{ otherClass }}">
                 <h5>Other</h5>
+              
                 <template repeat="{{ other in others }}">
                   <paper-item class="sub-cat-element">{{ other }}</paper-item>
                 </template>
+              
               </span>
             </div>
           </div>
-              
+              </form>
         </core-selector>
     </div>
   </template>
@@ -70,14 +97,16 @@
       inspirationals: [],
       foods: [],
       others: [],
+      skills: [], 
       foodClass: 'hidden',
       otherClass: 'hidden',
       inspClass: 'hidden',
+      skillsClass: 'hidden',
       resultsClass: 'hidden',
       resultsChanged: function(oV, nV) {
-        var r = [], cats = [], food = [], insp = [], other = [];
+        var r = [], cats = [], food = [], insp = [], other = [], skills = [];
         for (var i = 0; i < Math.min(nV.length, 3); i++) {
-          r.push(nV[i].title)
+          r.push(nV[i].title);
         }
         this.topItems = r;
         if (this.topItems.length) {
@@ -104,6 +133,11 @@
               continue;
             }
             
+            if (cats.indexOf('Skills') != -1) {
+              skills.push(nV[i].title);
+              continue;
+            }
+            
             other.push(nV[i].title);
           }
         }
@@ -111,6 +145,7 @@
         this.foods = food;
         this.inspirationals = insp;
         this.others = other;
+        this.skills = skills;
         
         if (!this.foods.length) {
           this.foodClass = "hidden";
@@ -124,6 +159,12 @@
           this.inspClass = "sub-category";
         }
         
+        if (!this.skills.length) {
+          this.skillsClass = "hidden";
+        } else {
+          this.skillsClass = "sub-category";
+        }
+        
         if (!this.others.length) {
           this.otherClass = "hidden";
         } else {
@@ -134,7 +175,8 @@
         $( ".sub-category template:empty" ).parent().parent().css("display", "none");
       },
       onSelection: function(e, detail, sender) {
-        this.fire("select", {msg: detail})
+        var that = this;
+        setTimeout( function() {that.fire("select", {msg: detail})}, 300 );
       }
     });
 

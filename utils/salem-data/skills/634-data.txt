@@ -1,21 +1,8 @@
 Skill
 | Description=Butchery allows you to cut steaks.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=950
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=2600
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
 | Sugar &amp; Spice=1250
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Butcher's Thrift
 | Crafts unlocked=Skullpin, Les Fleurs du Mal
-| Builds unlocked=
 | Others unlocked=Bone, Majestic Tail-Feather of Turkey, Plucked Turkey, Turkey Feathers, Raw Bear Steak, Raw Venison Steak, Raw Rabbit Steak, Any Raw Steak, Raw Beaver Steak

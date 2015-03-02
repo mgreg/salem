@@ -1,21 +1,8 @@
 Skill
 | Description=Metallurgy allows you to construct and use Ore Smelters.
 | Arts &amp; Crafts=1300
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
 | Mines &amp; Mountains=2550
 | Sparks &amp; Embers=2350
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Mechanics, Metalsmithing
 | Crafts unlocked=Lover's Locket
 | Builds unlocked=Ore Smelter
-| Others unlocked=

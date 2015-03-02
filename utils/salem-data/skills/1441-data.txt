@@ -1,20 +1,8 @@
 Skill
 | Description=Colonial Tradesmanship allows you to craft some simple tools and is the first step on your way to becoming a useful and productive tradesman in the New World.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=400
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=300
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=200
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Literacy, Settling, Pottery, Folk Medicine, Bug Hunting, Patchwork &amp; Rags, Essential Mineralogy, Whittling, Exploration, Simple Cooking, Coaling, Agriculture, Gardening
 | Crafts unlocked= Strawman, Autumn Delight, Nine Men's Morris, Clay Pot, Froghetti, Birchbark Butterfly, Razzle-Tazzle Lure
 | Builds unlocked=Woven Basket

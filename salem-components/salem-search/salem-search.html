@@ -8,7 +8,6 @@
         :host {
           display: block;
           position: relative;
-          background-color: white;
           padding-left: 5px;
           padding-right: 5px;
         }
@@ -29,17 +28,19 @@
     Polymer('salem-search',{
       index: null,
       ready: function() {
+        
         this.index = lunr(function () {
           this.field('title', {boost: 50});
-          this.field('data');
-          this.field('categories', {boost: 25});
-          this.ref('id')
-          
+          this.field('data', {boost: 0.5});
+          this.field('categories', {boost: 15});
+          this.field('related', {boost: 10});
+          this.ref('id');
         });
         
-        for (var i = 0; i < crafts.length; i++) {
-          this.index.add(crafts[i]);
+        for (var i = 0; i < data.length; i++) {
+          this.index.add(data[i]);
         }
+        
       },
       keypress: function() {
         var res = []

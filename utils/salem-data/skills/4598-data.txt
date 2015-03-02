@@ -1,21 +1,8 @@
 Skill
 | Description=With the right level of skill and assistance, you can use a Trip Hammer to forge wrought iron from a crude bloom.
 | Arts &amp; Crafts=1300
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=2900
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=4400
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Weapon Forging, Cementation
 | Crafts unlocked=Silver Coin, Steel Axe, Steel Pickaxe, Steel Saw, Steel Shovel
 | Builds unlocked=Trip Hammer
-| Others unlocked=

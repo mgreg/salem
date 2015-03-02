@@ -1,21 +1,7 @@
 Skill
 | Description=Ascent to the Summit allows you to ascend steeper slopes than before.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=2000
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
 | Mines &amp; Mountains=5000
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=1400
 | Perennial Philosophy=1500
-| Skills unlocked=
-| Crafts unlocked=
-| Builds unlocked=
 | Others unlocked=Geronimo!

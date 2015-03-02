@@ -1,21 +1,9 @@
 Skill
 | Description=Teaches the understanding of the process if fabricating Blister Steel.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=3900
 | Mines &amp; Mountains=6190
 | Sparks &amp; Embers=14250
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=5900
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Blister Coffin, Leader's Locket, Stratified Layer, Steel Armour
 | Builds unlocked=Cementation Furnace
 | Others unlocked=Blistersteel Bar

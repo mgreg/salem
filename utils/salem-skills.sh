@@ -51,13 +51,15 @@ for i in `cat $idfile`;do
 	fi
 	
 	content=`cat $datadir/$i.txt`
-	data=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /{{(.*?)}}/gs'`
+	data=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /{{(.*?)}}/gs' | grep -v "=[[:space:]]*$"`
 	title=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /<title>(.*?)<\/title>/gs'`
 	unlocks=`echo -e "$data" | grep "Skills unlocked" | cut -d"=" -f2 | sed s/,\ /\",\"/g`
 	if [ -z "$d" ]; then
 		echo -n "," >> $output
 	fi
-	echo -e "{\n\ttitle: \"$title\",\n\tunlock: [\"$unlocks\"]\n}" >> $output
+	echo -en "{\n\ttitle: \"$title\",\n\tcategories: 'Skills',\n\trelated: [\"$unlocks\"],\n\tdata: \"" >> $output
+	echo -n $data  | sed s/\"/\\\\\"/g >> $output 
+	echo -en "\"\n}" >> $output
 	echo -e "$data" > $datadir/$i-data.txt
 	
 	d=""

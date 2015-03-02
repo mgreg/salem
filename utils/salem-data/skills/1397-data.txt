@@ -1,21 +1,6 @@
 Skill
 | Description=Brazier Forging allows you to construct defensive Braziers whose illumination can defend any Homestead or Town from whatever horrors may lurk in the dark hours of the night.
-| Arts &amp; Crafts=
 | Cloak &amp; Dagger=2350
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=3100
-| Mines &amp; Mountains=
 | Sparks &amp; Embers=6100
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
-| Crafts unlocked=
 | Builds unlocked=Blazing Brazier
-| Others unlocked=

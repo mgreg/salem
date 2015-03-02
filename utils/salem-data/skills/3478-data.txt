@@ -1,21 +1,7 @@
 Skill
 | Description=Maize Planting allows for you to harvest and plant the various strains of Corn.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=3300
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
 | Law &amp; Lore=3150
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=6950
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Cornmeal Flatbread, Corn Pudding, Ghost Loaf, Cornmeal Crusted Bluegill, Empire Bluecakes
-| Builds unlocked=
 | Others unlocked=Any Corn, Yellow Corn, Blue Corn, White Corn, Golden Corn, Yellow Cornmeal, Blue Cornmeal, White Cornmeal, Golden Cornmeal, Corn Oil, Yellow Corn Oil, Blue Corn Oil, White Corn Oil, Golden Corn Oil, Curious Indian Corn

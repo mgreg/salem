@@ -1,21 +1,5 @@
 Skill
 | Description=Theology is necessary to Construct Churches, and also allows you to create the garments of liturgy.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=6000
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Bishop's Mitre, Priestly Stole, Priestly Tunic, Priestly Shirt, Priestly Pants
 | Builds unlocked=Town Church
-| Others unlocked=

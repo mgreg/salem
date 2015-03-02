@@ -1,21 +1,7 @@
 Skill
 | Description=Whittling allows you to fashion simple wooden objects.
 | Arts &amp; Crafts=200
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=625
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Carpentry, Locksmithing
 | Crafts unlocked=Simple Crucifix, Spinning Top, Decorative Woodcarving, Woo-Woo-Wand, Wooden Plugs, Wooden Shovel, Sharpened Stick, Metal Axe, Metal Shovel, Makeshift Fence, Wooden Handle, Seashell Buttons
 | Builds unlocked=Whittler's Bench
-| Others unlocked=

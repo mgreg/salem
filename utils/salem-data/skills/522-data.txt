@@ -1,20 +1,8 @@
 Skill
 | Description=Fishing allows you to fish, and to craft a primitive fishing pole.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=300
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=400
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
 | Thread &amp; Needle=200
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Waterways
 | Crafts unlocked=A Fish in the Reeds, Birchbark Butterfly, Buddies on a Branch, Cricket Moth, Filet on the Rocks, Makeshift Fishing Rod, Seaweed Masque, Razzle-Tazzle Lure, Tasty Sink-knot,
 | Builds unlocked=Fish Trap

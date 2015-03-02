@@ -1,23 +1,9 @@
 Skill
 | Description=Compacts &amp; Constitutions allows you to inaugurate Charter Towns by which to organize members in your hitherto informal community, and by which to exert control over larger tracts of land.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
 | Faith &amp; Wisdom=2500
 | Flora &amp; Fauna=4500
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
 | Perennial Philosophy=800
 | Skills unlocked=Mercantilism
-| Crafts unlocked=
 | Builds unlocked=Boundry Stone, Town Bell, Cross of Saint George, Brick Townhouse, Trial by Fire
-| Others unlocked=
 
 PAGENAME

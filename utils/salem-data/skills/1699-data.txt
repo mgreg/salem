@@ -1,21 +1,7 @@
 Skill
 | Description=Nuts &amp; Seeds allows you to find more nuts when foraging.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=1325
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
 | Stocks &amp; Cultivars=150
 | Sugar &amp; Spice=450
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked=Botany
 | Crafts unlocked=Roasted Chestnut, Unbaked Nutcracker Suite
-| Builds unlocked=
-| Others unlocked=

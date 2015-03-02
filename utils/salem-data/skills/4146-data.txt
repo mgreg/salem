@@ -1,21 +1,3 @@
 Skill
 | Description=Sympathetic Magic explores &amp; unlocks all beauty and potential of a cause and effect relationship.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
-| Natural Philosophy=
-| Perennial Philosophy=
-| Skills unlocked=
 | Crafts unlocked=Raggy Doll, Majestic Elf Doll, Fragile Fairy Doll, Hideous Hag Doll, Lizbeth Maudney Doll
-| Builds unlocked=
-| Others unlocked=

@@ -1,21 +1,5 @@
 Skill
 | Description=Exploration increases your chances of discovering items of interest in the New World, and allows you to ascend steeper slopes than before.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=700
-| Hammer &amp; Nail=
-| Herbs &amp; Sprouts=
-| Hunting &amp; Hideworking=
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
-| Thread &amp; Needle=
 | Natural Philosophy=200
-| Perennial Philosophy=
 | Skills unlocked=Acute Tree Harvesting, Bark Gathering, Waterways
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=

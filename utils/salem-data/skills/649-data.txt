@@ -1,21 +1,8 @@
 Skill
 | Description= Hideworking allows you to skin the hides of animals, and to construct Drying Frames to cure them.
-| Arts &amp; Crafts=
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
-| Flora &amp; Fauna=
 | Hammer &amp; Nail=300
-| Herbs &amp; Sprouts=
 | Hunting &amp; Hideworking=1625
-| Law &amp; Lore=
-| Mines &amp; Mountains=
-| Sparks &amp; Embers=
-| Stocks &amp; Cultivars=
-| Sugar &amp; Spice=
 | Thread &amp; Needle=500
-| Natural Philosophy=
-| Perennial Philosophy=
 | Skills unlocked= Beaver Skinning, Tanning
 | Crafts unlocked= Rough-Stitched Furpatch, Snakeskin Coat, Coonskin Cap, Stuffed Rabbit, Knife Hilt, Snakeskin Purse, Rustic Stuffing, Butcher Knife, Hunting Knife
-| Builds unlocked=
 | Others unlocked=Any Dried Hide, Bear Skin, Dried Deer Hide, Dried Timber Rattler Skin, Rabbit Skin, Raw Deer Hide, Raw Bear Skin, Raw Timber Rattler Skin

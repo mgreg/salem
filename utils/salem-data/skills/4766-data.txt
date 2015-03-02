@@ -2,8 +2,6 @@ Skill | Description=Learning to be a Packrat provides Pilgrims with an increased
       <text xml:space="preserve" bytes="928">{{Skill
 | Description=Learning to be a Packrat provides Pilgrims with an increased encumberance maximum.
 | Arts &amp; Crafts=2500
-| Cloak &amp; Dagger=
-| Faith &amp; Wisdom=
 | Flora &amp; Fauna=2500
 | Hammer &amp; Nail=2500
 | Herbs &amp; Sprouts=2500
@@ -15,8 +13,4 @@ Skill | Description=Learning to be a Packrat provides Pilgrims with an increased
 | Sugar &amp; Spice=2500
 | Thread &amp; Needle=2500
 | Natural Philosophy=2500
-| Perennial Philosophy=
 | Skills unlocked=Hoarder
-| Crafts unlocked=
-| Builds unlocked=
-| Others unlocked=
