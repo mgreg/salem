@@ -12,6 +12,9 @@
     <link rel="import" href="bower_components/core-toolbar/core-toolbar.html">
     <link rel="import" href="bower_components/core-dropdown/core-dropdown.html">
     <link rel="import" href="bower_components/core-selector/core-selector.html">
+    <link rel="import" href="bower_components/core-icons/core-icons.html">
+    <link rel="import" href="bower_components/core-icon-button/core-icon-button.html">
+    <link rel="import" href="bower_components/core-input/core-input.html">
     <link rel="import" href="bower_components/paper-input/paper-input.html">
     <link rel="import" href="bower_components/paper-shadow/paper-shadow.html">
     <link rel="import" href="bower_components/paper-ripple/paper-ripple.html">
@@ -23,6 +26,7 @@
         font-family: "RobotoDraft",Helvetica,Arial,sans-serif;
         padding: 0px;
         margin: 0px;
+        background-color: #E5E5E5;
       }
       
       .node {
@@ -63,25 +67,38 @@
       .ghostCircle, .activeDrag .ghostCircle{
            display: none;
       }
-      #result {
-        display: none;
-      }
       
       #main-content {
+        margin: 50px;
         padding: 20px;
+        background-color: white;
+      }
+      
+      #search-icon {
+        color: white;
+        position: relative;
+      }
+
+      .main-header {
+        background-color: #03a9f4;
+        position: relative;
+        padding-left: 35px;
+        padding-right: 25px;
       }
     </style>
   </head>
   <body fullbleed layout vertical>
+    
     <core-header-panel flex>
-      <paper-shadow>
-        <core-toolbar>
-          <div relative flex>
-             <salem-search flex name="search" id="search"></salem-search>
-             <salem-search-result id="result"></salem-search-result>
+      <paper-shadow style="z-index:100">
+        <core-toolbar class="main-header">
+          <core-icon id="search-icon" icon="search" role="img"></core-icon>
+          <div flex>
+            <salem-search></salem-search>
           </div>
         </core-toolbar>
       </paper-shadow>
+      <salem-search-result></salem-search-result>
       <div id="main-content">
           <h4 id="header"></h4>
           <h5 id="categories"></h5>
@@ -127,6 +144,8 @@
               
             }
           });
+          
+          search.focus();
           
         });
         </script>

@@ -1,7 +1,7 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
 
-<polymer-element name="salem-search-result" attributes="results">
+<polymer-element name="salem-search-result" attributes="results" id="result">
   <template>
     
      <style>
@@ -11,82 +11,102 @@
          margin: 10px;
          margin-bottom: 5px;
        }
+       
        paper-item {
          font-size: small;
        }
+       
        .salem-search-result {
          position: absolute;
-         max-height: 350px;
+         padding: 0px;
+         margin: 0px;
+         top: 45px;
+         left: -35px;
          width: 100%;
-         margin: 0px 10px;
-         overflow: auto;
-         background-color: white;
-         border: 2px solid #CFD8DC;
-         border-top: 0px;
-         top: 65px;
+         z-index: 10;
        }
+       
+       .result-shadow {
+         background-color: white;
+         border-top: 0px;
+         margin-left: 84px;
+         margin-right: 14px;
+       }
+       
+       .result-content {
+         max-height: 350px;
+         padding: 10px;
+         padding-top: 30px;
+         overflow: auto;
+       }
+       
        .results, .sub-category {
          padding-left: 5px;
        }
+       
        .sub-category {
          display: inline-block;
          width: 22%;
          vertical-align: top;
        }
+       
        .hidden {
          display: none;
        }
-        
+      
     </style>
     
-    <div class="salem-search-result">
-        <core-selector id="selectTop" target={{$.a}} itemsSelector="paper-item" on-core-select="{{ onSelection }}">
-          <form id="a">
-          <div>
-            <div class="{{ resultsClass }}">
-              <h5>Top results</h5>
-              
-              <template repeat="{{ top in topItems }}">
-                  <paper-item>{{ top }}</paper-item>
-              </template>
-              
-            </div>
-            <div>
-              <span class="{{ foodClass }}">
-                <h5>Foods</h5>
-              
-                <template repeat="{{ food in foods }}">
-                  <paper-item class="sub-cat-element">{{ food }}</paper-item>
-                </template>
-              
-              </span>
-              <span class="{{ inspClass }}">
-                <h5>Inspirational</h5>
-                <template repeat="{{ insp in inspirationals }}">
-                  <paper-item class="sub-cat-element">{{ insp }}</paper-item>
-                </template>
-              
-              </span>
-              <span class="{{ skillsClass }}">
-                <h5>Skills</h5>
-              
-                <template repeat="{{ skill in skills }}">
-                  <paper-item class="sub-cat-element">{{ skill }}</paper-item>
-                </template>
-              
-              </span>
-              <span class="{{ otherClass }}">
-                <h5>Other</h5>
-              
-                <template repeat="{{ other in others }}">
-                  <paper-item class="sub-cat-element">{{ other }}</paper-item>
-                </template>
-              
-              </span>
-            </div>
-          </div>
-              </form>
-        </core-selector>
+    <div class="salem-search-result {{ resultsClass }}">
+      <paper-shadow class="result-shadow">
+        <div class="result-content">
+          <core-selector id="selectTop" target={{$.selectors}} itemsSelector="paper-item" on-core-select="{{ onSelection }}">
+            <form id="selectors">
+              <div>
+                <div class="{{ resultsClass }}">
+                  <h5>Top results</h5>
+                  
+                  <template repeat="{{ top in topItems }}">
+                      <paper-item>{{ top }}</paper-item>
+                  </template>
+                  
+                </div>
+                <div>
+                  <span class="{{ foodClass }}">
+                    <h5>Foods</h5>
+                  
+                    <template repeat="{{ food in foods }}">
+                      <paper-item class="sub-cat-element">{{ food }}</paper-item>
+                    </template>
+                  
+                  </span>
+                  <span class="{{ inspClass }}">
+                    <h5>Inspirational</h5>
+                    <template repeat="{{ insp in inspirationals }}">
+                      <paper-item class="sub-cat-element">{{ insp }}</paper-item>
+                    </template>
+                  </span>
+                  <span class="{{ skillsClass }}">
+                    <h5>Skills</h5>
+                  
+                    <template repeat="{{ skill in skills }}">
+                      <paper-item class="sub-cat-element">{{ skill }}</paper-item>
+                    </template>
+                  
+                  </span>
+                  <span class="{{ otherClass }}">
+                    <h5>Other</h5>
+                  
+                    <template repeat="{{ other in others }}">
+                      <paper-item class="sub-cat-element">{{ other }}</paper-item>
+                    </template>
+                  
+                  </span>
+                </div>
+              </div>
+            </form>
+          </core-selector>
+        </div>
+      </paper-shadow>
     </div>
   </template>
 

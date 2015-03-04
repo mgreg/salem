@@ -1,38 +1,86 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
 
-<polymer-element name="salem-search">
+<polymer-element name="salem-search" id="salem-search">
   <template>
     
      <style>
-        :host {
-          display: block;
-          position: relative;
-          padding-left: 5px;
-          padding-right: 5px;
-        }
-        
-        #salem-search-query {
-          width: 100%;
-        }
-        
-        
+     
+      #salem-search-query {
+        color: white;
+        display: inline-block;
+        margin-top: -7px;
+        width: 100%;
+      }
+
+      #salem-search-query paper-input-decorator {
+        background-color: #4285f4;
+      }
+      
+      .custom /deep/ ::-webkit-input-placeholder {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom /deep/ ::-moz-placeholder {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom /deep/ :-ms-input-placeholder {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom /deep/ .label-text,
+      .custom /deep/ .error {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom /deep/ .unfocused-underline {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom[focused] /deep/ .floated-label .label-text {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom /deep/ .focused-underline {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom.invalid /deep/ .floated-label .label-text,
+      .custom /deep/ .error {
+        color: white;
+        opacity: 0.4;
+      }
+  
+      .custom.invalid /deep/ .focused-underline {
+        color: white;
+        opacity: 0.7;
+      }
+  
+      .custom {
+        color: #1a237e;
+      }
+
     </style>
-    
-    <div class="salem-search">
-      <paper-input id="salem-search-query" label="Enter search query" value="{{ sValue }}" on-keyup="{{ keypress }}" on-keydown="{{ keydown }}" class="{{ class }}" on-blur="{{ blur }}"></paper-input>
-    </div>
+  
+        <paper-input flex id="salem-search-query" class="custom" label="Enter search query" value="{{ sValue }}" on-keyup="{{ keypress }}" on-keydown="{{ keydown }}" class="{{ class }}" on-blur="{{ blur }}"></paper-input>
   </template>
 
   <script>
     Polymer('salem-search',{
       index: null,
       ready: function() {
-        
         this.index = lunr(function () {
           this.field('title', {boost: 50});
-          this.field('data', {boost: 0.5});
-          this.field('categories', {boost: 15});
+          this.field('data');
+          this.field('categories', {boost: 25});
           this.field('related', {boost: 10});
           this.ref('id');
         });
@@ -41,6 +89,8 @@
           this.index.add(data[i]);
         }
         
+        var t = document.createElement("salem-search-result")
+        document.getElementById("cont").appendChild(t);
       },
       keypress: function() {
         var res = []
