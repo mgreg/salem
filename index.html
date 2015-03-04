@@ -15,6 +15,7 @@
     <link rel="import" href="bower_components/core-icons/core-icons.html">
     <link rel="import" href="bower_components/core-icon-button/core-icon-button.html">
     <link rel="import" href="bower_components/core-input/core-input.html">
+    <link rel="import" href="bower_components/core-scaffold/core-scaffold.html">
     <link rel="import" href="bower_components/paper-input/paper-input.html">
     <link rel="import" href="bower_components/paper-shadow/paper-shadow.html">
     <link rel="import" href="bower_components/paper-ripple/paper-ripple.html">
@@ -70,6 +71,7 @@
       
       #main-content {
         margin: 60px;
+        margin-top: 50px;
         padding: 20px;
         background-color: white;
       }
@@ -85,6 +87,23 @@
         padding-left: 35px;
         padding-right: 25px;
       }
+      
+      body::after {
+        content: "";
+        background: url(http://www.salemthegame.com/sites/all/themes/salem/images/logo.png);
+        background-repeat: no-repeat;
+        background-position: 50%;
+        background-position-x: 50%;
+        background-position-y: 30%;
+        opacity: 0.2;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;   
+      }
+      
     </style>
   </head>
   <body fullbleed layout vertical>
