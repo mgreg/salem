@@ -34,9 +34,14 @@
        }
        
        .result-content {
-         max-height: 350px;
+         
          padding: 10px;
          padding-top: 30px;
+         
+       }
+       
+       .result-content-scroll {
+         max-height: 350px;
          overflow: auto;
        }
        
@@ -59,52 +64,50 @@
     <div class="salem-search-result {{ resultsClass }}">
       <paper-shadow class="result-shadow">
         <div class="result-content">
-          <core-selector id="selectTop" target={{$.selectors}} itemsSelector="paper-item" on-core-select="{{ onSelection }}">
-            <form id="selectors">
-              <div>
-                <div class="{{ resultsClass }}">
-                  <h5>Top results</h5>
-                  
-                  <template repeat="{{ top in topItems }}">
-                      <paper-item>{{ top }}</paper-item>
-                  </template>
-                  
-                </div>
+          <div class="headers" {{ resultsClass }}>
+            <span class="{{ foodClass }}">
+              <h5>Foods</h5>
+            </span>
+            <span class="{{ inspClass }}">
+              <h5>Inspirationals</h5>
+            </span>
+            <span class="{{ skillsClass }}">
+              <h5>Skills</h5>
+            </span>
+            <span class="{{ otherClass }}">
+              <h5>Other</h5>
+            </span>
+          </div>
+          <div class="result-content-scroll">
+            <core-selector id="selectTop" target={{$.selectors}} itemsSelector="paper-item" on-core-select="{{ onSelection }}">
+              <form id="selectors">
                 <div>
-                  <span class="{{ foodClass }}">
-                    <h5>Foods</h5>
-                  
-                    <template repeat="{{ food in foods }}">
-                      <paper-item class="sub-cat-element">{{ food }}</paper-item>
-                    </template>
-                  
-                  </span>
-                  <span class="{{ inspClass }}">
-                    <h5>Inspirational</h5>
-                    <template repeat="{{ insp in inspirationals }}">
-                      <paper-item class="sub-cat-element">{{ insp }}</paper-item>
-                    </template>
-                  </span>
-                  <span class="{{ skillsClass }}">
-                    <h5>Skills</h5>
-                  
-                    <template repeat="{{ skill in skills }}">
-                      <paper-item class="sub-cat-element">{{ skill }}</paper-item>
-                    </template>
-                  
-                  </span>
-                  <span class="{{ otherClass }}">
-                    <h5>Other</h5>
-                  
-                    <template repeat="{{ other in others }}">
-                      <paper-item class="sub-cat-element">{{ other }}</paper-item>
-                    </template>
-                  
-                  </span>
+                  <div>
+                    <span class="{{ foodClass }}">
+                      <template repeat="{{ food in foods }}">
+                        <paper-item class="sub-cat-element">{{ food }}</paper-item>
+                      </template>
+                    </span>
+                    <span class="{{ inspClass }}">
+                      <template repeat="{{ insp in inspirationals }}">
+                        <paper-item class="sub-cat-element">{{ insp }}</paper-item>
+                      </template>
+                    </span>
+                    <span class="{{ skillsClass }}">
+                      <template repeat="{{ skill in skills }}">
+                        <paper-item class="sub-cat-element">{{ skill }}</paper-item>
+                      </template>
+                    </span>
+                    <span class="{{ otherClass }}">
+                      <template repeat="{{ other in others }}">
+                        <paper-item class="sub-cat-element">{{ other }}</paper-item>
+                      </template>
+                    </span>
+                  </div>
                 </div>
-              </div>
-            </form>
-          </core-selector>
+              </form>
+            </core-selector>
+          </div>
         </div>
       </paper-shadow>
     </div>
@@ -133,33 +136,30 @@
           this.resultsClass = "block";
         } else {
           this.resultsClass = "hidden";
-        }
-        
-        if (nV.length < 4) {
           this.foods = food;
           this.inspirationals = insp;
           this.others = other;
-        } else {
-          for (i = 3; i < nV.length; i++) {
-            cats = nV[i].categories.split(",");
-            
-            if (cats.indexOf('Food') != -1) {
-              food.push(nV[i].title);
-              continue;
-            }
-            
-            if (cats.indexOf('Inspirationals') != -1) {
-              insp.push(nV[i].title);
-              continue;
-            }
-            
-            if (cats.indexOf('Skills') != -1) {
-              skills.push(nV[i].title);
-              continue;
-            }
-            
-            other.push(nV[i].title);
+        }
+
+        for (i = 0; i < nV.length; i++) {
+          cats = nV[i].categories.split(",");
+          
+          if (cats.indexOf('Food') != -1) {
+            food.push(nV[i].title);
+            continue;
           }
+          
+          if (cats.indexOf('Inspirationals') != -1) {
+            insp.push(nV[i].title);
+            continue;
+          }
+          
+          if (cats.indexOf('Skills') != -1) {
+            skills.push(nV[i].title);
+            continue;
+          }
+          
+          other.push(nV[i].title);
         }
         
         this.foods = food;
