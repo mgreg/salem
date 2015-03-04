@@ -196,43 +196,21 @@
         }
         this.names = n;
         this.items = items;
-        
-        /*
         this.foods = food;
         this.inspirationals = insp;
         this.others = other;
         this.skills = skills;
-        
-        if (!this.foods.length) {
-          this.foodClass = "hidden";
-        } else {
-          this.foodClass = "sub-category";
-        }
-        
-        if (!this.inspirationals.length) {
-          this.inspClass = "hidden";
-        } else {
-          this.inspClass = "sub-category";
-        }
-        
-        if (!this.skills.length) {
-          this.skillsClass = "hidden";
-        } else {
-          this.skillsClass = "sub-category";
-        }
-        
-        if (!this.others.length) {
-          this.otherClass = "hidden";
-        } else {
-          this.otherClass = "sub-category";
-        }
-        
-        $( ".sub-cat-element:parent" ).css("display", "inline-block");
-        $( ".sub-category template:empty" ).parent().parent().css("display", "none");
-        */
+
       },
       onSelection: function(e, detail, sender) {
         var that = this;
+        var msg = detail;
+        msg.items = [
+          {title: "Foods", items: this.foods},
+          {title: "Inspirationals", items: this.inspirationals},
+          {title: "Skills", items: this.skills},
+          {title: "Other", items: this.others}
+        ];
         setTimeout( function() {that.fire("select", {msg: detail})}, 300 );
       }
     });

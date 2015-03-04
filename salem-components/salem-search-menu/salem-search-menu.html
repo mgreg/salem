@@ -1,0 +1,26 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+
+<polymer-element name="salem-search-menu" attributes="categories" id="salem-search-menu">
+    <template>
+        <core-menu on-core-select="{{ onSelect }}">
+            <template repeat="{{ cat in categories }}">
+                <core-submenu label="{{ cat.title }}">
+                    <template repeat="{{ item in cat.items }}">
+                        <core-item label="{{ item }}"</core-item>
+                    </template>
+                </core-submenu>
+            </template>
+        </core-menu>
+    </template>
+
+  <script>
+    Polymer('salem-search-menu',{
+      categories: [],
+      onSelect: function(e, detail) {
+          this.fire("select", {msg: detail});
+      }
+    });
+
+  </script>
+</polymer-element>
