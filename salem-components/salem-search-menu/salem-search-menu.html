@@ -5,7 +5,7 @@
     <template>
         <core-menu on-core-select="{{ onSelect }}" valueattr="label" id="coremenu">
             <template repeat="{{ cat in items }}">
-                <core-submenu label="{{ cat.title }}">
+                <core-submenu label="{{ cat.title }} ({{ cat.items.length }})">
                     <template repeat="{{ item in cat.items }}">
                         <core-item label="{{ item }}"</core-item>
                     </template>
