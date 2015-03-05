@@ -236,18 +236,22 @@
               }
           });
           
-          search.focus();
-        
+          var query = "";
+          
           var doHash = function() {
             var route = window.location.hash.split("/");
-            console.log(route);
+            
             if (route.length < 3) {
               return;
             }
-            search.state = {
-              query: decodeURI(route[1]),
-              selected: decodeURI(route[2])
-          }
+            
+            if (query != route[1]) {
+              query = route[1]
+              search.state = {
+                query: decodeURI(route[1]),
+                selected: decodeURI(route[2])
+              }
+            }
           };
         
           doHash();
