@@ -6,10 +6,7 @@ SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm
 SpecialFood
 | Heals=7,17.5,7,7
 | Uses=1
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=10 | Max Phlegm=15
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:06 
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20

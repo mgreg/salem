@@ -3,10 +3,7 @@ Crafted
 
 Inspirational Food 
 | Heals=10,10,10,10
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=13 | Max Phlegm=19
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:45
 | Food Groups=Potato Foods
 | FoodReduce1=Potato Foods | %Reduce1=30 | %ChanceReduce1=70

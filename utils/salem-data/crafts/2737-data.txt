@@ -4,10 +4,7 @@ Crafted
 SpecialFood
 | Heals=8,4,8,8
 | Uses=1
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=5 | Max Phlegm=5
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:03 
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50

@@ -5,9 +5,6 @@ SpecialFood
 | Heals=2.5,2.5,2.5,2.5
 | Uses=1
 | Min Blood=1 | Max Blood=3
-| Min Phlegm=0 | Max Phlegm=0
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:01
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5

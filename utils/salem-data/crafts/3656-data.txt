@@ -4,10 +4,7 @@ Crafted
 SpecialFood
 | Heals=12,12,12,12
 | Uses=1
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=9 | Max Phlegm=12
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:05 
 | Food Groups=Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=10 | %ChanceReduce1=50

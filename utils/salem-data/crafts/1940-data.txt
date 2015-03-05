@@ -3,9 +3,6 @@ Crafted
 
 SpecialFood 
 | Heals=4.5,4.5,4.5,4.5
-| Min Blood=0 | Max Blood=0
-| Min Phlegm=0 | Max Phlegm=0
-| Min Yellow Bile=0 | Max Yellow Bile=0
 | Min Black Bile=8 | Max Black Bile=12
 | Uses=1 | Gluttony Time=0:30
 | Food Groups=Game Meat

@@ -4,10 +4,7 @@ Crafted
 Food 
 | Heals=2,5,1,3
 | Uses=3
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=8 | Max Phlegm=11
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:05
 | Food Groups=Slugs Bugs and Kritters
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50

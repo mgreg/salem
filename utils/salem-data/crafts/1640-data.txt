@@ -4,9 +4,7 @@ Crafted
 SpecialFood
 | Heals=16.5,10.5,7.5,12.5
 | Uses=1
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=5 | Max Phlegm=15
-| Min Yellow Bile=0 | Max Yellow Bile=0
 | Min Black Bile=1 | Max Black Bile=15
 | Gluttony Time=0:03
 | Food Groups=Fishes

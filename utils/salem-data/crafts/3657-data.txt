@@ -4,9 +4,6 @@ Crafted
 SpecialFood
 | Heals=2,5,1,3
 | Uses=2
-| Min Blood=0 | Max Blood=0
-| Min Phlegm=0 | Max Phlegm=0
-| Min Yellow Bile=0 | Max Yellow Bile=0
 | Min Black Bile=9 | Max Black Bile=12
 | Gluttony Time=0:05
 | Food Groups=Slugs Bugs and Kritters

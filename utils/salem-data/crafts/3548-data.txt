@@ -5,10 +5,7 @@ Crafted
 SpecialFood
 | Heals=1,2.5,1,4
 | Uses=1
-| Min Blood=0 | Max Blood=0
-| Min Phlegm=0 | Max Phlegm=0
 | Min Yellow Bile=5 | Max Yellow Bile=7
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:05
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=50 | %ChanceReduce1=50

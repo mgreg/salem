@@ -411,7 +411,7 @@ var crafts = [
 	title: "Argopelter Breast",
 	id: 68,
 	pageid: 3562,
-	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Argopelter Cape",
@@ -423,7 +423,7 @@ var crafts = [
 	title: "Argopelter Drumstick",
 	id: 70,
 	pageid: 3563,
-	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=10 | Max Yellow Bile=15 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Yellow Bile=10 | Max Yellow Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Argopelter Egg",
@@ -459,7 +459,7 @@ var crafts = [
 	title: "Argopelter Thigh",
 	id: 76,
 	pageid: 3565,
-	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=10 | Max Black Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Black Bile=10 | Max Black Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Argopelter Trophy",
@@ -471,7 +471,7 @@ var crafts = [
 	title: "Argopelter Wing",
 	id: 78,
 	pageid: 3566,
-	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=10 | Max Phlegm=15 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Stuffed Argopelter;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Phlegm=10 | Max Phlegm=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Artists Paintbrush",
@@ -489,7 +489,7 @@ var crafts = [
 	title: "Aspen",
 	id: 81,
 	pageid: 838,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=5,5,5.5,5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=18 | Max Black Bile=54 | Gluttony Time=6:00 | Food Groups= Pumpkins and Gourds | FoodReduce1= Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=5,5,5.5,5 | Uses=1 | Min Black Bile=18 | Max Black Bile=54 | Gluttony Time=6:00 | Food Groups= Pumpkins and Gourds | FoodReduce1= Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Aspen Masque",
@@ -513,7 +513,7 @@ var crafts = [
 	title: "Autumn Gold",
 	id: 85,
 	pageid: 827,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=4,4,4.5,4 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=12 | Max Black Bile=18 | Gluttony Time=3:00 | Food Groups= Pumpkins and Gourds | FoodReduce1= Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=4,4,4.5,4 | Uses=1 | Min Black Bile=12 | Max Black Bile=18 | Gluttony Time=3:00 | Food Groups= Pumpkins and Gourds | FoodReduce1= Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Autumn Grass",
@@ -537,7 +537,7 @@ var crafts = [
 	title: "Baby Bear",
 	id: 89,
 	pageid: 816,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=3,3,3,3 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=6 | Max Black Bile=9 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 Crafted | Objects required=Gardening Pot;1, New World Gourd;1 SpecialFood | Heals=3,3,3,3 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=6 | Max Black Bile=9 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=3,3,3,3 | Uses=1 | Min Black Bile=6 | Max Black Bile=9 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 Crafted | Objects required=Gardening Pot;1, New World Gourd;1 SpecialFood | Heals=3,3,3,3 | Uses=1 | Min Black Bile=6 | Max Black Bile=9 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Baby Corn",
@@ -765,7 +765,7 @@ var crafts = [
 	title: "Big Autumn",
 	id: 127,
 	pageid: 840,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=6,6,6.5,6 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=18 | Max Phlegm=54 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=6:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=6,6,6.5,6 | Uses=1 | Min Phlegm=18 | Max Phlegm=54 | Gluttony Time=6:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Special_Food"
 },{
 	title: "Big Autumn Masque",
@@ -885,7 +885,7 @@ var crafts = [
 	title: "Blue Potato",
 	id: 147,
 	pageid: 4713,
-	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=10,10,10,10 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=14 | Max Phlegm=20 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=10,10,10,10 | Uses=1 | Min Phlegm=14 | Max Phlegm=20 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Special_Food"
 },{
 	title: "Blueback Tuna",
@@ -1083,7 +1083,7 @@ var crafts = [
 	title: "Brown Potato",
 	id: 180,
 	pageid: 4715,
-	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=6,6,6,6 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=5 | Max Black Bile=12 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=6,6,6,6 | Uses=1 | Min Black Bile=5 | Max Black Bile=12 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Special_Food"
 },{
 	title: "Bucket",
@@ -1137,7 +1137,7 @@ var crafts = [
 	title: "Bushkin",
 	id: 189,
 	pageid: 832,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=4.5,4.5,4.5,5 | Min Blood=0 | Max Blood=0 | Min Phlegm=12 | Max Phlegm=18 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=3:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=4.5,4.5,4.5,5 | Min Phlegm=12 | Max Phlegm=18 | Uses=1 | Gluttony Time=3:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Butcher Knife",
@@ -1233,7 +1233,7 @@ var crafts = [
 	title: "Candy Gang Candy Cane",
 	id: 205,
 	pageid: 3463,
-	data: "Crafted | Objects required=Mystery Weapon Chest;1 Food | Heals=100,100,100,100 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 PAGENAME",
+	data: "Crafted | Objects required=Mystery Weapon Chest;1 Food | Heals=100,100,100,100 PAGENAME",
 	categories:"Food,Snack_Food,Weapon"
 },{
 	title: "Cane",
@@ -1281,7 +1281,7 @@ var crafts = [
 	title: "Carrot",
 	id: 213,
 	pageid: 3544,
-	data: "Crafted | Objects required=Carrot;1, Gardening Pot;1 SpecialFood | Heals=5,15,5,5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=8 | Max Phlegm=12 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:10 | Food Groups= Vegetables and Greens | FoodReduce1= Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30 Foraged | Where found=Dead Rabbit SpecialFood | Heals=5,15,5,5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=8 | Max Phlegm=12 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:10 | Food Groups= Vegetables and Greens | FoodReduce1= Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30",
+	data: "Crafted | Objects required=Carrot;1, Gardening Pot;1 SpecialFood | Heals=5,15,5,5 | Uses=1 | Min Phlegm=8 | Max Phlegm=12 | Gluttony Time=0:10 | Food Groups= Vegetables and Greens | FoodReduce1= Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30 Foraged | Where found=Dead Rabbit SpecialFood | Heals=5,15,5,5 | Uses=1 | Min Phlegm=8 | Max Phlegm=12 | Gluttony Time=0:10 | Food Groups= Vegetables and Greens | FoodReduce1= Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30",
 	categories:"Food,Forageables,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Caterpillar in a Jar",
@@ -1323,7 +1323,7 @@ var crafts = [
 	title: "Charred Something",
 	id: 220,
 	pageid: 1945,
-	data: "Crafted | Objects required=Meat Shreds;1, Fire;1 SpecialFood | Heals=0,0,0,0 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:13 | Food Groups=Game Meat",
+	data: "Crafted | Objects required=Meat Shreds;1, Fire;1 SpecialFood | Heals=0,0,0,0 | Uses=1 | Gluttony Time=0:13 | Food Groups=Game Meat",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Chef Cape",
@@ -1479,7 +1479,7 @@ var crafts = [
 	title: "Company Bacon",
 	id: 246,
 	pageid: 396,
-	data: "Crafted | Objects required=Silver Pieces;45 Food | Heals=25,25,25,25 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=10 | Gluttony Time=0:00",
+	data: "Crafted | Objects required=Silver Pieces;45 Food | Heals=25,25,25,25 | Uses=10 | Gluttony Time=0:00",
 	categories:"Food,Snack_Food"
 },{
 	title: "Concordat of Worms",
@@ -1503,7 +1503,7 @@ var crafts = [
 	title: "Connecticut Field",
 	id: 250,
 	pageid: 842,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=7,7,7.5,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=18 | Max Yellow Bile=54 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=6:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=7,7,7.5,7 | Uses=1 | Min Yellow Bile=18 | Max Yellow Bile=54 | Gluttony Time=6:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Connecticut Field Masque",
@@ -1521,13 +1521,13 @@ var crafts = [
 	title: "Cooked Carrot",
 	id: 253,
 	pageid: 3541,
-	data: "Crafted | Objects required=Carrot;1, Fire;1 SpecialFood | Heals=12,7,12,7.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=8 | Max Phlegm=12 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time= 0:15 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Carrot;1, Fire;1 SpecialFood | Heals=12,7,12,7.5 | Min Phlegm=8 | Max Phlegm=12 | Uses=1 | Gluttony Time= 0:15 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Food,Special_Food"
 },{
 	title: "Cooked King Crab",
 	id: 254,
 	pageid: 3062,
-	data: "Crafted |Objects required= Crab;1, Fireplace;1 SpecialFood | Heals=15,15,15,15 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=5 | Max Phlegm=25 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:15 | Food Groups=Crustacea and Shellfish | FoodReduce1=Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=20",
+	data: "Crafted |Objects required= Crab;1, Fireplace;1 SpecialFood | Heals=15,15,15,15 | Uses=1 | Min Phlegm=5 | Max Phlegm=25 | Gluttony Time=0:15 | Food Groups=Crustacea and Shellfish | FoodReduce1=Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=20",
 	categories:"Food,Special_Food"
 },{
 	title: "Coonskin Cap",
@@ -1719,7 +1719,7 @@ var crafts = [
 	title: "Crispy Cricket",
 	id: 286,
 	pageid: 1828,
-	data: "Crafted | Objects required=Dead Wartbite Cricket;1, Fire;1 SpecialFood | Heals=7.5,10,7.5,5 | Min Blood=8 | Max Blood=11 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time= 0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Dead Wartbite Cricket;1, Fire;1 SpecialFood | Heals=7.5,10,7.5,5 | Min Blood=8 | Max Blood=11 | Uses=1 | Gluttony Time= 0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Slugs_Bugs_and_Kritters,Special_Food"
 },{
 	title: "Cross-Shaped Wood Splinter",
@@ -1755,7 +1755,7 @@ var crafts = [
 	title: "Crusted Crawdad",
 	id: 292,
 	pageid: 3649,
-	data: "Crafted | Objects required=Crawdad;1, Frying Pan;1, Fire;1 SpecialFood | Heals=14,12,12,14 | Uses=1 | Min Blood=9 | Max Blood=13 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:10 | Food Groups= Crustacea and Shellfish | FoodReduce1= Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Crawdad;1, Frying Pan;1, Fire;1 SpecialFood | Heals=14,12,12,14 | Uses=1 | Min Blood=9 | Max Blood=13 | Gluttony Time=0:10 | Food Groups= Crustacea and Shellfish | FoodReduce1= Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Crustacea_and_Shellfish,Food,Special_Food"
 },{
 	title: "Curious Cabbage",
@@ -1773,7 +1773,7 @@ var crafts = [
 	title: "Curious Potato",
 	id: 295,
 	pageid: 4752,
-	data: "Crafted | Objects required=Tilled Field;1 Inspirational Food | Heals=10,10,10,10 | Min Blood=0 | Max Blood=0 | Min Phlegm=13 | Max Phlegm=19 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:45 | Food Groups=Potato Foods | FoodReduce1=Potato Foods | %Reduce1=30 | %ChanceReduce1=70 | Hunting &amp; Hideworking=650 | Mines &amp; Mountains=950 | Stocks &amp; Cultivars=2200 | Sugar &amp; Spice=1150 | Uses=1",
+	data: "Crafted | Objects required=Tilled Field;1 Inspirational Food | Heals=10,10,10,10 | Min Phlegm=13 | Max Phlegm=19 | Gluttony Time=0:45 | Food Groups=Potato Foods | FoodReduce1=Potato Foods | %Reduce1=30 | %ChanceReduce1=70 | Hunting &amp; Hideworking=650 | Mines &amp; Mountains=950 | Stocks &amp; Cultivars=2200 | Sugar &amp; Spice=1150 | Uses=1",
 	categories:"Food,Inspirationals,Special_Food"
 },{
 	title: "Cutting",
@@ -1851,25 +1851,25 @@ var crafts = [
 	title: "Dehydrated Blackberry",
 	id: 308,
 	pageid: 3537,
-	data: "Crafted | Objects required=Blackberries;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=28 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Blackberries;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Black Bile=1 | Max Black Bile=28 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Food,Special_Food"
 },{
 	title: "Dehydrated Cranberry",
 	id: 309,
 	pageid: 3546,
-	data: "Crafted | Objects required=Cranberry;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Blood=1 | Max Blood=28 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Cranberry;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Blood=1 | Max Blood=28 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Berries,Food,Special_Food"
 },{
 	title: "Dehydrated Crowberry",
 	id: 310,
 	pageid: 3539,
-	data: "Crafted | Objects required=Crowberry Stalk;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Blood=0 | Max Blood=0 | Min Phlegm=1 | Max Phlegm=28 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Crowberry Stalk;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Phlegm=1 | Max Phlegm=28 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Berries,Food,Special_Food"
 },{
 	title: "Dehydrated Huckleberry",
 	id: 311,
 	pageid: 3538,
-	data: "Crafted | Objects required=Huckleberries;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=1 | Max Yellow Bile=28 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted | Objects required=Huckleberries;1, Steam Distiller;1 SpecialFood | Heals=0,0,0,0 | Min Yellow Bile=1 | Max Yellow Bile=28 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Berries,Food,Special_Food"
 },{
 	title: "Dehydrated Rose",
@@ -1887,25 +1887,25 @@ var crafts = [
 	title: "Domesticated Turkey Breast",
 	id: 314,
 	pageid: 3634,
-	data: "Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bi...&quot;</comment> <text xml:space=\"preserve\" bytes=\"659\">{{Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bi...&quot;</comment> <text xml:space=\"preserve\" bytes=\"659\">{{Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Domesticated Turkey Drumstick",
 	id: 315,
 	pageid: 3635,
-	data: "Crafted | Objects required=Stuffed Turkey;1 | Weight=0.17 kg SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=10 | Max Yellow Bile=15 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Stuffed Turkey;1 | Weight=0.17 kg SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Yellow Bile=10 | Max Yellow Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Domesticated Turkey Thigh",
 	id: 316,
 	pageid: 3636,
-	data: "Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max ...&quot;</comment> <text xml:space=\"preserve\" bytes=\"650\">{{Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=10 | Max Black Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max ...&quot;</comment> <text xml:space=\"preserve\" bytes=\"650\">{{Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Black Bile=10 | Max Black Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Domesticated Turkey Wing",
 	id: 317,
 	pageid: 3637,
-	data: "Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=10 | Max Phlegm=15 | Min Yellow Bile=0 | Ma...&quot;</comment> <text xml:space=\"preserve\" bytes=\"650\">{{Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=10 | Max Phlegm=15 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=10 | Max Phlegm=15 | Min Yellow Bile=0 | Ma...&quot;</comment> <text xml:space=\"preserve\" bytes=\"650\">{{Crafted | Objects required=Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Phlegm=10 | Max Phlegm=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Donkey Hat",
@@ -1935,7 +1935,7 @@ var crafts = [
 	title: "Dried Angel-Winged Seabass",
 	id: 322,
 	pageid: 1652,
-	data: "Crafted |Objects required= Angel-Winged Seabass;1, Drying Frame;1 SpecialFood | Heals=12,10,8,10 | Uses=1 | Min Blood=1 | Max Blood=10 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted |Objects required= Angel-Winged Seabass;1, Drying Frame;1 SpecialFood | Heals=12,10,8,10 | Uses=1 | Min Blood=1 | Max Blood=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Argopelt",
@@ -1959,19 +1959,19 @@ var crafts = [
 	title: "Dried Blueback Tuna",
 	id: 326,
 	pageid: 1640,
-	data: "Crafted | Objects required=Drying Frame;1, Blueback Tuna;1 SpecialFood | Heals=16.5,10.5,7.5,12.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=5 | Max Phlegm=15 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=15 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Drying Frame;1, Blueback Tuna;1 SpecialFood | Heals=16.5,10.5,7.5,12.5 | Uses=1 | Min Phlegm=5 | Max Phlegm=15 | Min Black Bile=1 | Max Black Bile=15 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Cape Codfish",
 	id: 327,
 	pageid: 1649,
-	data: "Crafted |Objects required= Cape Codfish;1, Drying Frame;1 SpecialFood | Heals=10,10,8,8 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=1 | Max Yellow Bile=10 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted |Objects required= Cape Codfish;1, Drying Frame;1 SpecialFood | Heals=10,10,8,8 | Uses=1 | Min Yellow Bile=1 | Max Yellow Bile=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Darkwater Bluegill",
 	id: 328,
 	pageid: 3085,
-	data: "Crafted | Objects required=Drying Frame;1, Darkwater Bluegill;1 SpecialFood | Heals=10,17.5,10.5,10.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=1 | Max Phlegm=15 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Drying Frame;1, Darkwater Bluegill;1 SpecialFood | Heals=10,17.5,10.5,10.5 | Uses=1 | Min Phlegm=1 | Max Phlegm=15 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Deer Hide",
@@ -1983,13 +1983,13 @@ var crafts = [
 	title: "Dried Ghostly Whitefish",
 	id: 330,
 	pageid: 1637,
-	data: "Crafted |Objects required= Ghostly Whitefish;1, Drying Frame;1 SpecialFood | Heals=12.5,15.5,17.5,17.5 | Uses=1 | Min Blood=1 | Max Blood=20 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted |Objects required= Ghostly Whitefish;1, Drying Frame;1 SpecialFood | Heals=12.5,15.5,17.5,17.5 | Uses=1 | Min Blood=1 | Max Blood=20 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Gold Pickerel",
 	id: 331,
 	pageid: 1634,
-	data: "Crafted |Objects required= Gold Pickerel;1, Drying Frame;1 SpecialFood | Heals=8,11,7,10 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=1 | Max Yellow Bile=15 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted |Objects required= Gold Pickerel;1, Drying Frame;1 SpecialFood | Heals=8,11,7,10 | Uses=1 | Min Yellow Bile=1 | Max Yellow Bile=15 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Hellish Halibut",
@@ -2013,7 +2013,7 @@ var crafts = [
 	title: "Dried Raging Bullhead",
 	id: 335,
 	pageid: 1321,
-	data: "Crafted |Objects required= Raging Bullhead;1, Drying Frame;1 SpecialFood | Heals=8,16,16,16 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=25 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted |Objects required= Raging Bullhead;1, Drying Frame;1 SpecialFood | Heals=8,16,16,16 | Uses=1 | Min Black Bile=1 | Max Black Bile=25 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Red Herring",
@@ -2025,31 +2025,31 @@ var crafts = [
 	title: "Dried Red-Finned Mullet",
 	id: 337,
 	pageid: 1646,
-	data: "Crafted | Objects required= Red-Finned Mullet;1, Drying Frame;1 SpecialFood | Heals=12,10,8,8 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=1 | Max Phlegm=10 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required= Red-Finned Mullet;1, Drying Frame;1 SpecialFood | Heals=12,10,8,8 | Uses=1 | Min Phlegm=1 | Max Phlegm=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Sargasso Eel",
 	id: 338,
 	pageid: 3122,
-	data: "Crafted |Objects required= Sargasso Eel;1, Drying Frame;1 SpecialFood | Heals=15,15,12.5,12.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted |Objects required= Sargasso Eel;1, Drying Frame;1 SpecialFood | Heals=15,15,12.5,12.5 | Uses=1 | Min Black Bile=1 | Max Black Bile=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Shin Spinner",
 	id: 339,
 	pageid: 1315,
-	data: "Crafted | Objects required=Drying Frame;1, Shin Spinner;1 SpecialFood | Heals=12,12,10,8 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=1 | Max Yellow Bile=10 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Drying Frame;1, Shin Spinner;1 SpecialFood | Heals=12,12,10,8 | Uses=1 | Min Yellow Bile=1 | Max Yellow Bile=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Silt-Dwelling Mudsnapper",
 	id: 340,
 	pageid: 1307,
-	data: "Crafted | Objects required=Silt-Dwelling Mudsnapper;1, Drying Frame;1 SpecialFood | Heals=5.5,8.5,4.5,2 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=1 | Max Phlegm=10 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Silt-Dwelling Mudsnapper;1, Drying Frame;1 SpecialFood | Heals=5.5,8.5,4.5,2 | Uses=1 | Min Phlegm=1 | Max Phlegm=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Tiger Trout",
 	id: 341,
 	pageid: 1318,
-	data: "Crafted | Objects required=Drying Frame;1, Tiger Trout;1 SpecialFood | Heals=7.5,7.5,5,5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=1 | Max Phlegm=10 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Drying Frame;1, Tiger Trout;1 SpecialFood | Heals=7.5,7.5,5,5 | Uses=1 | Min Phlegm=1 | Max Phlegm=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Timber Rattler Skin",
@@ -2061,7 +2061,7 @@ var crafts = [
 	title: "Dried Trunk-Nosed Lake Perch",
 	id: 343,
 	pageid: 1308,
-	data: "Crafted | Objects required= Trunk-Nosed Lake Perch;1, Drying Frame;1 SpecialFood | Heals=8,8,8,8 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required= Trunk-Nosed Lake Perch;1, Drying Frame;1 SpecialFood | Heals=8,8,8,8 | Uses=1 | Min Black Bile=1 | Max Black Bile=10 | Gluttony Time=0:03 | Food Groups=Fishes | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Dried Wishpoosh Hide",
@@ -2643,19 +2643,19 @@ var crafts = [
 	title: "Fried Blewit",
 	id: 440,
 	pageid: 3656,
-	data: "Crafted | Objects required=Lavender Blewit;1, Frying Pan;1, Fire;1 SpecialFood | Heals=12,12,12,12 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=9 | Max Phlegm=12 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:05 | Food Groups=Mushrooms | FoodReduce1=Mushrooms | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Lavender Blewit;1, Frying Pan;1, Fire;1 SpecialFood | Heals=12,12,12,12 | Uses=1 | Min Phlegm=9 | Max Phlegm=12 | Gluttony Time=0:05 | Food Groups=Mushrooms | FoodReduce1=Mushrooms | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Mushrooms,Special_Food"
 },{
 	title: "Fried Frog Legs",
 	id: 441,
 	pageid: 3657,
-	data: "Crafted | Objects required=Frog Legs;1, Frying Pan;1, Fire;1 SpecialFood | Heals=2,5,1,3 | Uses=2 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=9 | Max Black Bile=12 | Gluttony Time=0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Frog Legs;1, Frying Pan;1, Fire;1 SpecialFood | Heals=2,5,1,3 | Uses=2 | Min Black Bile=9 | Max Black Bile=12 | Gluttony Time=0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Slugs_Bugs_and_Kritters,Special_Food"
 },{
 	title: "Fried Oysters",
 	id: 442,
 	pageid: 3659,
-	data: "Crafted | Objects required=Oyster;1, Frying Pan;1, Fire;1 | Weight=.10 kg SpecialFood | Heals=5,5,5,18 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=15 | Max Black Bile=20 | Gluttony Time=0:15 | Food Groups=Crustacea and Shellfish | FoodReduce1=Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Oyster;1, Frying Pan;1, Fire;1 | Weight=.10 kg SpecialFood | Heals=5,5,5,18 | Uses=1 | Min Black Bile=15 | Max Black Bile=20 | Gluttony Time=0:15 | Food Groups=Crustacea and Shellfish | FoodReduce1=Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=20",
 	categories:"Crustacea_and_Shellfish,Food,Special_Food"
 },{
 	title: "Frog Chowder",
@@ -2853,7 +2853,7 @@ var crafts = [
 	title: "Ghost Rider",
 	id: 475,
 	pageid: 844,
-	data: "Crafted | Objects required=Tilled Field;1, Seeds of Pumpkin;50 Inspirational Food | Heals=8,8,9,8 | Min Blood=18 | Max Blood=54 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=6:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 | Faith &amp; Wisdom=1800 | Herbs &amp; Sprouts=2150 | Stocks &amp; Cultivars=2000 | Sugar &amp; Spice=1850 | Natural Philosophy=1350 | Perennial Philosophy=450 | Uses=1",
+	data: "Crafted | Objects required=Tilled Field;1, Seeds of Pumpkin;50 Inspirational Food | Heals=8,8,9,8 | Min Blood=18 | Max Blood=54 | Uses=1 | Gluttony Time=6:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 | Faith &amp; Wisdom=1800 | Herbs &amp; Sprouts=2150 | Stocks &amp; Cultivars=2000 | Sugar &amp; Spice=1850 | Natural Philosophy=1350 | Perennial Philosophy=450 | Uses=1",
 	categories:"Food,Inspirationals,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Ghost Rider Masque",
@@ -3033,7 +3033,7 @@ var crafts = [
 	title: "Green Bell Peppers",
 	id: 505,
 	pageid: 820,
-	data: "Crafted | Objects required=Gardening Pot;1, New World Gourd;1 SpecialFood | Heals=2,2,3,3 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=11 | Max Phlegm=14 | Min Yellow Bile=11 | Max Yellow Bile=14 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50 | FoodReduce2=Mushrooms | %Reduce2=60 | %ChanceReduce2=100 | FoodReduce3=Berries | %Reduce3=60 | %ChanceReduce3=100",
+	data: "Crafted | Objects required=Gardening Pot;1, New World Gourd;1 SpecialFood | Heals=2,2,3,3 | Uses=1 | Min Phlegm=11 | Max Phlegm=14 | Min Yellow Bile=11 | Max Yellow Bile=14 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50 | FoodReduce2=Mushrooms | %Reduce2=60 | %ChanceReduce2=100 | FoodReduce3=Berries | %Reduce3=60 | %ChanceReduce3=100",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Green Cabbage Chuck Roast",
@@ -3099,7 +3099,7 @@ var crafts = [
 	title: "Harvest Moon",
 	id: 516,
 	pageid: 834,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=5,5,5,5.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=12 | Max Yellow Bile=18 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=3:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=5,5,5,5.5 | Uses=1 | Min Yellow Bile=12 | Max Yellow Bile=18 | Gluttony Time=3:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Hay",
@@ -3219,7 +3219,7 @@ var crafts = [
 	title: "Huckleberries",
 	id: 536,
 	pageid: 886,
-	data: "Foraged | Where found=Grassland, Badlands, Marshland, Greenwood, Woodland | Weight=.10 kg SpecialFood | Heals=2.5,2.5,2.5,2.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=5 | Max Yellow Bile=6 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=50 | %ChanceReduce1=50 Crafted | Objects required=Gardening Pot;1, Huckleberries;1 | Weight=.10 kg SpecialFood | Heals=2.5,2.5,2.5,2.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=5 | Max Yellow Bile=6 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Foraged | Where found=Grassland, Badlands, Marshland, Greenwood, Woodland | Weight=.10 kg SpecialFood | Heals=2.5,2.5,2.5,2.5 | Min Yellow Bile=5 | Max Yellow Bile=6 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=50 | %ChanceReduce1=50 Crafted | Objects required=Gardening Pot;1, Huckleberries;1 | Weight=.10 kg SpecialFood | Heals=2.5,2.5,2.5,2.5 | Min Yellow Bile=5 | Max Yellow Bile=6 | Uses=1 | Gluttony Time=0:06 | Food Groups=Berries | FoodReduce1=Berries | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Berries,Food,Forageables,Special_Food"
 },{
 	title: "Huckleberry Pectin",
@@ -3345,7 +3345,7 @@ var crafts = [
 	title: "Jack-o-Lantern",
 	id: 557,
 	pageid: 836,
-	data: "Crafted | Objects required=Tilled Field;1, Seeds of Pumpkin;50 Inspirational Food | Heals=5.5,5.5,5.5,6 | Min Blood=12 | Max Blood=18 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=3:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 | Herbs &amp; Sprouts=1350 | Sparks &amp; Embers=1300 | Stocks &amp; Cultivars=1500 | Sugar &amp; Spice=1750 | Natural Philosophy=1150 | Uses=1",
+	data: "Crafted | Objects required=Tilled Field;1, Seeds of Pumpkin;50 Inspirational Food | Heals=5.5,5.5,5.5,6 | Min Blood=12 | Max Blood=18 | Uses=1 | Gluttony Time=3:00 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 | Herbs &amp; Sprouts=1350 | Sparks &amp; Embers=1300 | Stocks &amp; Cultivars=1500 | Sugar &amp; Spice=1750 | Natural Philosophy=1150 | Uses=1",
 	categories:"Food,Inspirationals,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Jacket of Good Cheer",
@@ -3405,7 +3405,7 @@ var crafts = [
 	title: "Journeyman Toolbelt",
 	id: 567,
 	pageid: 4143,
-	data: "Crafted | Objects required=Iron Buckle;1, Leather;4 Clothing | Equipment Slot=Waist | Artificer Slots=0",
+	data: "Crafted | Objects required=Iron Buckle;1, Leather;4 Clothing | Equipment Slot=Waist",
 	categories:"Clothing"
 },{
 	title: "Jute Cap",
@@ -3507,25 +3507,25 @@ var crafts = [
 	title: "Leaf of Colewort",
 	id: 584,
 	pageid: 940,
-	data: "Crafted | Objects required=Colewort;1 SpecialFood | Heals=1.5,1.5,1.5,1.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=2 | Gluttony Time=0:01 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
+	data: "Crafted | Objects required=Colewort;1 SpecialFood | Heals=1.5,1.5,1.5,1.5 | Uses=1 | Min Black Bile=1 | Max Black Bile=2 | Gluttony Time=0:01 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Leaf of Green Cabbage",
 	id: 585,
 	pageid: 941,
-	data: "Crafted | Objects required=Head of Green Cabbage;1 SpecialFood | Heals=2.5,2.5,2.5,2.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=1 | Max Yellow Bile=3 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:01 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
+	data: "Crafted | Objects required=Head of Green Cabbage;1 SpecialFood | Heals=2.5,2.5,2.5,2.5 | Uses=1 | Min Yellow Bile=1 | Max Yellow Bile=3 | Gluttony Time=0:01 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Leaf of Red Cabbage",
 	id: 586,
 	pageid: 942,
-	data: "Crafted | Objects required=Head of Red Cabbage;1 SpecialFood | Heals=4,4,4,4 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=1 | Max Phlegm=4 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:01 | Food Groups= Vegetables and Greens | FoodReduce1= Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
+	data: "Crafted | Objects required=Head of Red Cabbage;1 SpecialFood | Heals=4,4,4,4 | Uses=1 | Min Phlegm=1 | Max Phlegm=4 | Gluttony Time=0:01 | Food Groups= Vegetables and Greens | FoodReduce1= Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Leaf of White Cabbage",
 	id: 587,
 	pageid: 934,
-	data: "Crafted | Objects required=Head of White Cabbage;1 SpecialFood | Heals=2.5,2.5,2.5,2.5 | Uses=1 | Min Blood=1 | Max Blood=3 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:01 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
+	data: "Crafted | Objects required=Head of White Cabbage;1 SpecialFood | Heals=2.5,2.5,2.5,2.5 | Uses=1 | Min Blood=1 | Max Blood=3 | Gluttony Time=0:01 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Leafy Leftovers",
@@ -3639,7 +3639,7 @@ var crafts = [
 	title: "Lobster Tail",
 	id: 606,
 	pageid: 3600,
-	data: "Crafted | Objects required=Boiled Lobster;1 SpecialFood | Heals=34,32,32,34 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=25 | Max Yellow Bile=27 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:15 | Food Groups= Crustacea and Shellfish | FoodReduce1= Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=40",
+	data: "Crafted | Objects required=Boiled Lobster;1 SpecialFood | Heals=34,32,32,34 | Uses=1 | Min Yellow Bile=25 | Max Yellow Bile=27 | Gluttony Time=0:15 | Food Groups= Crustacea and Shellfish | FoodReduce1= Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=40",
 	categories:"Crustacea_and_Shellfish,Food,Special_Food"
 },{
 	title: "Lock",
@@ -3759,7 +3759,7 @@ var crafts = [
 	title: "Master Toolbelt",
 	id: 626,
 	pageid: 4144,
-	data: "Crafted | Objects required=Iron Buckle;1, Fine Leather;4 Clothing | Equipment Slot=Waist | Artificer Slots=0 Crafted | Objects required=Iron Buckle;1, Fine Leather;4 Clothing | Equipment Slot=Waist | Artificer Slots=0",
+	data: "Crafted | Objects required=Iron Buckle;1, Fine Leather;4 Crafted | Objects required=Iron Buckle;1, Fine Leather;4 Clothing | Equipment Slot=Waist",
 	categories:"Clothing"
 },{
 	title: "Meat Shreds",
@@ -4029,7 +4029,7 @@ var crafts = [
 	title: "Novice Toolbelt",
 	id: 671,
 	pageid: 4142,
-	data: "Crafted | Objects required=Plant Fibre;1, Myrtle Oak Leaves;2 Clothing | Equipment Slot=Waist | Artificer Slots=0",
+	data: "Crafted | Objects required=Plant Fibre;1, Myrtle Oak Leaves;2 Clothing | Equipment Slot=Waist",
 	categories:"Clothing"
 },{
 	title: "Nutcracker Suite",
@@ -4071,7 +4071,7 @@ var crafts = [
 	title: "Onion",
 	id: 678,
 	pageid: 3644,
-	data: "Crafted | Objects required=Onion;1, Gardening Pot;1 SpecialFood | Heals=5,5,5,15 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=8 | Max Black Bile=12 | Gluttony Time=0:10 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Onion;1, Gardening Pot;1 SpecialFood | Heals=5,5,5,15 | Uses=1 | Min Black Bile=8 | Max Black Bile=12 | Gluttony Time=0:10 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Special_Food"
 },{
 	title: "Opera Masque",
@@ -4257,7 +4257,7 @@ var crafts = [
 	title: "Pine Nuts",
 	id: 709,
 	pageid: 3548,
-	data: "Crafted | Objects required=Squirrel Stash;1, Pinecone;1 | Weight=.05 kg SpecialFood | Heals=1,2.5,1,4 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=5 | Max Yellow Bile=7 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Squirrel Stash;1, Pinecone;1 | Weight=.05 kg SpecialFood | Heals=1,2.5,1,4 | Uses=1 | Min Yellow Bile=5 | Max Yellow Bile=7 | Gluttony Time=0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Special_Food"
 },{
 	title: "Pioneer's Hat",
@@ -4665,7 +4665,7 @@ var crafts = [
 	title: "Radish",
 	id: 777,
 	pageid: 3542,
-	data: "Crafted | Objects required=Gardening Pot;1, Radish;1 SpecialFood | Heals=5,5,15,5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=8 | Max Yellow Bile=12 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:10 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30",
+	data: "Crafted | Objects required=Gardening Pot;1, Radish;1 SpecialFood | Heals=5,5,15,5 | Uses=1 | Min Yellow Bile=8 | Max Yellow Bile=12 | Gluttony Time=0:10 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Raggy Doll",
@@ -4923,7 +4923,7 @@ var crafts = [
 	title: "Red Bell Peppers",
 	id: 820,
 	pageid: 821,
-	data: "Crafted | Objects required=Gardening Pot;1, New World Gourd;1 |Weight=.1 kg SpecialFood | Heals=3,3,2,2 | Uses=1 | Min Blood=11 | Max Blood=14 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=11 | Max Black Bile=14 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50 | FoodReduce2=Pumpkins and Gourds | %Reduce2=60 | %ChanceReduce2=100 | FoodReduce3=Poultry | %Reduce3=60 | %ChanceReduce3=100",
+	data: "Crafted | Objects required=Gardening Pot;1, New World Gourd;1 |Weight=.1 kg SpecialFood | Heals=3,3,2,2 | Uses=1 | Min Blood=11 | Max Blood=14 | Min Black Bile=11 | Max Black Bile=14 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=50 | FoodReduce2=Pumpkins and Gourds | %Reduce2=60 | %ChanceReduce2=100 | FoodReduce3=Poultry | %Reduce3=60 | %ChanceReduce3=100",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Red Herring",
@@ -4947,7 +4947,7 @@ var crafts = [
 	title: "Red Potato",
 	id: 824,
 	pageid: 4714,
-	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=15,15,15,15 | Uses=1 | Min Blood=18 | Max Blood=56 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=15,15,15,15 | Uses=1 | Min Blood=18 | Max Blood=56 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Special_Food"
 },{
 	title: "Red Rose",
@@ -5031,49 +5031,49 @@ var crafts = [
 	title: "Roasted Angel-Winged Seabass",
 	id: 838,
 	pageid: 2733,
-	data: "Crafted | Objects required=Filet of Angel-Winged Seabass;1, Fire;1 SpecialFood | Heals=10,8,8,10 | Uses=1 | Min Blood=5 | Max Blood=5 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Angel-Winged Seabass;1, Fire;1 SpecialFood | Heals=10,8,8,10 | Uses=1 | Min Blood=5 | Max Blood=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Bear Cut",
 	id: 839,
 	pageid: 2729,
-	data: "Crafted | Objects required=Raw Bear Cut;1, Fire;1 SpecialFood | Heals=7.5,7.5,7.5,7.5 | Min Blood=8 | Max Blood=12 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Bear Cut;1, Fire;1 SpecialFood | Heals=7.5,7.5,7.5,7.5 | Min Blood=8 | Max Blood=12 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Roasted Bear Steak",
 	id: 840,
 	pageid: 2731,
-	data: "Crafted | Objects required=Raw Bear Steak;1, Fire;1 SpecialFood | Heals=9.5,9.5,9.5,9.5 | Min Blood=16 | Max Blood=24 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Bear Steak;1, Fire;1 SpecialFood | Heals=9.5,9.5,9.5,9.5 | Min Blood=16 | Max Blood=24 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Roasted Beaver Cut",
 	id: 841,
 	pageid: 1940,
-	data: "Crafted | Objects required=Raw Beaver Cut;1, Fire;1 SpecialFood | Heals=4.5,4.5,4.5,4.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=8 | Max Black Bile=12 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Beaver Cut;1, Fire;1 SpecialFood | Heals=4.5,4.5,4.5,4.5 | Min Black Bile=8 | Max Black Bile=12 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Roasted Beaver Steak",
 	id: 842,
 	pageid: 1942,
-	data: "Crafted | Objects required=Raw Beaver Steak;1, Fire;1 SpecialFood | Heals=6.5,6.5,6.5,6.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=16 | Max Black Bile=24 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Beaver Steak;1, Fire;1 SpecialFood | Heals=6.5,6.5,6.5,6.5 | Min Black Bile=16 | Max Black Bile=24 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Roasted Blueback Tuna",
 	id: 843,
 	pageid: 2741,
-	data: "Crafted | Objects required=Filet of Blueback Tuna;1, Fire;1 SpecialFood | Heals=12.5,10.5,7.5,7.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=5 | Max Phlegm=15 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=5 | Max Black Bile=15 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Blueback Tuna;1, Fire;1 SpecialFood | Heals=12.5,10.5,7.5,7.5 | Uses=1 | Min Phlegm=5 | Max Phlegm=15 | Min Black Bile=5 | Max Black Bile=15 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Cape Codfish",
 	id: 844,
 	pageid: 2735,
-	data: "Crafted | Objects required=Filet of Cape Codfish;1, Fire;1 SpecialFood | Heals=8,8,10,5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=5 | Max Yellow Bile=5 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Cape Codfish;1, Fire;1 SpecialFood | Heals=8,8,10,5 | Uses=1 | Min Yellow Bile=5 | Max Yellow Bile=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Chestnut",
 	id: 845,
 	pageid: 411,
-	data: "Crafted | Objects required=Stray Chestnut;1, Fire;1 SpecialFood | Heals=2,5,2,8 | Min Blood=8 | Max Blood=10 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=2 | Gluttony Time=0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Stray Chestnut;1, Fire;1 SpecialFood | Heals=2,5,2,8 | Min Blood=8 | Max Blood=10 | Uses=2 | Gluttony Time=0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Nuts_and_Seeds,Special_Food"
 },{
 	title: "Roasted Corn on the Cob",
@@ -5085,13 +5085,13 @@ var crafts = [
 	title: "Roasted Crab Meat",
 	id: 847,
 	pageid: 3064,
-	data: "Crafted |Objects required= Crab Meat;1, Fire;1 | Weight=0.50 kg SpecialFood | Heals=7.5,7.5,7.5,7.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=8 | Max Phlegm=10 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:10 | Food Groups=Crustacea and Shellfish | FoodReduce1=Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=10",
+	data: "Crafted |Objects required= Crab Meat;1, Fire;1 | Weight=0.50 kg SpecialFood | Heals=7.5,7.5,7.5,7.5 | Uses=1 | Min Phlegm=8 | Max Phlegm=10 | Gluttony Time=0:10 | Food Groups=Crustacea and Shellfish | FoodReduce1=Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=10",
 	categories:"Crustacea_and_Shellfish,Food,Special_Food"
 },{
 	title: "Roasted Darkwater Bluegill",
 	id: 848,
 	pageid: 3083,
-	data: "Crafted | Objects required=Filet of Darkwater Bluegill;1, Fire;1 SpecialFood | Heals=7.5,9,13,17.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=5 | Max Phlegm=15 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Darkwater Bluegill;1, Fire;1 SpecialFood | Heals=7.5,9,13,17.5 | Uses=1 | Min Phlegm=5 | Max Phlegm=15 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Fish",
@@ -5103,13 +5103,13 @@ var crafts = [
 	title: "Roasted Ghostly Whitefish",
 	id: 850,
 	pageid: 2743,
-	data: "Crafted | Objects required=Filet of Ghostly Whitefish;1, Fire;1 SpecialFood | Heals=15,10,10,7.5 | Uses=1 | Min Blood=5 | Max Blood=20 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Ghostly Whitefish;1, Fire;1 SpecialFood | Heals=15,10,10,7.5 | Uses=1 | Min Blood=5 | Max Blood=20 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Gold Pickerel",
 	id: 851,
 	pageid: 2745,
-	data: "Crafted | Objects required=Filet of Gold Pickerel;1, Fire;1 SpecialFood | Heals=6,9,5,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=5 | Max Yellow Bile=15 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Gold Pickerel;1, Fire;1 SpecialFood | Heals=6,9,5,7 | Uses=1 | Min Yellow Bile=5 | Max Yellow Bile=15 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Hellish Halibut",
@@ -5121,7 +5121,7 @@ var crafts = [
 	title: "Roasted Hickory Nut",
 	id: 853,
 	pageid: 3540,
-	data: "Crafted | Objects required=Hickory Nut;1, Fire;1 SpecialFood | Heals=2,5,2,8 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=8 | Max Black Bile=10 | Uses=2 | Gluttony Time= 0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Hickory Nut;1, Fire;1 SpecialFood | Heals=2,5,2,8 | Min Black Bile=8 | Max Black Bile=10 | Uses=2 | Gluttony Time= 0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Nuts_and_Seeds,Special_Food"
 },{
 	title: "Roasted Long-Whiskered Catfish",
@@ -5145,7 +5145,7 @@ var crafts = [
 	title: "Roasted Pine Nuts",
 	id: 857,
 	pageid: 3547,
-	data: "Crafted | Objects required=Pine Nuts;1, Fire;1 SpecialFood | Heals=2,5,2,8 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=8 | Max Yellow Bile=10 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Pine Nuts;1, Fire;1 SpecialFood | Heals=2,5,2,8 | Uses=1 | Min Yellow Bile=8 | Max Yellow Bile=10 | Gluttony Time=0:05 | Food Groups=Nuts and Seeds | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Nuts_and_Seeds,Special_Food"
 },{
 	title: "Roasted Pumpkin Seeds",
@@ -5157,19 +5157,19 @@ var crafts = [
 	title: "Roasted Rabbit Cut",
 	id: 859,
 	pageid: 2721,
-	data: "Crafted | Objects required=Raw Rabbit Cut;1, Fire;1 SpecialFood | Heals=1.5,4.5,1.5,3.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=8 | Max Phlegm=12 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Rabbit Cut;1, Fire;1 SpecialFood | Heals=1.5,4.5,1.5,3.5 | Min Phlegm=8 | Max Phlegm=12 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Roasted Rabbit Steak",
 	id: 860,
 	pageid: 1943,
-	data: "Crafted | Objects required=Raw Rabbit Steak;1, Fire;1 SpecialFood | Heals=2.5,6.5,2.5,4.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=16 | Max Phlegm=24 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Rabbit Steak;1, Fire;1 SpecialFood | Heals=2.5,6.5,2.5,4.5 | Min Phlegm=16 | Max Phlegm=24 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Roasted Raging Bullhead",
 	id: 861,
 	pageid: 2748,
-	data: "Crafted | Objects required=Filet of Raging Bullhead;1, Fire;1 SpecialFood | Heals=14,12,12,14 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=5 | Max Black Bile=25 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Raging Bullhead;1, Fire;1 SpecialFood | Heals=14,12,12,14 | Uses=1 | Min Black Bile=5 | Max Black Bile=25 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Red Herring",
@@ -5181,31 +5181,31 @@ var crafts = [
 	title: "Roasted Red-Finned Mullet",
 	id: 863,
 	pageid: 2737,
-	data: "Crafted | Objects required=Filet of Red-Finned Mullet;1, Fire;1 SpecialFood | Heals=8,4,8,8 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=5 | Max Phlegm=5 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Red-Finned Mullet;1, Fire;1 SpecialFood | Heals=8,4,8,8 | Uses=1 | Min Phlegm=5 | Max Phlegm=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Sargasso Eel",
 	id: 864,
 	pageid: 3068,
-	data: "Crafted | Objects required=Filet of Sargasso Eel;1, Fire;1 SpecialFood | Heals=10,10,15,15 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=5 | Max Black Bile=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Sargasso Eel;1, Fire;1 SpecialFood | Heals=10,10,15,15 | Uses=1 | Min Black Bile=5 | Max Black Bile=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Shin Spinner",
 	id: 865,
 	pageid: 2756,
-	data: "Crafted | Objects required=Filet of Shin Spinner;1, Fire;1 SpecialFood | Heals=9.5,10,12.5,8 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=5 | Max Yellow Bile=10 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Shin Spinner;1, Fire;1 SpecialFood | Heals=9.5,10,12.5,8 | Uses=1 | Min Yellow Bile=5 | Max Yellow Bile=10 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Silt-Dwelling Mudsnapper",
 	id: 866,
 	pageid: 2750,
-	data: "Crafted | Objects required=Filet of Silt-Dwelling Mudsnapper;1, Fire;1 SpecialFood | Heals=5.5,8.5,4.5,0 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=5 | Max Phlegm=5 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Silt-Dwelling Mudsnapper;1, Fire;1 SpecialFood | Heals=5.5,8.5,4.5,0 | Uses=1 | Min Phlegm=5 | Max Phlegm=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Tiger Trout",
 	id: 867,
 	pageid: 2752,
-	data: "Crafted | Objects required=Filet of Tiger Trout;1, Fire;1 SpecialFood | Heals=7.5,7.5,5,5 | Uses=1 | Min Blood=5 | Max Blood=10 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Tiger Trout;1, Fire;1 SpecialFood | Heals=7.5,7.5,5,5 | Uses=1 | Min Blood=5 | Max Blood=10 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Timber Rattler Cut",
@@ -5217,19 +5217,19 @@ var crafts = [
 	title: "Roasted Trunk-Nosed Lake Perch",
 	id: 869,
 	pageid: 2754,
-	data: "Crafted | Objects required=Filet of Trunk-Nosed Lake Perch;1, Fire;1 SpecialFood | Heals=5,5,5,5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=5 | Max Black Bile=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Filet of Trunk-Nosed Lake Perch;1, Fire;1 SpecialFood | Heals=5,5,5,5 | Uses=1 | Min Black Bile=5 | Max Black Bile=5 | Gluttony Time=0:03 | Food Groups= Fishes | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Fishes,Food,Special_Food"
 },{
 	title: "Roasted Venison Cut",
 	id: 870,
 	pageid: 1938,
-	data: "Crafted | Objects required=Raw Venison Cut;1, Fire;1 SpecialFood | Heals=4.5,5.5,4.5,5.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=8 | Max Yellow Bile=12 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Venison Cut;1, Fire;1 SpecialFood | Heals=4.5,5.5,4.5,5.5 | Min Yellow Bile=8 | Max Yellow Bile=12 | Uses=1 | Gluttony Time=0:30 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Roasted Venison Steak",
 	id: 871,
 	pageid: 1939,
-	data: "Crafted | Objects required=Raw Venison Steak;1, Fire;1 SpecialFood | Heals=6.5,7.5,5.5,6 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=16 | Max Yellow Bile=24 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Raw Venison Steak;1, Fire;1 SpecialFood | Heals=6.5,7.5,5.5,6 | Min Yellow Bile=16 | Max Yellow Bile=24 | Uses=1 | Gluttony Time=1:00 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Rock Maracas",
@@ -5349,7 +5349,7 @@ var crafts = [
 	title: "Salted Radish",
 	id: 891,
 	pageid: 3686,
-	data: "Crafted | Objects required=Radish;2, Coarse Salt;1 SpecialFood | Heals=7,7,16,7.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=10 | Max Yellow Bile=14 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:15 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 | FoodReduce2= | %Reduce2=10 | %ChanceReduce2=10",
+	data: "Crafted | Objects required=Radish;2, Coarse Salt;1 SpecialFood | Heals=7,7,16,7.5 | Uses=1 | Min Yellow Bile=10 | Max Yellow Bile=14 | Gluttony Time=0:15 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 | FoodReduce2= | %Reduce2=10 | %ChanceReduce2=10",
 	categories:"Food,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Salty Nuts",
@@ -5613,13 +5613,13 @@ var crafts = [
 	title: "Sizzled Grub",
 	id: 935,
 	pageid: 3666,
-	data: "Crafted | Objects required=Grub;1, Fire;1 Food | Heals=2,1,5,3 | Uses=3 | Min Blood=0 | Max Blood=0 | Min Phlegm=8 | Max Phlegm=11 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required=Grub;1, Fire;1 Food | Heals=2,1,5,3 | Uses=3 | Min Phlegm=8 | Max Phlegm=11 | Gluttony Time=0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Slugs_Bugs_and_Kritters,Snack_Food"
 },{
 	title: "Sizzled Slug",
 	id: 936,
 	pageid: 1988,
-	data: "Crafted | Objects required= Virginia Snail;1, Fire;1 Food | Heals=2,5,1,3 | Uses=3 | Min Blood=0 | Max Blood=0 | Min Phlegm=8 | Max Phlegm=11 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
+	data: "Crafted | Objects required= Virginia Snail;1, Fire;1 Food | Heals=2,5,1,3 | Uses=3 | Min Phlegm=8 | Max Phlegm=11 | Gluttony Time=0:05 | Food Groups=Slugs Bugs and Kritters | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50",
 	categories:"Food,Slugs_Bugs_and_Kritters,Snack_Food"
 },{
 	title: "Skinned Argopelter",
@@ -5661,7 +5661,7 @@ var crafts = [
 	title: "Small Sugar",
 	id: 943,
 	pageid: 823,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=3.5,3.5,3.5,3.5 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=6 | Max Phlegm=9 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=3.5,3.5,3.5,3.5 | Uses=1 | Min Phlegm=6 | Max Phlegm=9 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Smelling Salts",
@@ -5673,19 +5673,19 @@ var crafts = [
 	title: "Smoked Bear Cut",
 	id: 945,
 	pageid: 3830,
-	data: "Crafted | Objects required=Raw Bear Cut;1, Meatsmoker;1 SpecialFood | Heals=7.5,7.5,7.5,7.5 | Min Blood=1 | Max Blood=32 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Raw Bear Cut;1, Meatsmoker;1 SpecialFood | Heals=7.5,7.5,7.5,7.5 | Min Blood=1 | Max Blood=32 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Smoked Beaver Cut",
 	id: 946,
 	pageid: 3828,
-	data: "Crafted | Objects required=Raw Beaver Cut;1, Meatsmoker;1 SpecialFood | Heals=4.5,4.5,4.5,4.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=32 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Raw Beaver Cut;1, Meatsmoker;1 SpecialFood | Heals=4.5,4.5,4.5,4.5 | Min Black Bile=1 | Max Black Bile=32 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Smoked Deer Cut",
 	id: 947,
 	pageid: 3829,
-	data: "Crafted | Objects required=Raw Venison Cut;1, Meatsmoker;1 SpecialFood | Heals=4.5,5.5,4.5,4.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=1 | Max Yellow Bile=32 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Raw Venison Cut;1, Meatsmoker;1 SpecialFood | Heals=4.5,5.5,4.5,4.5 | Min Yellow Bile=1 | Max Yellow Bile=32 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Smoked Oyster",
@@ -5697,13 +5697,13 @@ var crafts = [
 	title: "Smoked Oyster Meat",
 	id: 949,
 	pageid: 4102,
-	data: "Crafted | Objects required=Smoked Oyster;1 SpecialFood | Heals=2,3,1,4 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=1 | Max Black Bile=32 | Gluttony Time=0:06 | Food Groups= Crustacea and Shellfish | FoodReduce1= Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Smoked Oyster;1 SpecialFood | Heals=2,3,1,4 | Uses=1 | Min Black Bile=1 | Max Black Bile=32 | Gluttony Time=0:06 | Food Groups= Crustacea and Shellfish | FoodReduce1= Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Crustacea_and_Shellfish,Food,Special_Food"
 },{
 	title: "Smoked Rabbit Cut",
 	id: 950,
 	pageid: 3826,
-	data: "Crafted | Objects required=Raw Rabbit Cut;1, Meatsmoker;1 SpecialFood | Heals=1.5,4.5,1.5,3.5 | Min Blood=0 | Max Blood=0 | Min Phlegm=1 | Max Phlegm=32 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
+	data: "Crafted | Objects required=Raw Rabbit Cut;1, Meatsmoker;1 SpecialFood | Heals=1.5,4.5,1.5,3.5 | Min Phlegm=1 | Max Phlegm=32 | Uses=1 | Gluttony Time=0:06 | Food Groups=Game Meat | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20",
 	categories:"Food,Game_Meat,Special_Food"
 },{
 	title: "Smoked Rattler Cut",
@@ -5799,7 +5799,7 @@ var crafts = [
 	title: "Spooktacular",
 	id: 966,
 	pageid: 826,
-	data: "Crafted | Objects required=Tilled Field;50, Seeds of Pumpkin;50 Inspirational Food | Heals=4.5,4.5,4.5,4.5 | Uses=1 | Min Blood=6 | Max Blood=9 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 | Herbs &amp; Sprouts=1750 | Law &amp; Lore=1250 | Stocks &amp; Cultivars=1000 | Sugar &amp; Spice=1550 | Natural Philosophy=750",
+	data: "Crafted | Objects required=Tilled Field;50, Seeds of Pumpkin;50 Inspirational Food | Heals=4.5,4.5,4.5,4.5 | Uses=1 | Min Blood=6 | Max Blood=9 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70 | Herbs &amp; Sprouts=1750 | Law &amp; Lore=1250 | Stocks &amp; Cultivars=1000 | Sugar &amp; Spice=1550 | Natural Philosophy=750",
 	categories:"Food,Inspirationals,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Spooky Ghosts",
@@ -6015,7 +6015,7 @@ var crafts = [
 	title: "Sugar Treat",
 	id: 1002,
 	pageid: 825,
-	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=4,4,4,4 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=6 | Max Yellow Bile=9 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Pumpkin;50, Tilled Field;1 SpecialFood | Heals=4,4,4,4 | Uses=1 | Min Yellow Bile=6 | Max Yellow Bile=9 | Gluttony Time=1:30 | Food Groups=Pumpkins and Gourds | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Pumpkins_and_Gourds,Special_Food"
 },{
 	title: "Sun Cape",
@@ -6213,7 +6213,7 @@ var crafts = [
 	title: "Tomato",
 	id: 1035,
 	pageid: 3571,
-	data: "Crafted | Objects required=Stalls;1, Silver Pieces;110, Gardening Pot;1 | Weight=.1 kg SpecialFood | Heals=15,5,5,5 | Uses=1 | Min Blood=8 | Max Blood=12 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:10 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30",
+	data: "Crafted | Objects required=Stalls;1, Silver Pieces;110, Gardening Pot;1 | Weight=.1 kg SpecialFood | Heals=15,5,5,5 | Uses=1 | Min Blood=8 | Max Blood=12 | Gluttony Time=0:10 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30",
 	categories:"Food,Special_Food"
 },{
 	title: "Torch",
@@ -6735,7 +6735,7 @@ var crafts = [
 	title: "Wild Garlic",
 	id: 1122,
 	pageid: 896,
-	data: "Foraged | Where found=Marshland, Woodland, Grassland, Autumnal, Shrub | Weight=.06 kg Inspirational Food | Heals=1,4,1,2.5 | Min Blood=6 | Max Blood=7 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 | Arts &amp; Crafts=200 | Flora &amp; Fauna=550 | Sparks &amp; Embers=400 | Stocks &amp; Cultivars=390 | Sugar &amp; Spice=450 | Natural Philosophy=200 | Uses=1 Crafted | Objects required=Gardening Pot;1, Wild Garlic;1 | Weight=.06 kg Inspirational Food | Heals=1,4,1,2.5 | Min Blood=6 | Max Blood=7 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 | Arts &amp; Crafts=200 | Flora &amp; Fauna=550 | Sparks &amp; Embers=400 | Stocks &amp; Cultivars=390 | Sugar &amp; Spice=450 | Natural Philosophy=200 | Uses=1",
+	data: "Foraged | Where found=Marshland, Woodland, Grassland, Autumnal, Shrub | Weight=.06 kg Inspirational Food | Heals=1,4,1,2.5 | Min Blood=6 | Max Blood=7 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 | Arts &amp; Crafts=200 | Flora &amp; Fauna=550 | Sparks &amp; Embers=400 | Stocks &amp; Cultivars=390 | Sugar &amp; Spice=450 | Natural Philosophy=200 | Uses=1 Crafted | Objects required=Gardening Pot;1, Wild Garlic;1 | Weight=.06 kg Inspirational Food | Heals=1,4,1,2.5 | Min Blood=6 | Max Blood=7 | Gluttony Time=0:04 | Food Groups=Vegetables and Greens | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 | Arts &amp; Crafts=200 | Flora &amp; Fauna=550 | Sparks &amp; Embers=400 | Stocks &amp; Cultivars=390 | Sugar &amp; Spice=450 | Natural Philosophy=200 | Uses=1",
 	categories:"Food,Forageables,Inspirationals,Special_Food,Vegetables_and_Greens"
 },{
 	title: "Wild Oats",
@@ -6759,25 +6759,25 @@ var crafts = [
 	title: "Wild Turkey Breast",
 	id: 1126,
 	pageid: 3622,
-	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
+	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Wild Turkey Drumstick",
 	id: 1127,
 	pageid: 3623,
-	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=10 ...&quot;</comment> <text xml:space=\"preserve\" bytes=\"660\">{{Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=10 | Max Yellow Bile=15 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
+	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=10 ...&quot;</comment> <text xml:space=\"preserve\" bytes=\"660\">{{Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Yellow Bile=10 | Max Yellow Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Wild Turkey Thigh",
 	id: 1128,
 	pageid: 3625,
-	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 |...&quot;</comment> <text xml:space=\"preserve\" bytes=\"660\">{{Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=10 | Max Black Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
+	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=0 |...&quot;</comment> <text xml:space=\"preserve\" bytes=\"660\">{{Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Black Bile=10 | Max Black Bile=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Wild Turkey Wing",
 	id: 1129,
 	pageid: 3624,
-	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=10 | Max Phlegm=15 | Min Yellow Bile=0...&quot;</comment> <text xml:space=\"preserve\" bytes=\"660\">{{Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=10 | Max Phlegm=15 | Min Yellow Bile=0 | Max Yellow Bile=0 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
+	data: "Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=10 | Max Phlegm=15 | Min Yellow Bile=0...&quot;</comment> <text xml:space=\"preserve\" bytes=\"660\">{{Crafted | Objects required=Wild Stuffed Turkey;1 SpecialFood | Heals=7,17.5,7,7 | Uses=1 | Min Phlegm=10 | Max Phlegm=15 | Gluttony Time=0:06 | Food Groups= Poultry | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40",
 	categories:"Food,Poultry,Special_Food"
 },{
 	title: "Wild Whip",
@@ -6981,7 +6981,7 @@ var crafts = [
 	title: "Yellow Potato",
 	id: 1163,
 	pageid: 4699,
-	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=10,10,10,10 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Y...&quot;</comment> <text xml:space=\"preserve\" bytes=\"602\">{{Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=10,10,10,10 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bile=13 | Max Yellow Bile=20 | Min Black Bile=0 | Max Black Bile=0 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
+	data: "Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=10,10,10,10 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Y...&quot;</comment> <text xml:space=\"preserve\" bytes=\"602\">{{Crafted | Objects required=Seeds of Potato;50, Tilled Field;1 SpecialFood | Heals=10,10,10,10 | Uses=1 | Min Yellow Bile=13 | Max Yellow Bile=20 | Gluttony Time=0:45 | Food Groups= Potato Foods | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70",
 	categories:"Food,Special_Food"
 },{
 	title: "Yellow Tea",

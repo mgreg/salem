@@ -3,4 +3,3 @@ Crafted
 
 Clothing
 | Equipment Slot=Waist
-| Artificer Slots=0

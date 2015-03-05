@@ -4,10 +4,7 @@ Crafted
 SpecialFood
 | Heals=4,4,4,4
 | Uses=1
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=1 | Max Phlegm=4
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:01 
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5

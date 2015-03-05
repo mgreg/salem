@@ -3,10 +3,7 @@ Crafted
 
 SpecialFood
 | Heals=0,0,0,0
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=1 | Max Phlegm=28
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Uses=1 | Gluttony Time=0:06
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10

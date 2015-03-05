@@ -5,10 +5,7 @@ Crafted
 SpecialFood
 | Heals=7.5,7.5,7.5,7.5
 | Uses=1
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=8 | Max Phlegm=10
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Gluttony Time=0:10
 | Food Groups=Crustacea and Shellfish
 | FoodReduce1=Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=10

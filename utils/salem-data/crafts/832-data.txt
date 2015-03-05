@@ -3,10 +3,7 @@ Crafted
 
 SpecialFood
 | Heals=4.5,4.5,4.5,5
-| Min Blood=0 | Max Blood=0
 | Min Phlegm=12 | Max Phlegm=18
-| Min Yellow Bile=0 | Max Yellow Bile=0
-| Min Black Bile=0 | Max Black Bile=0
 | Uses=1 | Gluttony Time=3:00
 | Food Groups=Pumpkins and Gourds
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70
