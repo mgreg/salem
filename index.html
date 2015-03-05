@@ -219,20 +219,23 @@
             
           });
           
-          menu.addEventListener('select', function(e) {
-            window.e = e;
-            var txt = e.detail.msg;
+          var doSelect = function(txt) {
             window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(txt);
               
-              for (var i = 0; i < data.length; i++) {
-                if (data[i].title == txt) {
-                  document.getElementById('header').innerHTML = txt;
-                  document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + txt.replace(" ", "_");
-                  document.getElementById('categories').innerHTML = data[i].categories;
-                  document.getElementById('content').innerHTML = data[i].data.replace(/\|/g,"<br/>");
-                  return;
-                }
+            for (var i = 0; i < data.length; i++) {
+              if (data[i].title == txt) {
+                document.getElementById('header').innerHTML = txt;
+                document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + txt.replace(" ", "_");
+                document.getElementById('categories').innerHTML = data[i].categories;
+                document.getElementById('content').innerHTML = data[i].data.replace(/\|/g,"<br/>");
+                return;
               }
+            }
+          }
+          
+          menu.addEventListener('select', function(e) {
+            var txt = e.detail.msg;
+            doSelect(txt);
           });
           
           var query = "";
@@ -250,6 +253,8 @@
                 query: decodeURI(route[1]),
                 selected: decodeURI(route[2])
               }
+            } else {
+              doSelect(decodeURI(route[2]));
             }
           };
         
