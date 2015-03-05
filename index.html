@@ -207,7 +207,7 @@
               
               for (var i = 0; i < data.length; i++) {
                 if (data[i].title == txt) {
-                  window.location.hash = "/" + search.sValue + "/" + txt;
+                  window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(txt);
                   document.querySelector('#result').style.display = "none";
                   menu.categories = e.detail.msg;
                   document.querySelector('#drawer').style.display = "block";
@@ -223,7 +223,7 @@
           menu.addEventListener('select', function(e) {
             window.e = e;
             var txt = e.detail.msg;
-            window.location.hash = "/" + search.sValue + "/" + txt;
+            window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(txt);
               
               for (var i = 0; i < data.length; i++) {
                 if (data[i].title == txt) {
@@ -245,8 +245,8 @@
               return;
             }
             search.state = {
-              query: route[1],
-              selected: route[2]
+              query: decodeURI(route[1]),
+              selected: decodeURI(route[2])
           }
           };
         
