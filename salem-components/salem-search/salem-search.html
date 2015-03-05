@@ -1,7 +1,7 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
 
-<polymer-element name="salem-search" id="salem-search">
+<polymer-element name="salem-search" id="salem-search" attributes="state">
   <template>
     
      <style>
@@ -72,6 +72,7 @@
   <script>
     Polymer('salem-search',{
       index: null,
+      state: {},
       ready: function() {
         this.index = lunr(function () {
           this.field('title', {boost: 50});
@@ -85,12 +86,28 @@
           this.index.add(data[i]);
         }
       },
-      keypress: function() {
+      doSearch: function(query) {
         var res = []
         if (this.sValue.length > 2) {
-          res = this.index.search(this.sValue);
+          res = this.index.search(query);
         }
-        this.fire("search", {msg: res});
+        return res;
+      },
+      keypress: function() {
+        var res = this.doSearch(this.sValue);
+        var msg = {
+          res: res,
+          query: this.sValue
+        };
+        this.fire("search", {msg: msg});
+      },
+      stateChanged: function(oV, nV) {
+        this.sValue = nV.query;
+        this.fire("restore", {msg: {
+          query: nV.query,
+          selected: nV.selected,
+          r:  this.doSearch(nV.query)
+        }});
       }
     });
 

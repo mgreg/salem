@@ -3,6 +3,7 @@
     <title>Salem Tools</title>
     <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
     <script type="text/javascript" src="js/d3.min.js"></script>
+    <script type="text/javascript" src="js/director.min.js"></script>
     <script type="text/javascript" src="js/lunr.min.js"></script>
     <script type="text/javascript" src="js/skills.js"></script>
     <script type="text/javascript" src="js/crafts.js"></script>
@@ -166,35 +167,49 @@
           data[i].id = i;
         }
         window.addEventListener('polymer-ready', function(e) {
+          
           var search = document.querySelector('salem-search'),
               result = document.querySelector('salem-search-result'),
               menu = document.querySelector('salem-search-menu');
           
           search.addEventListener('search', function(e) {
-            var r = [], idxs = e.detail.msg;
+            var r = [], idxs = e.detail.msg.res;
             
             for (var i = 0; i < idxs.length; i++) {
               r.push(data[idxs[i].ref]);
             }
             
+            result.query = e.detail.msg.query;
             result.results = r;
             if (r.length > 0) {
               document.querySelector('#result').style.display = "block";
             }
           });
           
+          search.addEventListener('restore', function(e) {
+            var r = [], idxs = e.detail.msg.r;
+            
+            for (var i = 0; i < idxs.length; i++) {
+              r.push(data[idxs[i].ref]);
+            }
+            
+            result.state = {
+              query: e.detail.msg.query,
+              selected: e.detail.msg.selected,
+              r: r
+            };
+          });
+          
+          
           result.addEventListener('select', function(e) {
             if (e.detail.msg.isSelected) {
-              var txt = e.detail.msg.item.innerHTML;
+              var txt = e.detail.msg.selected;
               
               for (var i = 0; i < data.length; i++) {
                 if (data[i].title == txt) {
-                  document.getElementById('header').innerHTML = txt;
-                  document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + txt.replace(" ", "_");
-                  document.getElementById('categories').innerHTML = data[i].categories;
-                  document.getElementById('content').innerHTML = data[i].data.replace(/\|/g,"<br/>");
+                  window.location.hash = "/" + search.sValue + "/" + txt;
                   document.querySelector('#result').style.display = "none";
-                  menu.categories = e.detail.msg.items;
+                  menu.categories = e.detail.msg;
                   document.querySelector('#drawer').style.display = "block";
                   document.querySelector('#body').className = "";
                   return;
@@ -202,15 +217,18 @@
               }
               
             }
+            
           });
           
           menu.addEventListener('select', function(e) {
             window.e = e;
-            var txt = e.detail.msg.item.label;
+            var txt = e.detail.msg;
+            window.location.hash = "/" + search.sValue + "/" + txt;
               
               for (var i = 0; i < data.length; i++) {
                 if (data[i].title == txt) {
                   document.getElementById('header').innerHTML = txt;
+                  document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + txt.replace(" ", "_");
                   document.getElementById('categories').innerHTML = data[i].categories;
                   document.getElementById('content').innerHTML = data[i].data.replace(/\|/g,"<br/>");
                   return;
@@ -219,8 +237,26 @@
           });
           
           search.focus();
+        
+          var doHash = function() {
+            var route = window.location.hash.split("/");
+            console.log(route);
+            if (route.length < 3) {
+              return;
+            }
+            search.state = {
+              query: route[1],
+              selected: route[2]
+          }
+          };
+        
+          doHash();
           
+          $(window).on('hashchange', function() {
+            doHash();
+          });
         });
+        
         </script>
   </body>
 </html>

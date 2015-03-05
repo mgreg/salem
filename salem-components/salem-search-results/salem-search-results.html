@@ -1,7 +1,7 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
 
-<polymer-element name="salem-search-result" attributes="results" id="result">
+<polymer-element name="salem-search-result" attributes="results state" id="result">
   <template>
     
      <style>
@@ -125,12 +125,14 @@
       skills: [], 
       items: [],
       names: [],
+      state: {},
       foodClass: 'hidden',
       otherClass: 'hidden',
       inspClass: 'hidden',
       skillsClass: 'hidden',
       resultsClass: 'hidden',
-      resultsChanged: function(oV, nV) {
+      selected: "",
+      generateItems: function(nV) {
         var r = [], cats = [], food = [], insp = [], other = [], skills = [];
         for (var i = 0; i < Math.min(nV.length, 3); i++) {
           r.push(nV[i].title);
@@ -194,24 +196,58 @@
           }
           items.push(f);
         }
-        this.names = n;
-        this.items = items;
-        this.foods = food;
-        this.inspirationals = insp;
-        this.others = other;
-        this.skills = skills;
-
+        return {
+          names: n,
+          items: items,
+          foods: food,
+          inspirationals: insp,
+          others: other,
+          skills: skills
+        }
+      },
+      resultsChanged: function(oV, nV) {
+        var items = this.generateItems(nV);
+        this.names = items.names;
+        this.items = items.items;
+        this.foods = items.foods;
+        this.inspirationals = items.inspirationals;
+        this.others = items.others;
+        this.skills = items.skills;
+      },
+      stateChanged: function(oV, nV) {
+        var that = this,
+            items = this.generateItems(nV.r);
+        var msg = {
+          isSelected: true,
+          selected: nV.selected,
+          query: nV.query,
+          items: [
+            {title: "Foods", items: items.foods},
+            {title: "Inspirationals", items: items.inspirationals},
+            {title: "Skills", items: items.skills},
+            {title: "Other", items: items.others}
+          ]
+        };
+        setTimeout( function() {
+          that.fire("select", {msg: msg})
+        }, 300 );
       },
       onSelection: function(e, detail, sender) {
         var that = this;
-        var msg = detail;
-        msg.items = [
-          {title: "Foods", items: this.foods},
-          {title: "Inspirationals", items: this.inspirationals},
-          {title: "Skills", items: this.skills},
-          {title: "Other", items: this.others}
-        ];
-        setTimeout( function() {that.fire("select", {msg: detail})}, 300 );
+        var msg = {
+          isSelected: detail.isSelected,
+          selected: detail.item.innerHTML,
+          query: that.query,
+          items: [
+            {title: "Foods", items: this.foods},
+            {title: "Inspirationals", items: this.inspirationals},
+            {title: "Skills", items: this.skills},
+            {title: "Other", items: this.others}
+          ]
+        };
+        setTimeout( function() {
+          that.fire("select", {msg: msg})
+        }, 300 );
       }
     });
 

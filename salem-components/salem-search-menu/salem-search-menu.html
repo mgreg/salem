@@ -3,8 +3,8 @@
 
 <polymer-element name="salem-search-menu" attributes="categories" id="salem-search-menu">
     <template>
-        <core-menu on-core-select="{{ onSelect }}">
-            <template repeat="{{ cat in categories }}">
+        <core-menu on-core-select="{{ onSelect }}" valueattr="label" id="coremenu">
+            <template repeat="{{ cat in items }}">
                 <core-submenu label="{{ cat.title }}">
                     <template repeat="{{ item in cat.items }}">
                         <core-item label="{{ item }}"</core-item>
@@ -17,8 +17,20 @@
   <script>
     Polymer('salem-search-menu',{
       categories: [],
+      items: [],
+      selected: "",
+      categoriesChanged: function(oV, nV) {
+          this.selected = nV.selected;
+          this.items = nV.items;
+          this.$.coremenu.selected = this.selected;
+          this.fire("select", {msg: this.selected});
+      },
       onSelect: function(e, detail) {
-          this.fire("select", {msg: detail});
+          window.d = detail;
+          if (detail.item.tagName.toLowerCase() == "core-submenu") {
+              return;
+          }
+          this.fire("select", {msg: detail.item.label});
       }
     });
 
