@@ -81,12 +81,17 @@
       }
       
       #main-content {
+        margin-top: 50px;
         margin-left: 10%;
         margin-right: 10%;
-        padding: 20px;
         background-color: white;
         overflow: auto;
-        height: calc(100% - 42px);
+        height: calc(100% - 102px);
+      }
+      
+      #main-content .content-area {
+        padding: 20px;
+        padding-top: 0px;
       }
       
       #search-icon {
@@ -140,11 +145,17 @@
         <div drawer class="menu">
           <salem-search-menu></salem-search-menu>
         </div>
-        <div id="main-content" main>
-          <h4 id="header"></h4>
-          <h5 id="categories"></h5>
-          <div id="content"></div>
-        </div>
+        <core-header-panel main id="main-content">
+          <core-toolbar>
+            <span id="header"></span>
+            <span flex></span>
+            <a id="wikilink" href="">wiki</a>
+          </core-toolbar>
+          <div class="content-area">
+            <h5 id="categories"></h5>
+            <div id="content"></div>
+          </div>
+        </core-header-panel>
       </core-drawer-panel>
       
     </core-header-panel>
@@ -179,6 +190,7 @@
               for (var i = 0; i < data.length; i++) {
                 if (data[i].title == txt) {
                   document.getElementById('header').innerHTML = txt;
+                  document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + txt.replace(" ", "_");
                   document.getElementById('categories').innerHTML = data[i].categories;
                   document.getElementById('content').innerHTML = data[i].data.replace(/\|/g,"<br/>");
                   document.querySelector('#result').style.display = "none";
