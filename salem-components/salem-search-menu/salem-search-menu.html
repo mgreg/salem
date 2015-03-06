@@ -7,7 +7,7 @@
             <template repeat="{{ cat in items }}">
                 <core-submenu label="{{ cat.title }} ({{ cat.items.length }})">
                     <template repeat="{{ item in cat.items }}">
-                        <core-item label="{{ item }}"</core-item>
+                      <core-item label="{{ item }}" ></core-item>
                     </template>
                 </core-submenu>
             </template>
@@ -22,8 +22,19 @@
       categoriesChanged: function(oV, nV) {
           this.selected = nV.selected;
           this.items = nV.items;
-          this.$.coremenu.selected = this.selected;
-          this.fire("select", {msg: this.selected});
+      },
+      itemsChanged: function(oV, nV) {
+          var menu = this.$.coremenu;
+          for (var i = 0; i < menu.items.length; i++) {
+              var submenu = menu.items[i];
+              for (var j = 0; j < submenu.items.length; j++) {
+                  if (submenu.items[j].label == this.selected) {
+                      menu.selected = i;
+                      submenu.selected = j;
+                      return;
+                  }
+              }
+          }
       },
       onSelect: function(e, detail) {
           window.d = detail;
