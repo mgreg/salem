@@ -1,0 +1,39 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+
+<polymer-element name="salem-detail" attributes="categories data cats" id="salem-detail">
+    <template>
+        <h5 id="categories">{{ categories }}</h5>
+        <div id="content"></div>
+    </template>
+
+    <script>
+    Polymer('salem-detail',{
+        categories: "",
+        cats: [],
+        data: "",
+        categoriesChanged: function(oV, nV) {
+            this.cats = nV.split(",");
+        },
+        dataChanged: function(oV, nV) {
+            this.$.content.innerHTML = "";
+            var fragment = document.createDocumentFragment(),
+                cont, rendered = false;
+            if (this.cats.indexOf("Inspirationals") != -1) {
+                cont = document.createElement("salem-detail-inspirationals");
+                cont.data = nV;
+                fragment.appendChild(cont);
+            }
+            
+            if (!fragment.children.length) {
+                cont = document.createElement("salem-detail-default");
+                cont.data = nV;
+                fragment.appendChild(cont);
+            }
+            
+            this.$.content.appendChild(fragment);
+        }
+    });
+
+  </script>
+</polymer-element>

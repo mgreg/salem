@@ -41,7 +41,10 @@
         <username>Pistolshrimp</username>
         <id>16</id>
       </contributor>
-      <text xml:space="preserve" bytes="2007">&lt;includeonly&gt;{{#IFEQ: {{PAGENAME}} | Contributing | | [[Category:Crafted]] [[Category:Objects]] }}
+      <text xml:space="preserve" bytes="2007">
+      
+      
+      &lt;includeonly&gt;{{#IFEQ: {{PAGENAME}} | Contributing | | [[Category:Crafted]] [[Category:Objects]] }}
 {| style=&quot;float:left; width:320px; padding:0.2em; border:black 2px solid; border-radius:0.4em; background:#71583b; box-shadow: 2px 2px 5px #999,0px 1px 3px #C4894C inset; font-family:Calibri; margin-right:25px; margin-bottom:25px&quot;
 ! style=&quot;color:white; font-size:1.4em&quot;|{{i|{{PAGENAME}}}}
 |-
@@ -75,7 +78,11 @@
 See [[Help:Contributing]] for instructions and examples for adding a new page to the wiki.
 
 {{Crafted | Objects required=}}
-|}&lt;/noinclude&gt;</text>
+|}&lt;/noinclude&gt;
+
+
+
+</text>
       <sha1>kcxrreqozib8wup40l2iom3trj9nn57</sha1>
       <model>wikitext</model>
       <format>text/x-wiki</format>

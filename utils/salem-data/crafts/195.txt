@@ -42,14 +42,20 @@
         <id>3</id>
       </contributor>
       <comment>/* About */</comment>
-      <text xml:space="preserve" bytes="177">{{Crafted
+      <text xml:space="preserve" bytes="177">
+      
+      {{Crafted
 | Objects required=Stalls;1, Silver Pieces;5
 }}
+
 |}   
 
 ==About==
 
-Can be purchased from the [[Stalls]] in [[Providence]] for 5 [[Silver Pieces]] each. '''Holds 500.'''</text>
+Can be purchased from the [[Stalls]] in [[Providence]] for 5 [[Silver Pieces]] each. '''Holds 500.'''
+
+
+</text>
       <sha1>3xz3142fbixo9tv5z6hwvdttqx8ftfc</sha1>
       <model>wikitext</model>
       <format>text/x-wiki</format>

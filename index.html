@@ -6,6 +6,7 @@
     <script type="text/javascript" src="js/lunr.min.js"></script>
     <script type="text/javascript" src="js/skills.js"></script>
     <script type="text/javascript" src="js/crafts.js"></script>
+    <script type="text/javascript" src="js/profs.js"></script>
     <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
     <link rel="import" href="bower_components/font-roboto/roboto.html">
     <link rel="import" href="bower_components/core-header-panel/core-header-panel.html">
@@ -24,9 +25,12 @@
     <link rel="import" href="bower_components/paper-shadow/paper-shadow.html">
     <link rel="import" href="bower_components/paper-ripple/paper-ripple.html">
     <link rel="import" href="bower_components/paper-item/paper-item.html">
-    <link rel="import" href="salem-components/salem-search/salem-search.html">
-    <link rel="import" href="salem-components/salem-search-menu/salem-search-menu.html">
-    <link rel="import" href="salem-components/salem-search-results/salem-search-results.html">
+    <link rel="import" href="salem-components/salem-search.html">
+    <link rel="import" href="salem-components/salem-search-menu.html">
+    <link rel="import" href="salem-components/salem-search-results.html">
+    <link rel="import" href="salem-components/salem-detail.html">
+    <link rel="import" href="salem-components/details/default.html">
+    <link rel="import" href="salem-components/details/inspirationals.html">
     <style type="text/css">
       body {
         font-family: "RobotoDraft",Helvetica,Arial,sans-serif;
@@ -152,8 +156,7 @@
             <a id="wikilink" href="">wiki</a>
           </core-toolbar>
           <div class="content-area">
-            <h5 id="categories"></h5>
-            <div id="content"></div>
+            <salem-detail></salem-detail>
           </div>
         </core-header-panel>
       </core-drawer-panel>
@@ -169,7 +172,8 @@
           
           var search = document.querySelector('salem-search'),
               result = document.querySelector('salem-search-result'),
-              menu = document.querySelector('salem-search-menu');
+              menu = document.querySelector('salem-search-menu'),
+              detail = document.querySelector('salem-detail');
           
           search.addEventListener('search', function(e) {
             var r = [], idxs = e.detail.msg.res;
@@ -226,8 +230,10 @@
               if (data[i].title == txt) {
                 document.getElementById('header').innerHTML = txt;
                 document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + txt.replace(" ", "_");
-                document.getElementById('categories').innerHTML = data[i].categories;
-                document.getElementById('content').innerHTML = data[i].data.replace(/\|/g,"<br/>");
+                detail.categories = data[i].categories;
+                var d = data[i].data.replace(/\|/g,"\n");
+                d = d.replace(/&amp;/g, "&");
+                detail.data = d;
                 return;
               }
             }
