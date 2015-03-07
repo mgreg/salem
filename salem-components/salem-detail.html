@@ -3,7 +3,17 @@
 
 <polymer-element name="salem-detail" attributes="categories data cats" id="salem-detail">
     <template>
-        <h5 id="categories">{{ categories }}</h5>
+        <style>
+            .section {
+                padding-top: 2rem;
+                padding-bottom: 2rem;
+            }
+            .divider {
+                height: 1px;
+                overflow: hidden;
+                background-color: #e0e0e0;
+            }
+        </style>
         <div id="content"></div>
     </template>
 
@@ -12,17 +22,44 @@
         categories: "",
         cats: [],
         data: "",
+        links: [],
         categoriesChanged: function(oV, nV) {
             this.cats = nV.split(",");
         },
+        addDivider: function(fragment) {
+          if (fragment.children.length == 0) {
+              return;
+          }
+          var div = document.createElement("div");
+          div.className = "divider";
+          fragment.appendChild(div);
+        },
+        addSection: function(fragment, section) {
+           this.addDivider(fragment);
+           var div = document.createElement("div");
+           div.className = "section";
+           div.appendChild(section);
+           fragment.appendChild(div);
+        },
         dataChanged: function(oV, nV) {
             this.$.content.innerHTML = "";
-            var fragment = document.createDocumentFragment(),
+            var r = /Objects\ required=(.*)\n/.exec(nV),
+                fragment = document.createDocumentFragment(),
                 cont, rendered = false;
+            
+            
             if (this.cats.indexOf("Inspirationals") != -1) {
+                this.addDivider(fragment);
                 cont = document.createElement("salem-detail-inspirationals");
                 cont.data = nV;
-                fragment.appendChild(cont);
+                this.addSection(fragment, cont);
+            }
+            
+            if (r && r.length > 1) {
+                this.addDivider(fragment);
+                cont = document.createElement("salem-detail-required");
+                cont.data = r[1];
+                this.addSection(fragment, cont)
             }
             
             if (!fragment.children.length) {

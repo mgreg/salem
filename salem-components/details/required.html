@@ -1,7 +1,7 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
 
-<polymer-element name="salem-detail-inspirationals" attributes="data profs">
+<polymer-element name="salem-detail-required" attributes="data profs">
     <template>
         <style>
             table {
@@ -38,21 +38,19 @@
             
         </style>
         <div class="section">
-            <h5>Proficiencies</h5>
+            <h5>Objects required</h5>
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Proficiency</th>
-                        <th>Gain</th>
-                        <th>Efficiency</th>
+                        <th>Name</th>
+                        <th>Count</th>
                     </tr>
                 </thead>
                 <tbody>
-                <template repeat="{{ prof in profs }}">
+                <template repeat="{{ item in items }}">
                     <tr>
-                        <td><a href="#/{{ prof.encodeName }}/1">{{ prof.name }}</a></td>
-                        <td>{{ prof.value }}</td>
-                        <td>{{ prof.effect }}</td>
+                        <td><a href="#/{{ item.encodeName }}/{{ item.encodeName }}">{{ item.name }}</a></td>
+                        <td>{{ item.count }}</td>
                     </tr>
                 </template>
                 </tbody>
@@ -60,34 +58,24 @@
         </div>
     </template>
     <script>
-        Polymer('salem-detail-inspirationals', {
+        Polymer('salem-detail-required', {
             data: "",
-            profs: [],
-            profsChanged: function(oV, nV) {
-              console.log(nV);
-            },
+            items: [],
             dataChanged: function(oV, nV) {
-                var d = nV.split("\n"),
-                    sum = 0,
-                    p = [],
-                    line, i;
-                for (i = 0; i < d.length; i++) {
-                    line = d[i].split("=");
-                    
-                    if (profs.indexOf(line[0].trim()) != -1) {
-                        p.push({name: line[0].trim(),
-                                encodeName: encodeURI('Inspirationals ' + line[0].trim()),
-                                value: Number(line[1])
-                        });
-                        sum = sum + Number(line[1]);
-                    }
+                var d = nV.trim().split(","),
+                    items = [];
+                console.log(nV);
+                for (var i = 0; i < d.length; i++ ) {
+                    console.log(d[i])
+                    var j = d[i].trim().split(";");
+                    items.push({
+                        name: j[0],
+                        encodeName: encodeURI(j[0]),
+                        count: j[1]
+                    });
                 }
                 
-                for (i = 0; i < p.length; i++) {
-                    p[i].effect = Math.round((p[i].value / sum) * 1000) / 1000
-                }
-                
-                this.profs = p;
+                this.items = items;
               }
         });
     </script>

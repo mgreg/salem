@@ -24,11 +24,12 @@
           this.items = nV.items;
       },
       itemsChanged: function(oV, nV) {
-          var menu = this.$.coremenu;
+          var menu = this.$.coremenu,
+              num = Number(this.selected) - 1;
           for (var i = 0; i < menu.items.length; i++) {
               var submenu = menu.items[i];
               for (var j = 0; j < submenu.items.length; j++) {
-                  if (submenu.items[j].label == this.selected) {
+                  if (submenu.items[j].label == this.selected || j == num) {
                       menu.selected = i;
                       submenu.selected = j;
                       return;
@@ -41,7 +42,11 @@
           if (detail.item.tagName.toLowerCase() == "core-submenu") {
               return;
           }
-          this.fire("select", {msg: detail.item.label});
+          var url = detail.item.label;
+          if (!isNaN(Number(this.selected))) {
+              url = this.selected;
+          }
+          this.fire("select", {msg: {txt: detail.item.label, url: url}});
       }
     });
 

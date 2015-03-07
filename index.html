@@ -24,6 +24,7 @@
     <link rel="import" href="bower_components/paper-input/paper-input.html">
     <link rel="import" href="bower_components/paper-shadow/paper-shadow.html">
     <link rel="import" href="bower_components/paper-ripple/paper-ripple.html">
+    <link rel="import" href="bower_components/paper-tabs/paper-tabs.html">
     <link rel="import" href="bower_components/paper-item/paper-item.html">
     <link rel="import" href="salem-components/salem-search.html">
     <link rel="import" href="salem-components/salem-search-menu.html">
@@ -31,6 +32,7 @@
     <link rel="import" href="salem-components/salem-detail.html">
     <link rel="import" href="salem-components/details/default.html">
     <link rel="import" href="salem-components/details/inspirationals.html">
+    <link rel="import" href="salem-components/details/required.html">
     <style type="text/css">
       body {
         font-family: "RobotoDraft",Helvetica,Arial,sans-serif;
@@ -206,10 +208,10 @@
           
           result.addEventListener('select', function(e) {
             if (e.detail.msg.isSelected) {
-              var txt = e.detail.msg.selected;
-              
+              var txt = e.detail.msg.selected,
+                  num = Number(txt) - 1;
               for (var i = 0; i < data.length; i++) {
-                if (data[i].title == txt) {
+                if (data[i].title == txt || i == num) {
                   window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(txt);
                   document.querySelector('#result').style.display = "none";
                   menu.categories = e.detail.msg;
@@ -223,13 +225,14 @@
             
           });
           
-          var doSelect = function(txt) {
-            window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(txt);
-              
+          var doSelect = function(txt, url) {
+            url = url || txt;
+            window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(url);
+            var num = Number(txt);  
             for (var i = 0; i < data.length; i++) {
-              if (data[i].title == txt) {
-                document.getElementById('header').innerHTML = txt;
-                document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + txt.replace(" ", "_");
+              if (data[i].title == txt || i == num) {
+                document.getElementById('header').innerHTML = data[i].title;
+                document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + data[i].title.replace(" ", "_");
                 detail.categories = data[i].categories;
                 var d = data[i].data.replace(/\|/g,"\n");
                 d = d.replace(/&amp;/g, "&");
@@ -240,8 +243,7 @@
           }
           
           menu.addEventListener('select', function(e) {
-            var txt = e.detail.msg;
-            doSelect(txt);
+            doSelect(e.detail.msg.txt, e.detail.msg.url);
           });
           
           var query = "";
