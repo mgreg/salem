@@ -2,7 +2,7 @@ Crafted | Objects required=Any Cornmeal;.15kg, Bucket of Water;.35L
 VariableFoodCorn | Heals=18,14,26,14 | Uses=1 | Min Blood=10 | Max Blood=11 | Min Phlegm=10 | Max Ph...&quot;</comment>
       <text xml:space="preserve" bytes="602">{{Crafted
 | Objects required=Any Cornmeal;.15kg, Bucket of Water;.35L
-
+EOB BOB
 VariableFoodCorn
 | Heals=18,14,26,14
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodCorn
 | Gluttony Time=0:15
 | Food Groups=Maize
 | FoodReduce1=Maize | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

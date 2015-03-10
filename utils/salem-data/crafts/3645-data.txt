@@ -2,7 +2,7 @@ Crafted | Objects required=Glass Jar;1, Cranberry;11, Sugar;.5kg
 SpecialFood | Heals=77,119,35,35 | Uses=1 | Min Blood=10 | Max Blood=10 | Min Phlegm=10 | Max Phlegm=10...&quot;</comment>
       <text xml:space="preserve" bytes="655">{{Crafted
 | Objects required=Glass Jar;1, Cranberry;11, Sugar;.5kg
-
+EOB BOB
 SpecialFood
 | Heals=77,119,35,35
 | Uses=1
@@ -13,3 +13,4 @@ SpecialFood
 | Gluttony Time=2:00 
 | Food Groups=Berries
 | FoodRestore1=Berries |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Baking Table;1, Unrested Pie Dough;1 
 Crafted
 | Objects required=Baking Table;1, Unrested Pie Dough;1
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Connecticut Field;1, Hay;2, Sharpened Stick;2
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=1750
 | Herbs &amp; Sprouts=1200
@@ -8,3 +8,4 @@ Inspirational
 | Stocks &amp; Cultivars=1200
 | Thread &amp; Needle=1250
 | Uses=1
+EOB BOB

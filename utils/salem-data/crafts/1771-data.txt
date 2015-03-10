@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Plant Fibre;2
-
+EOB BOB
 Artifact
 | Difficulty=10 to 0
 | Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
 | Blunt Power=1
 | Impact Power=3
 | Piercing Power=1
+EOB BOB

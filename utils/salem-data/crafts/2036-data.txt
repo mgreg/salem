@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Leather;2, Indian Feather;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Head
 | Artificer Slots=2
+EOB BOB

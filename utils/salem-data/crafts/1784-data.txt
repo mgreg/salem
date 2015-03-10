@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Fish;1, Stuffed Turkey;1, Wild Stuffed Turkey;1
-
+EOB BOB
 Inspirational Artifact
 | Arts &amp; Crafts=750
 | Faith &amp; Wisdom=750
@@ -9,9 +9,10 @@ Inspirational Artifact
 | Hunting &amp; Hideworking=1250
 | Natural Philosophy=1500
 | Uses=1
-
+EOB BOB
 | Difficulty=20 to 5
 | Proficiency Type=Hunting &amp; Gathering, Cloak &amp; Dagger
 | Blunt Defense=4
 | Impact Defense=4
 | Piercing Defense=8
+EOB BOB

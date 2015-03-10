@@ -1,2 +1,3 @@
 Crafted
 | Objects required= Fish Skeleton;1, Bone;1, Darkenbone;1 
+EOB BOB

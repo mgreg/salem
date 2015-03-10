@@ -1,9 +1,9 @@
 Crafted
 | Objects required=Yellow-Stained Cotton Cloth;2, Antler Buttons;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Torso
 | Artificer Slots=2
-
+EOB BOB
 PAGENAME
 PAGENAME

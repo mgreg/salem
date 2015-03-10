@@ -1,8 +1,8 @@
-
+EOB BOB
 Crafted 
 | Objects required=Seaweed;1,Lilypad Bulb;2,Autumn Grass;2 
-
-
+EOB BOB
+EOB BOB
 Inspirational 
 | Arts &amp; Crafts=800 
 | Faith &amp; Wisdom=450 
@@ -11,3 +11,4 @@ Inspirational
 | Thread &amp; Needle=750 
 | Natural Philosophy=750 
 | Uses=1
+EOB BOB

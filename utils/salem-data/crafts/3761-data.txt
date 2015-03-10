@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Fine Leather;8, Iron Buckle;2
+EOB BOB

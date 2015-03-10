@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Any Potato;2, Turkey Egg;1, Onion;1, Bucket of Water;.1L
-
+EOB BOB
 VariableFoodPotatoFoods
 | Heals=8,26,8,12
 | Uses=1
 | Gluttony Time=0:30
 | Food Groups=Potato Foods
 | FoodReduce1=Potato Foods| %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

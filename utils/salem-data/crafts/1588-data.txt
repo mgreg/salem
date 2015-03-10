@@ -9,3 +9,4 @@ VariableFoodGreens
 | Gluttony Time=0:30 
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Crab;1, Stone;1
-
+EOB BOB
 Artifact
 | Difficulty=15 to 5
 | Proficiency Type= Sparks &amp; Embers, Cloak &amp; Dagger
@@ -8,3 +8,4 @@ Artifact
 | Impact Power=2
 | Piercing Power=5
 | Feral Defense=4
+EOB BOB

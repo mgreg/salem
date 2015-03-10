@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Any Dried Hide;10
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=1
+EOB BOB

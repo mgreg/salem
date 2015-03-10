@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Raw Venison Steak;2, Sugar Caps;8, Sugar;.65kg, Fire;1
-
+EOB BOB
 SpecialFood
 | Heals=12,12,5,2
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=2:00
 | Food Groups=Mushrooms
 | FoodRestore1=Mushrooms |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

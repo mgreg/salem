@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Pumpkin Seeds;60
-
+EOB BOB
 Food
 | Heals=6,4,4,4
 | Uses=10
@@ -11,3 +11,4 @@ Food
 | Gluttony Time=0:10
 | Food Groups=Pumpkins and Gourds 
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=10 | %ChanceReduce1=20
+EOB BOB

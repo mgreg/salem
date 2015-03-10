@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of any Fish;3, Rye Flour;0.3 kg, Sugar;0.05 kg, Fireplace;1
-
+EOB BOB
 VariableFoodFish
 | Heals=12.5,12.5,12.5,12.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=0:30 
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

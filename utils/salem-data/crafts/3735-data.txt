@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Salamander;1
-
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=450
 | Law &amp; Lore=350
 | Sugar &amp; Spice=250
 | Perennial Philosophy=75
 | Uses=1
+EOB BOB

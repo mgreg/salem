@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Indian Cotton Cloth;1, Egyptian Cotton Cloth;1, Sharpened Stick;3
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=750
 | Cloak &amp; Dagger=2000
@@ -8,3 +8,4 @@ Inspirational
 | Law &amp; Lore=1000
 | Thread &amp; Needle=2500
 | Uses=4
+EOB BOB

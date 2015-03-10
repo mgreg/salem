@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Cranberry Pectin;1, Beetle;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=265
 | Herbs &amp; Sprouts=415
@@ -8,3 +8,4 @@ Inspirational
 | Sparks &amp; Embers=1310
 | Sugar &amp; Spice=1400
 | Uses=1
+EOB BOB

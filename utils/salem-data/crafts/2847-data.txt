@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Closed Beta Reward Box;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Feet
 | Artificer Slots=2
+EOB BOB

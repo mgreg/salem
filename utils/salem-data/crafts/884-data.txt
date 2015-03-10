@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Berries;2,Autumn Grass;1
-
+EOB BOB
 VariableFoodBerries
 | Heals=4.7,4.7,4.7,4.7
 | Min Blood=10 | Max Blood=11
@@ -10,3 +10,4 @@ VariableFoodBerries
 | Uses=4 | Gluttony Time=0:15
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

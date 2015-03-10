@@ -1,6 +1,6 @@
 Crafted | Objects required=Oiled Board;1, Planed Board;1, 
 | Weight=1 kg
-
+EOB BOB
 Inspirational 
 | Cloak &amp; Dagger=1000 
 | Hammer &amp; Nail=4500 
@@ -8,3 +8,4 @@ Inspirational
 | Natural Philosophy=1500 
 | Perennial Philosophy=1000
 | Uses=6
+EOB BOB

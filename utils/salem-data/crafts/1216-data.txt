@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Any Fish;1, Dead Timber Rattler;1 
 | Weight=0.04 kg
-
+EOB BOB
 Inspirational Artifact
 | Flora &amp; Fauna=1350
 | Herbs &amp; Sprouts=1250
@@ -10,10 +10,11 @@ Inspirational Artifact
 | Thread &amp; Needle=475
 | Natural Philosophy=250
 | Uses=4
-
+EOB BOB
 | Difficulty=30 to 15
 | Proficiency Type=Hunting &amp; Gathering, Cloak &amp; Dagger
 | Blunt Defense=6
 | Impact Defense=6
 | Piercing Defense=12
 | Feral Defense=7
+EOB BOB

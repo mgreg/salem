@@ -1,2 +1,3 @@
 Crafted
 | Objects required=English Muffins Dough Unleavened;1, Baking Table;1
+EOB BOB

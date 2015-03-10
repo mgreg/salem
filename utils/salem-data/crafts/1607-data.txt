@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Bear;1, Raw Bear Slab;1
+EOB BOB

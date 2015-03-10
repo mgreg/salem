@@ -2,7 +2,7 @@ Crafted | Objects required=Any Berries;3, Angel-Winged Seabass;1
 VariableFoodBerries | Heals=22,9,80,27 | Uses=1 | Min Blood=21 | Max Blood=27 | Min Phlegm=21 | Max Phl...&quot;</comment>
       <text xml:space="preserve" bytes="606">{{Crafted
 | Objects required=Any Berries;3, Angel-Winged Seabass;1
-
+EOB BOB
 VariableFoodBerries
 | Heals=22,9,80,27
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodBerries
 | Gluttony Time=0:30
 | Food Groups= Berries
 | FoodReduce1= Berries | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

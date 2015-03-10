@@ -1,6 +1,7 @@
 Clothing | Equipment Slot=Cloak | Artificer Slots=4 
 Crafted
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=4
+EOB BOB

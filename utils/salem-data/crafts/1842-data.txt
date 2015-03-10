@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Dead Turkey;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2000
 | Faith &amp; Wisdom=1500
@@ -8,3 +8,4 @@ Inspirational
 | Sugar &amp; Spice=1200
 | Thread &amp; Needle=1750
 | Uses=1
+EOB BOB

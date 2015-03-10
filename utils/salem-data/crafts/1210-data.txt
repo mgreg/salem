@@ -1,3 +1,4 @@
 Crafted | Objects required=Dead Timber Rattler;1 
 Crafted
 | Objects required=Dead Timber Rattler;1
+EOB BOB

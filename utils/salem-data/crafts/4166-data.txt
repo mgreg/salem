@@ -1,3 +1,4 @@
 Crafted | Objects required=Wooden Handle;1, Woodblock;3 
 Crafted
 | Objects required=Wooden Handle;1, Woodblock;3
+EOB BOB

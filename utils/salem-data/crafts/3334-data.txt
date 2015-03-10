@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Tree;1,
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=250
 | Faith &amp; Wisdom=150
@@ -16,3 +16,4 @@ Inspirational
 | Thread &amp; Needle=185
 | Natural Philosophy=235
 | Uses=1
+EOB BOB

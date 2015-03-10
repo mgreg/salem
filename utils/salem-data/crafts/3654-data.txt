@@ -2,7 +2,7 @@ Crafted | Objects required=Pumpkin Flesh;2, New World Gourd;1
 VariableFoodPumpkins | Heals=16,14,14,14 | Uses=1 | Min Blood=12 | Max Blood=14 | Min Phlegm=12 | Max Phle...&quot;</comment>
       <text xml:space="preserve" bytes="629">{{Crafted
 | Objects required=Pumpkin Flesh;2, New World Gourd;1
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=16,14,14,14
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodPumpkins
 | Gluttony Time=0:15
 | Food Groups= Pumpkins and Gourds
 | FoodReduce1= Pumpkins and Gourds | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

@@ -1,4 +1,4 @@
 Crafted
 | Objects required=Mystery Weapon Chest;1, Hunter's Pack;1
-
+EOB BOB
 PAGENAME

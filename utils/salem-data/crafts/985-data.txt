@@ -1,2 +1,3 @@
 Crafted 
 | Objects required=Timber Pile;1, 
+EOB BOB

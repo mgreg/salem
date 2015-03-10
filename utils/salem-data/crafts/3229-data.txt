@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Body;1
+EOB BOB

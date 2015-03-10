@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Tree;1, Axe;1, Metal Axe;1
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=1400
 | Hammer &amp; Nail=1250
@@ -8,3 +8,4 @@ Inspirational
 | Law &amp; Lore=950
 | Perennial Philosophy=700
 | Uses=1
+EOB BOB

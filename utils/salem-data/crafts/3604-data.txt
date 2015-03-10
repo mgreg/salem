@@ -1,3 +1,4 @@
 Crafted | Objects required=Flour;.8kg, Bucket of Water;1L, Molasses;1, Wild Oats;1 
 Crafted
 | Objects required=Flour;.8kg, Bucket of Water;1L, Molasses;1, Wild Oats;1
+EOB BOB

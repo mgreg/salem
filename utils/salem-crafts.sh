@@ -46,7 +46,7 @@ for i in `cat $idfile`;do
 	fi
 	
 	content=`cat $datadir/$i.txt`
-	data=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /{{(.*?)}}/gs' | grep -v "=[[:space:]]*$" | grep -v "=[[:space:]]*0[[:space:]]*$"`
+	data=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /{{(.*?)}}/gs' | grep -v "=[[:space:]]*$" | grep -v "=[[:space:]]*0[[:space:]]*$" | sed s/^$/EOB\ BOB/`
 	title=`echo -e "$content" | perl -0777 -ne 'print "$1\n" while /<title>(.*?)<\/title>/gs'`
     categories=`find salem-data/categories/ -type f | xargs grep "^$i$" | cut -d":" -f1 | sort | uniq | perl -0777 -ne 'print "$1\n" while /salem-data\/categories\/(.*?).txt/gs' | tr "\n" " " | sed 's/[ \t]*$//' | sed s/\ /,/g`
     if [ -z "$title" ]; then
@@ -57,7 +57,7 @@ for i in `cat $idfile`;do
 		echo -n "," >> $output
 	fi
 	
-	echo -en "{\n\ttitle: \"$title\",\n\tid: $id,\n\tpageid: $i,\n\tdata: \"" >> $output
+	echo -en "{\n\ttitle: \"$title\",\n\tid: $id,\n\tpageid: $i,\n\tdata: \"BOB " >> $output
 	echo -n $data  | sed s/\"/\\\\\"/g >> $output
 	echo -en "\",\n\tcategories:\"$categories\"" >> $output
 	echo -en "\n}" >> $output

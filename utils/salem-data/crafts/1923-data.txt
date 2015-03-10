@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Board;2,Whittler's Bench;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=620
 | Faith &amp; Wisdom=240
@@ -9,3 +9,4 @@ Inspirational
 | Stocks &amp; Cultivars=500
 | Sugar &amp; Spice=500
 | Uses=2
+EOB BOB

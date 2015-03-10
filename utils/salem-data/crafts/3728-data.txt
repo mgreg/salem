@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Woodblock;1, Granite;1
 | Weight=.5 kg
+EOB BOB

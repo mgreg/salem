@@ -1,9 +1,10 @@
 Crafted
-
+EOB BOB
 | Objects required=Sea Island Cotton Cloth;4, Amber Coarse-Grain Thread;1
-
-
+EOB BOB
+EOB BOB
 Artifact
 | Difficulty=80 to 40
 | Proficiency Type=Perennial Philosophy
 | Pockets=1
+EOB BOB

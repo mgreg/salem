@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Any Poultry Wing;1, Dead Wartbite Cricket;2, Beetle;1, Fire;1
-
+EOB BOB
 VariableFoodPoultryM
 | Heals=9.5,9.5,9,9
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPoultryM
 | Gluttony Time=3:00
 | Food Groups=Poultry
 | FoodReduce1=Poultry | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

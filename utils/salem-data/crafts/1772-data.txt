@@ -1,11 +1,12 @@
 Crafted
-
+EOB BOB
 | Objects required=Smooth Stone;1, Turkey Feathers;4
-
-
+EOB BOB
+EOB BOB
 Artifact
 | Difficulty=25 to 10
 | Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
 | Blunt Power=4
 | Impact Power=9
 | Piercing Power=4
+EOB BOB

@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Cotton Cloth;1, Leather;1, Silver;50
-
+EOB BOB
 Artifact
 | Difficulty=25 to 10
 | Proficiency Type=Cloak &amp; Dagger
 | Criminality=9
+EOB BOB

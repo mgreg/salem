@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Pumpkin Flesh;3, Loaf of Ryebread;1, Carrot;2
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=22.5,18.5,17,21
 | Uses=3
@@ -12,3 +12,4 @@ VariableFoodPumpkins
 | Food Groups= Pumpkins and Gourds
 | FoodReduce1= Pumpkins and Gourds | %Reduce1=20 | %ChanceReduce1=40
 | FoodRestore1=Bread |%Restore1=15 |%ChanceRestore1=85
+EOB BOB

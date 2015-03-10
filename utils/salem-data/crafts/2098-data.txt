@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Sea Island Cotton Cloth;7, Golden Lace;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=3
+EOB BOB

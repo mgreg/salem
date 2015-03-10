@@ -1,3 +1,4 @@
 Crafted | Objects required= Bar of Iron;1, Clay;4 
 Crafted
 | Objects required= Bar of Iron;1, Clay;4
+EOB BOB

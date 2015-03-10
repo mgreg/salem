@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Flame Azalea;2, Bar of Copper;2, Captivating Flame;2, Colorful Autumn Leaf;2
-
+EOB BOB
 Artifact
 | Difficulty=35 to 15
 | Proficiency Type=Cloak &amp; Dagger
 | Criminality=13
+EOB BOB

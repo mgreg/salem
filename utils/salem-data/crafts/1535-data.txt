@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Dead Rabbit;1
 | Weight=0.13 kg
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=1500
 | Faith &amp; Wisdom=900
@@ -9,3 +9,4 @@ Inspirational
 | Mines &amp; Mountains=1750
 | Perennial Philosophy=1750
 | Uses=1
+EOB BOB

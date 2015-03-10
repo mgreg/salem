@@ -1,3 +1,4 @@
 Crafted | Objects required=Baking Table;1, Unleavened Ryebread Dough;1 
 Crafted
 | Objects required=Baking Table;1, Unleavened Ryebread Dough;1
+EOB BOB

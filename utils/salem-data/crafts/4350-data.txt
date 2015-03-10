@@ -1,2 +1,3 @@
 Crafted 
 | Objects required=Black Tea Leaves;1, Bucket of Water;1, Copper Pot;1, Clay Pot;1, Fire;1
+EOB BOB

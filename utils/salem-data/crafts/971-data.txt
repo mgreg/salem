@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Branch;1, Flint;1
 | Weight=.50 kg
+EOB BOB

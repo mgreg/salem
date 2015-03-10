@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Sparrow Eggs;1, Turkey Egg;1, Argopelter Egg;1
+EOB BOB

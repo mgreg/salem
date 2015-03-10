@@ -1,5 +1,6 @@
 Crafted
 | Objects required=Any Large Pumpkin;1, Hay;2, Sharpened Stick;2
-
+EOB BOB
 Inspirational
 | Uses=1
+EOB BOB

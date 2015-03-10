@@ -1,6 +1,7 @@
 Crafted | Objects required=Iron Buckle;1, Fine Leather;4 
 Crafted
 | Objects required=Iron Buckle;1, Fine Leather;4
-
+EOB BOB
 Clothing
 | Equipment Slot=Waist
+EOB BOB

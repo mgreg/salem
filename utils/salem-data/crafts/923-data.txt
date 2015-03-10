@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Golden Egg;1, Golden Cornmeal;.45kg, Golden Corn Oil;.2L, Any Corn;100
+EOB BOB

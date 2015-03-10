@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Bugs;1, Raw Venison Steak;1, Red Bell Peppers;1, Green Bell Peppers;1, Stove;1
-
+EOB BOB
 VariableFoodBugs
 | Heals=20,16,17.5,9.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBugs
 | Gluttony Time=0:30
 | Food Groups= Slugs Bugs and Kritters 
 | FoodReduce1= Slugs Bugs and Kritters | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Yellow-Stained Cotton;5
-
+EOB BOB
 Clothing
 | Equipment Slot=Torso
 | Artificer Slots=1
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Devil's Wort;1, Lilypad Bulb;1, Wild Garlic;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=1245
 | Herbs &amp; Sprouts=2575
@@ -8,3 +8,4 @@ Inspirational
 | Sugar &amp; Spice=1620
 | Natural Philosophy=885
 | Uses=3
+EOB BOB

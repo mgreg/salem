@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Nuts;6, Raw Venison Steak;1, Majestic Acorn;1, Any Garlic;2, Pumpkinseed Oil;.5L
-
+EOB BOB
 VariableFoodNuts
 | Heals=65,53,48,65
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodNuts
 | Gluttony Time=1:00
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

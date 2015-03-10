@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Golden Egg;25
+EOB BOB

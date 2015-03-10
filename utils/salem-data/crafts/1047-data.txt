@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Wortbaked Wartbite;1, Fireplace;1
-
+EOB BOB
 VariableFoodBugs
 | Heals=48,46,45,49
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBugs
 | Gluttony Time=1:00
 | Food Groups=Slugs Bugs and Kritters 
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

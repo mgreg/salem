@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Humble Meat Pie;1, Pumpkin Pie;1, Wildberry Pie;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=2425
 | Sugar &amp; Spice=3250
 | Natural Philosophy=750
 | Perennial Philosophy=1475
 | Uses=1
+EOB BOB

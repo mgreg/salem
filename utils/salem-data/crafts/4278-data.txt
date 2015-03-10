@@ -1,3 +1,4 @@
 Crafted | Objects required=Deer Antlers;1, Jackalope Antlers;1 
 Crafted
 | Objects required=Deer Antlers;1, Jackalope Antlers;1
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Fish;1,
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=35
 | Faith &amp; Wisdom=75
@@ -9,3 +9,4 @@ Inspirational
 | Stocks &amp; Cultivars=90
 | Perennial Philosophy=10
 | Uses=1
+EOB BOB

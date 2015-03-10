@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Bar of Copper;2,Anvil;1, Silver; 350
+EOB BOB

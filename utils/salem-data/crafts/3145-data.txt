@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Ostrich Fiddlehead;1, Carrot;1
-
+EOB BOB
 SpecialFood
 | Heals=14.5,14.5,14.5,14.5
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=0:15
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

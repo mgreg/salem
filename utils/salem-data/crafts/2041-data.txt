@@ -1,6 +1,6 @@
 Crafted
 | Objects required= Leather;1, Cotton;2 
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=1520
 | Faith &amp; Wisdom=800
@@ -9,3 +9,4 @@ Inspirational
 | Thread &amp; Needle=1900
 | Natural Philosophy=900
 | Uses=4
+EOB BOB

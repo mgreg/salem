@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Glass Bottle;1, Otto of Rose;.02L, Peyote Cactus;4, Stringy Sinew;2
+EOB BOB

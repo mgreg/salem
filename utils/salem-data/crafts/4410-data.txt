@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Wrought Iron Bar;1, Any Bones;4, Animal Canine;1, Fine Beaver Teeth;1
-
+EOB BOB
 Artifact
 | Difficulty=30 to 15
 | Proficiency Type=Cloak &amp; Dagger
 | Criminality=11
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Salamander;1 
 Crafted
 | Objects required=Salamander;1
+EOB BOB

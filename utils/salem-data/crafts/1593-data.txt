@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Loaf of Ryebread;1, Garlic;1
+EOB BOB

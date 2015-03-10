@@ -2,7 +2,7 @@ Crafted | Objects required=Green Bell Peppers;1, Red Bell Peppers;1, Gardening P
 SpecialFood | Heals=-4,-4,-4,-4 | Uses=1 | Min Blood=40 | Max Blood=40 | Min Phlegm...&quot;</comment>
       <text xml:space="preserve" bytes="1081">{{Crafted
 | Objects required=Green Bell Peppers;1, Red Bell Peppers;1, Gardening Pot;1
-
+EOB BOB
 SpecialFood
 | Heals=-4,-4,-4,-4
 | Uses=1
@@ -13,3 +13,4 @@ SpecialFood
 | Gluttony Time=1:30
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Foods | %Reduce1=100 | %ChanceReduce1=100
+EOB BOB

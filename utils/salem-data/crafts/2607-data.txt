@@ -1,5 +1,6 @@
 Crafted
 | Objects required=Mystery Box;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Face
+EOB BOB

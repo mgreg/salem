@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Egyptian Cotton Cloth;3, Indian Cotton Cloth;3
-
+EOB BOB
 Artifact
 | Difficulty=40 to 20
 | Proficiency Type=Thread &amp; Needle
 | Pockets=1
+EOB BOB

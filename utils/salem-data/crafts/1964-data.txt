@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Cotton Cloth;1, Sharpened Stick;3
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=1250
 | Faith &amp; Wisdom=1550
@@ -8,3 +8,4 @@ Inspirational
 | Thread &amp; Needle=1700
 | Natural Philosophy=550
 | Uses=5
+EOB BOB

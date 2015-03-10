@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Water;1, Fishing Pole;1, Makeshift Fishing Rod;1, Fish Trap;1
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=1400
 | Herbs &amp; Sprouts=2000
@@ -8,3 +8,4 @@ Inspirational
 | Sugar &amp; Spice=1750
 | Perennial Philosophy=250
 | Uses=1
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Ear of Oats;1, Ear of Barley;1, Ear of Rye;1, Ear of Wheat;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=853
 | Cloak &amp; Dagger=1104
@@ -10,3 +10,4 @@ Inspirational
 | Stocks &amp; Cultivars=2008
 | Thread &amp; Needle=1605
 | Uses=1
+EOB BOB

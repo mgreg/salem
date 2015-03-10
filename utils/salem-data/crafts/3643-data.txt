@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Crab Meat;6, Yellow Cornmeal;.35kg, Onion;2
-
+EOB BOB
 Food
 | Heals=25,6,30,10
 | Uses=10
@@ -11,3 +11,4 @@ Food
 | Gluttony Time=3:30
 | Food Groups= Crustacea and Shellfish
 | FoodReduce1= Crustacea and Shellfish | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

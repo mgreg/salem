@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Dried Deer Hide;2, Plant Fibre;2
-
+EOB BOB
 Artifact
 | Difficulty=25 to 10
 | Proficiency Type= Hunting &amp; Hideworking, Cloak &amp; Dagger
 | Blunt Defense=5
 | Impact Defense=5
 | Piercing Defense=10
+EOB BOB

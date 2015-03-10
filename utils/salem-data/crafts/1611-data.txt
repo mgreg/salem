@@ -1,3 +1,4 @@
 Crafted  | Objects required= Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1 
 Crafted 
 | Objects required= Dead Rabbit;1, Beaver;1, Deer;1, Bear;1, March Hare;1
+EOB BOB

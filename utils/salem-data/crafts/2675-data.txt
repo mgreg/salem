@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Fine Leather;1, Cranberry;2, March Hare Tail;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Head
 | Artificer Slots=5
+EOB BOB

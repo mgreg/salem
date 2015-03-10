@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Fire;1, Any Raw Meat Cut;1
+EOB BOB

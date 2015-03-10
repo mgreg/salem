@@ -2,7 +2,7 @@ Crafted | Objects required=Tortilla;1, Raw Bear Cut;2, Onion;1, Any Garlic;1, Co
 VariableFoodCorn | Heals=48,44,46,44 | Uses=1 | Min Blood=40 | Max Blood=60 | ...&quot;</comment>
       <text xml:space="preserve" bytes="717">{{Crafted
 | Objects required=Tortilla;1, Raw Bear Cut;2, Onion;1, Any Garlic;1, Corn Husk;1
-
+EOB BOB
 VariableFoodCorn
 | Heals=48,44,46,44
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodCorn
 | Gluttony Time=1:00 
 | Food Groups= Maize
 | FoodReduce1= Maize | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

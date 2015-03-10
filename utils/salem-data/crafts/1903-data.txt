@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Raw Venison Steak;1, Any Cabbage Leaf;3, Carrot;1, Fire;1
-
+EOB BOB
 VariableFoodGreens
 | Heals=24.5,17.5,20.5,22.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGreens
 | Gluttony Time=0:30
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

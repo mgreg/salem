@@ -1,6 +1,6 @@
 Crafted
 | Objects required= Wrought Iron Bar;1, Anvil;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2300
 | Cloak &amp; Dagger=1650
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=2700
 | Perennial Philosophy=700
 | Uses=4
+EOB BOB

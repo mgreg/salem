@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Milkweed Roots;1, Oakworth;1, Lilypad Bulb;1
-
+EOB BOB
 SpecialFood
 | Heals=9,9.5,8,7.5
 | Min Blood=12 | Max Blood=14
@@ -10,3 +10,4 @@ SpecialFood
 | Uses=1 | Gluttony Time=0:15
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

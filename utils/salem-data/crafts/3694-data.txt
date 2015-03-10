@@ -2,7 +2,7 @@ Crafted | Objects required=Any Mushroom;2, Leaf of Colewort;3, Roasted Hickory N
 VariableFoodMushrooms | Heals=23,11,14,27 | Uses=1 | Min Blood=22 | Max Blood=25 | ...&quot;</comment>
       <text xml:space="preserve" bytes="633">{{Crafted
 | Objects required=Any Mushroom;2, Leaf of Colewort;3, Roasted Hickory Nut;1
-
+EOB BOB
 VariableFoodMushrooms
 | Heals=23,11,14,27
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodMushrooms
 | Gluttony Time=0:20 
 | Food Groups= Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Silt-Dwelling Mudsnapper;1, Drying Frame;1
-
+EOB BOB
 SpecialFood
 | Heals=5.5,8.5,4.5,2
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:03
 | Food Groups=Fishes
 | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20
+EOB BOB

@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Squirrel Stash;1, Pinecone;1
 | Weight=.05 kg
-
+EOB BOB
 SpecialFood
 | Heals=1,2.5,1,4
 | Uses=1
@@ -9,3 +9,4 @@ SpecialFood
 | Gluttony Time=0:05
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

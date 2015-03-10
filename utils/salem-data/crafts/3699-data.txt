@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Any Corn;50, Tilled Field;1
+EOB BOB

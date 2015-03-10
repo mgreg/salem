@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Sourdough Starter;1, Barley Flour;2kg, Bucket of Water;1L, Coarse Salt;1
+EOB BOB

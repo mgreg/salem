@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Argopelter Heart;1
+EOB BOB

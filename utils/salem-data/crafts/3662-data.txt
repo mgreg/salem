@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Garlic Bread;1
-
+EOB BOB
 SpecialFood
 | Heals=12,14,11,14
 | Uses=1
@@ -12,3 +12,4 @@ SpecialFood
 | Food Groups=Bread
 | FoodReduce1=Bread | %Reduce1=15 | %ChanceReduce1=30
 | FoodRestore1=Poultry |%Restore1=15 |%ChanceRestore1=80
+EOB BOB

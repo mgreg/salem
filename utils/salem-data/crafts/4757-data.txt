@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Rubellite;1, Gemcutter's Wheel;1
-
+EOB BOB
 Artifact
 | Difficulty=15 to 5
 | Proficiency Type=Law &amp; Lore
 | Affluence=13
 | Common Combat Defense=5
 | Feasting=15
+EOB BOB

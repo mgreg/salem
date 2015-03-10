@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Stuffed Turkey;1
 | Weight=0.17 kg
-
+EOB BOB
 SpecialFood
 | Heals=7,17.5,7,7
 | Uses=1
@@ -9,3 +9,4 @@ SpecialFood
 | Gluttony Time=0:06 
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

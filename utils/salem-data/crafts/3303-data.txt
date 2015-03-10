@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Wool;2, Enforced Seam;2, Sea Island Cotton;5, Fluffy Stuffing;2
-
+EOB BOB
 Artifact
 | Difficulty=35 to 15
 | Proficiency Type=Herbs &amp; Sprouts, Cloak &amp; Dagger
 | Blunt Defense=8
 | Impact Defense=14
 | Piercing Defense=8
+EOB BOB

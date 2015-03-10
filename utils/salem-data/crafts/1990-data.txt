@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Maple Leaf;1, Branch;2, Any Tinder;2, Fire;1
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=200
 | Flora &amp; Fauna=350
@@ -9,3 +9,4 @@ Inspirational
 | Natural Philosophy=75
 | Perennial Philosophy=35
 | Uses=3
+EOB BOB

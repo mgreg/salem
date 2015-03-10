@@ -2,7 +2,7 @@ Crafted | Objects required=Oyster;1, Sharpened Stick;1
 Inspirational | Arts &amp; Crafts= | Cloak &amp; Dagger= | Faith &amp; Wisdom=575 | Flora &amp; Fauna=400 | Hammer &amp; Nail= | Herb...&quot;</comment>
       <text xml:space="preserve" bytes="529">{{Crafted
 | Objects required=Oyster;1, Sharpened Stick;1
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=575
 | Flora &amp; Fauna=400
@@ -12,3 +12,4 @@ Inspirational
 | Sugar &amp; Spice=750
 | Natural Philosophy=900
 | Uses=1
+EOB BOB

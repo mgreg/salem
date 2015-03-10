@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Woodblock;1, Wood Choppings;2, Hay;1, Autumn Grass;2
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=775
 | Faith &amp; Wisdom=850
@@ -8,3 +8,4 @@ Inspirational
 | Stocks &amp; Cultivars=750
 | Perennial Philosophy=75
 | Uses=1
+EOB BOB

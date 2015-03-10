@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Fine Leather;2, Blistersteel bar;1, Wool;2, Golden Lace;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Feet
 | Artificer Slots=4
+EOB BOB

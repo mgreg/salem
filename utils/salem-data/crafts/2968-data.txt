@@ -1,3 +1,4 @@
 Crafted | Objects required=Hickory Tree;1 
 Crafted
 | Objects required=Hickory Tree;1
+EOB BOB

@@ -1,31 +1,32 @@
 Crafted
 | Objects required=Cotton;10, Loom;1
 | Weight=1.00 kg
-
+EOB BOB
 PropVals/Print Entry |showamount=no |Yellow-Stained Cotton Cloth
 #ask: [[:+]] [[RequiresObj::~*Yellow-Stained Cotton Cloth;*]]
 |link=none 
 |format=list 
 |userparam=no 
 |template=PropVals/Print Entry 
-
+EOB BOB
 PropVals/Print Entry |showamount=no |Indian Cotton Cloth
 #ask: [[:+]] [[RequiresObj::~*Indian Cotton Cloth;*]]
 |link=none 
 |format=list 
 |userparam=no 
 |template=PropVals/Print Entry 
-
+EOB BOB
 PropVals/Print Entry |showamount=no |Egyptian Cotton Cloth
 #ask: [[:+]] [[RequiresObj::~*Egyptian Cotton Cloth;*]]
 |link=none 
 |format=list 
 |userparam=no 
 |template=PropVals/Print Entry 
-
+EOB BOB
 PropVals/Print Entry |showamount=no |Sea Island Cotton Cloth
 #ask: [[:+]] [[RequiresObj::~*Sea Island Cotton Cloth;*]]
 |link=none 
 |format=list 
 |userparam=no 
 |template=PropVals/Print Entry 
+EOB BOB

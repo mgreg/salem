@@ -1,4 +1,6 @@
 Crafted  | Objects required=Ore Smelter;1, Iron Ore;1 Lime;1  
 Crafted
-
+EOB BOB
 | Objects required=Ore Smelter;1, Iron Ore;1 Lime;1
+EOB BOB
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Rags;3, Wooden Plugs;2
+EOB BOB

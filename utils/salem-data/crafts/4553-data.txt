@@ -2,9 +2,10 @@ Crafted | Objects required=Xmas Present;1
 Inspirational | Arts &amp; Crafts=200 | Cloak &amp; Dagger= | Faith &amp; Wisdom= | Flora &amp; Fauna=200 | Hammer &amp; Nail=500 | Herbs &amp; Sprout...&quot;</comment>
       <text xml:space="preserve" bytes="459">{{Crafted
 | Objects required=Xmas Present;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=200
 | Flora &amp; Fauna=200
 | Hammer &amp; Nail=500
 | Uses=15
+EOB BOB

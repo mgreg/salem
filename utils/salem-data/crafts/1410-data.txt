@@ -1,5 +1,5 @@
 Crafted
 | Objects required=Bar of Pig Iron;1
-
+EOB BOB
 Gamemenu
 | item={{PAGENAME

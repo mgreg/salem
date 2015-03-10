@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Virginia Snail;3, Caterpillar;1, Common Earthworm;1, Autumn Grass;2
+EOB BOB

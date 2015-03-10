@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Fruit Jelly;2, Wheat Flour;.2kg
-
+EOB BOB
 VariableFoodBerries
 | Heals=35,45,25,25
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBerries
 | Gluttony Time=1:30
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

@@ -1,15 +1,16 @@
 Crafted
 | Objects required=Tilled Field;1
-
+EOB BOB
 Inspirational Artifact
 | Flora &amp; Fauna=1900
 | Herbs &amp; Sprouts=675
 | Stocks &amp; Cultivars=2300
 | Thread &amp; Needle=3400
 | Uses=2
-
+EOB BOB
 | Difficulty=25 to 10
 | Proficiency Type= Stocks &amp; Cultivars, Thread &amp; Needle
 | Common Combat Defense=4
 | Weaving=16
 | Production=5
+EOB BOB

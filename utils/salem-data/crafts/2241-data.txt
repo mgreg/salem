@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Fire;1, Charred Milkweed Fibre;1, Tinder Drill;1, Flint &amp; Steel;1
-
+EOB BOB
 Inspirational
 | Hammer &amp; Nail=400
 | Law &amp; Lore=750
@@ -8,3 +8,4 @@ Inspirational
 | Sparks &amp; Embers=2000
 | Natural Philosophy=850
 | Uses=1
+EOB BOB

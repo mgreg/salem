@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Argopelter;1
+EOB BOB

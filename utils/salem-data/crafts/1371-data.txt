@@ -1,3 +1,4 @@
 Crafted | Objects required=Raw Rabbit Skin;1, Drying Frame;1 
 Crafted
 | Objects required=Raw Rabbit Skin;1, Drying Frame;1
+EOB BOB

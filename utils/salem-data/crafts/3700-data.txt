@@ -2,7 +2,7 @@ Crafted | Objects required=Flour;.3kg, Turkey Egg;2, Sugar;.05kg, Bucket of Wate
 VariableFoodBread | Heals=12,12,12,12 | Uses=1 | Min Blood=25 | Max Blood=30 | M...&quot;</comment>
       <text xml:space="preserve" bytes="622">{{Crafted
 | Objects required=Flour;.3kg, Turkey Egg;2, Sugar;.05kg, Bucket of Water;.75kg
-
+EOB BOB
 VariableFoodBread
 | Heals=12,12,12,12
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodBread
 | Gluttony Time=0:30
 | Food Groups=Bread
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

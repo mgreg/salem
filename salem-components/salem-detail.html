@@ -34,33 +34,38 @@
           div.className = "divider";
           fragment.appendChild(div);
         },
-        addSection: function(fragment, section) {
-           this.addDivider(fragment);
-           var div = document.createElement("div");
-           div.className = "section";
-           div.appendChild(section);
-           fragment.appendChild(div);
+        addSection: function(fragment, name, data) {
+            if (!data) {
+                return;
+            }
+            this.addDivider(fragment);
+            var div = document.createElement("div"),
+                section = document.createElement("salem-detail-" + name);
+                
+            div.className = "section";
+            section.data = data;
+            div.appendChild(section);
+            fragment.appendChild(div);
         },
         dataChanged: function(oV, nV) {
             this.$.content.innerHTML = "";
-            var r = /Objects\ required=(.*)\n/.exec(nV),
-                fragment = document.createDocumentFragment(),
+            var sections = {};
+            nV.replace(/(?:BOB)(.*?)(?:$|EOB)/mig, function(m, p){ 
+                console.log(p);
+                var data = p.trim().split("|"),
+                    title = data.shift().trim();
+                sections[title.toLowerCase()] = data.join("|");
+            });
+            
+            
+            var crafted = sections.crafted,
+                inspirational = sections.Inspirational;
+            var fragment = document.createDocumentFragment(),
                 cont, rendered = false;
-            
-            
-            if (this.cats.indexOf("Inspirationals") != -1) {
-                this.addDivider(fragment);
-                cont = document.createElement("salem-detail-inspirationals");
-                cont.data = nV;
-                this.addSection(fragment, cont);
-            }
-            
-            if (r && r.length > 1) {
-                this.addDivider(fragment);
-                cont = document.createElement("salem-detail-required");
-                cont.data = r[1];
-                this.addSection(fragment, cont)
-            }
+
+            this.addSection(fragment, "crafted", sections.crafted);            
+            this.addSection(fragment, "inspirationals", sections.inspirational);
+            this.addSection(fragment, "clothing", sections.clothing);
             
             if (!fragment.children.length) {
                 cont = document.createElement("salem-detail-default");

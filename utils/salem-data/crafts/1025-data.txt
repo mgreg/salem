@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Woodblock;1, Whittler's Bench;1
-
+EOB BOB
 Artifact
 | Difficulty=0 to 10
 | Proficiency Type=Sparks &amp; Embers, Cloak &amp; Dagger
 | Blunt Power=1
 | Impact Power=1
 | Piercing Power=3
+EOB BOB

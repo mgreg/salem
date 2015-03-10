@@ -1,7 +1,7 @@
 Foraged
 | Where found=Marshland, Woodland, Grassland, Autumnal, Shrub
 | Weight=.06 kg
-
+EOB BOB
 Inspirational Food 
 | Heals=1,4,1,2.5
 | Min Blood=6 | Max Blood=7
@@ -15,11 +15,11 @@ Inspirational Food
 | Sugar &amp; Spice=450
 | Natural Philosophy=200
 | Uses=1
-
+EOB BOB
 Crafted
 | Objects required=Gardening Pot;1, Wild Garlic;1
 | Weight=.06 kg
-
+EOB BOB
 Inspirational Food 
 | Heals=1,4,1,2.5
 | Min Blood=6 | Max Blood=7
@@ -33,3 +33,4 @@ Inspirational Food
 | Sugar &amp; Spice=450
 | Natural Philosophy=200
 | Uses=1
+EOB BOB

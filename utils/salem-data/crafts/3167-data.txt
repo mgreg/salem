@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Raggy Hem;2, Sea Island Cotton Cloth;2, Silk Cloth;1, Glass Buttons;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Legs
 | Artificer Slots=3
+EOB BOB

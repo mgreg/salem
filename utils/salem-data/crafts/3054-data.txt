@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Waxing Toadstool;1, Copper Pot;1, Clay Pot;1, Fireplace;1
-
+EOB BOB
 SpecialFood
 | Heals=5,5,5,5
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=0:06
 | Food Groups= Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

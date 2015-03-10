@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Smoked Oyster;1
-
+EOB BOB
 SpecialFood
 | Heals=2,3,1,4
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:06 
 | Food Groups= Crustacea and Shellfish
 | FoodReduce1= Crustacea and Shellfish | %Reduce1=10 | %ChanceReduce1=20
+EOB BOB

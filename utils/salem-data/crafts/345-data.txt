@@ -1,6 +1,6 @@
 Foraged
 | Where found=Clay Pit
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=450
 | Faith &amp; Wisdom=850
@@ -8,10 +8,10 @@ Inspirational
 | Mines &amp; Mountains=950
 | Sparks &amp; Embers=1200
 | Uses=1
-
+EOB BOB
 Crafted
 | Objects required=Dirt;1, Milk of Lime;1, Clay Trough;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=450
 | Faith &amp; Wisdom=850
@@ -19,3 +19,4 @@ Inspirational
 | Mines &amp; Mountains=950
 | Sparks &amp; Embers=1200
 | Uses=1
+EOB BOB

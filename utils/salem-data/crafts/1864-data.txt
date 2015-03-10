@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Any Nuts;2, Lavender Blewit;1, Autumn Grass;2, Wild Garlic;1
+EOB BOB

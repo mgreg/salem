@@ -1,3 +1,4 @@
 Crafted  | Objects required=Woodblock;12 
 Crafted 
 | Objects required=Woodblock;12
+EOB BOB

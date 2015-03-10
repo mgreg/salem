@@ -1,10 +1,11 @@
 Crafted
 | Objects required=Aspen;1, Hay;2, Sharpened Stick;2
 | Weight=3.00 kg
-
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=1000
 | Hunting &amp; Hideworking=1250
 | Stocks &amp; Cultivars=750
 | Thread &amp; Needle=1250
 | Uses=1
+EOB BOB

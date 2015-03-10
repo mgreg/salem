@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Mystery Weapon Chest;1
-
+EOB BOB
 Food
 | Heals=100,100,100,100
-
+EOB BOB
 PAGENAME

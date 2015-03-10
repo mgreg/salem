@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Rat;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=500
 | Flora &amp; Fauna=700
 | Hunting &amp; Hideworking=900
 | Perennial Philosophy=200
 | Uses=1
+EOB BOB

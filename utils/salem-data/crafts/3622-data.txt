@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Wild Stuffed Turkey;1
-
+EOB BOB
 SpecialFood
 | Heals=17.5,17.5,17.5,17.5
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:06 
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=40 | %ChanceReduce1=40
+EOB BOB

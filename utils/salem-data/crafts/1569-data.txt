@@ -1,3 +1,4 @@
 Crafted | Objects required=Singing Old Log;1, Leather;2, Myrtle Oak Leaves;1 
 Crafted
 | Objects required=Singing Old Log;1, Leather;2, Myrtle Oak Leaves;1
+EOB BOB

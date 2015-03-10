@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Stuffed Argopelter;1
-
+EOB BOB
 SpecialFood
 | Heals=7,17.5,7,7
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:06 
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=10 | %ChanceReduce1=10
+EOB BOB

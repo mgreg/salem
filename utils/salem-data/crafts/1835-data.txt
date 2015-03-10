@@ -1,6 +1,6 @@
 Crafted
 | Objects required=March Hare Hide;1, Cotton Cloth;2, Dried Long Ear;2
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1250
 | Faith &amp; Wisdom=1500
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=1500
 | Perennial Philosophy=500
 | Uses=1
+EOB BOB

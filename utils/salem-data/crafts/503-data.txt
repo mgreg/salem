@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Woodblock;4, Wooden Handle;1, Whittler's Bench;1
+EOB BOB

@@ -2,7 +2,7 @@ Crafted | Objects required=Pumpkin Flesh;1, Jack-o-Lantern;1, Connecticut Field;
 Food | Hea...&quot;</comment>
       <text xml:space="preserve" bytes="749">{{Crafted
 | Objects required=Pumpkin Flesh;1, Jack-o-Lantern;1, Connecticut Field;1, Autumn Gold;1, Bushkin;1, Harvest Moon;1, Small Sugar;1, New World Gourd;1
-
+EOB BOB
 Food
 | Heals=70,40,40,40
 | Uses=8
@@ -13,3 +13,4 @@ Food
 | Gluttony Time=4:00
 | Food Groups= Pumpkins and Gourds
 | FoodReduce1= Pumpkins and Gourds | %Reduce1=95 | %ChanceReduce1=95
+EOB BOB

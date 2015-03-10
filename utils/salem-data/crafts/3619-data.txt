@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Dead Wild Turkey;1
+EOB BOB

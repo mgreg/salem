@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Mystery Box;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Head
 | Artificer Slots=3
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Gold Bar;1, Lacy Edging;5
+EOB BOB

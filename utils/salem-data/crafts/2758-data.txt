@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Loaf of Ryebread;1, Any Poultry Breast;1, Any Plant;2
-
+EOB BOB
 VariableFoodPoultryM
 | Heals=17.5,17.5,20,15
 | Uses=3
@@ -12,3 +12,4 @@ VariableFoodPoultryM
 | Food Groups=Poultry
 | FoodReduce1=Poultry | %Reduce1=20 | %ChanceReduce1=40
 | FoodRestore1=Bread |%Restore1=15 |%ChanceRestore1=85
+EOB BOB

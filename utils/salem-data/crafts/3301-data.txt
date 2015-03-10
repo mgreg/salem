@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Indian Feather;3, Majestic Tail-Feather of Turkey; 2
-
+EOB BOB
 Artifact
 | Difficulty=30 to 15
 | Proficiency Type=Herbs &amp; Sprouts, Cloak &amp; Dagger
 | Blunt Defense=6
 | Impact Defense=12
 | Piercing Defense=6
+EOB BOB

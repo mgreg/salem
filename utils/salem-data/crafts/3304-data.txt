@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Lacy Edging;2, Sea Island Cotton Cloth;4, Amber Coarse-Grain Thread;2
-
+EOB BOB
 Artifact
 | Difficulty=40 to 20
 | Proficiency Type=Stocks &amp; Cultivars, Thread &amp; Needle
@@ -8,3 +8,4 @@ Artifact
 | Common Combat Defense=7
 | Weaving=35
 | Production=8
+EOB BOB

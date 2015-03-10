@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Nice Child Present;1,
 | Weight=2.8 kg
-
+EOB BOB
 Clothing
 | Equipment Slot=Coat
 | Artificer Slots=4
+EOB BOB

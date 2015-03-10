@@ -1,3 +1,4 @@
 Crafted | Objects required=Wild Turkey Thigh;1, Domesticated Turkey Thigh;1, Argopelter Thigh;1 
 Crafted
 | Objects required=Wild Turkey Thigh;1, Domesticated Turkey Thigh;1, Argopelter Thigh;1
+EOB BOB

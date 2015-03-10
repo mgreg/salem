@@ -2,7 +2,8 @@ Crafted | Objects required=Rabbit Skin;8
 Clothing | Equipment Slot=Cloak | Artificer Slots=1 
 Crafted
 | Objects required=Rabbit Skin;8
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=1
+EOB BOB

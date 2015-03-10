@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Seeds of Cabbage;1, Tilled Field;1
 | Weight=0.15 kg
+EOB BOB

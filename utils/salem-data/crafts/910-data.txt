@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Gardening Pot;1, Red Rose;1
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=1375
 | Herbs &amp; Sprouts=650
 | Perennial Philosophy=150
 | Uses=1
+EOB BOB

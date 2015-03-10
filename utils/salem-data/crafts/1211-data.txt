@@ -7,3 +7,4 @@ Inspirational
 | Sparks &amp; Embers=130
 | Sugar &amp; Spice=50
 | Uses=1
+EOB BOB

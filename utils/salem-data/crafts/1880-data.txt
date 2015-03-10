@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Cornmeal Flatbread;1,Bread Oven;1
-
+EOB BOB
 VariableFoodCorn
 | Heals=12,12,12,12
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodCorn
 | Gluttony Time=0:30 
 | Food Groups= Maize
 | FoodReduce1= Maize | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

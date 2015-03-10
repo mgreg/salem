@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Dead Timber Rattler;1
-
+EOB BOB
 Inspirational Artifact
 | Faith &amp; Wisdom=800
 | Flora &amp; Fauna=1200
@@ -8,9 +8,10 @@ Inspirational Artifact
 | Stocks &amp; Cultivars=600
 | Thread &amp; Needle=1200
 | Uses=1
-
+EOB BOB
 | Difficulty=30 to 15
 | Proficiency Type=Mines &amp; Mountains, Cloak &amp; Dagger
 | Blunt Power=11
 | Impact Power=5
 | Piercing Power=5
+EOB BOB

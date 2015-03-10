@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Poultry Egg;1, Onion;1
-
+EOB BOB
 VariableFoodPoultryE
 | Heals=12,16,14,16
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPoultryE
 | Gluttony Time=0:30
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

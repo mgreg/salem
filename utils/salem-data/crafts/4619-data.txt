@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Glass Vial;1, Goldflakes;.05
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=425
 | Faith &amp; Wisdom=600
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=1100
 | Natural Philosophy=785
 | Uses=1
+EOB BOB

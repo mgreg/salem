@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Bugs;2, Dead Wartbite Cricket;1, Yellow Morel;1, Onion;1, Sharpened Stick;1, Fire;1
-
+EOB BOB
 VariableFoodBugs
 | Heals=9,9,9,9
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBugs
 | Gluttony Time=0:30
 | Food Groups= Slugs Bugs and Kritters 
 | FoodReduce1= Slugs Bugs and Kritters | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

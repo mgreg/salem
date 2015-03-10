@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Bar of Pig Iron;1, Anvil;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2200
 | Cloak &amp; Dagger=1250
@@ -10,3 +10,4 @@ Inspirational
 | Sugar &amp; Spice=1050
 | Perennial Philosophy=600
 | Uses=4
+EOB BOB

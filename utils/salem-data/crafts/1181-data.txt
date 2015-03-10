@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Tanning Tub;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=2150
 | Hunting &amp; Hideworking=4500
@@ -8,3 +8,4 @@ Inspirational
 | Thread &amp; Needle=2800
 | Natural Philosophy=2050
 | Uses=1
+EOB BOB

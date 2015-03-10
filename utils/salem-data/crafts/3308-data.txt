@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Tanning Tub;1
-
+EOB BOB
 Artifact
 | Difficulty=40 to 20
 | Proficiency Type=Hunting &amp; Hideworking, Cloak &amp; Dagger
 | Blunt Defense=10
 | Impact Defense=10
 | Piercing Defense=20
+EOB BOB

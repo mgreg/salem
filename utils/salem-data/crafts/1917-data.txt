@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Raw Steak;1, Raw Beaver Cut;1, Devil's Wort;1, Fire;1
-
+EOB BOB
 VariableFoodGame
 | Heals=8,6,6,12
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGame
 | Gluttony Time=3:00
 | Food Groups= Game Meat
 | FoodReduce1= Game Meat | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

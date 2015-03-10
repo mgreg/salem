@@ -1,2 +1,3 @@
 Crafted
 | Objects required= Sharpened Stick;2 , Plant Fibre;1
+EOB BOB

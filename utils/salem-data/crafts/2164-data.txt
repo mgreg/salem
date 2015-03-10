@@ -1,3 +1,4 @@
 Crafted | Objects required=Cotton Cloth;4 
 Crafted
 | Objects required=Cotton Cloth;4
+EOB BOB

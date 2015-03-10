@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Cornmeal;0.60kg, Coarse Salt;1, Bucket of Water;0.50L, Frying Pan;1, Fire;1
-
+EOB BOB
 VariableFoodCorn
 | Heals=13,13,5,5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodCorn
 | Gluttony Time=0:30 
 | Food Groups= Maize
 | FoodReduce1= Maize | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

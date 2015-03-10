@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Shellfish;1, Red Bell Peppers;1, Tomato;1, Leaf of Red Cabbage;2, Radish;1
-
+EOB BOB
 VariableFoodShellfish
 | Heals=8.5,12.5,10.5,1.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodShellfish
 | Gluttony Time=0:30
 | Food Groups= Crustacea and Shellfish
 | FoodReduce1= Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

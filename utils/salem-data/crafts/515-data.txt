@@ -1,5 +1,6 @@
 Crafted
 | Objects required=Silver Pieces;700
-
+EOB BOB
 Clothing
 | Equipment Slot=Face
+EOB BOB

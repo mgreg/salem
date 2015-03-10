@@ -1,3 +1,4 @@
 Crafted | Objects required=Silver Pieces;35 
 Crafted
 | Objects required=Silver Pieces;35
+EOB BOB

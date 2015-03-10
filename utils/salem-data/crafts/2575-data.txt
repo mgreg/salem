@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Mystery Box;1, Sea Island Cotton Cloth;10, Golden Lace;3, Enforced Seam;2, Chantilly Lace;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Head
 | Artificer Slots=5
+EOB BOB

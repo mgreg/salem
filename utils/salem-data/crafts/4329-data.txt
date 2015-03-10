@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Sea Island Cotton Cloth;1, Hydrukey Feather;6
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=4000
 | Cloak &amp; Dagger=1500
 | Thread &amp; Needle=4000
 | Perennial Philosophy=2500
 | Uses=3
+EOB BOB

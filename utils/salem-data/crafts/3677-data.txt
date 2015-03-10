@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Berries;4, Raw Rabbit Cut;1, Gelatinous Lard;1, Frying Pan;1, Fire;1
-
+EOB BOB
 VariableFoodBerries
 | Heals=22,8,20,7
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBerries
 | Gluttony Time=3:00
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

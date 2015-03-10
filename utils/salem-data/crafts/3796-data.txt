@@ -1,5 +1,6 @@
 Crafted
 | Objects required=Mystery Cape Hanger;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
+EOB BOB

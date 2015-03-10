@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of Blueback Tuna;1, Fire;1
-
+EOB BOB
 SpecialFood
 | Heals=12.5,10.5,7.5,7.5
 | Uses=1
@@ -9,3 +9,4 @@ SpecialFood
 | Gluttony Time=0:03 
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

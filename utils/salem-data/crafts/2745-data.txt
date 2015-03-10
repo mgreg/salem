@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of Gold Pickerel;1, Fire;1
-
+EOB BOB
 SpecialFood
 | Heals=6,9,5,7
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:03 
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

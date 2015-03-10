@@ -1,2 +1,3 @@
 Crafted
 |Objects required= Beaver;1, Wishpoosh;1, Raw Beaver Steak;1
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Majestic Acorn;1, Ostrich Fiddlehead;2, Broken Bough;1, Plant Fibre;1 
 Crafted
 | Objects required=Majestic Acorn;1, Ostrich Fiddlehead;2, Broken Bough;1, Plant Fibre;1
+EOB BOB

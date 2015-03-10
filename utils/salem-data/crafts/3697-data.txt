@@ -2,7 +2,7 @@ Crafted | Objects required=Walnut;2, Any Fish;1, Sugar;.5kg, Dehydrated Hucklebe
 SpecialFood | Heals=50,40,45,9 | Uses=1 | Min Blood=10 | Max Blood=10 | Min Phlegm...&quot;</comment>
       <text xml:space="preserve" bytes="722">{{Crafted
 | Objects required=Walnut;2, Any Fish;1, Sugar;.5kg, Dehydrated Huckleberry;1
-
+EOB BOB
 SpecialFood
 | Heals=50,40,45,9
 | Uses=1
@@ -13,3 +13,4 @@ SpecialFood
 | Gluttony Time=2:00
 | Food Groups=Nuts and Seeds
 | FoodRestore1=Nuts and Seeds |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Humble Meat Pie;1, Bread Oven;1
-
+EOB BOB
 VariableFoodGame
 | Heals=17.5,6.5,12.5,4.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGame
 | Gluttony Time=5:00
 | Food Groups=Game Meat
 | FoodReduce1= Game Meat | %Reduce1=80 | %ChanceReduce1=70
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Rested Pie Dough;1, Baking Table;1, Bread Oven;1
-
+EOB BOB
 VariableFoodBread
 | Heals=7,7,7,7
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBread
 | Gluttony Time=4:00 
 | Food Groups= Bread
 | FoodReduce1=Bread | %Reduce1=40 | %ChanceReduce1=80
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Bone;3, Flour;.2kg
+EOB BOB

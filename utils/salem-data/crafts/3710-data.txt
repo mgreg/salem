@@ -1,3 +1,4 @@
 Crafted | Objects required=Egyptian Cotton Cloth;4 
 Crafted
 | Objects required=Egyptian Cotton Cloth;4
+EOB BOB

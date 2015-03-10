@@ -1,3 +1,4 @@
 Crafted | Objects required=Rabbit;1 
 Crafted
 | Objects required=Rabbit;1
+EOB BOB

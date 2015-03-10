@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Boiled Lobster;1
-
+EOB BOB
 Artifact
 | Difficulty=50 to 0
 | Proficiency Type=Cloak &amp; Dagger, Natural Philosophy
 | Common Combat Power=6
 | Common Combat Defense=22
+EOB BOB

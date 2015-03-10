@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Sharpened Stick;2, Whittler's Bench;1
-
+EOB BOB
 Inspirational Artifact
 | Arts &amp; Crafts=350
 | Faith &amp; Wisdom=700
@@ -8,9 +8,10 @@ Inspirational Artifact
 | Law &amp; Lore=350
 | Perennial Philosophy=40
 | Uses=2
-
+EOB BOB
 | Difficulty=10 to 0
 | Proficiency Type=Hammer &amp; Nail, Thread &amp; Needle
 | Common Combat Defense=1
 | Woodworking=5
 | Production=2
+EOB BOB

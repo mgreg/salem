@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Flint;1, Stone;1, Autumn Grass;1, Branch;1
-
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=450
 | Hunting &amp; Hideworking=260
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=500
 | Sugar &amp; Spice=230
 | Uses=3
+EOB BOB

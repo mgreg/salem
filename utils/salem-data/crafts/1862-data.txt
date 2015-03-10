@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Autumn Delight;1, Fireplace;1
-
+EOB BOB
 VariableFoodNuts
 | Heals=18.5,18.5,18.5,18.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodNuts
 | Gluttony Time=0:30 
 | Food Groups= Nuts and Seeds
 | FoodReduce1= Nuts and Seeds | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

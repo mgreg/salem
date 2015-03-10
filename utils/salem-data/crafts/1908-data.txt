@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Raw Steak;1,  Coarse Salt;2, Stove;1
-
+EOB BOB
 VariableFoodGame
 | Heals=2.5,15,25,2.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGame
 | Gluttony Time=0:30
 | Food Groups= Game Meat
 | FoodReduce1= Game Meat | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

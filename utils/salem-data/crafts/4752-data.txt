@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Tilled Field;1
-
+EOB BOB
 Inspirational Food 
 | Heals=10,10,10,10
 | Min Phlegm=13 | Max Phlegm=19
@@ -12,3 +12,4 @@ Inspirational Food
 | Stocks &amp; Cultivars=2200
 | Sugar &amp; Spice=1150
 | Uses=1
+EOB BOB

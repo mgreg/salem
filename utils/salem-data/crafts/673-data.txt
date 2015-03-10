@@ -1,7 +1,7 @@
 Crafted
-
+EOB BOB
 | Objects required=Limed Hide;1, Tanning Tub;1
 |Weight=1.75 kg 
-
-
+EOB BOB
+EOB BOB
 :Tanning|transcludesection=howtotan

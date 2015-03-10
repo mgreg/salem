@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Dried Timber Rattler Skin;1, Cottonseed Oil;.1L, Thorn;1
-
+EOB BOB
 Artifact
 | Common Combat Defense=3
 | Woodworking=12
 | Production=4
+EOB BOB

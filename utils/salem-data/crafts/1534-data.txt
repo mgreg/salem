@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Raw Long Ear;1, Drying Frame;1
 | Weight=.10
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=250
 | Flora &amp; Fauna=950
@@ -10,3 +10,4 @@ Inspirational
 | Thread &amp; Needle=800
 | Natural Philosophy=200
 | Uses=1
+EOB BOB

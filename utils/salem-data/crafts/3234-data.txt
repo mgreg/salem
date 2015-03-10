@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Scalp;1
-
+EOB BOB
 Clothing
 | Equipment Slot= Face, Head
 | Artificer Slots=1
+EOB BOB

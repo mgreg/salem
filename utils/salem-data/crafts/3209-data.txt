@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Glass Bottle;1, Isinglass;1, Humus;6, Grub;3
+EOB BOB

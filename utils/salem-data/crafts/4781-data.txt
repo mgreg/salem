@@ -1,3 +1,4 @@
 Crafted | Objects required= Dead Rat;1 
 Crafted
 | Objects required= Dead Rat;1
+EOB BOB

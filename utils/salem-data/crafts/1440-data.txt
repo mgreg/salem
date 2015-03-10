@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Stone;1, Flint;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=350
 | Flora &amp; Fauna=250
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=250
 | Natural Philosophy=175
 | Uses=2
+EOB BOB

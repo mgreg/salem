@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Poultry Drumstick;1, Tomato;2, Fireplace;1
-
+EOB BOB
 VariableFoodPoultryM
 | Heals=12.5,12.5,10,10
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPoultryM
 | Gluttony Time=0:30
 | Food Groups=Poultry
 | FoodReduce1=Poultry | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Huckleberries;1, Steam Distiller;1
-
+EOB BOB
 SpecialFood
 | Heals=0,0,0,0
 | Min Yellow Bile=1 | Max Yellow Bile=28
 | Uses=1 | Gluttony Time=0:06
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=10 | %ChanceReduce1=10
+EOB BOB

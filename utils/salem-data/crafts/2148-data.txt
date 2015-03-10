@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Clay;1, Kiln;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=750
 | Faith &amp; Wisdom=750
@@ -9,3 +9,4 @@ Inspirational
 | Mines &amp; Mountains=1250
 | Sparks &amp; Embers=900
 | Uses=1
+EOB BOB

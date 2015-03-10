@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Oatmeal;.15kg, Rye Flour;.15kg, Barley Flour;.15kg, Wheat Flour;.15kg, Bucket of Water;.10L
+EOB BOB

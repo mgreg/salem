@@ -1,3 +1,4 @@
 Crafted  | Objects required=Sharpened Stick;1, Woodblock;2 
 Crafted 
 | Objects required=Sharpened Stick;1, Woodblock;2
+EOB BOB

@@ -1,5 +1,7 @@
 Crafted
-
+EOB BOB
 | Where found=Autumnal, Grassland, Coniferous, Swamp
-
+EOB BOB
 | Objects required=Waxing Toadstool;1, Waning Toadstool;1, Sugar Caps;1, Lobster Mushroom;1, Lavender Blewit;1, Witch's Hat;1, Yellow Morel;1
+EOB BOB
+EOB BOB

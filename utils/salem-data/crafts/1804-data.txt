@@ -3,3 +3,4 @@ Crafted
 Clothing
 | Equipment Slot=Legs
 | Artificer Slots=3
+EOB BOB

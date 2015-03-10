@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Dried Hide;1, Leather;1, Nails;1, Board;1, Deer Antlers;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=950
 | Cloak &amp; Dagger=1000
@@ -8,3 +8,4 @@ Inspirational
 | Hammer &amp; Nail=950
 | Hunting &amp; Hideworking=2650
 | Uses=6
+EOB BOB

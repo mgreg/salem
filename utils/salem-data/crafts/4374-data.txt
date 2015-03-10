@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Leech;1, Sharpened Stick;1, Dead Wartbite Cricket;1
-
+EOB BOB
 Artifact
 | Difficulty=15 to 5
 | Proficiency Type=Cloak &amp; Dagger
 | Criminality=5
+EOB BOB

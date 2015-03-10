@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Stalls;1, Silver Pieces;350, Silicate Compound;5, Crucible;1
+EOB BOB

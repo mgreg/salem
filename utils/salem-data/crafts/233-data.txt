@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Stalls;1, Silver Pieces;2500
+EOB BOB

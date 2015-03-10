@@ -1,10 +1,11 @@
 Crafted
 | Objects required=Rags;4
 | Weight=.35 kg 
-
+EOB BOB
 Artifact
 | Difficulty=15 to 5
 | Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
 | Blunt Power=2
 | Impact Power=5
 | Piercing Power=2
+EOB BOB

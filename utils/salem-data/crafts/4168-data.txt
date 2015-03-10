@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Wooden Handle;1, Wrought Iron Bar;2
+EOB BOB

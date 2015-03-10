@@ -1,16 +1,17 @@
 Crafted
 | Objects required=Oyster;1
 | Weight=0.03 kg
-
+EOB BOB
 Inspirational Artifact
 | Arts &amp; Crafts=1350
 | Faith &amp; Wisdom=1650
 | Law &amp; Lore=1200
 | Natural Philosophy=2100
 | Uses=5
-
+EOB BOB
 | Difficulty=50 to 0
 | Proficiency Type=Cloak &amp; Dagger, Natural Philosophy
 | Affluence=30
 | Common Combat Power=8
 | Common Combat Defense=9
+EOB BOB

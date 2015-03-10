@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Wooden Handle;1, Shellback Shell;1, Turkey Feathers;2, Stone;12
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2500
 | Cloak &amp; Dagger=2250
 | Flora &amp; Fauna=2850
 | Mines &amp; Mountains=3100
 | Uses=10
+EOB BOB

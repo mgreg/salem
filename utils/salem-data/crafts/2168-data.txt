@@ -1,10 +1,10 @@
 Crafted
 | Objects required=Egyptian Cotton Cloth;5
-
+EOB BOB
 Clothing
 | Equipment Slot=Coat
 | Artificer Slots=3
-
+EOB BOB
 PAGENAME
 PAGENAME
 PAGENAME

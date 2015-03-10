@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Ghostly Whitefish;1, Coffin Plank;1, Beautiful Seashell;1, Seaweed;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=750
 | Faith &amp; Wisdom=2000
@@ -9,3 +9,4 @@ Inspirational
 | Stocks &amp; Cultivars=1500
 | Perennial Philosophy=750
 | Uses=5
+EOB BOB

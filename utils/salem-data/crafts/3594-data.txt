@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Oyster;1, Sharpened Stick;1
 | Weight=.06 kg
+EOB BOB

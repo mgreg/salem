@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Silver;100
+EOB BOB

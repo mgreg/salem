@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Ear of Cereal;1, Grindstone;1, Copper Grinder;1, Windmill;1
+EOB BOB

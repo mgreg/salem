@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Carrot;1, Fire;1
-
+EOB BOB
 SpecialFood 
 | Heals=12,7,12,7.5
 | Min Phlegm=8 | Max Phlegm=12
 | Uses=1 | Gluttony Time= 0:15
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10 
+EOB BOB

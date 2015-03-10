@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Compost;1
 | Weight=.50 kg
+EOB BOB

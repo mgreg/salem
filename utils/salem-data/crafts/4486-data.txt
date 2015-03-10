@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Dehydrated Rose;1
+EOB BOB

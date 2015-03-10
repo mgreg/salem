@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Leavened Ryebread Dough;1, Bread Oven;1
-
+EOB BOB
 SpecialFood
 | Heals=21,11,7,11
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=0:30
 | Food Groups=Bread
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

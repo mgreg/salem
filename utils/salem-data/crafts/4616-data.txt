@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Rubble;1, Sifting Pan;1, Prospector's Pan;1, Water;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=50
 | Mines &amp; Mountains=650
 | Sparks &amp; Embers=285
 | Natural Philosophy=170
 | Uses=1
+EOB BOB

@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Clay;1, Kiln;1
 | Weight=2.00 kg
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2500
 | Cloak &amp; Dagger=1000
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=2000
 | Perennial Philosophy=500
 | Uses=1
+EOB BOB

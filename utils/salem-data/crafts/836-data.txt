@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Tilled Field;1, Seeds of Pumpkin;50
-
+EOB BOB
 Inspirational Food 
 | Heals=5.5,5.5,5.5,6
 | Min Blood=12 | Max Blood=18
@@ -13,3 +13,4 @@ Inspirational Food
 | Sugar &amp; Spice=1750
 | Natural Philosophy=1150
 | Uses=1
+EOB BOB

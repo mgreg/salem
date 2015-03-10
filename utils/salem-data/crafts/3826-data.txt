@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Raw Rabbit Cut;1, Meatsmoker;1
-
+EOB BOB
 SpecialFood 
 | Heals=1.5,4.5,1.5,3.5
 | Min Phlegm=1 | Max Phlegm=32
 | Uses=1 | Gluttony Time=0:06
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20
+EOB BOB

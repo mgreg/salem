@@ -1,11 +1,11 @@
 Crafted
 | Objects required=Lilypad Bulb;1, Autumn Grass;2, Medusa Head Jellyfish;1,
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=2525
 | Faith &amp; Wisdom=2525
 | Natural Philosophy=2525
 | Perennial Philosophy=1755
 | Uses=1
-
+EOB BOB
 PAGENAME

@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Mystery Cape Hanger;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=4
+EOB BOB

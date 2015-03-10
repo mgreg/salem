@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Dried Argopelt;2, Argopelter Beak;1, Oiled Board;2
+EOB BOB

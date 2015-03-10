@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Plant Fibre;6
-
+EOB BOB
 Clothing
 | Equipment Slot=Legs
 | Artificer Slots=1
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Stalls;1, Silver;100 
 Crafted
 | Objects required=Stalls;1, Silver;100
+EOB BOB

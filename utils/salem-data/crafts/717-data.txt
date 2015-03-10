@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Cotton;1, Milkweed Jute;1, Rags;1, Tuft of Spider Silk;1, Spruce Roots;1, Bark Fibres;1
+EOB BOB

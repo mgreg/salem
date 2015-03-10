@@ -1,3 +1,4 @@
 Crafted | Objects required=Rat Swatch;10 
 Crafted
 | Objects required=Rat Swatch;10
+EOB BOB

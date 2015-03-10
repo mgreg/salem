@@ -1,2 +1,3 @@
 Crafted
 | Objects required= Autumn Grass;5 
+EOB BOB

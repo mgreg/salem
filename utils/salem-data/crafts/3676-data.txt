@@ -1,3 +1,4 @@
 Crafted | Objects required=Flour;.25kg, Bucket of Water;.75L 
 Crafted
 | Objects required=Flour;.25kg, Bucket of Water;.75L
+EOB BOB

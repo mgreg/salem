@@ -2,7 +2,7 @@ Crafted | Objects required=Any Shellfish;1, Boiled Lobster;1, Frog Legs;1
 VariableFoodShellfish | Heals=22.5,15.5,13.5,22.5 | Uses=1 | Min Blood=35 | Max Blood=40 | Min...&quot;</comment>
       <text xml:space="preserve" bytes="656">{{Crafted
 | Objects required=Any Shellfish;1, Boiled Lobster;1, Frog Legs;1
-
+EOB BOB
 VariableFoodShellfish
 | Heals=22.5,15.5,13.5,22.5
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodShellfish
 | Gluttony Time=0:30
 | Food Groups=Crustacea and Shellfish
 | FoodReduce1=Crustacea and Shellfish | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

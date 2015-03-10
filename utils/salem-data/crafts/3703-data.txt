@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Poultry Wing;1, Pepper;.01kg, Any Bellpeppers;1
-
+EOB BOB
 VariableFoodPoultryM
 | Heals=9.5,9.5,9,9
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPoultryM
 | Gluttony Time=0:30
 | Food Groups=Poultry
 | FoodReduce1=Poultry | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

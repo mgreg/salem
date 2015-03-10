@@ -2,7 +2,7 @@ Crafted | Objects required=Clover Roll Dough;1, Stove;1
 VariableFoodBread | Heals=21,11,7,11 | Uses=1 | Min Blood=20 | Max Blood=24 | Min Phlegm=20 | Max Phlegm=24 | Mi...&quot;</comment>
       <text xml:space="preserve" bytes="591">{{Crafted
 | Objects required=Clover Roll Dough;1, Stove;1
-
+EOB BOB
 VariableFoodBread
 | Heals=21,11,7,11
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodBread
 | Gluttony Time=0:30 
 | Food Groups= Bread
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Cabbage Leaf;4, Jalapeno;1, Devil's Wort;1, Garlic;1, Onion;1
-
+EOB BOB
 VariableFoodGreens
 | Heals=62.5,82,54,45
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGreens
 | Gluttony Time=1:00
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

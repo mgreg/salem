@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Woodblock;1, Branch;3, Maple Leaf;2
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=340
 | Cloak &amp; Dagger=190
@@ -9,3 +9,4 @@ Inspirational
 | Hammer &amp; Nail=640
 | Law &amp; Lore=350
 | Uses=2
+EOB BOB

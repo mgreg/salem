@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Crab;1, Stone;1
-
+EOB BOB
 Artifact
 | Difficulty=25 to 5
 | Proficiency Type= Mines &amp; Mountains, Cloak &amp; Dagger
 | Blunt Power=7
 | Impact Power=3
 | Piercing Power=3
+EOB BOB

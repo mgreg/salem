@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Pumpkin Flesh;2, Barley Flour;.15kg, Turkey Egg;1
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=16,14,14,14
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPumpkins
 | Gluttony Time=3:00
 | Food Groups=Pumpkins and Gourds
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

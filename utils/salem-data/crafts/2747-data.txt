@@ -1,6 +1,6 @@
 Crafted 
 | Objects required=Filet of any Fish;2, Hellish Halibut;1, Devil's Wort;1, Turkey Egg;1, Radish;4, Beetle;1 
-
+EOB BOB
 VariableFoodFish
 | Heals=17.5,20,12,25
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=1:00
 | Food Groups=Fishes
 | FoodReduce1=Fishes | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

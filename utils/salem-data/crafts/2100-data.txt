@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Highlander's Jacket;1, Needle;1, Sea Island Cotton Cloth;5
-
+EOB BOB
 Clothing
 | Equipment Slot=Torso
 | Artificer Slots=4
+EOB BOB

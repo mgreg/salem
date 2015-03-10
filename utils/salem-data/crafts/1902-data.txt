@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Cabbage Leaf;5, White Cornmeal;.4kg, Fire;1
-
+EOB BOB
 VariableFoodGreens
 | Heals=8,11,9,12
 | Uses=4
@@ -11,3 +11,4 @@ VariableFoodGreens
 | Gluttony Time=0:30 
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

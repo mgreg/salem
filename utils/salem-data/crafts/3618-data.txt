@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Turkey Hen;1, Turkey Gobbler;1
 | Weight=3.00 kg
+EOB BOB

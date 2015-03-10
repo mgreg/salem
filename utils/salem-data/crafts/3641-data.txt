@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Wild Turkey Drumstick;1, Domesticated Turkey Drumstick;1, Argopelter Drumstick;1
+EOB BOB

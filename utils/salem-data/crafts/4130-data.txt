@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Silver Pieces;70, Franklin Finefurnishings;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=1200
 | Cloak &amp; Dagger=1250
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=3100 
 | Natural Philosophy=550
 | Uses=5
+EOB BOB

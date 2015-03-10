@@ -1,3 +1,4 @@
 Crafted  | Objects required=Dried Bark;2 
 Crafted 
 | Objects required=Dried Bark;2
+EOB BOB

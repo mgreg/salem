@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Loaf of Ryebread;1, Turkey Egg;1, Sugar;.5kg, Frying Pan;1, Stove;1
-
+EOB BOB
 SpecialFood
 | Heals=10,10,10,10
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=2:00 
 | Food Groups= Bread
 | FoodRestore1=Bread |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Any Bellpeppers;1, Any Mushroom;2, Raw Rabbit Cut;1, Garlic;1
+EOB BOB

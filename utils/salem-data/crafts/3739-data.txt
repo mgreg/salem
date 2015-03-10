@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Glass Jar;1, Wood Choppings;10, Charcoal;4
+EOB BOB

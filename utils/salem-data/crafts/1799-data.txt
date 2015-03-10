@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Bugs;1, Frog;1, Charred Milkweed Fibre;1, Fire;1
-
+EOB BOB
 VariableFoodBugs 
 | Heals=7.5,7.5,5,5
 | Min Blood=13 | Max Blood=15
@@ -10,3 +10,4 @@ VariableFoodBugs
 | Uses=1 | Gluttony Time=0:15
 | Food Groups=Slugs Bugs and Kritters
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Jackalope Antlers;1, Plant Fibre;1
-
+EOB BOB
 Artifact
 | Difficulty=25 to 10
 | Proficiency Type=Arts &amp; Crafts, Cloak &amp; Dagger
@@ -8,3 +8,4 @@ Artifact
 | Impact Defense=5
 | Piercing Defense=5
 | Feral Defense=9
+EOB BOB

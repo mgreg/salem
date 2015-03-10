@@ -1,3 +1,4 @@
 Crafted |Objects required= Bear;1 
 Crafted
 |Objects required= Bear;1
+EOB BOB

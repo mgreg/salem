@@ -7,14 +7,15 @@ SpecialFood
 | Uses=1 | Gluttony Time=0:06
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=50 | %ChanceReduce1=50
-
+EOB BOB
 Crafted
 | Objects required=Gardening Pot;1, Huckleberries;1
 | Weight=.10 kg
-
+EOB BOB
 SpecialFood 
 | Heals=2.5,2.5,2.5,2.5
 | Min Yellow Bile=5 | Max Yellow Bile=6
 | Uses=1 | Gluttony Time=0:06
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

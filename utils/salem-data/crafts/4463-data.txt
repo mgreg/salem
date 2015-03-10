@@ -1,3 +1,4 @@
 Crafted | Objects required=Memento Mori;1 
 Crafted
 | Objects required=Memento Mori;1
+EOB BOB

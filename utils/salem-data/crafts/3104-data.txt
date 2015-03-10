@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Nutcracker Suite;1, Stove;1
-
+EOB BOB
 VariableFoodNuts
 | Heals=9,9,9,9
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodNuts
 | Gluttony Time=0:30
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

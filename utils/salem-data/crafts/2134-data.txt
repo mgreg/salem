@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Clay;3, Charcoal;2, Lime;1
-
+EOB BOB
 Inspirational Artifact
 | Arts &amp; Crafts=1275
 | Hammer &amp; Nail=500
@@ -9,9 +9,10 @@ Inspirational Artifact
 | Stocks &amp; Cultivars=800
 | Thread &amp; Needle=500
 | Uses=3
-
+EOB BOB
 | Difficulty=15 to 5
 | Proficiency Type=Mines &amp; Mountains, Cloak &amp; Dagger
 | Blunt Power=5
 | Impact Power=2
 | Piercing Power=2
+EOB BOB

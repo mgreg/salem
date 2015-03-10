@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Cabbage;1
+EOB BOB

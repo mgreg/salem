@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Cape Codfish;1, Axe;1, Metal Axe;1
+EOB BOB

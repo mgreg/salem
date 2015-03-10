@@ -2,7 +2,7 @@ Crafted |Objects required=Candy Basket;1
 SpecialFood | Heals=7,7,7,7 | Uses=1 | Min Blood=5 | Max Blood=5 | Min Phlegm=5 | Max Phlegm=5 | Min Yellow Bile=5 | Max Yellow...&quot;</comment>
       <text xml:space="preserve" bytes="744">{{Crafted
 |Objects required=Candy Basket;1
-
+EOB BOB
 SpecialFood
 | Heals=7,7,7,7
 | Uses=1
@@ -13,3 +13,4 @@ SpecialFood
 | Gluttony Time=0:30
 | Food Groups=Foods
 | FoodRestore1=Foods |%Restore1=30 |%ChanceRestore1=20
+EOB BOB

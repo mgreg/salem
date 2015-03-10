@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Leather;1, Plant Fibre;2
-
+EOB BOB
 Artifact
 | Difficulty=10 to 0
 | Proficiency Type=Hunting &amp; Hideworking, Cloak &amp; Dagger
 | Blunt Defense=2
 | Impact Defense=2
 | Piercing Defense=4
+EOB BOB

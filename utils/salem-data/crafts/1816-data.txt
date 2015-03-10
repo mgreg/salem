@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of any Fish;3, Cape Codfish;1, Lobster Mushroom;1, White Cornmeal;.15kg
-
+EOB BOB
 VariableFoodFish
 | Heals=15,15,15,15
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=0:30 
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

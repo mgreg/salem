@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Cabbage Leaf;3, Raw Bear Steak;1, Autumn Grass;2, Fire;1
-
+EOB BOB
 VariableFoodGreens
 | Heals=30,22,26,20
 | Uses=2
@@ -11,3 +11,4 @@ VariableFoodGreens
 | Gluttony Time=0:30
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

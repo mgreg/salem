@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Raw Sea Island Cotton;1
-
+EOB BOB
 i|Yellow-Stained Cotton
 i|Indian Cotton
 i|Egyptian Cotton

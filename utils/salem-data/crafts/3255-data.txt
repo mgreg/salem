@@ -1,3 +1,4 @@
 Crafted |Objects required= Any Dried Hide;8, Board;4 
 Crafted
 |Objects required= Any Dried Hide;8, Board;4
+EOB BOB

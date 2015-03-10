@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Wildberry Pie;1, Bread Oven;1
-
+EOB BOB
 VariableFoodBerries
 | Heals=6,12,17,4
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBerries
 | Gluttony Time=5:00
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=80 | %ChanceReduce1=70
+EOB BOB

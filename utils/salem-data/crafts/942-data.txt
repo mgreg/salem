@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Head of Red Cabbage;1
-
+EOB BOB
 SpecialFood
 | Heals=4,4,4,4
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:01 
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=5
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Sea Island Cotton Cloth;4 
 Crafted
 | Objects required=Sea Island Cotton Cloth;4
+EOB BOB

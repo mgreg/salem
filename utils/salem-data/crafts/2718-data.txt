@@ -1,3 +1,4 @@
 Crafted |Objects required = Unleavened Crescent Croissant Dough;1, Baking Table;1 
 Crafted
 |Objects required = Unleavened Crescent Croissant Dough;1, Baking Table;1
+EOB BOB

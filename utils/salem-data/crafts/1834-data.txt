@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Rabbit Skin;1, Cotton Cloth;2, Dried Long Ear;2
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=750
 | Cloak &amp; Dagger=750
@@ -8,3 +8,4 @@ Inspirational
 | Sugar &amp; Spice=1500
 | Perennial Philosophy=250
 | Uses=1
+EOB BOB

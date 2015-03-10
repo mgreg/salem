@@ -1,3 +1,5 @@
 Crafted
-
+EOB BOB
 | Objects required=Ore Smelter;1
+EOB BOB
+EOB BOB

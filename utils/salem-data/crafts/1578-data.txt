@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Any Mushroom;1, Branch;1, Fire;1
-
+EOB BOB
 VariableFoodMushrooms
 | Heals=7.5,8.5,9.2,8.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodMushrooms
 | Gluttony Time=0:15 
 | Food Groups= Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

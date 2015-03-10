@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Stuffed Turkey;1, Wild Stuffed Turkey;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1500
 | Faith &amp; Wisdom=2500
 | Herbs &amp; Sprouts=3000
 | Sugar &amp; Spice=2000
 | Uses=1
+EOB BOB

@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Silver Pieces;45
-
+EOB BOB
 Food
 | Heals=25,25,25,25
 | Uses=10 | Gluttony Time=0:00
+EOB BOB

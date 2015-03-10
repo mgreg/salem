@@ -1,3 +1,4 @@
 Crafted | Objects required=Blister Steel Bar;1, Nails;2, Wooden Handle;1, Anvil;1 
 Crafted
 | Objects required=Blister Steel Bar;1, Nails;2, Wooden Handle;1, Anvil;1
+EOB BOB

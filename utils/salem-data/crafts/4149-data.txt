@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Mystery Tool Box;1, Gardener's Pack;1
+EOB BOB

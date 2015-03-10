@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Tilled Field;1
-
+EOB BOB
 Inspirational
 | Herbs &amp; Sprouts=1250
 | Stocks &amp; Cultivars=1000
 | Sugar &amp; Spice=550
 | Natural Philosophy=1150
 | Uses=1
+EOB BOB

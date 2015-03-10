@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Dehydrated Cranberry;1, Roasted Chestnut;1, Roasted Pine Nuts;1, Dehydrated Blackberry;1, Dehydrated Crowberry;1, Dehydrated Huckleberry;1, Roasted Hickory Nut;1, Walnut;1
 | Weight=0.10 kg
-
+EOB BOB
 Food
 | Heals=13,20,13,9
 | Uses=20
@@ -12,3 +12,4 @@ Food
 | Gluttony Time=0:01 
 | Food Groups=Nuts and Seeds 
 | FoodReduce1=Nuts and Seeds | %Reduce1=5 | %ChanceReduce1=5
+EOB BOB

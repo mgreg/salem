@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Etterfang;1, Garlic;1, Oakworth;2, Silver Pieces;250
 | Weight=.25 kg
+EOB BOB

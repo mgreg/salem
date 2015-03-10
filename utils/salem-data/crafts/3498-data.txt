@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Roasted Pine Nuts;1, Oatmeal;0.15kg, Baking Table;1
-
+EOB BOB
 SpecialFood
 | Heals=9,11,8,23
 | Min Blood=30 | Max Blood=34
@@ -10,3 +10,4 @@ SpecialFood
 | Uses=1 | Gluttony Time=3:00
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

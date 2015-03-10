@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Sea Island Cotton Cloth;5
-
+EOB BOB
 Artifact
 | Difficulty=35 to 15
 | Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
 | Blunt Power=6
 | Impact Power=13
 | Piercing Power=6
+EOB BOB

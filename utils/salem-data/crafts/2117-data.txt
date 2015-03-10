@@ -11,3 +11,4 @@ Food
 | Gluttony Time=2:00
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat | %Reduce1=35 | %ChanceReduce1=85
+EOB BOB

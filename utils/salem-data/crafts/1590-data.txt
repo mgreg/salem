@@ -1,6 +1,6 @@
 Crafted
 |Objects required= Brain;1, Raw Beaver Steak;1, Raw Beaver Cut;2, Garlic;2, Pepper;.05kg, Stove;1
-
+EOB BOB
 SpecialFood
 | Heals=90,8.5,5,27.5
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=2:00
 | Food Groups=Game Meat
 | FoodRestore1=Game Meat |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

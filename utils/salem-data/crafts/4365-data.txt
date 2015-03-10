@@ -1,3 +1,4 @@
 Crafted  | Objects required=Rags;1, High Notes of Amber Resin;1, Jar of Tar;1, Lime;2 
 Crafted 
 | Objects required=Rags;1, High Notes of Amber Resin;1, Jar of Tar;1, Lime;2
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Rabbit Skin;1, Plant Fibre;3
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=350
 | Faith &amp; Wisdom=550
@@ -9,3 +9,4 @@ Inspirational
 | Hunting &amp; Hideworking=1150
 | Thread &amp; Needle=650
 | Uses=3
+EOB BOB

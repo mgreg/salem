@@ -1,2 +1,3 @@
 Crafted
 | Objects required= Wild Garlic;1, Garlic;1, Clove of Garlic;1
+EOB BOB

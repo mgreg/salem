@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Silk Cloth;4, Polished Buttons;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Legs
 | Artificer Slots=3
+EOB BOB

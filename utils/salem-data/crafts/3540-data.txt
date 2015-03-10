@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Hickory Nut;1, Fire;1
-
+EOB BOB
 SpecialFood 
 | Heals=2,5,2,8
 | Min Black Bile=8 | Max Black Bile=10 
 | Uses=2 | Gluttony Time= 0:05
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=10 | %ChanceReduce1=50 
+EOB BOB

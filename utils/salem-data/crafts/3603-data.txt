@@ -2,7 +2,7 @@ Crafted | Objects required=Brown Bread Dough;1, Bread Oven;1
 VariableFoodBread | Heals=32,38,35,91 | Uses=1 | Min Blood=56 | Max Blood=60 | Min Phlegm=56 | Max Phlegm=6...&quot;</comment>
       <text xml:space="preserve" bytes="598">{{Crafted
 | Objects required=Brown Bread Dough;1, Bread Oven;1
-
+EOB BOB
 VariableFoodBread
 | Heals=32,38,35,91
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodBread
 | Gluttony Time=1:00 
 | Food Groups= Bread
 | FoodReduce1=Bread | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

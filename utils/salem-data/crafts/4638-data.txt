@@ -2,7 +2,8 @@ Crafted | Objects required=Mystery Cape Hanger;1, Miner's Pack;1
 Clothing | Equipment Slot=Cloak | Artificer Slots=4 
 Crafted
 | Objects required=Mystery Cape Hanger;1, Miner's Pack;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=4
+EOB BOB

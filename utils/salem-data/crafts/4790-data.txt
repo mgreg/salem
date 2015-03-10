@@ -1,6 +1,6 @@
 Crafted
 | Objects required= Blistersteel Bar;1, Anvil;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2450
 | Cloak &amp; Dagger=2050
@@ -8,3 +8,4 @@ Inspirational
 | Sparks &amp; Embers=3900
 | Perennial Philosophy=800
 | Uses=4
+EOB BOB

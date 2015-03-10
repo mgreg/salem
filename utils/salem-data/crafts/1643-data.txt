@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Drying Frame;1, Red Herring;1
-
+EOB BOB
 SpecialFood
 | Heals=5,7,8,8
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=0:03
 | Food Groups=Fishes
 | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20
+EOB BOB

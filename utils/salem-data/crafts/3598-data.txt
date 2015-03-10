@@ -1,3 +1,4 @@
 Crafted | Objects required=Ill-Tempered Lobster;1, Plant Fibre;1 
 Crafted
 | Objects required=Ill-Tempered Lobster;1, Plant Fibre;1
+EOB BOB

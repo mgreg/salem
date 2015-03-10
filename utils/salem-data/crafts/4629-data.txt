@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Any Gem;1, Gemcutter's Wheel;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=375
 | Mines &amp; Mountains=925
 | Sparks &amp; Embers=680
 | Natural Philosophy=485
 | Uses=2
+EOB BOB

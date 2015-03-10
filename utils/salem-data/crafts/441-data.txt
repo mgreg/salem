@@ -1,3 +1,4 @@
 Crafted 
 | Objects required=Carpenter's Bench;1, Dry Board;1, Warped Board;1
 | Weight=3.50 kg 
+EOB BOB

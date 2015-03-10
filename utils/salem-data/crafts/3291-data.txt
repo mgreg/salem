@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Bone;1, Plant Fibre;1
-
+EOB BOB
 Artifact
 | Difficulty=15 to 5
 | Proficiency Type=Arts &amp; Crafts, Cloak &amp; Dagger
@@ -8,3 +8,4 @@ Artifact
 | Impact Defense=3
 | Piercing Defense=3
 | Feral Defense=3
+EOB BOB

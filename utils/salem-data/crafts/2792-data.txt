@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Any Cabbage Leaf;6, Any Bellpeppers;1, Any Garlic;1, White Corn Oil;.15L
-
+EOB BOB
 VariableFoodGreens
 | Heals=22.5,22.5,20,22.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGreens
 | Gluttony Time=0:15
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

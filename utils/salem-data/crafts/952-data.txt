@@ -1,2 +1,3 @@
 Crafted
 | Objects required=White Cornmeal;50, Corn Oil;.15L, Spooktacular;1, Bucket of Water;0.25
+EOB BOB

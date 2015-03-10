@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of Blueback Tuna;1, Any Bellpeppers;1, Clove of Garlic;1, Pepper;.05kg
-
+EOB BOB
 VariableFoodFish
 | Heals=30,0,15,0
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=2:00
 | Food Groups=Fishes
 | FoodRestore1=Fishes |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

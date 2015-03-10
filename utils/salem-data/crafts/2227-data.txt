@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Fish;1,Leather;1,Aged Driftwood;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=1250
 | Flora &amp; Fauna=1000
@@ -9,3 +9,4 @@ Inspirational
 | Sugar &amp; Spice=1700
 | Natural Philosophy=1000
 | Uses=6
+EOB BOB

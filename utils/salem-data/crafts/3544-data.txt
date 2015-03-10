@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Carrot;1, Gardening Pot;1
-
+EOB BOB
 SpecialFood
 | Heals=5,15,5,5
 | Uses=1
@@ -8,10 +8,10 @@ SpecialFood
 | Gluttony Time=0:10 
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30
-
+EOB BOB
 Foraged
 | Where found=Dead Rabbit
-
+EOB BOB
 SpecialFood
 | Heals=5,15,5,5
 | Uses=1
@@ -19,3 +19,4 @@ SpecialFood
 | Gluttony Time=0:10 
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30
+EOB BOB

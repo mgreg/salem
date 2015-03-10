@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Raw Meat Cut;1, Raw Rabbit Steak;1, Wild Garlic;1, Garlic;1, Fire;1
-
+EOB BOB
 VariableFoodGame
 | Heals=12,37,15,18
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGame
 | Gluttony Time=0:30
 | Food Groups= Game Meat
 | FoodReduce1= Game Meat | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

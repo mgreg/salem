@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Oatmeal Crackers;1, Bread Oven;1
-
+EOB BOB
 VariableFoodBread
 | Heals=8,8,8,8
 | Uses=3
@@ -11,3 +11,4 @@ VariableFoodBread
 | Gluttony Time=0:15
 | Food Groups=Bread
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

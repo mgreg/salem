@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Virginia Snail;1, Coarse Salt;1
-
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=1250
 | Herbs &amp; Sprouts=900
@@ -8,3 +8,4 @@ Inspirational
 | Sparks &amp; Embers=750
 | Stocks &amp; Cultivars=1100
 | Uses=1
+EOB BOB

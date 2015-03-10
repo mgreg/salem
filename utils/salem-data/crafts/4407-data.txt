@@ -1,10 +1,11 @@
 Crafted
-
+EOB BOB
 | Objects required=Smooth Stone;1, Hydrukey Feather;4
-
-
+EOB BOB
+EOB BOB
 Artifact
 | Difficulty=25 to 10
 | Proficiency Type=Perennial Philosophy
 | Impact Power=7
 | Spellpower=10
+EOB BOB

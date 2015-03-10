@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unboiled Sea Loaf;1, Copper Pot;1, Clay Pot;1, Fireplace;1
-
+EOB BOB
 VariableFoodFish
 | Heals=9.5,7.5,12,12
 | Uses=4
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=3:00
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

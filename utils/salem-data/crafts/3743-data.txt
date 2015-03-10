@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Caterpillar;1, Glass Jar;1, Myrtle Oak Leaves;2, Oak Duff;2
-
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=2325
 | Law &amp; Lore=885
 | Sugar &amp; Spice=1450
 | Natural Philosophy=1450
 | Uses=4
+EOB BOB

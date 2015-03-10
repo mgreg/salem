@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Clay;1, Kiln;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=2000
 | Hammer &amp; Nail=2000
@@ -9,3 +9,4 @@ Inspirational
 | Stocks &amp; Cultivars=1500
 | Perennial Philosophy=1000
 | Uses=1
+EOB BOB

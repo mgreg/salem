@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Poultry Thigh;1, Baby Corn;1, Carrot;2, Fire;1
-
+EOB BOB
 VariableFoodPoultryM
 | Heals=17.5,17.5,0,0
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPoultryM
 | Gluttony Time=0:30
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

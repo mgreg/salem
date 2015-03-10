@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Three Virginians;1, Fireplace;1
-
+EOB BOB
 Food
 | Heals=5,15,5,15
 | Uses=9
@@ -11,3 +11,4 @@ Food
 | Gluttony Time=2:00
 | Food Groups=Slugs Bugs and Kritters
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=50 | %ChanceReduce1=20
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of any Fish;2, Ghostly Whitefish;1, Ghost Rider;1, Fireplace;1
-
+EOB BOB
 VariableFoodFish
 | Heals=0,0,35,35
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=0:30
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

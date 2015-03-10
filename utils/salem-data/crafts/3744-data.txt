@@ -1,10 +1,11 @@
 Crafted
 | Objects required=Walnut Shell;1
 | Weight=0.05 kg
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=2500
 | Herbs &amp; Sprouts=3700
 | Sparks &amp; Embers=800
 | Perennial Philosophy=1900
 | Uses=2
+EOB BOB

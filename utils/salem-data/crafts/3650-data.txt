@@ -1,6 +1,6 @@
 Crafted
 | Objects required=English Muffins Dough Leavened;1, Bread Oven;1
-
+EOB BOB
 VariableFoodBread
 | Heals=15,14,12,10
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBread
 | Gluttony Time=0:30
 | Food Groups= Bread
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

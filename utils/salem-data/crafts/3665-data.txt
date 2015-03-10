@@ -2,7 +2,7 @@ Crafted | Objects required=Sizzled Grub;1, Berry Jam;1, Sugar;.1kg, Wild Garlic;
 SpecialFood | Heals=100,100,100,100 | Uses=1 | Min Blood=10 | Max Blood=10 | Min Phleg...&quot;</comment>
       <text xml:space="preserve" bytes="760">{{Crafted
 | Objects required=Sizzled Grub;1, Berry Jam;1, Sugar;.1kg, Wild Garlic;1
-
+EOB BOB
 SpecialFood
 | Heals=100,100,100,100
 | Uses=1
@@ -13,3 +13,4 @@ SpecialFood
 | Gluttony Time=2:00
 | Food Groups=Slugs Bugs and Kritters
 | FoodRestore1=Slugs Bugs and Kritters |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

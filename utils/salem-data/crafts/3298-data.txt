@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Bone;3, Any Silk;2
-
+EOB BOB
 Artifact
 | Difficulty=20 to 5
 | Proficiency Type=Mines &amp; Mountains, Thread &amp; Needle
 | Common Combat Defense=3
 | Mining=12
 | Production=4
+EOB BOB

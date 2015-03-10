@@ -1,6 +1,6 @@
 Foraged
 |Where found = Grassland, Badlands
-
+EOB BOB
 SpecialFood
 | Heals=4,4,4,4
 | Uses=1
@@ -11,10 +11,10 @@ SpecialFood
 | Gluttony Time=0:05
 | Food Groups=Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=50 | %ChanceReduce1=50
-
+EOB BOB
 Crafted
 | Objects required=Gardening Pot;1, Sugar Caps;1
-
+EOB BOB
 SpecialFood
 | Heals=4,4,4,4
 | Uses=1
@@ -25,3 +25,4 @@ SpecialFood
 | Gluttony Time=0:05
 | Food Groups=Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

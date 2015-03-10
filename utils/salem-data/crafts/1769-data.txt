@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Silver Pieces;125
-
+EOB BOB
 Artifact
 | Difficulty=40 to 0
 | Proficiency Type=Thread &amp; Needle
 | Slots=1
+EOB BOB

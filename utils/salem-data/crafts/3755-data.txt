@@ -2,7 +2,8 @@ Crafted | Objects required=Bear Skin;3
 Clothing | Equipment Slot=Cloak | Artificer Slots=3 
 Crafted
 | Objects required=Bear Skin;3
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=3
+EOB BOB

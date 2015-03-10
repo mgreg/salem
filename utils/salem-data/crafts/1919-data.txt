@@ -1,6 +1,6 @@
 Crafted 
 | Objects required=Raw Bear Steak;1, Any Raw Meat Cut;1, Garlic;2, Leaf of Red Cabbage;5, Bear Heart;1, Stove;1 
-
+EOB BOB
 VariableFoodGame
 | Heals=30,30,30,30
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGame
 | Gluttony Time=1:00
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

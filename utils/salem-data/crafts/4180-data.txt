@@ -1,10 +1,11 @@
 Crafted
 | Objects required=Bloated Cocoon;1
 | Weight=.03 kg
-
-
+EOB BOB
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=1775
 | Law &amp; Lore=2635
 | Thread &amp; Needle=2100
 | Uses=1
+EOB BOB

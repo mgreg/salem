@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Pumpkin;1
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=2.5,2.5,2.5,2.5
 | Min Blood=3 | Max Blood=6
@@ -10,3 +10,4 @@ VariableFoodPumpkins
 | Uses=1 | Gluttony Time=0:05
 | Food Groups=Pumpkins and Gourds
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=15 | %ChanceReduce1=15
+EOB BOB

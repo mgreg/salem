@@ -1,9 +1,10 @@
 Crafted
-
+EOB BOB
 | Objects required=Cotton Cloth;2
-
-
+EOB BOB
+EOB BOB
 Artifact
 | Difficulty=20 to 10
 | Proficiency Type=Thread &amp; Needle
 | Pockets=1
+EOB BOB

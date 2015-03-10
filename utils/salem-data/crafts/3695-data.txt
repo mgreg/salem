@@ -2,7 +2,7 @@ Crafted | Objects required=Pumpkin Flesh;3, Small Sugar;1, Leaf of Red Cabbage;3
 VariableFoodPumpkins | Heals=16,14,14,14 | Uses=1 | Min Blood=27 | Max Blood=30 | Min P...&quot;</comment>
       <text xml:space="preserve" bytes="648">{{Crafted
 | Objects required=Pumpkin Flesh;3, Small Sugar;1, Leaf of Red Cabbage;3
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=16,14,14,14
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodPumpkins
 | Gluttony Time=0:30
 | Food Groups= Pumpkins and Gourds
 | FoodReduce1= Pumpkins and Gourds | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

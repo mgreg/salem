@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Jar of Tar;1, Plant Fibre;4
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1350
 | Hammer &amp; Nail=650
@@ -8,3 +8,4 @@ Inspirational
 | Natural Philosophy=800
 | Perennial Philosophy=350
 | Uses=3
+EOB BOB

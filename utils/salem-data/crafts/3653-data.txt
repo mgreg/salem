@@ -1,3 +1,4 @@
 Crafted | Objects required=Sourdough Starter;1, Flour;.2kg, Bucket of Water;.5L, Seeds of Cabbage;10 
 Crafted
 | Objects required=Sourdough Starter;1, Flour;.2kg, Bucket of Water;.5L, Seeds of Cabbage;10
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Any Mushroom;1, Any Berries;1, Any Garlic;1, Any Bellpeppers;1, Any Flower;1, Cabbage;1, Autumn Grass;1, Myrtle Oak Leaves;1, Any Nuts;1, Seaweed;1, Corn Husk;1, Oak Duff;1, Tomato;1, Radish;1, Carrot;1, Onion;1
+EOB BOB

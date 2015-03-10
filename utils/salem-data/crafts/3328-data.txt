@@ -1,3 +1,4 @@
 Crafted  | Objects required=Tuft of Spider Silk;1, Abandoned Cobweb;1 
 Crafted 
 | Objects required=Tuft of Spider Silk;1, Abandoned Cobweb;1
+EOB BOB

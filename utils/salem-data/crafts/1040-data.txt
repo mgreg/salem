@@ -1,14 +1,15 @@
 Crafted
 | Objects required=Argopelter;1
-
+EOB BOB
 Inspirational Artifact
 | Cloak &amp; Dagger=1800
 | Hunting &amp; Hideworking=3200
 | Perennial Philosophy=1200
 | Uses=1
-
+EOB BOB
 | Difficulty=30 to 15
 | Proficiency Type=Sugar &amp; Spice, Thread &amp; Needle
 | Common Combat Defense=5
 | Culinary=20
 | Production=6
+EOB BOB

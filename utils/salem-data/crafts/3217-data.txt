@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Glass Bottle;1, Those Rarefied Thornbush Flowers;1, Thorn;4, Sugar Treat;5, Sugar;.5
+EOB BOB

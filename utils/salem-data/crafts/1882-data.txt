@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Any Cornmeal;.45kg, White Corn Oil;.15L, Oatmeal;.1kg ,Bucket of Water;.65L
+EOB BOB

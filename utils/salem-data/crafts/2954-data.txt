@@ -1,3 +1,4 @@
 Crafted | Objects required=Grand Maple Tree;1 
 Crafted
 | Objects required=Grand Maple Tree;1
+EOB BOB

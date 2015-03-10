@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Nuts;3, Raw Rabbit Cut;2, Ostrich Fiddlehead;2
-
+EOB BOB
 VariableFoodNuts
 | Heals=8,21,6,12
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodNuts
 | Gluttony Time=0:30 
 | Food Groups= Nuts and Seeds
 | FoodReduce1= Nuts and Seeds | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

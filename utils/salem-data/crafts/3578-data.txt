@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Boiled Bajgiel Dough;1, Bread Oven;1
-
+EOB BOB
 SpecialFood
 | Heals=22,28,25,31
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=0:30 
 | Food Groups=Bread 
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=30
+EOB BOB

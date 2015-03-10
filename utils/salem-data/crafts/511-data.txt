@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Silver Pieces;60, Stalls;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1250
 | Faith &amp; Wisdom=2500
@@ -9,3 +9,4 @@ Inspirational
 | Stocks &amp; Cultivars=1500
 | Perennial Philosophy=850
 | Uses=5
+EOB BOB

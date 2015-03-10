@@ -1,7 +1,8 @@
 Foraged
 | Where found=Grassland,Badlands, Marshland, Woodland, Crag, Greenwood, Coniferous, Autumnal
 | Weight=.02 kg
-
+EOB BOB
 Crafted
 | Objects required=Gardening Pot;1, Autumn Grass;1
 | Weight=.02 kg
+EOB BOB

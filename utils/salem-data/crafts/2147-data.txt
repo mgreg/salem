@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Misshapen Lump of Clay;1, Kiln;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=3000
 | Cloak &amp; Dagger=1750
@@ -9,3 +9,4 @@ Inspirational
 | Sparks &amp; Embers=3500
 | Perennial Philosophy=1000
 | Uses=3
+EOB BOB

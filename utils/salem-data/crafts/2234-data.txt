@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Water;1, Fishing Pole;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1500
 | Faith &amp; Wisdom=2400
@@ -8,3 +8,4 @@ Inspirational
 | Natural Philosophy=1500
 | Perennial Philosophy=650
 | Uses=1
+EOB BOB

@@ -1,4 +1,4 @@
 Crafted
 | Objects required=Ear of Cereal;1, Thresh Cereals;1
-
+EOB BOB
 PropVals/Print Entry|showamount=no|Thresh Cereals

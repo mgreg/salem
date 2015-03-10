@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Turkey Egg;3, Argopelter Egg;1, Company Bacon;1, Stove;1
-
+EOB BOB
 SpecialFood
 | Heals=40,40,40,40
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=2:00 
 | Food Groups=Poultry
 | FoodRestore1=Poultry |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Tilled Field;1
-
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=1500
 | Stocks &amp; Cultivars=1500
 | Sugar &amp; Spice=750
 | Uses=1
+EOB BOB

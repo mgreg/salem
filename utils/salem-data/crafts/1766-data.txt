@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Indian Cotton Cloth;1, Egyptian Cotton Cloth;1
-
+EOB BOB
 Artifact
 | Difficulty=30 to 15
 | Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
 | Blunt Power=5
 | Impact Power=11
 | Piercing Power=5
+EOB BOB

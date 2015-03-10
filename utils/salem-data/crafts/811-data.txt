@@ -1,3 +1,4 @@
 Crafted | Objects required=Tilled Field;1, Seeds of Pumpkin;1 
 Crafted
 | Objects required=Tilled Field;1, Seeds of Pumpkin;1
+EOB BOB

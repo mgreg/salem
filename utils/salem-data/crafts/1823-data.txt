@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of any Fish;3, Tiger Trout;1, Leaf of White Cabbage;3, Fire;1
-
+EOB BOB
 VariableFoodFish
 | Heals=12.5,17,5,22.5,0
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=0:30
 | Food Groups=Fishes
 | FoodReduce1=Fishes | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

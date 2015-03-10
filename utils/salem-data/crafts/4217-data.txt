@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Raw Wishpoosh Hide;1
+EOB BOB

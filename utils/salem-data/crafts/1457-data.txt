@@ -1,7 +1,7 @@
 Crafted 
 | Objects required=Dry Board;2, Carpenter's Bench;1 
-
-
+EOB BOB
+EOB BOB
 Inspirational 
 | Arts &amp; Crafts=1300 
 | Hammer &amp; Nail=2500 
@@ -9,3 +9,4 @@ Inspirational
 | Mines &amp; Mountains=1100  
 | Natural Philosophy=800 
 | Uses=1
+EOB BOB

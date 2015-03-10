@@ -1,9 +1,10 @@
 Crafted
 | Objects required=High Notes of Amber Resin;1, Thorn;1
-
+EOB BOB
 Artifact
 | Difficulty=30 to 15
 | Proficiency Type=Hammer &amp; Nail, Thread &amp; Needle
 | Common Combat Defense=5
 | Woodworking=20
 | Production=6
+EOB BOB

@@ -2,7 +2,8 @@ Crafted | Objects required=Humble Meat Pie;1, Pumpkin Pie;1, Wildberry Pie;1
 Food | Heals=10,10,10,10 | Uses=2 | Min Blood= | Max Blood= | Min Phlegm= | Max Phlegm= | M...&quot;</comment>
       <text xml:space="preserve" bytes="619">{{Crafted
 | Objects required=Humble Meat Pie;1, Pumpkin Pie;1, Wildberry Pie;1
-
+EOB BOB
 Food
 | Heals=10,10,10,10
 | Uses=2
+EOB BOB

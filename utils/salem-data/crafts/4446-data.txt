@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Rusty Coin;1, Bucket of Water;1
-
+EOB BOB
 i|American Plantations Token
 i|Elephant Token
 i|Hibernia Copper

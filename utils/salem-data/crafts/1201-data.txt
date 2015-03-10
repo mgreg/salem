@@ -1,3 +1,4 @@
 Crafted
 | Objects required= Raw Timber Rattler Skin;1, Drying Frame;1
 | Weight=.12 kg
+EOB BOB

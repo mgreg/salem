@@ -2,7 +2,7 @@ Crafted | Objects required=Any Cabbage Leaf;9, Ostrich Fiddlehead;2, Walnut;1, D
 VariableFoodGreens...&quot;</comment>
       <text xml:space="preserve" bytes="719">{{Crafted
 | Objects required=Any Cabbage Leaf;9, Ostrich Fiddlehead;2, Walnut;1, Dehydrated Cranberry;1, Dehydrated Blackberry;1, Carrot;1, Baby Corn;1
-
+EOB BOB
 VariableFoodGreens
 | Heals=42,51,47,39
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodGreens
 | Gluttony Time=1:00
 | Food Groups= Vegetables and Greens
 | FoodReduce1= Vegetables and Greens | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Wild Turkey Wing;1, Domesticated Turkey Wing;1, Argopelter Wing;1
+EOB BOB

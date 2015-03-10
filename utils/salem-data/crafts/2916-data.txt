@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Bone;2, Wooden Plugs;1
-
+EOB BOB
 Artifact
 | Difficulty=20 to 5
 | Proficiency Type=Flora &amp; Fauna, Cloak &amp; Dagger
@@ -8,3 +8,4 @@ Artifact
 | Impact Power=7
 | Piercing Power=3
 | Feral Defense=3
+EOB BOB

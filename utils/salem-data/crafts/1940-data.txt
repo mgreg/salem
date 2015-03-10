@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Raw Beaver Cut;1, Fire;1
-
+EOB BOB
 SpecialFood 
 | Heals=4.5,4.5,4.5,4.5
 | Min Black Bile=8 | Max Black Bile=12
 | Uses=1 | Gluttony Time=0:30
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat| %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

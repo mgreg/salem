@@ -1,9 +1,10 @@
 Crafted
 | Objects required=American Plantations Token;1, Elephant Token;1, Hibernia Copper;1, Lord Baltimore Coin;1, New Yorke Token;1, Rosa Americana Token;1, Sommer Islands Coin;1, St. Patrick Copper;1,
-
+EOB BOB
 Inspirational
 | Herbs &amp; Sprouts=1240
 | Law &amp; Lore=3400
 | Sparks &amp; Embers=1820
 | Stocks &amp; Cultivars=1100
 | Uses=1
+EOB BOB

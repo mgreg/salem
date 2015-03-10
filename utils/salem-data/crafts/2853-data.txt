@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Silk Cloth;3, Sea Island Cotton Cloth;1, Lacy Edging;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Coat
 | Artificer Slots=4
+EOB BOB

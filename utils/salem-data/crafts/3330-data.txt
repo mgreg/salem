@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Deer Hoof;1, Copper Pot;1, Clay Pot;1
 | Weight=0.32 kg
+EOB BOB

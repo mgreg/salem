@@ -1,3 +1,4 @@
 Crafted | Objects required=Grub;1, Beetle;1, Caterpillar;1, Virginia Snail;1 
 Crafted
 | Objects required=Grub;1, Beetle;1, Caterpillar;1, Virginia Snail;1
+EOB BOB

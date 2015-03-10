@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Blueback Tuna;1, Axe;1
+EOB BOB

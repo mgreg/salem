@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Naughty Child Present;1,
+EOB BOB

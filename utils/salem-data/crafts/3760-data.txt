@@ -2,7 +2,8 @@ Crafted | Objects required=Dried Timber Rattler Skin;10
 Clothing | Equipment Slot=Cloak | Artificer Slots=1 
 Crafted
 | Objects required=Dried Timber Rattler Skin;10
-
+EOB BOB
 Clothing
 | Equipment Slot=Cloak
 | Artificer Slots=1
+EOB BOB

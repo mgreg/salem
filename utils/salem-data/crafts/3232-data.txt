@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Tuft of Spider Silk;3, Abandoned Cobweb;1
-
+EOB BOB
 Artifact
 | Difficulty=25 to 10
 | Proficiency Type= Hunting &amp; Hideworking, Thread &amp; Needle
@@ -8,3 +8,4 @@ Artifact
 | Impact Defense=10
 | Piercing Defense=5
 | Feral Defense=6
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unboiled Tenderboiled Terrine;1, Copper Pot;1, Clay Pot;1, Fireplace;1
-
+EOB BOB
 VariableFoodGame
 | Heals=64.5,44.5,42,40
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodGame
 | Gluttony Time=1:00
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

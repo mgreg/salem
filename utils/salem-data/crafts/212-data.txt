@@ -1,3 +1,5 @@
 Crafted
-
+EOB BOB
 | Objects required=Tree;1, Axe;1, Metal Axe;1
+EOB BOB
+EOB BOB

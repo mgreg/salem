@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Any Gem;1, Gemcutter's Wheel;1
-
+EOB BOB
 Artifact
 | Difficulty=5 to 0
 | Affluence=4
 | Mining=2
+EOB BOB

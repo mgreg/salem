@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Xmas Present;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=200
 | Law &amp; Lore=500
 | Sparks &amp; Embers=200
 | Uses=15
+EOB BOB

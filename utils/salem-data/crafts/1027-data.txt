@@ -1,3 +1,4 @@
 Crafted
 | Skills required=Gardening
 | Objects required=Autumn Grass;1, Wood Choppings;1, Maple Leaf;1, Perfect Autumn Leaf;1, Myrtle Oak Leaves;1, Oak Duff;1
+EOB BOB

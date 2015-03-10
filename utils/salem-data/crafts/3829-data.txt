@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Raw Venison Cut;1, Meatsmoker;1
-
+EOB BOB
 SpecialFood 
 | Heals=4.5,5.5,4.5,4.5
 | Min Yellow Bile=1 | Max Yellow Bile=32
 | Uses=1 | Gluttony Time=0:06
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat| %Reduce1=10 | %ChanceReduce1=20
+EOB BOB

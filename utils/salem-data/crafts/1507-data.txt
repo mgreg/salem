@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Berries;5, Isinglass;1, Sugar;0.05 kg, Baking Table;1
-
+EOB BOB
 VariableFoodBerries
 | Heals=10,15,8,2
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBerries
 | Gluttony Time=3:00
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

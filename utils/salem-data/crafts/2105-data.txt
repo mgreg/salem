@@ -1,11 +1,11 @@
 Crafted
 | Skills required=Embroidery &amp; Silk
 | Objects required=Leather;8, Majestic Tail-Feather of Turkey;1, Polished Leather Beadwork;1
-
-
+EOB BOB
+EOB BOB
 Clothing
 | Equipment Slot=Head
 | Artificer Slots=4
-
+EOB BOB
 PAGENAME
 PAGENAME

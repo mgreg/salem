@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Fish Hook;1, Seaweed;1, Leather;1
+EOB BOB

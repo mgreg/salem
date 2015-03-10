@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Maple Leaf;2, Autumn Grass;2, Branch;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=150
 | Cloak &amp; Dagger=50
@@ -10,3 +10,4 @@ Inspirational
 | Sparks &amp; Embers=75
 | Thread &amp; Needle=200
 | Uses=1
+EOB BOB

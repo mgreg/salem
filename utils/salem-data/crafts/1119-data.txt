@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Bar of Bubbly Soap;1, Cloud of Lather;1
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=2300
 | Sparks &amp; Embers=3275
 | Perennial Philosophy=1200
 | Uses=1
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Bar of Pig Iron;1, Nails;1, Wooden Handle;1, Anvil;1
+EOB BOB

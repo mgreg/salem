@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Coal Clamp;1
 | Weight=0.15
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=750
 | Hammer &amp; Nail=2000
@@ -10,3 +10,4 @@ Inspirational
 | Stocks &amp; Cultivars=900
 | Natural Philosophy=1250
 | Uses=1
+EOB BOB

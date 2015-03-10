@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Seeds of Pumpkin;50, Tilled Field;1
-
+EOB BOB
 SpecialFood
 | Heals=4.5,4.5,4.5,5
 | Min Phlegm=12 | Max Phlegm=18
 | Uses=1 | Gluttony Time=3:00
 | Food Groups=Pumpkins and Gourds
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70
+EOB BOB

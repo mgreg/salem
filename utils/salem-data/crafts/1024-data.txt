@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Sharpened Stick;2, Any Tinder;6
+EOB BOB

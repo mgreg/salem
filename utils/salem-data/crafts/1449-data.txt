@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Flint;3, Board;2
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=750
 | Cloak &amp; Dagger=250
@@ -9,3 +9,4 @@ Inspirational
 | Mines &amp; Mountains=850
 | Stocks &amp; Cultivars=450
 | Uses=4
+EOB BOB

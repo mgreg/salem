@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Ghost Rider;1, Hay;2, Sharpened Stick;2
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1500
 | Hunting &amp; Hideworking=2500
 | Thread &amp; Needle=1750
 | Natural Philosophy=1750
 | Uses=1
+EOB BOB

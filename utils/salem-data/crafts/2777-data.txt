@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Bear Paw;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Feet
 | Artificer Slots=4
+EOB BOB

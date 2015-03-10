@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Turkey Neck;1, Drying Frame;1
 | Weight=.1 kg 
-
+EOB BOB
 Food
 | Heals=12,24,12,24
 | Uses=7
@@ -12,3 +12,4 @@ Food
 | Gluttony Time=0:02
 | Food Groups=Poultry 
 | FoodReduce1=Poultry | %Reduce1=5 | %ChanceReduce1=5
+EOB BOB

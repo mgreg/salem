@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Indian Feather;15, Cranberry;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=1250
 | Cloak &amp; Dagger=2200
 | Faith &amp; Wisdom=800
 | Perennial Philosophy=1200
 | Uses=4
+EOB BOB

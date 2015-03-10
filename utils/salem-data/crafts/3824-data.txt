@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Fine Leather;1
+EOB BOB

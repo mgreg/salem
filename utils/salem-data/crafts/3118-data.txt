@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Any Bugs;2, Frog Legs;1, Yellow Cornmeal;.15kg
-
+EOB BOB
 VariableFoodBugs
 | Heals=12.5,12.5,10,10
 | Uses=3
@@ -11,3 +11,4 @@ VariableFoodBugs
 | Gluttony Time=3:00
 | Food Groups=Slugs Bugs and Kritters
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

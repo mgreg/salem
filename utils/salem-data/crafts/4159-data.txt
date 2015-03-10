@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Gardener's Pack;1
-
+EOB BOB
 Inspirational
 | Herbs &amp; Sprouts=5000
 | Uses=25
+EOB BOB

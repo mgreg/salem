@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Yellow Cornmeal;0.35, Yellow Corn;60, Turkey Egg;2, Bucket of Water;1.0L, Sugar;.55kg
+EOB BOB

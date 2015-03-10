@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Branch;2, Any Tinder;3
 | Weight=0.50
+EOB BOB

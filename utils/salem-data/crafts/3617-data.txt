@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Corn;30, Crab Meat;2, Carrot;1, Bucket of Water;.35L
-
+EOB BOB
 VariableFoodCorn
 | Heals=25,24,23,24
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodCorn
 | Gluttony Time=3:00 
 | Food Groups= Maize
 | FoodReduce1= Maize | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

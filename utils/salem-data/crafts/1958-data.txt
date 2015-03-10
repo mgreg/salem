@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Cotton Cloth;4
-
+EOB BOB
 Clothing
 | Equipment Slot=Coat
 | Artificer Slots=2
+EOB BOB

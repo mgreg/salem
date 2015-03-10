@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Gelatinous Lard;2, Charcoal;2, Coarse Salt;2
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2275
 | Faith &amp; Wisdom=2000
@@ -9,3 +9,4 @@ Inspirational
 | Sugar &amp; Spice=500
 | Perennial Philosophy=1200
 | Uses=1
+EOB BOB

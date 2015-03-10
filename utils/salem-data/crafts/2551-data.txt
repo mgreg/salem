@@ -1,5 +1,6 @@
 Crafted
-
+EOB BOB
 Clothing
 | Equipment Slot=Coat
 | Artificer Slots=4
+EOB BOB

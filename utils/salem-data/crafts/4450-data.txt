@@ -1,6 +1,7 @@
 Crafted | Objects required=Apothecary Kit;1 
 Crafted
 | Objects required=Apothecary Kit;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Face
+EOB BOB

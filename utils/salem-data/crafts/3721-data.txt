@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Bar of Pig Iron;1, Cranberry Sauce;1
-
+EOB BOB
 Inspirational
 | Law &amp; Lore=1425
 | Sparks &amp; Embers=750
 | Sugar &amp; Spice=2650
 | Perennial Philosophy=475
 | Uses=5
+EOB BOB

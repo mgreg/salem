@@ -2,7 +2,7 @@ Crafted | Objects required=Any Nuts;2, Coarse Salt;1
 VariableFoodNuts | Heals=15,15,15,15 | Uses=1 | Min Blood=13 | Max Blood=15 | Min Phlegm=13 | Max Phlegm=15 | Min Y...&quot;</comment>
       <text xml:space="preserve" bytes="606">{{Crafted
 | Objects required=Any Nuts;2, Coarse Salt;1
-
+EOB BOB
 VariableFoodNuts
 | Heals=15,15,15,15
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodNuts
 | Gluttony Time=0:15
 | Food Groups= Nuts and Seeds
 | FoodReduce1= Nuts and Seeds | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

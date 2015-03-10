@@ -20,6 +20,15 @@
                 background-clip: padding-box;
             }
             
+            td.name {
+                width: 30%;
+            }
+            
+            th.num, td.num {
+                width: 80px;
+                text-align: right;
+            }
+            
             th {
                 border-bottom: 1px solid #d0d0d0;
                 text-align: left;
@@ -43,16 +52,18 @@
                 <thead>
                     <tr>
                         <th>Proficiency</th>
-                        <th>Gain</th>
-                        <th>Efficiency</th>
+                        <th class="num">Gain</th>
+                        <th class="num">Efficiency</th>
+                        <th></th>
                     </tr>
                 </thead>
                 <tbody>
                 <template repeat="{{ prof in profs }}">
                     <tr>
-                        <td><a href="#/{{ prof.encodeName }}/1">{{ prof.name }}</a></td>
-                        <td>{{ prof.value }}</td>
-                        <td>{{ prof.effect }}</td>
+                        <td class="name"><a href="#/{{ prof.encodeName }}/1">{{ prof.name }}</a></td>
+                        <td class="num">{{ prof.value }}</td>
+                        <td class="num">{{ prof.effect }}</td>
+                        <td></td>
                     </tr>
                 </template>
                 </tbody>
@@ -67,7 +78,7 @@
               console.log(nV);
             },
             dataChanged: function(oV, nV) {
-                var d = nV.split("\n"),
+                var d = nV.split("|"),
                     sum = 0,
                     p = [],
                     line, i;

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Bugs;1, Sizzled Slug;1, Lobster Mushroom;1, Stove;1
-
+EOB BOB
 VariableFoodBugs
 | Heals=2,8,2,2
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBugs
 | Gluttony Time=0:15
 | Food Groups= Slugs Bugs and Kritters 
 | FoodReduce1= Slugs Bugs and Kritters | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

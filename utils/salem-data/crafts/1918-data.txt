@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Raw Bear Cut;3, Any Berries;3, Stove;1
-
+EOB BOB
 VariableFoodBerries
 | Heals=32,17,20,25
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBerries
 | Gluttony Time=0:30
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

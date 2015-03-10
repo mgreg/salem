@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Blistersteel Bar;6
-
+EOB BOB
 Clothing
 | Equipment Slot=Armour
 | Artificer Slots=3
+EOB BOB

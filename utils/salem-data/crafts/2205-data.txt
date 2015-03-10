@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Closed Beta Reward Box;1
-
+EOB BOB
 Inspirational
 | Perennial Philosophy=2500
 | Uses=1
+EOB BOB

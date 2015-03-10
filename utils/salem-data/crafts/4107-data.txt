@@ -1,15 +1,16 @@
 Crafted
 | Objects required=Smoked Oyster;1
-
+EOB BOB
 Inspirational Artifact
 | Arts &amp; Crafts=2650
 | Cloak &amp; Dagger=2400
 | Mines &amp; Mountains=3550
 | Perennial Philosophy=2100
 | Uses=5
-
+EOB BOB
 | Difficulty=50 to 0
 | Proficiency Type=Cloak &amp; Dagger, Natural Philosophy
 | Affluence=50
 | Common Combat Power=4
 | Common Combat Defense=16
+EOB BOB

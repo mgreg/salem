@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Serrated Grimthorn;2, Thorn;8, Plant Fibre;2
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=1750
 | Law &amp; Lore=1200
@@ -8,5 +8,5 @@ Inspirational
 | Thread &amp; Needle=2000
 | Perennial Philosophy=350
 | Uses=1
-
+EOB BOB
 #IFEQ: {{PAGENAME

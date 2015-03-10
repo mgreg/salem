@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Abandoned Bird's Nest;1
+EOB BOB

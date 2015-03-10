@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Gold Bar;1, Thorn;1, Perfect Autumn Leaf;1
-
+EOB BOB
 Artifact
 | Difficulty=40 to 20
 | Proficiency Type=Hammer &amp; Nail, Thread &amp; Needle
@@ -8,3 +8,4 @@ Artifact
 | Common Combat Defense=7
 | Woodworking=35
 | Production=8
+EOB BOB

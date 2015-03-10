@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Cranberry;2, Blackberries;2, Huckleberries;1
-
+EOB BOB
 SpecialFood
 | Heals=21,21,21,21
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=0:15 
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

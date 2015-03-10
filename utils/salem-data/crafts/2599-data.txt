@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Redcoat's Pack;1
+EOB BOB

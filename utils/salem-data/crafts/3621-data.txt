@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Plucked Wild Turkey;1, Roasted Pine Nut Stuffing;1, Gelatinous Lard;1, Any Plant;6
+EOB BOB

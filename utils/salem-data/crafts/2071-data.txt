@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Leather;6, Isinglass;3
-
+EOB BOB
 Clothing
 | Equipment Slot=Feet
 | Artificer Slots=3
+EOB BOB

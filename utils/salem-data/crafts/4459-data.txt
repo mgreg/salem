@@ -1,5 +1,6 @@
 Crafted
 | Objects required=Hunter's Pack;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Neck
+EOB BOB

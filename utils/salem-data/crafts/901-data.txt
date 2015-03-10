@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Garlic;6
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=400
 | Sparks &amp; Embers=800
@@ -9,3 +9,4 @@ Inspirational
 | Thread &amp; Needle=450
 | Natural Philosophy=300
 | Uses=1
+EOB BOB

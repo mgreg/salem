@@ -1,3 +1,4 @@
 Crafted | Objects required=Beautiful Seashell;1, Oyster Shell;1 
 Crafted
 | Objects required=Beautiful Seashell;1, Oyster Shell;1
+EOB BOB

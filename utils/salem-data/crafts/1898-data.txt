@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Filet of any Fish;2, Seaweed;1
-
+EOB BOB
 VariableFoodFish
 | Heals=5,10,15,4
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodFish
 | Gluttony Time=0:15
 | Food Groups= Fishes
 | FoodReduce1= Fishes | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

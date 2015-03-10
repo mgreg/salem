@@ -1,3 +1,4 @@
 Crafted | Objects required=Pumpkin Flesh;7, Harvest Moon;1, Argopelter Heart;1, Beetle;6 
 Crafted
 | Objects required=Pumpkin Flesh;7, Harvest Moon;1, Argopelter Heart;1, Beetle;6
+EOB BOB

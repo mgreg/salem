@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Indian Cotton Cloth;2, Yellow-Stained Cotton Cloth;2, Bear Skin;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Coat
 | Artificer Slots=4
+EOB BOB

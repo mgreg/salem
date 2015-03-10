@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Stalls;1, Silver Pieces;110, Gardening Pot;1
 | Weight=.1 kg
-
+EOB BOB
 SpecialFood
 | Heals=15,5,5,5
 | Uses=1
@@ -9,3 +9,4 @@ SpecialFood
 | Gluttony Time=0:10 
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=50 | %ChanceReduce1=30
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Fish;1, Any Plant;2
-
+EOB BOB
 Food
 | Heals=5, 5, 5, 5
 | Min Blood=5 | Max Blood=6
@@ -10,3 +10,4 @@ Food
 | Uses=5 | Gluttony Time=0:04
 | Food Groups=Fishes
 | FoodReduce1=Fishes | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

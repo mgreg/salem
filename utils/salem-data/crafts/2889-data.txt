@@ -1,4 +1,6 @@
 Crafted  | Objects required=Birch Tree;1  
 Crafted
-
+EOB BOB
 | Objects required=Birch Tree;1
+EOB BOB
+EOB BOB

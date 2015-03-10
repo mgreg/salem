@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Glass Vial;1, Red Rose;1, Steam Distiller;1, Alchemy Table;1
+EOB BOB

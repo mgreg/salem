@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Argomoon;1, Stove;1
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=40,32,41,37
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPumpkins
 | Gluttony Time=1:00 
 | Food Groups= Pumpkins and Gourds
 | FoodReduce1= Pumpkins and Gourds | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

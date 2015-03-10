@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Earthworm Python;2, Common Earthworm;8
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=900
 | Faith &amp; Wisdom=1550
@@ -8,3 +8,4 @@ Inspirational
 | Stocks &amp; Cultivars=2000
 | Thread &amp; Needle=1200
 | Uses=3
+EOB BOB

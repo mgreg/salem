@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Rabbit Skin;2, Dried Beaver Pelt;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Feet
 | Artificer Slots=2
+EOB BOB

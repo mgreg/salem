@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Branch;1, Huckleberries;1, Blackberries;1
 | Weight=0.18 kg
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=375
 | Flora &amp; Fauna=745
@@ -10,3 +10,4 @@ Inspirational
 | Sparks &amp; Embers=510
 | Natural Philosophy=490
 | Uses=2
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Argopelter Neck;1, Drying Frame;1
-
+EOB BOB
 Food
 | Heals=24,12,24,12
 | Uses=14
@@ -11,3 +11,4 @@ Food
 | Gluttony Time=0:04
 | Food Groups=Poultry 
 | FoodReduce1=Poultry | %Reduce1=5 | %ChanceReduce1=5
+EOB BOB

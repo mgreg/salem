@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Rested Pie Dough;1, Pumpkin Flesh;9, Baking Table;1, Bread Oven;1
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=19.5,15.5,15.5,18
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPumpkins
 | Gluttony Time=5:00
 | Food Groups=Pumpkins and Gourds
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=80 | %ChanceReduce1=70
+EOB BOB

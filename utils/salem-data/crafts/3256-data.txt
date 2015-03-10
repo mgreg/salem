@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Rested Pie Dough;1, Any Berries;12, Baking Table;1 
+EOB BOB

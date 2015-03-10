@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Waxing Toadstool;1, Lavender Blewit;1, Lobster Mushroom;1, Witch's Hat;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=350
 | Flora &amp; Fauna=625
@@ -8,3 +8,4 @@ Inspirational
 | Sparks &amp; Embers=565
 | Perennial Philosophy=125
 | Uses=4
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Pumpkin;1 
 Crafted
 | Objects required=Pumpkin;1
+EOB BOB

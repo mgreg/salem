@@ -1,3 +1,4 @@
 Crafted | Objects required=Sprouted Garlic Clove;1, Garlic;1, Wild Garlic;1, Gardening Pot;1 
 Crafted
 | Objects required=Sprouted Garlic Clove;1, Garlic;1, Wild Garlic;1, Gardening Pot;1
+EOB BOB

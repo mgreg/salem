@@ -1,3 +1,4 @@
 Crafted | Objects required=Skybound Butterfly;1, Autumn Grass;3, Hickory Nut;1, Plant Fibre;2 
 Crafted
 | Objects required=Skybound Butterfly;1, Autumn Grass;3, Hickory Nut;1, Plant Fibre;2
+EOB BOB

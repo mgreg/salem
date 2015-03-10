@@ -1,8 +1,8 @@
 Crafted
-
+EOB BOB
 | Objects required=Frog;1,Crab;1,Virginia Snail;1,Dead Wartbite Cricket;1
-
-
+EOB BOB
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=350
 | Faith &amp; Wisdom=1050
@@ -10,3 +10,4 @@ Inspirational
 | Hunting &amp; Hideworking=1300
 | Natural Philosophy=900
 | Uses=3
+EOB BOB

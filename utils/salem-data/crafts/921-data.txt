@@ -10,3 +10,4 @@ VariableFoodCorn
 | Gluttony Time=1:00
 | Food Groups= Maize
 | FoodReduce1= Maize | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

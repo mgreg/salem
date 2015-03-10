@@ -1,3 +1,4 @@
 Crafted | Objects required=Windmill;1, Blue Corn;1 
 Crafted
 | Objects required=Windmill;1, Blue Corn;1
+EOB BOB

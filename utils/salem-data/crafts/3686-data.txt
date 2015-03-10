@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Radish;2, Coarse Salt;1
-
+EOB BOB
 SpecialFood
 | Heals=7,7,16,7.5
 | Uses=1
@@ -9,3 +9,4 @@ SpecialFood
 | Food Groups=Vegetables and Greens
 | FoodReduce1=Vegetables and Greens | %Reduce1=10 | %ChanceReduce1=10
 | FoodReduce2= | %Reduce2=10 | %ChanceReduce2=10
+EOB BOB

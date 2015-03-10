@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Indian Cotton;10, Loom;1
 | Weight=1.00 kg
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Mortal Moments Art Competition;1 
 Crafted
 | Objects required=Mortal Moments Art Competition;1
+EOB BOB

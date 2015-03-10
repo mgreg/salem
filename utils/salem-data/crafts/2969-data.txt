@@ -1,3 +1,4 @@
 Crafted | Objects required=Elm Tree;1 
 Crafted
 | Objects required=Elm Tree;1
+EOB BOB

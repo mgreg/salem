@@ -2,7 +2,7 @@ Crafted | Objects required=Unbaked Bushbaby;1, Stove;1
 VariableFoodPumpkins | Heals=30,42,41,30 | Uses=1 | Min Blood=56 | Max Blood=60 | Min Phlegm=56 | Max Phlegm=60 |...&quot;</comment>
       <text xml:space="preserve" bytes="623">{{Crafted
 | Objects required=Unbaked Bushbaby;1, Stove;1
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=30,42,41,30
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodPumpkins
 | Gluttony Time=1:00 
 | Food Groups= Pumpkins and Gourds
 | FoodReduce1= Pumpkins and Gourds | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

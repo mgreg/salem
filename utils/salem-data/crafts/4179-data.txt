@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Bloated Cocoon;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=160
 | Flora &amp; Fauna=420
@@ -8,3 +8,4 @@ Inspirational
 | Thread &amp; Needle=310
 | Perennial Philosophy=80
 | Uses=1
+EOB BOB

@@ -1,3 +1,4 @@
 Crafted | Objects required=Any Clothing;1 
 Crafted
 | Objects required=Any Clothing;1
+EOB BOB

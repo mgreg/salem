@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Wrought Iron Bar;3, Clay;10
+EOB BOB

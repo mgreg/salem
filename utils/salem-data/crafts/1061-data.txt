@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Dead Wartbite Cricket;11
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=750
 | Flora &amp; Fauna=2700
@@ -8,3 +8,4 @@ Inspirational
 | Hunting &amp; Hideworking=1700
 | Natural Philosophy=200
 | Uses=3
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Autumn Grass;1, Waxing Toadstool;1, Stray Chestnut;1, Maple Leaf;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=300
 | Flora &amp; Fauna=575
@@ -10,3 +10,4 @@ Inspirational
 | Mines &amp; Mountains=435
 | Natural Philosophy=520
 | Uses=2
+EOB BOB

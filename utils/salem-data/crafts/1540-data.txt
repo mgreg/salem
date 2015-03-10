@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Sea Island Cotton Cloth;2, Egyptian Cotton Cloth;2, Wool;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Coat
 | Artificer Slots=4
+EOB BOB

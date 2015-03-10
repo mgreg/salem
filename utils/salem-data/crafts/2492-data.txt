@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Cotton Cloth;1
+EOB BOB

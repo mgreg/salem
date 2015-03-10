@@ -1,3 +1,4 @@
 Crafted | Objects required=Deer;1 
 Crafted
 | Objects required=Deer;1
+EOB BOB

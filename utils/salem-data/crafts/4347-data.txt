@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Stalls;1, Silver Pieces;5, Tea Bush;1
 |Weight=.02 kg 
+EOB BOB

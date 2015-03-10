@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Lavender Blewit;1, Frying Pan;1, Fire;1
-
+EOB BOB
 SpecialFood
 | Heals=12,12,12,12
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:05 
 | Food Groups=Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=10 | %ChanceReduce1=50
+EOB BOB

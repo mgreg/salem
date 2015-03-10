@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Pumpkin Flesh;5, Any Bellpeppers;1, Raw Venison Steak;1, Tomato;1, Stove;1
-
+EOB BOB
 VariableFoodPumpkins
 | Heals=17.5,17.5,17.5,17.5
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodPumpkins
 | Gluttony Time=0:30 
 | Food Groups= Pumpkins and Gourds
 | FoodReduce1= Pumpkins and Gourds | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

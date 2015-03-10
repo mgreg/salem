@@ -2,7 +2,7 @@ Crafted | Objects required=Crawdad;2, Raw Oyster Meat;2, Crab Meat;2, Pepper;.05
 SpecialFood | Heals=55,25,85,25 | Uses=1 | Min Blood=10 | Max Blood=10 | Min Phlegm=1...&quot;</comment>
       <text xml:space="preserve" bytes="757">{{Crafted
 | Objects required=Crawdad;2, Raw Oyster Meat;2, Crab Meat;2, Pepper;.05kg
-
+EOB BOB
 SpecialFood
 | Heals=55,25,85,25
 | Uses=1
@@ -13,3 +13,4 @@ SpecialFood
 | Gluttony Time=2:00
 | Food Groups=Crustacea and Shellfish
 | FoodRestore1=Crustacea and Shellfish |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

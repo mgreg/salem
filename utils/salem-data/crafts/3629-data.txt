@@ -1,3 +1,4 @@
 Crafted | Objects required=Turkey Heart;1 
 Crafted
 | Objects required=Turkey Heart;1
+EOB BOB

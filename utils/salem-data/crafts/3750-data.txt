@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Salem Crappy Meal;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=225
 | Cloak &amp; Dagger=1
@@ -8,3 +8,4 @@ Inspirational
 | Sugar &amp; Spice=325
 | Natural Philosophy=385
 | Uses=3
+EOB BOB

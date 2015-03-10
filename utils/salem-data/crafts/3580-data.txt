@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Berries;6, Sugar;.05kg, Turkey Egg;2, Oatmeal;.1kg, Fire;1
-
+EOB BOB
 VariableFoodBerries
 | Heals=12,17,9,2
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBerries
 | Gluttony Time=0:30 
 | Food Groups=Berries
 | FoodReduce1=Berries | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

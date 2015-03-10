@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Cabbage Cakes;1, Bread Oven;1
-
+EOB BOB
 VariableFoodBread
 | Heals=12.5,12.5,12.5,20
 | Uses=2
@@ -11,3 +11,4 @@ VariableFoodBread
 | Gluttony Time=0:28 
 | Food Groups= Bread
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Filet of any Fish;3, Raw Oyster Meat;1, Any Flower;2
+EOB BOB

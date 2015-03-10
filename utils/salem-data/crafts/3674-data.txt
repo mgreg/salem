@@ -2,7 +2,7 @@ Crafted | Objects required=Any Poultry Breast;2, Lilypad Bulb;1, Radish;3, Frog;
 VariableFoodPoultryM | Heals=39.5,39.5,39,39 | Uses=1 | Min Blood=45 | Max B...&quot;</comment>
       <text xml:space="preserve" bytes="637">{{Crafted
 | Objects required=Any Poultry Breast;2, Lilypad Bulb;1, Radish;3, Frog;2, Clover;1
-
+EOB BOB
 VariableFoodPoultryM
 | Heals=39.5,39.5,39,39
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodPoultryM
 | Gluttony Time=1:00
 | Food Groups=Poultry
 | FoodReduce1=Poultry | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

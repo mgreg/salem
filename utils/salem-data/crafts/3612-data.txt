@@ -1,7 +1,7 @@
 Crafted
 |Objects required=Yellow Morel;1, Clay Pot;1, Copper Pot;1, Cauldron;1
 |Weight=.1 kg 
-
+EOB BOB
 SpecialFood
 | Heals=7,7,7,7
 | Uses=1
@@ -12,3 +12,4 @@ SpecialFood
 | Gluttony Time=0:08 
 | Food Groups= Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

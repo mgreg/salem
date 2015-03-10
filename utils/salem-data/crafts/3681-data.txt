@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Connecticut Field;1, Company Bacon;1, Tomato;4
-
+EOB BOB
 SpecialFood
 | Heals=15,12,11,13
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=2:00
 | Food Groups=Pumpkins and Gourds
 | FoodRestore1=Pumpkins and Gourds |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

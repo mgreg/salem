@@ -1,6 +1,6 @@
 Crafted
 |Objects required= Bread Oven;1, Leavened Oakworth Tart Dough;1
-
+EOB BOB
 SpecialFood
 | Heals=58,79,57,56
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=2:00 
 | Food Groups= Vegetables and Greens
 | FoodRestore1=Vegetables and Greens |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

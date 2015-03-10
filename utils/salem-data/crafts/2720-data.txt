@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Sourdough Starter;1, Flour;0.2kg, Sugar;0.1kg, Bucket of Water;0.50, Baking Table;1
+EOB BOB

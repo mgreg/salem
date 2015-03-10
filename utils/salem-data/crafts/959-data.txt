@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Press;1,Seeds of Corn;100,Seeds of Cotton;100, Seeds of Pumpkin;100
+EOB BOB

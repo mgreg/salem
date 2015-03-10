@@ -2,7 +2,7 @@ Crafted | Objects required=Any Cornmeal;.25kg, Blue Corn Oil;.10L, Darkwater Blu
 VariableFoodCorn | Heals=18,14,26,14 | Uses=1 | Min Blood=26 | Max Blood=30 | Mi...&quot;</comment>
       <text xml:space="preserve" bytes="625">{{Crafted
 | Objects required=Any Cornmeal;.25kg, Blue Corn Oil;.10L, Darkwater Bluegill;1
-
+EOB BOB
 VariableFoodCorn
 | Heals=18,14,26,14
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodCorn
 | Gluttony Time=0:15 
 | Food Groups= Maize
 | FoodReduce1= Maize | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

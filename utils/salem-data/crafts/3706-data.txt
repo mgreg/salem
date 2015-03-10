@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Gelatinous Lard;1, Lime;1, Clay;3
+EOB BOB

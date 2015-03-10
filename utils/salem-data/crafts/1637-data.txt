@@ -1,6 +1,6 @@
 Crafted
 |Objects required= Ghostly Whitefish;1, Drying Frame;1
-
+EOB BOB
 SpecialFood
 | Heals=12.5,15.5,17.5,17.5
 | Uses=1
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:03
 | Food Groups=Fishes
 | FoodReduce1=Fishes | %Reduce1=10 | %ChanceReduce1=20
+EOB BOB

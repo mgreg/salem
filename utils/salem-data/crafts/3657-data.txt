@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Frog Legs;1, Frying Pan;1, Fire;1
-
+EOB BOB
 SpecialFood
 | Heals=2,5,1,3
 | Uses=2
@@ -8,3 +8,4 @@ SpecialFood
 | Gluttony Time=0:05
 | Food Groups=Slugs Bugs and Kritters
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50
+EOB BOB

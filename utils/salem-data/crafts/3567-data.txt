@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Stuffed Argopelter;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1350
 | Hunting &amp; Hideworking=3250
 | Sugar &amp; Spice=2150
 | Uses=3
+EOB BOB

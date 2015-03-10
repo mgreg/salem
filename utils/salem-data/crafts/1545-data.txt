@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Mushroom Pie;1, Bread Oven;1
-
+EOB BOB
 VariableFoodMushrooms
 | Heals=16.5,17.5,13.5,14
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodMushrooms
 | Gluttony Time=6:00
 | Food Groups=Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=80 | %ChanceReduce1=70
+EOB BOB

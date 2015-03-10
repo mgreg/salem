@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Willow Bark;1, Lock;1, Thorn;2
-
+EOB BOB
 Artifact
 | Difficulty=20 to 5
 | Proficiency Type=Cloak &amp; Dagger
 | Criminality=7
+EOB BOB

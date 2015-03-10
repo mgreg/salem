@@ -1,2 +1,3 @@
 Crafted 
 | Objects required=Hydrukey;1
+EOB BOB

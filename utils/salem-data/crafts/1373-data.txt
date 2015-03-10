@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Indian Feather;1, Indian Arrowhead;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=1000
 | Faith &amp; Wisdom=1340
@@ -8,3 +8,4 @@ Inspirational
 | Law &amp; Lore=1900
 | Perennial Philosophy=850
 | Uses=1
+EOB BOB

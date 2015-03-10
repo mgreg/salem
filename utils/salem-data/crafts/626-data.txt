@@ -1,6 +1,6 @@
 Crafted
 | Objects required=March Hare;1, Beaver;1, Deer;1, Bear;1
-
+EOB BOB
 Inspirational
 | Cloak &amp; Dagger=450
 | Faith &amp; Wisdom=200
@@ -8,3 +8,4 @@ Inspirational
 | Natural Philosophy=750
 | Perennial Philosophy=175
 | Uses=1
+EOB BOB

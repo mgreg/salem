@@ -2,3 +2,4 @@ Crafted | Skills requred=Small Game Hunting, Big Game Hunting | Objects required
 Crafted
 | Skills requred=Small Game Hunting, Big Game Hunting
 | Objects required=Bear;1, Deer;1, Beaver;1, March Hare;1, Rabbit;1
+EOB BOB

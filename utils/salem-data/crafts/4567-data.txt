@@ -1,3 +1,4 @@
 Crafted | Objects required=Priest Staff;1, Willow Switch;8, Knotted Wood Block;8 
 Crafted
 | Objects required=Priest Staff;1, Willow Switch;8, Knotted Wood Block;8
+EOB BOB

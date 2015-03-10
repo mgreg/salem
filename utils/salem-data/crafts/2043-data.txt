@@ -1,3 +1,4 @@
 Crafted | Objects required=Leather;3 
 Crafted
 | Objects required=Leather;3
+EOB BOB

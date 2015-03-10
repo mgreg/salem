@@ -2,7 +2,7 @@ Crafted | Objects required=Any Poultry Thigh;2, Medusa Head Jellyfish;1, Blackbe
 VariableFoodPoultryM | Heals=49.5,49.5,49,49 | Uses=1 | Min Blood=55 | Max ...&quot;</comment>
       <text xml:space="preserve" bytes="641">{{Crafted
 | Objects required=Any Poultry Thigh;2, Medusa Head Jellyfish;1, Blackberry Pectin;1
-
+EOB BOB
 VariableFoodPoultryM
 | Heals=49.5,49.5,49,49
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodPoultryM
 | Gluttony Time=1:00 
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=30 | %ChanceReduce1=80
+EOB BOB

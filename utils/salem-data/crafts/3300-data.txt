@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Leather;3, Any Silk;2, White Corn Oil;.1L
-
+EOB BOB
 Artifact
 | Difficulty=30 to 15
 | Proficiency Type=Mines &amp; Mountains, Thread &amp; Needle
 | Common Combat Defense=5
 | Mining=20
 | Production=4
+EOB BOB

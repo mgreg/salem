@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Phosphophyllite;1, Gemcutter's Wheel;1
-
+EOB BOB
 Artifact
 | Difficulty=15 to 5
 | Proficiency Type=Law &amp; Lore
 | Affluence=9
 | Weaving=15
+EOB BOB

@@ -1,7 +1,8 @@
 Crafted
 | Objects required=Meat Shreds;1, Fire;1
-
+EOB BOB
 SpecialFood 
 | Heals=0,0,0,0
 | Uses=1 | Gluttony Time=0:13
 | Food Groups=Game Meat
+EOB BOB

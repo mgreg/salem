@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Stuffed Turkey;1, Wild Stuffed Turkey;1
 | Weight=0.17 kg
-
+EOB BOB
 Inspirational
 | Flora &amp; Fauna=3250
 | Law &amp; Lore=1350
 | Sugar &amp; Spice=2150
 | Uses=3
+EOB BOB

@@ -1,7 +1,7 @@
 Crafted
 | Objects required=Milkweed Roots;1, Autumn Grass;1
 | Weight=.03 kg
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=250
 | Faith &amp; Wisdom=250
@@ -11,3 +11,4 @@ Inspirational
 | Stocks &amp; Cultivars=175
 | Sugar &amp; Spice=300
 | Uses=3
+EOB BOB

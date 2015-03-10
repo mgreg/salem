@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Any Raw Meat Cut;1, Raw Beaver Steak;1, Lilypad Bulb;1, Branch;1, Fire;1
-
+EOB BOB
 VariableFoodGame
 | Heals=13,13,13,34
 | Min Blood=24 | Max Blood=26
@@ -10,3 +10,4 @@ VariableFoodGame
 | Uses=1 | Gluttony Time=0:30
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

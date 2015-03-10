@@ -1,11 +1,12 @@
 Crafted
-
+EOB BOB
 | Objects required=Bar of Copper;1, Plant Fibre;1
-
-
+EOB BOB
+EOB BOB
 Artifact
 | Difficulty=20 to 5
 | Proficiency Type=Arts &amp; Crafts, Cloak &amp; Dagger
 | Blunt Defense=8
 | Impact Defense=4
 | Piercing Defense=4
+EOB BOB

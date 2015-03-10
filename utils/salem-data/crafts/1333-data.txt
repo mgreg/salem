@@ -1,4 +1,5 @@
 Crafted  | Objects required=Tilled Field;1, Seeds of Cereal;50 
 Crafted
-
+EOB BOB
 | Objects required=Tilled Field;1, Seeds of Cereal;50
+EOB BOB

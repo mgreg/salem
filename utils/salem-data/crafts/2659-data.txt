@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Bear Claw; 3, Animal Glue;3, Bone;4, Bone Beadwork;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Waist
 | Artificer Slots=3
+EOB BOB

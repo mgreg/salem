@@ -33,6 +33,7 @@
     <link rel="import" href="salem-components/details/default.html">
     <link rel="import" href="salem-components/details/inspirationals.html">
     <link rel="import" href="salem-components/details/required.html">
+    <link rel="import" href="salem-components/details/cloth.html">
     <style type="text/css">
       body {
         font-family: "RobotoDraft",Helvetica,Arial,sans-serif;
@@ -214,6 +215,7 @@
                 if (data[i].title == txt || i == num) {
                   window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(txt);
                   document.querySelector('#result').style.display = "none";
+                  window.e = e.de
                   menu.categories = e.detail.msg;
                   document.querySelector('#drawer').style.display = "block";
                   document.querySelector('#body').className = "";
@@ -225,16 +227,16 @@
             
           });
           
-          var doSelect = function(txt, url) {
-            url = url || txt;
-            window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(url);
+          var doSelect = function(txt) {
+            window.location.hash = "/" + encodeURI(search.sValue) + "/" + encodeURI(txt);
             var num = Number(txt);  
+            console.log(num)
             for (var i = 0; i < data.length; i++) {
               if (data[i].title == txt || i == num) {
                 document.getElementById('header').innerHTML = data[i].title;
                 document.getElementById('wikilink').href = "http://www.salem-wiki.com/mediawiki/index.php?title=" + data[i].title.replace(" ", "_");
                 detail.categories = data[i].categories;
-                var d = data[i].data.replace(/\|/g,"\n");
+                var d = data[i].data;
                 d = d.replace(/&amp;/g, "&");
                 detail.data = d;
                 return;
@@ -243,7 +245,8 @@
           }
           
           menu.addEventListener('select', function(e) {
-            doSelect(e.detail.msg.txt, e.detail.msg.url);
+            var txt = e.detail.msg;
+            doSelect(txt);
           });
           
           var query = "";

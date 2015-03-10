@@ -2,7 +2,7 @@ Crafted | Objects required=Oyster Shell;5, Beautiful Seashell;1, Plant Fibre;2, 
 Inspirational | Arts &amp; Crafts=2000 | Cloak &amp; Dagger= | Faith &amp; Wisdom= | Flo...&quot;</comment>
       <text xml:space="preserve" bytes="536">{{Crafted
 | Objects required=Oyster Shell;5, Beautiful Seashell;1, Plant Fibre;2, Woodblock;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2000
 | Law &amp; Lore=960
@@ -10,3 +10,4 @@ Inspirational
 | Sugar &amp; Spice=1400
 | Perennial Philosophy=1220
 | Uses=5
+EOB BOB

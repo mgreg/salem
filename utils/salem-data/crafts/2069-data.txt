@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Raggy Hem;2, Indian Cotton Cloth;6, Isinglass;2
-
+EOB BOB
 Clothing
 | Equipment Slot=Legs
 | Artificer Slots=3
+EOB BOB

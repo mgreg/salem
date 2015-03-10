@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Deer;1, Raw Deer Slab;1
+EOB BOB

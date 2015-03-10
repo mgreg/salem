@@ -1,10 +1,11 @@
 Crafted
 | Objects required=Sharpened Stick;1, Woodblock;1, Whittler's Bench;1
 | Weight=.10
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=650
 | Hammer &amp; Nail=850
 | Thread &amp; Needle=900
 | Natural Philosophy=250
 | Uses=2
+EOB BOB

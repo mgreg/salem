@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Myrtle Oak Acorn;3, Stray Chestnut;3, Pine Nuts;2, Cranberry;1
-
+EOB BOB
 Food
 | Heals=6,6,6,8
 | Min Blood=1 | Max Blood=2
@@ -10,3 +10,4 @@ Food
 | Uses=10 | Gluttony Time=0:01
 | Food Groups=Nuts and Seeds
 | FoodReduce1=Nuts and Seeds | %Reduce1=5 | %ChanceReduce1=5
+EOB BOB

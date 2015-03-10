@@ -1,7 +1,7 @@
 Crafted
 |Objects required = Trunk-Nosed Lake Perch;1, Silt-Dwelling Mudsnapper;1, Sharpened Stick;1, Fireplace;1
 | Weight=0.50
-
+EOB BOB
 Food
 | Heals=7,7,7,7
 | Uses=10
@@ -12,3 +12,4 @@ Food
 | Gluttony Time=0:05 
 | Food Groups=Fishes
 | FoodReduce1=Fishes | %Reduce1=50 | %ChanceReduce1=50
+EOB BOB

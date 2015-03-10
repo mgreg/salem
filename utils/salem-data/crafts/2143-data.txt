@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Bar of Copper;1, Glass Pane;1
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Anadama Bread Dough;1, Bread Oven;1
-
+EOB BOB
 VariableFoodBread
 | Heals=12,18,15,31
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodBread
 | Gluttony Time=0:30 
 | Food Groups= Bread
 | FoodReduce1=Bread | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

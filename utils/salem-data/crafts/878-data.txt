@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Copper Ore;1, Ore Smelter;1
+EOB BOB

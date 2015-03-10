@@ -1,8 +1,9 @@
 Crafted
 | Objects required=Raggy Hem;2, Yellow-Stained Cotton Cloth;3, Enforced Seam;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Legs
 | Difficulty=25 to 15
 | Proficiency Type=Hammer &amp; Nail, Pots &amp; Pans, Stocks &amp; Cultivars
 | Artificer Slots=2
+EOB BOB

@@ -2,7 +2,7 @@ Crafted | Objects required=Any Bugs;1, Yellow Morel;1, Raw Rabbit Cut;1
 VariableFoodBugs | Heals=13,11,14,17 | Uses=1 | Min Blood=20 | Max Blood=30 | Min Phlegm=20 | Ma...&quot;</comment>
       <text xml:space="preserve" bytes="643">{{Crafted
 | Objects required=Any Bugs;1, Yellow Morel;1, Raw Rabbit Cut;1
-
+EOB BOB
 VariableFoodBugs
 | Heals=13,11,14,17
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodBugs
 | Gluttony Time=0:30
 | Food Groups= Slugs Bugs and Kritters
 | FoodReduce1= Slugs Bugs and Kritters | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

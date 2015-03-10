@@ -2,7 +2,7 @@ Crafted | Objects required=Seeds of Potato;50, Tilled Field;1
 SpecialFood | Heals=10,10,10,10 | Uses=1 | Min Blood=0 | Max Blood=0 | Min Phlegm=0 | Max Phlegm=0 | Min Y...&quot;</comment>
       <text xml:space="preserve" bytes="602">{{Crafted
 | Objects required=Seeds of Potato;50, Tilled Field;1
-
+EOB BOB
 SpecialFood
 | Heals=10,10,10,10
 | Uses=1
@@ -10,3 +10,4 @@ SpecialFood
 | Gluttony Time=0:45 
 | Food Groups= Potato Foods
 | FoodReduce1= Potato Foods | %Reduce1=70 | %ChanceReduce1=70
+EOB BOB

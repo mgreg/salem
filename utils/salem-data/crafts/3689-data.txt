@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Any Shellfish;1, Gelatinous Lard;1, Yellow Morel;1, Lavender Blewit;1
-
+EOB BOB
 VariableFoodShellfish
 | Heals=14,18,16,18
 | Uses=1
@@ -11,3 +11,4 @@ VariableFoodShellfish
 | Gluttony Time=3:00
 | Food Groups= Crustacea and Shellfish
 | FoodReduce1= Crustacea and Shellfish | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB

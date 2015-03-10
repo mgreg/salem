@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Raw Argopelt;1
+EOB BOB

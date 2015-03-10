@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Seeds of Pumpkin;50, Tilled Field;1
-
+EOB BOB
 SpecialFood
 | Heals=3,3,3,3
 | Uses=1
@@ -8,10 +8,10 @@ SpecialFood
 | Gluttony Time=1:30 
 | Food Groups=Pumpkins and Gourds
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70
-
+EOB BOB
 Crafted
 | Objects required=Gardening Pot;1,  New World Gourd;1
-
+EOB BOB
 SpecialFood
 | Heals=3,3,3,3
 | Uses=1
@@ -19,3 +19,4 @@ SpecialFood
 | Gluttony Time=1:30 
 | Food Groups=Pumpkins and Gourds
 | FoodReduce1=Pumpkins and Gourds | %Reduce1=70 | %ChanceReduce1=70
+EOB BOB

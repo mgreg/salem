@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Beetle;1, Plant Fibre;2
-
+EOB BOB
 Inspirational
 | Law &amp; Lore=950
 | Mines &amp; Mountains=1400
 | Stocks &amp; Cultivars=450
 | Thread &amp; Needle=1450
 | Uses=2
+EOB BOB

@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Spruce Roots;2, Bark Fibres;2
-
+EOB BOB
 Artifact
 | Difficulty=15 to 5
 | Proficiency Type=Herbs &amp; Sprouts, Cloak &amp; Dagger
 | Blunt Defense=3
 | Impact Defense=6
 | Piercing Defense=3
+EOB BOB

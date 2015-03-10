@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Wild Stuffed Turkey;1, Stuffed Turkey;1
+EOB BOB

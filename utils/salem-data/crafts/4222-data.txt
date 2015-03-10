@@ -1,4 +1,5 @@
 Crafted
-
+EOB BOB
 Clothing
 | Equipment Slot=Face
+EOB BOB

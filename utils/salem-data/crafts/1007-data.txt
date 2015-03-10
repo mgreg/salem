@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked Corn Pudding;1,Bread Oven;1
-
+EOB BOB
 SpecialFood
 | Heals=17,17,17,17
 | Uses=1
@@ -11,3 +11,4 @@ SpecialFood
 | Gluttony Time=0:01 
 | Food Groups= Maize
 | FoodRestore1=Maize |%Restore1=100 |%ChanceRestore1=100
+EOB BOB

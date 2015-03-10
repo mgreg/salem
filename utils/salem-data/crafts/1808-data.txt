@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Sawbuck;1
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=2000
 | Cloak &amp; Dagger=550
@@ -9,3 +9,4 @@ Inspirational
 | Herbs &amp; Sprouts=750
 | Stocks &amp; Cultivars=750
 | Uses=1
+EOB BOB

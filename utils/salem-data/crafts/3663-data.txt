@@ -2,7 +2,7 @@ Crafted | Objects required=Any Mushroom;2, Any Garlic;2
 VariableFoodMushrooms | Heals=23,21,24,17 | Uses=1 | Min Blood=10 | Max Blood=15 | Min Phlegm=10 | Max Phlegm=15...&quot;</comment>
       <text xml:space="preserve" bytes="693">{{Crafted
 | Objects required=Any Mushroom;2, Any Garlic;2
-
+EOB BOB
 VariableFoodMushrooms
 | Heals=23,21,24,17
 | Uses=1
@@ -13,3 +13,4 @@ VariableFoodMushrooms
 | Gluttony Time=0:15
 | Food Groups= Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

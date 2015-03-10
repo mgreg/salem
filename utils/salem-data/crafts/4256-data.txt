@@ -1,8 +1,8 @@
 Crafted
-
+EOB BOB
 Clothing
 | Equipment Slot=Head
 | Artificer Slots=3
-
+EOB BOB
 PAGENAME
 PAGENAME

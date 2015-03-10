@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Autumn Grass;5
-
+EOB BOB
 Inspirational
 | Arts &amp; Crafts=550
 | Faith &amp; Wisdom=250
@@ -9,3 +9,4 @@ Inspirational
 | Stocks &amp; Cultivars=350
 | Thread &amp; Needle=400
 | Uses=3
+EOB BOB

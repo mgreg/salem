@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Dead Wartbite Cricket;1, Fire;1
-
+EOB BOB
 SpecialFood 
 | Heals=7.5,10,7.5,5
 | Min Blood=8 | Max Blood=11
 | Uses=1 | Gluttony Time= 0:05
 | Food Groups=Slugs Bugs and Kritters
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50 
+EOB BOB

@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Big Autumn;1, Hay;2, Sharpened Stick;2
-
+EOB BOB
 Inspirational
 | Faith &amp; Wisdom=1500
 | Stocks &amp; Cultivars=1250
 | Sugar &amp; Spice=1500
 | Thread &amp; Needle=1250
 | Uses=1
+EOB BOB

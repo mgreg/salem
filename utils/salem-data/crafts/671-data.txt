@@ -1,3 +1,4 @@
 Crafted
 | Objects required=Oiling Trough;1,  Planed Board;1, Vegetable Oil; 2.0L,
 | Weight=3.50 kg
+EOB BOB

@@ -1,0 +1,84 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+
+<polymer-element name="salem-detail-clothing" attributes="data profs">
+    <template>
+        <style>
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+            
+            td, th {
+                padding: 10px 5px;
+                display: table-cell;
+                text-align: left;
+                vertical-align: middle;
+                -webkit-border-radius: 2px;
+                -moz-border-radius: 2px;
+                border-radius: 2px;
+                background-clip: padding-box;
+            }
+            
+            td.name {
+                width: 30%;
+            }
+            th.num, td.num {
+                width: 80px;
+                text-align: right;
+            }
+            
+            th {
+                border-bottom: 1px solid #d0d0d0;
+                text-align: left;
+            }
+            
+            tbody tr:nth-child(odd) {
+              background-color: #f2f2f2;
+            }
+            
+            h5 {
+                font-size: 1.3rem;
+                line-height: 1.804rem;
+                margin: 0.82rem 0 0.656rem 0;
+                font-weight: 400;
+            }
+            
+        </style>
+        <div class="section">
+            <h5>Clothing</h5>
+            <table class="table">
+                <tbody>
+                <template repeat="{{ item in items }}">
+                    <tr>
+                        <td class="name">{{ item.name }}</td>
+                        <td class="num">{{ item.count }}</td>
+                        <td></td>
+                    </tr>
+                </template>
+                </tbody>
+            </table>
+        </div>
+    </template>
+    <script>
+        Polymer('salem-detail-clothing', {
+            data: "",
+            items: [],
+            dataChanged: function(oV, nV) {
+                var d = nV.split("|");
+                    items = [];
+                for (var i = 0; i < d.length; i++ ) {
+                    console.log(d[i])
+                    var j = d[i].trim().split("=");
+                    items.push({
+                        name: j[0],
+                        encodeName: encodeURI(j[0]),
+                        count: j[1]
+                    });
+                }
+                
+                this.items = items;
+              }
+        });
+    </script>
+</polymer-element?

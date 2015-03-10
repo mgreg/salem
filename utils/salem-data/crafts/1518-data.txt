@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Leaf of Red Cabbage;7, Wheat Flour;0.30kg, Golden Corn Oil;0.25L, Fireplace;1
-
+EOB BOB
 Food
 | Heals=40,75,40,40
 | Uses=4
@@ -11,3 +11,4 @@ Food
 | Gluttony Time=0:02 
 | Food Groups=Vegetables and Greens 
 | FoodReduce1=Vegetables and Greens | %Reduce1=80 | %ChanceReduce1=5
+EOB BOB

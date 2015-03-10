@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Grub;1, Fire;1
-
+EOB BOB
 Food
 | Heals=2,1,5,3
 | Uses=3
@@ -8,3 +8,4 @@ Food
 | Gluttony Time=0:05
 | Food Groups=Slugs Bugs and Kritters 
 | FoodReduce1=Slugs Bugs and Kritters | %Reduce1=10 | %ChanceReduce1=50
+EOB BOB

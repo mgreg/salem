@@ -1,3 +1,4 @@
 Crafted | Objects required=Bucket;1, Water;1 
 Crafted
 | Objects required=Bucket;1, Water;1
+EOB BOB

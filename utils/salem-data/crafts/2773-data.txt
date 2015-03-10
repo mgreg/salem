@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Bear Skin;1, Sea Island Cotton Cloth;1, Crowberry Stalk;3
-
+EOB BOB
 Clothing
 | Equipment Slot=Torso
 | Artificer Slots=3
+EOB BOB

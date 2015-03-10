@@ -2,7 +2,7 @@ Crafted | Objects required=Stuffed Turkey;1
 SpecialFood | Heals=17.5,17.5,17.5,17.5 | Uses=1 | Min Blood=10 | Max Blood=15 | Min Phlegm=0 | Max Phlegm=0 | Min Yellow Bi...&quot;</comment>
       <text xml:space="preserve" bytes="659">{{Crafted
 | Objects required=Stuffed Turkey;1
-
+EOB BOB
 SpecialFood
 | Heals=17.5,17.5,17.5,17.5
 | Uses=1
@@ -10,3 +10,4 @@ SpecialFood
 | Gluttony Time=0:06 
 | Food Groups= Poultry
 | FoodReduce1= Poultry | %Reduce1=20 | %ChanceReduce1=20
+EOB BOB

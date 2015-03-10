@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Meat Shreds;5, Sharpened Stick;1
-
+EOB BOB
 VariableFoodGame
 | Heals=9.5,9.5,9.5,9.5
 | Uses=5
@@ -11,3 +11,4 @@ VariableFoodGame
 | Gluttony Time=0:15
 | Food Groups=Game Meat
 | FoodReduce1=Game Meat | %Reduce1=20 | %ChanceReduce1=80
+EOB BOB

@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Tilled Field;1, Any Corn;1
-
+EOB BOB
 Inspirational Food 
 | Heals=18,18,18,18
 | Min Blood=7 | Max Blood=14
@@ -10,9 +10,10 @@ Inspirational Food
 | Uses=2 | Gluttony Time=0:05 
 | Food Groups=Corn
 | FoodRestore1=Maize |%Restore1=30 |%ChanceRestore1=90
-
+EOB BOB
 | Law &amp; Lore=1950
 | Sparks &amp; Embers=1100
 | Stocks &amp; Cultivars=2500
 | Natural Philosophy=375
 | Uses=2
+EOB BOB

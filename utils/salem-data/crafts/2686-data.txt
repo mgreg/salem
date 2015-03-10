@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Silk Cloth;6, Golden Lace;4
-
+EOB BOB
 Clothing
 | Equipment Slot=Waist
 | Artificer Slots=3
+EOB BOB

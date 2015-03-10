@@ -1,9 +1,10 @@
 Crafted
 | Objects required=Carpenter's Bench;1
-
+EOB BOB
 Inspirational
 | Hammer &amp; Nail=350
 | Herbs &amp; Sprouts=3600
 | Thread &amp; Needle=625
 | Natural Philosophy=2800
 | Uses=1
+EOB BOB

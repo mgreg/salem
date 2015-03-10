@@ -1,6 +1,7 @@
 Crafted
 | Objects required=Indian Cotton Cloth;2, Egyptian Cotton Cloth;2, Wool;1
-
+EOB BOB
 Clothing
 | Equipment Slot=Torso
 | Artificer Slots=3
+EOB BOB

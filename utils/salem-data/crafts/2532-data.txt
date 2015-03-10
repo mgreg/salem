@@ -1,5 +1,6 @@
 Crafted
 | Objects required=Silver;10000
-
+EOB BOB
 Clothing
 | Equipment Slot=Neck
+EOB BOB

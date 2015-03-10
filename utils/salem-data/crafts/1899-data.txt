@@ -1,6 +1,6 @@
 Crafted
 | Objects required=Unbaked 'Shroom-Stuffed Bellpepper;1, Bread Oven;1
-
+EOB BOB
 VariableFoodMushrooms
 | Heals=12,8,12,8
 | Min Blood=27 | Max Blood=30
@@ -10,3 +10,4 @@ VariableFoodMushrooms
 | Uses=1 | Gluttony Time=0:30
 | Food Groups=Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=20 | %ChanceReduce1=40
+EOB BOB

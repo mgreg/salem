@@ -1,2 +1,3 @@
 Crafted
 | Objects required=Wooden Handle;1, Dry Board;2
+EOB BOB

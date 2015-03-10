@@ -1,6 +1,6 @@
 Crafted
 |Objects required=Any Mushroom;2, Leaf of Green Cabbage;2, Radish;1
-
+EOB BOB
 VariableFoodMushrooms
 | Heals=7.5,7.5,7.5,7.5
 | Uses=3
@@ -11,3 +11,4 @@ VariableFoodMushrooms
 | Gluttony Time=3:00
 | Food Groups=Mushrooms
 | FoodReduce1=Mushrooms | %Reduce1=25 | %ChanceReduce1=15
+EOB BOB
